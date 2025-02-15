@@ -3,10 +3,13 @@
 <channel id="CMC 北美频道"><display-name lang="zh">CMC 北美频道</display-name></channel>
 <channel id="CMC 香港频道"><display-name lang="zh">CMC 香港频道</display-name></channel>
 <channel id="CHC 家庭影院"><display-name lang="zh">CHC 家庭影院</display-name></channel>
+
 <channel id="CCTV6 电影频道"><display-name lang="zh">CCTV6 电影频道</display-name></channel>
 <channel id="1905App 热血·影院"><display-name lang="zh">1905App 热血·影院</display-name></channel>
 <channel id="1905App 环球经典"><display-name lang="zh">1905App 环球经典</display-name></channel>
-
+</channel><channel id="76"><display-name lang="zh">CHC家庭影院</display-name></channel>
+<channel id="77"><display-name lang="zh">CHC动作电影</display-name></channel>
+<channel id="78"><display-name lang="zh">CHC影迷电影</display-name></channel>
 <channel id="cctv1"><display-name lang="zh">cctv1</display-name></channel>
 <channel id="cctv2"><display-name lang="zh">cctv2</display-name></channel>
 <channel id="cctv3"><display-name lang="zh">cctv3</display-name></channel>
@@ -85,11 +88,8 @@
 地方台
 上海
 
-</channel><channel id="76"><display-name lang="zh">CHC家庭影院</display-name></channel>
-<channel id="77"><display-name lang="zh">CHC动作电影</display-name></channel>
-<channel id="78"><display-name lang="zh">CHC影迷电影</display-name></channel><
-channel><channel id="83"><display-name lang="zh">快乐垂钓</display-name></channel>
-<channel id="84"><display-name lang="zh">茶频道</display-name></channel>
+
+
 <channel id="92"><display-name lang="zh">早期教育</display-name></channel>
 <channel id="93"><display-name lang="zh">游戏风云</display-name></channel>
 <channel id="94"><display-name lang="zh">生活时尚</display-name></channel>
@@ -114,6 +114,12 @@ channel><channel id="83"><display-name lang="zh">快乐垂钓</display-name></ch
 <channel id="120"><display-name lang="zh">金色学堂</display-name></channel>
 <channel id="魅力足球"><display-name lang="zh">魅力足球</display-name></channel>
 <channel id="新视觉"><display-name lang="zh">新视觉</display-name></channel>
+湖南
+<channel><channel id="83"><display-name lang="zh">快乐垂钓</display-name></channel>
+<channel id="84"><display-name lang="zh">茶频道</display-name></channel>
+<channel id="161"><display-name lang="zh">金鹰纪实</display-name></channel>
+<channel id="69"><display-name lang="zh">金鹰卡通</display-name></channel>
+<channel id="69"><display-name lang="zh">先锋乒羽</display-name></channel>
 河南
 <channel id="河南卫视"><display-name lang="zh">河南卫视</display-name></channel>
 <channel id="河南都市"><display-name lang="zh">河南都市</display-name></channel>
