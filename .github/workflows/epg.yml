@@ -2,7 +2,7 @@ name: epg copy
 
 on:
   schedule:
-      - cron: '50 */8 * * *'
+    - cron: '50 */8 * * *'
   workflow_dispatch:
 
 jobs:
@@ -34,18 +34,18 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
 
-          files_to_add=""
-          for var in $(env | grep 'FILENAME_' | cut -d '=' -f 2); do
-            if [ -f "$var" ]; then
-              files_to_add="$files_to_add $var"
-            fi
-          done
-          
-          if [ -n "$files_to_add" ]; then
-            git add $files_to_add
+          # 列出当前目录下的文件（调试步骤）
+          echo "Files in the current directory:"
+          ls -alh
+
+          # 添加所有下载的文件
+          git add .
+
+          # 检查是否有文件更改需要提交
+          if git diff-index --quiet HEAD --; then
+            echo "没有文件可提交"
+          else
             now_time=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
             git commit -m "更新时间：$now_time"
             git push origin main || echo "推送到GitHub失败"
-          else
-            echo "没有文件可提交"
           fi
