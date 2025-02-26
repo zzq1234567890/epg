@@ -34,12 +34,12 @@ jobs:
           path: youtubelive.txt
 
       # 第五步：下载到目标仓库并覆盖文件
-      - name: Checkout epgtest2 repository
+      - name: Checkout tvepg repository
         uses: actions/checkout@v4
         with:
-          repository: zzq1234567890/epgtest2  # 目标仓库
+          repository: zzq1234567890/tvepg# 目标仓库
           token: ${{ secrets.GITHUB_TOKEN }}
-          path: epgtest2  # 克隆到本地的路径
+          path: tvepg  # 克隆到本地的路径
 
       # 第六步：检查 youtubelive.txt 是否存在并被修改
       - name: Check if youtubelive.txt exists and is modified
@@ -49,13 +49,13 @@ jobs:
             exit 1
           fi
           # 对比文件差异
-          diff epgtest2/youtubelive.txt youtubelive.txt || echo "File is modified"
+          diff tvepg/youtubelive.txt youtubelive.txt || echo "File is modified"
 
-      # 第七步：将 youtubelive.txt 覆盖上传到 epgtest2
+      # 第七步：将 youtubelive.txt 覆盖上传到 tvepg
       - name: Replace youtubelive.txt and push
         run: |
-          mv youtubelive.txt epgtest2/youtubelive.txt  # 覆盖目标文件
-          cd epgtest2
+          mv youtubelive.txt tvepg/youtubelive.txt  # 覆盖目标文件
+          cd tvepg
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add youtubelive.txt # 拉取最新的远程分支并合并
