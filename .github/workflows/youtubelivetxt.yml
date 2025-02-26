@@ -56,22 +56,8 @@ jobs:
         run: |
             git config --local user.name "github-actions[bot]"
             git config --local user.email "github-actions[bot]@users.noreply.github.com"
-
-          # 收集所有要提交的文件
-          files_to_add=""
-          for var in $(env | grep 'FILENAME_' | cut -d '=' -f 2); do
-            if [ -f "$var" ]; then
-              files_to_add="$files_to_add $var"
-            fi
-          done
-
-          # 明确检查并添加 epgziyong.xml 文件
-          if [ -f "epgziyong.xml" ]; then
-            files_to_add="$files_to_add epgziyong.xml"
-          fi
-
           # 如果有文件需要提交
-          if [ -n "$files_to_add" ]; then
+            if [ -n "$files_to_add" ]; then
             git add $files_to_add
             now_time=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
             git commit -m "更新时间：$now_time"
