@@ -1,70 +1,67 @@
 name: youtubelivem3u
 
-# 每小时执行一次
 on:
   schedule:
-    - cron: '1 */2 * * *'  # 每小时执行一次
-  workflow_dispatch:  # 允许手动触发
+    - cron: '1 * * * *'
+  workflow_dispatch:
 
 jobs:
   generate_and_upload:
-    runs-on: ubuntu-latest  # 使用 Ubuntu 环境运行
+    runs-on: ubuntu-latest
 
     steps:
-      # 第一步：检出代码
+      # 第一步：检出当前仓库
       - name: Checkout code
         uses: actions/checkout@v4
 
-      # 第二步：设置 PHP 7.4 环境
+      # 第二步：设置 PHP 环境
       - name: Set up PHP 7.4
         uses: shivammathur/setup-php@v2
         with:
           php-version: '7.4'
 
-      # 第三步：运行 youtubelivem3u.php，生成youtubelive.m3u
+      # 第三步：生成文件
       - name: Run youtubelivem3u.php
-        run: |
-          php youtubelivem3u.php  # 运行生成 youtubelive.m3u 的 PHP 脚本
+        run: php youtubelivem3u.php
 
-      # 第四步：上传文件到 epgtest2 仓库
-      - name: Upload youtubelive.m3u to epgtest2
-        uses: actions/upload-artifact@v4
-        with:
-          name: youtubelive.m3u
-          path: youtubelive.m3u
-
-      # 第五步：下载到目标仓库并覆盖文件
-      - name: Checkout epgtest2 repository
+      # 第四步：检出目标仓库
+      - name: Checkout target repo
         uses: actions/checkout@v4
         with:
-          repository: zzq1234567890/epgtest2  # 目标仓库
+          repository: zzq1234567890/epg
           token: ${{ secrets.GITHUB_TOKEN }}
-          path: epgtest2  # 克隆到本地的路径
+          path: epg
 
-      # 第六步：检查 youtubelive.m3u 是否存在并被修改
-      - name: Check if youtubelive.m3u exists and is modified
+      # 第五步：强制覆盖文件（关键修复）
+      - name: Overwrite target file
         run: |
-          if [ ! -f youtubelive.m3u ]; then
-            echo "youtubelive.m3u does not exist."
-            exit 1
+          # 确保覆盖前文件存在
+          ls -l youtubelive.m3u
+          # 强制复制并保留权限
+          cp -f youtubelive.m3u epg/youtubelive.m3u
+          # 验证覆盖结果
+          ls -l epg/youtubelive.m3u
+
+      # 第六步：提交变更（优化路径处理）
+      - name: Commit and push
+        working-directory: epg  # 使用官方推荐方式指定路径
+        run: |
+          # 显式检查文件状态
+          git status
+          git diff
+
+          # 配置 Git 身份
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # 添加所有变化（适应文件名大小写变化）
+          git add --all
+
+          # 检测是否有可提交内容
+          if [ -n "$(git status --porcelain)" ]; then
+            now_time=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
+            git commit -m "自动更新时间：$now_time"
+            git push origin main
+          else
+            echo "无实际文件变更，跳过提交"
           fi
-          # 对比文件差异
-          diff epgtest2/youtubelive.m3u youtubelive.m3u || echo "File is modified"
-
-      # 第七步：将 youtubelive.m3u 覆盖上传到 epgtest2
-      - name: Replace youtubelive.m3u and push
-        run: |
-          mv youtubelive.m3u epgtest2/youtubelive.m3u  # 覆盖目标文件
-          cd epgtest2
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add youtubelive.m3u # 拉取最新的远程分支并合并
-          git pull origin main || echo "No changes to pull"   # 如果本地已有远程分支的内容则合并
-
-          # 强制提交（即使没有修改）
-          now_time=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
-          git commit -m "更新时间：$now_time"
-          git commit -m "Update youtubelive.m3u" --allow-empty  # 如果没有修改也强制提交
-          git push origin main || echo "推送到GitHub失败"
-
-        
