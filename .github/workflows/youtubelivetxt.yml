@@ -38,7 +38,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: zzq1234567890/tvepg# 目标仓库
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: $提交{{ secrets.GITHUB_TOKEN }}
           path: tvepg  # 克隆到本地的路径
 
       # 第六步：检查 youtubelive.txt 是否存在并被修改
@@ -51,20 +51,31 @@ jobs:
           # 对比文件差异
           diff tvepg/youtubelive.txt youtubelive.txt || echo "File is modified"
 
-      # 第七步：将 youtubelive.txt 覆盖上传到 tvepg
-      - name: Replace youtubelive.txt and push
+      
+      - name: Commit and push changes
         run: |
-          mv youtubelive.txt tvepg/youtubelive.txt  # 覆盖目标文件
-          cd tvepg
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add youtubelive.txt # 拉取最新的远程分支并合并
-          git pull origin main || echo "No changes to pull"   # 如果本地已有远程分支的内容则合并
+            git config --local user.name "github-actions[bot]"
+            git config --local user.email "github-actions[bot]@users.noreply.github.com"
 
-          # 强制提交（即使没有修改）
-          now_time=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
-          git commit -m "更新时间：$now_time"
-          git commit -m "Update youtubelive.txt" --allow-empty  # 如果没有修改也强制提交
-          git push origin main || echo "推送到GitHub失败"
+          # 收集所有要提交的文件
+          files_to_add=""
+          for var in $(env | grep 'FILENAME_' | cut -d '=' -f 2); do
+            if [ -f "$var" ]; then
+              files_to_add="$files_to_add $var"
+            fi
+          done
 
-        
+          # 明确检查并添加 epgziyong.xml 文件
+          if [ -f "epgziyong.xml" ]; then
+            files_to_add="$files_to_add epgziyong.xml"
+          fi
+
+          # 如果有文件需要提交
+          if [ -n "$files_to_add" ]; then
+            git add $files_to_add
+            now_time=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
+            git commit -m "更新时间：$now_time"
+            git push origin main || echo "推送到GitHub失败"
+          else
+            echo "没有文件可提交"
+          fi
