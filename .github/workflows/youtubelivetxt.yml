@@ -3,7 +3,7 @@ name: youtubelivetxt
 # 每小时执行一次
 on:
   schedule:
-    - cron: '5 */2 * * *'  # 每小时执行一次
+    - cron: '5 * * * *'  # 每小时执行一次
   workflow_dispatch:  # 允许手动触发
 
 jobs:
@@ -21,7 +21,7 @@ jobs:
         with:
           php-version: '7.4'
 
-      # 第三步：运行 youtubelivetxt.php，生成 youtubelive.ttxt
+      # 第三步：运行 youtubelivetxt.php，生成 youtubelive.txt
       - name: Run youtubelivetxt.php
         run: |
           php youtubelivetxt.php  # 运行生成 youtubelive.txt 的 PHP 脚本
@@ -37,8 +37,8 @@ jobs:
       - name: Checkout tvepg repository
         uses: actions/checkout@v4
         with:
-          repository: zzq1234567890/tvepg# 目标仓库
-          token: $提交{{ secrets.GITHUB_TOKEN }}
+          repository: zzq1234567890/tvepg  # 目标仓库
+          token: ${{ secrets.GITHUB_TOKEN }}
           path: tvepg  # 克隆到本地的路径
 
       # 第六步：检查 youtubelive.txt 是否存在并被修改
@@ -48,20 +48,23 @@ jobs:
             echo "youtubelive.txt does not exist."
             exit 1
           fi
-          # 对比文件差异
-          diff tvepg/youtubelive.txt youtubelive.txt || echo "File is modified"
-
-      
-      - name: Commit and push changes
-        run: |
-            git config --local user.name "github-actions[bot]"
-            git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          # 如果有文件需要提交
-            if [ -n "$files_to_add" ]; then
-            git add $files_to_add
-            now_time=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
-            git commit -m "更新时间：$now_time"
-            git push origin main || echo "推送到GitHub失败"
+          if ! diff tvepg/youtubelive.txt youtubelive.txt >/dev/null; then
+            echo "File is modified"
+            echo "modified=true" >> $GITHUB_ENV
           else
-            echo "没有文件可提交"
+            echo "No changes detected"
+            exit 0
           fi
+
+      # 第七步：提交并推送更改
+      - name: Commit and push changes
+        if: env.modified == 'true'  # 只有在文件修改时才执行
+        run: |
+          cd tvepg
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add youtubelive.txt
+          now_time=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
+          git commit -m "更新时间：$now_time"
+          git push origin main || echo "推送到GitHub失败"
+          
