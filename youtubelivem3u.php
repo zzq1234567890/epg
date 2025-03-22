@@ -29,6 +29,84 @@ function replace_unicode_escape_sequence($match)
 
 
 $chn= "#EXTM3U  \r\n";
+
+//$chn. "新聞,#genre#\r\n";
+$url8='https://www.youtube.com/playlist?list=PLd8qbe5zE33trmwWLpiCr7DjzsoUb0-Jj';//直播綜合
+$ch8=curl_init();
+curl_setopt($ch8,CURLOPT_URL,$url8);                  
+curl_setopt($ch8,CURLOPT_RETURNTRANSFER,1);
+curl_setopt($ch8, CURLOPT_SSL_VERIFYPEER, FALSE);
+curl_setopt($ch8, CURLOPT_SSL_VERIFYHOST, FALSE);
+
+$re8=curl_exec($ch8);
+curl_close($ch8);
+$re8= preg_replace_callback('/\\\\u([0-9a-f]{4})/i', 'replace_unicode_escape_sequence', $re8);// 適合php7
+preg_match_all('|"thumbnail":\{"thumbnails":\[\{"url":"(.*?)",|i',$re8,$piem8,PREG_SET_ORDER);//logo
+preg_match_all('|\{"playlistVideoRenderer":\{"videoId":"(.*?)",|i',$re8,$piec8,PREG_SET_ORDER);//vid
+preg_match_all('|"shortBylineText":\{"runs":\[\{"text":"(.*?)",|i',$re8,$piek8,PREG_SET_ORDER);//標題
+$tru8=count($piec8);
+  for ($k8 = 0; $k8 <=$tru8-1; $k8++) {
+
+//$chn. "".str_replace('【好劇LIVE24h爆肝直播】','',str_replace('Live!','',str_replace('LIVE:','',str_replace('正在直播:','',str_replace('【LIVE】','',str_replace('【ON AIR】','', $piek8[$k8][1])))))).",https://www.youtube.com/watch?v=".$piec8[$k8][1]."\r\n";
+
+$chn.= "#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" tvg-logo=\"".$piem8[$k8][1]."\" group-title=\"youtube中文新聞直播\",".$piek8[$k8][1]."\r\n";
+$chn.= "https://www.youtube.com/watch?v=".$piec8[$k8][1]."\r\n";
+
+}
+
+//$chn. "臨時直播,#genre#\r\n";
+$url12='https://www.youtube.com/playlist?list=PLd8qbe5zE33v8XouhXYxUjn954xIPaSEN';//遊戲
+$ch12=curl_init();
+curl_setopt($ch12,CURLOPT_URL,$url12);                  
+curl_setopt($ch12,CURLOPT_RETURNTRANSFER,1);
+curl_setopt($ch12, CURLOPT_SSL_VERIFYPEER, FALSE);
+curl_setopt($ch12, CURLOPT_SSL_VERIFYHOST, FALSE);
+//curl_setopt($ch12, CURLOPT_HTTPHEADER, $headers);
+//curl_setopt($ch12, CURLOPT_COOKIE,$cookie);
+//curl_setopt($ch12,CURLOPT_ENCODING,'Vary: Accept-Encoding');
+$re12=curl_exec($ch12);
+curl_close($ch12);
+$re12 = preg_replace_callback('/\\\\u([0-9a-f]{4})/i', 'replace_unicode_escape_sequence', $re12);// 適合php7
+preg_match_all('|"thumbnail":\{"thumbnails":\[\{"url":"(.*?)",|i',$re12,$piem12,PREG_SET_ORDER);//logo
+preg_match_all('|\{"playlistVideoRenderer":\{"videoId":"(.*?)",|i',$re12,$piec12,PREG_SET_ORDER);//vid
+preg_match_all('|"shortBylineText":\{"runs":\[\{"text":"(.*?)",|i',$re12,$piek12,PREG_SET_ORDER);//標題
+$tru12=count($piec12);
+  for ($k12 = 0; $k12 <=$tru12-1; $k12++) {
+
+//$chn. "".str_replace('【好劇LIVE24h爆肝直播】','',str_replace('Live!','',str_replace('LIVE:','',str_replace('正在直播:','',str_replace('【LIVE】','',str_replace('【ON AIR】','', $piek12[$k12][1])))))).",https://www.youtube.com/watch?v=".$piec12[$k12][1]."\r\n";
+
+$chn.= "#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" tvg-logo=\"".$piem12[$k12][1]."\" group-title=\"youtube臨時直播\",".$piek12[$k12][1]."\r\n";
+$chn.= "https://www.youtube.com/watch?v=".$piec12[$k12][1]."\r\n";
+  }
+//$chn. "國外新聞,#genre#\r\n";
+$url4='https://www.youtube.com/playlist?list=PLd8qbe5zE33s5OSV4qzMMkCWoYItL7otl';//直播綜合
+//$url4='https://www.youtube.com/playlist?list=PLU12uITxBEPHb1IgzEPHZpje-903Qkfne';//即將播出
+
+$ch4=curl_init();
+curl_setopt($ch4,CURLOPT_URL,$url4);                  
+curl_setopt($ch4,CURLOPT_RETURNTRANSFER,1);
+curl_setopt($ch4, CURLOPT_SSL_VERIFYPEER, FALSE);
+curl_setopt($ch4, CURLOPT_SSL_VERIFYHOST, FALSE);
+//curl_setopt($ch4, CURLOPT_HTTPHEADER, $headers);
+//curl_setopt($ch4, CURLOPT_COOKIE,$cookie);
+//curl_setopt($ch4,CURLOPT_ENCODING,'Vary: Accept-Encoding');
+$re4=curl_exec($ch4);
+curl_close($ch4);
+$re4 = preg_replace_callback('/\\\\u([0-9a-f]{4})/i', 'replace_unicode_escape_sequence', $re4);// 適合php7
+preg_match_all('|"thumbnail":\{"thumbnails":\[\{"url":"(.*?)",|i',$re4,$piem4,PREG_SET_ORDER);//logo
+preg_match_all('|\{"playlistVideoRenderer":\{"videoId":"(.*?)",|i',$re4,$piec4,PREG_SET_ORDER);//vid
+preg_match_all('|"shortBylineText":\{"runs":\[\{"text":"(.*?)",|i',$re4,$piek4,PREG_SET_ORDER);//標題
+$tru4=count($piec4);
+  for ($k4 = 0; $k4 <=$tru4-1; $k4++) {
+
+//$chn. "".str_replace('【好劇LIVE24h爆肝直播】','',str_replace('Live!','',str_replace('LIVE:','',str_replace('正在直播:','',str_replace('【LIVE】','',str_replace('【ON AIR】','', $piek4[$k4][1])))))).",https://www.youtube.com/watch?v=".$piec4[$k4][1]."\r\n";
+
+$chn.= "#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" tvg-logo=\"".$piem4[$k4][1]."\" group-title=\"youtube國外新聞\",".$piek4[$k4][1]."\r\n";
+$chn.= "https://www.youtube.com/watch?v=".$piec4[$k4][1]."\r\n";
+}
+
+
+//游戏直播
 $url2='https://www.youtube.com/playlist?list=PLiCvVJzBupKlQ50jZqLas7SAztTMEYv1f';//遊戲
 $ch2=curl_init();
 curl_setopt($ch2,CURLOPT_URL,$url2);                  
@@ -240,55 +318,8 @@ $chn.= "https://www.youtube.com/watch?v=".$piec6[$k6][1]."\r\n";
 
 
 
-//$chn. "新聞,#genre#\r\n";
-$url8='https://www.youtube.com/playlist?list=PLd8qbe5zE33trmwWLpiCr7DjzsoUb0-Jj';//直播綜合
-$ch8=curl_init();
-curl_setopt($ch8,CURLOPT_URL,$url8);                  
-curl_setopt($ch8,CURLOPT_RETURNTRANSFER,1);
-curl_setopt($ch8, CURLOPT_SSL_VERIFYPEER, FALSE);
-curl_setopt($ch8, CURLOPT_SSL_VERIFYHOST, FALSE);
 
-$re8=curl_exec($ch8);
-curl_close($ch8);
-$re8= preg_replace_callback('/\\\\u([0-9a-f]{4})/i', 'replace_unicode_escape_sequence', $re8);// 適合php7
-preg_match_all('|"thumbnail":\{"thumbnails":\[\{"url":"(.*?)",|i',$re8,$piem8,PREG_SET_ORDER);//logo
-preg_match_all('|\{"playlistVideoRenderer":\{"videoId":"(.*?)",|i',$re8,$piec8,PREG_SET_ORDER);//vid
-preg_match_all('|"shortBylineText":\{"runs":\[\{"text":"(.*?)",|i',$re8,$piek8,PREG_SET_ORDER);//標題
-$tru8=count($piec8);
-  for ($k8 = 0; $k8 <=$tru8-1; $k8++) {
 
-//$chn. "".str_replace('【好劇LIVE24h爆肝直播】','',str_replace('Live!','',str_replace('LIVE:','',str_replace('正在直播:','',str_replace('【LIVE】','',str_replace('【ON AIR】','', $piek8[$k8][1])))))).",https://www.youtube.com/watch?v=".$piec8[$k8][1]."\r\n";
-
-$chn.= "#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" tvg-logo=\"".$piem8[$k8][1]."\" group-title=\"youtube中文新聞直播\",".$piek8[$k8][1]."\r\n";
-$chn.= "https://www.youtube.com/watch?v=".$piec8[$k8][1]."\r\n";
-
-}
-//$chn. "國外新聞,#genre#\r\n";
-$url4='https://www.youtube.com/playlist?list=PLd8qbe5zE33s5OSV4qzMMkCWoYItL7otl';//直播綜合
-//$url4='https://www.youtube.com/playlist?list=PLU12uITxBEPHb1IgzEPHZpje-903Qkfne';//即將播出
-
-$ch4=curl_init();
-curl_setopt($ch4,CURLOPT_URL,$url4);                  
-curl_setopt($ch4,CURLOPT_RETURNTRANSFER,1);
-curl_setopt($ch4, CURLOPT_SSL_VERIFYPEER, FALSE);
-curl_setopt($ch4, CURLOPT_SSL_VERIFYHOST, FALSE);
-//curl_setopt($ch4, CURLOPT_HTTPHEADER, $headers);
-//curl_setopt($ch4, CURLOPT_COOKIE,$cookie);
-//curl_setopt($ch4,CURLOPT_ENCODING,'Vary: Accept-Encoding');
-$re4=curl_exec($ch4);
-curl_close($ch4);
-$re4 = preg_replace_callback('/\\\\u([0-9a-f]{4})/i', 'replace_unicode_escape_sequence', $re4);// 適合php7
-preg_match_all('|"thumbnail":\{"thumbnails":\[\{"url":"(.*?)",|i',$re4,$piem4,PREG_SET_ORDER);//logo
-preg_match_all('|\{"playlistVideoRenderer":\{"videoId":"(.*?)",|i',$re4,$piec4,PREG_SET_ORDER);//vid
-preg_match_all('|"shortBylineText":\{"runs":\[\{"text":"(.*?)",|i',$re4,$piek4,PREG_SET_ORDER);//標題
-$tru4=count($piec4);
-  for ($k4 = 0; $k4 <=$tru4-1; $k4++) {
-
-//$chn. "".str_replace('【好劇LIVE24h爆肝直播】','',str_replace('Live!','',str_replace('LIVE:','',str_replace('正在直播:','',str_replace('【LIVE】','',str_replace('【ON AIR】','', $piek4[$k4][1])))))).",https://www.youtube.com/watch?v=".$piec4[$k4][1]."\r\n";
-
-$chn.= "#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" tvg-logo=\"".$piem4[$k4][1]."\" group-title=\"youtube國外新聞\",".$piek4[$k4][1]."\r\n";
-$chn.= "https://www.youtube.com/watch?v=".$piec4[$k4][1]."\r\n";
-}
 
 //$chn. "英語學習,#genre#\r\n";
 $url9='https://www.youtube.com/playlist?list=PLd8qbe5zE33uW6vfsO9ZZGCUzbStqtNxS';//直播綜合
@@ -359,31 +390,6 @@ $tru10=count($piec10);
 $chn.= "#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" tvg-logo=\"".$piem10[$k10][1]."\" group-title=\"youtube廣告直播\",".$piek10[$k10][1]."\r\n";
 $chn.= "https://www.youtube.com/watch?v=".$piec10[$k10][1]."\r\n";
 
-}
-
-//$chn. "臨時直播,#genre#\r\n";
-$url12='https://www.youtube.com/playlist?list=PLd8qbe5zE33v8XouhXYxUjn954xIPaSEN';//遊戲
-$ch12=curl_init();
-curl_setopt($ch12,CURLOPT_URL,$url12);                  
-curl_setopt($ch12,CURLOPT_RETURNTRANSFER,1);
-curl_setopt($ch12, CURLOPT_SSL_VERIFYPEER, FALSE);
-curl_setopt($ch12, CURLOPT_SSL_VERIFYHOST, FALSE);
-//curl_setopt($ch12, CURLOPT_HTTPHEADER, $headers);
-//curl_setopt($ch12, CURLOPT_COOKIE,$cookie);
-//curl_setopt($ch12,CURLOPT_ENCODING,'Vary: Accept-Encoding');
-$re12=curl_exec($ch12);
-curl_close($ch12);
-$re12 = preg_replace_callback('/\\\\u([0-9a-f]{4})/i', 'replace_unicode_escape_sequence', $re12);// 適合php7
-preg_match_all('|"thumbnail":\{"thumbnails":\[\{"url":"(.*?)",|i',$re12,$piem12,PREG_SET_ORDER);//logo
-preg_match_all('|\{"playlistVideoRenderer":\{"videoId":"(.*?)",|i',$re12,$piec12,PREG_SET_ORDER);//vid
-preg_match_all('|"shortBylineText":\{"runs":\[\{"text":"(.*?)",|i',$re12,$piek12,PREG_SET_ORDER);//標題
-$tru12=count($piec12);
-  for ($k12 = 0; $k12 <=$tru12-1; $k12++) {
-
-//$chn. "".str_replace('【好劇LIVE24h爆肝直播】','',str_replace('Live!','',str_replace('LIVE:','',str_replace('正在直播:','',str_replace('【LIVE】','',str_replace('【ON AIR】','', $piek12[$k12][1])))))).",https://www.youtube.com/watch?v=".$piec12[$k12][1]."\r\n";
-
-$chn.= "#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" tvg-logo=\"".$piem12[$k12][1]."\" group-title=\"youtube臨時直播\",".$piek12[$k12][1]."\r\n";
-$chn.= "https://www.youtube.com/watch?v=".$piec12[$k12][1]."\r\n";
 }
 
 
