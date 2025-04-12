@@ -60,8 +60,9 @@ foreach ($xmlFiles as $file) {
 
 // 生成最终的 epgdiyp.json（关键：写入文件而非输出）
 $finalJson = [
+      'date' => $jsonData['date'] ?? date('Y-m-d'),
     'channel_name' => $jsonData['channel_name'] ?? '未知频道',  // 处理可能的空数据
-    'date' => $jsonData['date'] ?? date('Y-m-d'),
+  
     'epg_data' => $allEpgData
 ];
 
