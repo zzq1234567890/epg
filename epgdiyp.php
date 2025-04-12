@@ -4,7 +4,22 @@ $xmlFiles = [
   
     './epgkai.xml'
 ];
-$xml = simplexml_load_string($xmlFiles);
+
+foreach ($xmlFiles as $file) {
+    // 检查文件是否存在
+    if (!file_exists($file)) {
+        error_log("跳过不存在的文件: $file");
+        continue;
+    }
+
+    // 加载XML文件并检查错误
+    $xml = simplexml_load_file($file);
+    if ($xml === false) {
+        error_log("加载失败: $file");
+        continue;
+    }
+
+//$xml = simplexml_load_string($xmlFiles);
 if (!$xml) {
     die("XML 解析失败");
 }
