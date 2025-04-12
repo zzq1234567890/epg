@@ -1,7 +1,7 @@
 <?php
 $xmlFiles = [
-    './epgziyong.xml', 
-    './epgkai.xml'
+    './epgziyong.xml'
+   // './epgkai.xml'
 ];
 
 // 合并所有文件的 EPG 数据（假设需要合并为一个 JSON）
