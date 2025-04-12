@@ -4,7 +4,7 @@ $xmlFiles = [
   
     './epgkai.xml'
 ];
-
+$fp="youtubelive.txt";
 foreach ($xmlFiles as $file) {
     // 检查文件是否存在
     if (!file_exists($file)) {
@@ -64,5 +64,6 @@ foreach ($xml->programme as $programme) {
 }
 
 header('Content-Type: application/json; charset=utf-8');
-echo json_encode($jsonData, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
+header("Content-Disposition: attachment; filename=epgdiyp.json");
+    echo json_encode($jsonData, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
 ?>
