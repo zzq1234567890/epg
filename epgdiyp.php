@@ -22,9 +22,12 @@ foreach ($xmlFiles as $file) {
     $firstProgramme = $xml->programme[0];
     $jsonData = [
         'channel_name' => (string)$firstProgramme['channel'],
+      'date' => substr((string)$firstProgramme['start'], 0, 4),
+        /*
         'date' => substr((string)$firstProgramme['start'], 0, 4) . '-' .
                   substr((string)$firstProgramme['start'], 4, 2) . '-' .
                   substr((string)$firstProgramme['start'], 6, 2),
+        */
         'epg_data' => []
     ];
 
