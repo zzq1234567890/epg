@@ -4,7 +4,7 @@ $xmlFiles = [
   
     './epgkai.xml'
 ];
-$fp="youtubelive.txt";
+//$fp="youtubelive.txt";
 foreach ($xmlFiles as $file) {
     // 检查文件是否存在
     if (!file_exists($file)) {
