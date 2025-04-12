@@ -1,6 +1,10 @@
 <?php
-
-$xml = simplexml_load_string(epgziyong.xml);
+$xmlFiles = [
+    './epgziyong.xml', 
+  
+    './epgkai.xml'
+];
+$xml = simplexml_load_string($xmlFiles);
 if (!$xml) {
     die("XML 解析失败");
 }
