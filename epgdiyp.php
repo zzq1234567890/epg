@@ -7,10 +7,10 @@
 // 输入XML文件列表
 $xmlFiles = [
        //'./epgziyong.xml',
-'./epganywhere.xml',
+'./epganywhere.xml'
        //'./epgmytvsuper.xml',
        //'./epg4gtv2.xml',
-  './epgkai.xml'
+ // './epgkai.xml'
 ];
 
 foreach ($xmlFiles as $file) {
