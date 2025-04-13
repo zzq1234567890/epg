@@ -6,8 +6,8 @@
 
 // 输入XML文件列表
 $xmlFiles = [
-       './epgziyong.xml'
-  //'./epgkai.xml'
+       //'./epgziyong.xml'
+  './epgkai.xml'
 ];
 
 foreach ($xmlFiles as $file) {
