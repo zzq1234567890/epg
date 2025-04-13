@@ -49,7 +49,7 @@ foreach ($xmlFiles as $file) {
         $endFormatted = $stopTimeObj->format("H:i");
         
         // 根據節目結束時間取得分組依據，格式定義為 "Y-m-d-H"（例如 "2025-04-13-02"）
-        $groupDate = $stopTimeObj->format("Y-m-d-H");
+        $groupDate = $stopTimeObj->format("Y-m-d");
         
         // 若該頻道尚未建立資料則先建立，這裡 channel_name 以頻道 ID 填入（若 XML 有 display-name 可進一步處理）
         if (!isset($channels[$channelId])) {
