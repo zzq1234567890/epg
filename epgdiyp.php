@@ -1,7 +1,7 @@
 <?php
 /**
  * EPG XML 转 DIYP JSON 格式工具
- * 修复时间解析错误和数据结构问题
+ * 修改为指定格式输出
  */
 
 // 配置参数
@@ -33,8 +33,27 @@ foreach ($xmlFiles as $file) {
     processXml($xml, $allEpgData);
 }
 
-// 生成最终JSON
-file_put_contents($outputFile, json_encode(array_values($allEpgData), JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+// 生成最终JSON（按照要求的格式）
+$outputJson = '';
+foreach ($allEpgData as $item) {
+    $outputJson .= "{\n    \"channel_name\": \"{$item['channel_name']}\",\n";
+    $outputJson .= " \"date\": \"{$item['date']}\",{\n\n    \"epg_data\": [\n";
+    
+    foreach ($item['epg_data'] as $index => $program) {
+        $outputJson .= "        {\n";
+        $outputJson .= "            \"title\": \"{$program['title']}\",\n";
+        $outputJson .= "            \"start\": \"{$program['start']}\",\n";
+        $outputJson .= "            \"end\": \"{$program['end']}\"\n";
+        $outputJson .= "        }" . ($index < count($item['epg_data']) - 1 ? "," : "") . "\n";
+    }
+    
+    $outputJson .= "    ]\n}},\n";
+}
+
+// 移除最后一个逗号和换行
+$outputJson = rtrim($outputJson, ",\n");
+
+file_put_contents($outputFile, $outputJson);
 
 // 如果有错误则记录
 if (!empty($errorLog)) {
