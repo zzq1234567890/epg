@@ -79,6 +79,6 @@ foreach ($xmlFiles as $file) {
     // 將 JSON 輸出到 epgdiyp.json 檔案
     file_put_contents("epgdiyp.json", $jsonOutput);
 
-    echo "epgdiyp.json 檔案已產生。";
+   // echo "epgdiyp.json 檔案已產生。";
 } // ← 加上這個結束大括號以正確關閉 foreach ($xmlFiles as $file)
 ?>
