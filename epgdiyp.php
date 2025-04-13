@@ -71,4 +71,6 @@ foreach ($epgData as $date => $channels) {
 }
 
 // 输出JSON
-echo json_encode($output, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
+
+file_put_contents('epgdiyp.json', json_encode($finalJson, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+?>
