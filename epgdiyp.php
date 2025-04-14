@@ -8,9 +8,9 @@
 $xmlFiles = [
        //'./epgziyong.xml',
 //'./epganywhere.xml'
-       //'./epgmytvsuper.xml',
+       './epgmytvsuper.xml',
        //'./epg4gtv2.xml',
- './epgkai.xml'
+ //'./epgkai.xml'
 ];
 
 foreach ($xmlFiles as $file) {
