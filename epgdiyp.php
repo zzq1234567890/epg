@@ -8,7 +8,7 @@
 $xmlFiles = [
        //'./epgziyong.xml',
 //'./epganywhere.xml'
-       './epgmytvsuper.xml',
+       './epgziyong.xml',
        //'./epg4gtv2.xml',
  //'./epgkai.xml'
 ];
