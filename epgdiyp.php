@@ -7,8 +7,8 @@
 // 输入XML文件列表
 $xmlFiles = [
        //'./epgziyong.xml',
-//'./epganywhere.xml'
-       './epgziyong.xml',
+'./epgmytvsuper.xml'
+       //'./epganywhere.xml',
        //'./epg4gtv2.xml',
  //'./epgkai.xml'
 ];
