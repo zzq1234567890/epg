@@ -6,9 +6,17 @@
 <channel id="CCTV6 电影频道"><display-name lang="zh">CCTV6 电影频道</display-name></channel>
 <channel id="1905App 热血·影院"><display-name lang="zh">1905App 热血·影院</display-name></channel>
 <channel id="1905App 环球经典"><display-name lang="zh">1905App 环球经典</display-name></channel>
-</channel><channel id="76"><display-name lang="zh">CHC家庭影院</display-name></channel>
-<channel id="77"><display-name lang="zh">CHC动作电影</display-name></channel>
-<channel id="78"><display-name lang="zh">CHC影迷电影</display-name></channel>
+</channel><channel id="CHC家庭影院"><display-name lang="zh">CHC家庭影院</display-name></channel>
+<channel id="CHC动作电影"><display-name lang="zh">CHC动作电影</display-name></channel>
+<channel id="CHC影迷电影"><display-name lang="zh">CHC影迷电影</display-name></channel>
+<channel id="求索记录"><display-name lang="zh">求索记录</display-name></channel><
+</channel><channel id="求索动物"><display-name lang="zh">求索动物</display-name></channel>
+<channel id="求索科学"><display-name lang="zh">求索科学</display-name></channel>
+<channel id="CHC高清电影"><display-name lang="zh">CHC高清电影</display-name>
+channel id="CHC动作电影"><display-name lang="zh">CHC动作电影</display-name></channel>
+<channel id="CHC家庭电影"><display-name lang="zh">CHC家庭电影</display-name></channel>
+
+
 <channel id="cctv1"><display-name lang="zh">cctv1</display-name></channel>
 <channel id="cctv2"><display-name lang="zh">cctv2</display-name></channel>
 <channel id="cctv3"><display-name lang="zh">cctv3</display-name></channel>
@@ -84,32 +92,86 @@
 <channel id="中国教育电视台-1"><display-name lang="zh">中国教育电视台-1</display-name></channel>
 <channel id="新疆卫视"><display-name lang="zh">新疆卫视</display-name></channel>
 <channel id="兵团卫视"><display-name lang="zh">兵团卫视</display-name></channel>
+<channel id="中国教育1台"><display-name lang="zh">中国教育1台</display-name></channel>
+<channel id="中国教育2台"><display-name lang="zh">中国教育2台</display-name></channel>
+<channel id="中国教育3台"><display-name lang="zh">中国教育3台</display-name></channel>
+<channel id="中国教育4台"><display-name lang="zh">中国教育4台
+<channel id="3D电视试验频道"><display-name lang="zh">3D电视试验频道</display-name></channel>
+<channel id="外汇理财"><display-name lang="zh">外汇理财</display-name></channel>
+<channel id="电竞天堂"><display-name lang="zh">电竞天堂</display-name></channel>
+<channel id="IPTV5+"><display-name lang="zh">IPTV5+</display-name></channel>
+<channel id="IPTV6+"><display-name lang="zh">IPTV6+</display-name></channel><
+channel id="IPTV经典电影"><display-name lang="zh">IPTV经典电影</display-name></channel>
+<channel id="IPTV热播剧场"><display-name lang="zh">IPTV热播剧场</display-name></channel>
+<channel id="IPTV少儿动画"><display-name lang="zh">IPTV少儿动画</display-name></channel>
+<channel id="IPTV魅力时尚"><display-name lang="zh">IPTV魅力时尚</display-name></channel>
+<channel id="CCTV4K"><display-name lang="zh">CCTV4K</display-name></channel>
+<channel id="GTV游戏竞技"><display-name lang="zh">GTV游戏竞技</display-name></channel>
+<channel id="新动漫"><display-name lang="zh">新动漫</display-name>
+
+
+<channel id="央视精品"><display-name lang="zh">央视精品</display-name></channel>
+<channel id="彩民在线"><display-name lang="zh">彩民在线</display-name></channel><
+channel id="汽摩"><display-name lang="zh">汽摩</display-name></channel>
+<channel id="留学世界"><display-name lang="zh">留学世界</display-name></channel>
+<channel id="青年学苑"><display-name lang="zh">青年学苑</display-name></channel>
+<channel id="摄影频道"><display-name lang="zh">摄影频道</display-name></channel>
+<channel id="天元围棋"><display-name lang="zh">天元围棋</display-name></channel>
+<channel id="现代女性"><display-name lang="zh">现代女性</display-name></channel>
+<channel id="早期教育"><display-name lang="zh">早期教育</display-name></channel>
+<channel id="证券资讯"><display-name lang="zh">证券资讯</display-name></channel>
+<channel id="央视台球"><display-name lang="zh">央视台球</display-name></channel>
+<channel id="茶频道"><display-name lang="zh">茶频道</display-name></channel>
+<channel id="武术世界"><display-name lang="zh">武术世界</display-name></channel>
+<channel id="发现之旅"><display-name lang="zh">发现之旅</display-name></channel>
+<channel id="环球奇观"><display-name lang="zh">环球奇观</display-name></channel>
+<channel id="国学"><display-name lang="zh">国学</display-name></channel>
+<channel id="文物宝库"><display-name lang="zh">文物宝库</display-name></channel>
+<channel id="新科动漫"><display-name lang="zh">新科动漫</display-name></channel>
+<channel id="幼儿教育"><display-name lang="zh">幼儿教育</display-name></channel>
+<channel id="老故事"><display-name lang="zh">老故事</display-name></channel>
+<channel id="快乐垂钓"><display-name lang="zh">快乐垂钓</display-name></channel>
+<channel id="书画频道"><display-name lang="zh">书画频道</display-name></channel>
+<channel id="先锋乒羽"><display-name lang="zh">先锋乒羽</display-name></channel>
+<channel id="车迷频道"><display-name lang="zh">车迷频道</display-name></channel>
+<channel id="四海钓鱼"><display-name lang="zh">四海钓鱼</display-name></channel>
+<channel id="环球旅游"><display-name lang="zh">环球旅游</display-name></channel>
+<channel id="京视剧场"><display-name lang="zh">京视剧场</display-name></channel>
+<channel id="弈坛春秋"><display-name lang="zh">弈坛春秋</display-name></channel>
+<channel id="央广健康"><display-name lang="zh">央广健康</display-name></channel>
+<channel id="时代家居"><display-name lang="zh">时代家居</display-name></channel>
+<channel id="时代出行"><display-name lang="zh">时代出行</display-name></channel>
+<channel id="时代风尚"><display-name lang="zh">时代风尚</display-name></channel>
+<channel id="财富天下"><display-name lang="zh">财富天下</display-name></channel>
+<channel id="百姓健康"><display-name lang="zh">百姓健康</display-name></channel>
+<channel id="精品剧场"><display-name lang="zh">精品剧场</display-name></channel>
+<channel id="少儿动漫"><display-name lang="zh">少儿动漫</display-name></channel>
+<channel id="欧美影院"><display-name lang="zh">欧美影院</display-name></channel>
 
 
 地方台
 上海
-<channel id="92"><display-name lang="zh">早期教育</display-name></channel>
-<channel id="93"><display-name lang="zh">游戏风云</display-name></channel>
-<channel id="94"><display-name lang="zh">生活时尚</display-name></channel>
-<channel id="96"><display-name lang="zh">动漫秀场</display-name></channel>
-<channel id="97"><display-name lang="zh">乐游</display-name></channel>
-<channel id="98"><display-name lang="zh">都市剧场</display-name></channel>
-<channel id="99"><display-name lang="zh">法治天地</display-name></channel>
-<channel id="101"><display-name lang="zh">东方卫视</display-name></channel>
-<channel id="103"><display-name lang="zh">都市频道</display-name></channel>
-<channel id="104"><display-name lang="zh">哈哈炫动</display-name></channel>
-<channel id="105"><display-name lang="zh">东方影视</display-name></channel>
-<channel id="106"><display-name lang="zh">纪实人文</display-name></channel>
-<channel id="107"><display-name lang="zh">新闻综合</display-name></channel>
-<channel id="108"><display-name lang="zh">五星体育</display-name></channel>
-<channel id="109"><display-name lang="zh">第一财经</display-name></channel>
-<channel id="110"><display-name lang="zh">外语频道</display-name></channel>
-<channel id="112"><display-name lang="zh">东方购物-1</display-name></channel>
-<channel id="113"><display-name lang="zh">东方购物-2</display-name></channel>
-<channel id="116"><display-name lang="zh">上海教育</display-name></channel>
-<channel id="117"><display-name lang="zh">七彩戏剧</display-name></channel>
-<channel id="118"><display-name lang="zh">东方财经</display-name></channel>
-<channel id="120"><display-name lang="zh">金色学堂</display-name></channel>
+
+<channel id="早期教育"><display-name lang="zh">早期教育</display-name></channel>
+<channel id="游戏风云"><display-name lang="zh">游戏风云</display-name></channel>
+<channel id="生活时尚"><display-name lang="zh">生活时尚</display-name></channel>
+<channel id="动漫秀场"><display-name lang="zh">动漫秀场</display-name></channel>
+<channel id="乐游"><display-name lang="zh">乐游</display-name></channel>
+<channel id="都市剧场"><display-name lang="zh">都市剧场</display-name></channel>
+<channel id="法治天地"><display-name lang="zh">法治天地</display-name></channel>
+<channel id="东方卫视"><display-name lang="zh">东方卫视</display-name></channel>
+<channel id="都市频道"><display-name lang="zh">都市频道</display-name></channel>
+<channel id="哈哈炫动"><display-name lang="zh">哈哈炫动</display-name></channel>
+<channel id="东方影视"><display-name lang="zh">东方影视</display-name></channel>
+<channel id="新闻综合"><display-name lang="zh">新闻综合</display-name></channel>
+<channel id="五星体育"><display-name lang="zh">五星体育</display-name></channel>
+<channel id="第一财经"><display-name lang="zh">第一财经</display-name></channel>
+<channel id="东方购物-1"><display-name lang="zh">东方购物-1</display-name></channel>
+<channel id="东方购物-2"><display-name lang="zh">东方购物-2</display-name></channel>
+<channel id="上海教育"><display-name lang="zh">上海教育</display-name></channel>
+<channel id="东方财经"><display-name lang="zh">东方财经</display-name></channel>
+<channel id="金色学堂"><display-name lang="zh">金色学堂</display-name></channel>
+<channel id="欢笑剧场"><display-name lang="zh">欢笑剧场</display-name></channel>
 <channel id="魅力足球"><display-name lang="zh">魅力足球</display-name></channel>
 <channel id="新视觉"><display-name lang="zh">新视觉</display-name></channel>
 湖南
@@ -204,7 +266,7 @@
 <channel id="山东文旅"><display-name lang="zh">山东文旅</display-name></channel>
 <channel id="山东新闻"><display-name lang="zh">山东新闻</display-name></channel>
 <channel id="山东少儿"><display-name lang="zh">山东少儿</display-name></channel>
-
+新疆
 channel id="新疆卫视HD"><display-name lang="zh">新疆卫视HD</display-name></channel>
 <channel id="新疆维吾尔语新闻综合频道"><display-name lang="zh">新疆维吾尔语新闻综合频道</display-name></channel>
 <channel id="新疆哈萨克语新闻综合频道"><display-name lang="zh">新疆哈萨克语新闻综合频道</display-name></channel>
@@ -216,6 +278,56 @@ channel id="新疆卫视HD"><display-name lang="zh">新疆卫视HD</display-name
 <channel id="新疆汉语体育健康频道"><display-name lang="zh">新疆汉语体育健康频道</display-name></channel>
 <channel id="新疆汉语信息服务频道"><display-name lang="zh">新疆汉语信息服务频道</display-name></channel>
 <channel id="新疆少儿频道"><display-name lang="zh">新疆少儿频道</display-name></channel>
+湖北
+<channel id="湖北综合频道"><display-name lang="zh">湖北综合频道</display-name></channel>
+<channel id="湖北影视频道"><display-name lang="zh">湖北影视频道</display-name></channel>
+<channel id="湖北教育频道"><display-name lang="zh">湖北教育频道</display-name></channel>
+<channel id="湖北生活频道"><display-name lang="zh">湖北生活频道</display-name></channel>
+<channel id="湖北公共·新闻"><display-name lang="zh">湖北公共·新闻</display-name></channel>
+<channel id="湖北经济频道"><display-name lang="zh">湖北经济频道</display-name></channel><
+channel id="湖北垄上频道"><display-name lang="zh">湖北垄上频道</display-name></channel>
+<channel id="武汉新闻综合频道"><display-name lang="zh">武汉新闻综合频道</display-name></channel>
+<channel id="武汉电视剧频道"><display-name lang="zh">武汉电视剧频道</display-name></channel>
+<channel id="武汉科技生活频道"><display-name lang="zh">武汉科技生活频道</display-name></channel>
+<channel id="武汉经济频道"><display-name lang="zh">武汉经济频道</display-name></channel>
+<channel id="武汉文体频道"><display-name lang="zh">武汉文体频道</display-name></channel>
+<channel id="武汉外语频道"><display-name lang="zh">武汉外语频道</display-name></channel>
+<channel id="武汉少儿频道"><display-name lang="zh">武汉少儿频道</display-name></channel>
+<channel id="武汉教育电视台"><display-name lang="zh">武汉教育电视台</display-name></channel>
+北京
+<channel id="北京纪实"><display-name lang="zh">北京纪实</display-name></channel><
+channel id="BTV文艺"><display-name lang="zh">BTV文艺</display-name></channel>
+<channel id="BTV科教"><display-name lang="zh">BTV科教</display-name></channel>
+<channel id="BTV影视"><display-name lang="zh">BTV影视</display-name></channel>
+<channel id="BTV财经"><display-name lang="zh">BTV财经</display-name></channel>
+<channel id="BTV体育"><display-name lang="zh">BTV体育</display-name></channel>
+<channel id="BTV生活"><display-name lang="zh">BTV生活</display-name></channel>
+<channel id="BTV新闻"><display-name lang="zh">BTV新闻</display-name></channel>
+四川
+<channel id="SCTV2"><display-name lang="zh">SCTV2</display-name></channel>
+<channel id="SCTV3"><display-name lang="zh">SCTV3</display-name></channel>
+<channel id="SCTV4"><display-name lang="zh">SCTV4</display-name></channel>
+<channel id="SCTV5"><display-name lang="zh">SCTV5</display-name></channel>
+<channel id="SCTV7"><display-name lang="zh">SCTV7</display-name></channel>
+<channel id="峨嵋电影"><display-name lang="zh">峨嵋电影</display-name></channel>
+<channel id="SCTV9"><display-name lang="zh">SCTV9</display-name></channel>
+<channel id="SCTV8"><display-name lang="zh">SCTV8</display-name></channel>
+<channel id="CDTV1"><display-name lang="zh">CDTV1</display-name></channel>
+<channel id="CDTV2"><display-name lang="zh">CDTV2</display-name></channel>
+<channel id="CDTV3"><display-name lang="zh">CDTV3</display-name></channel>
+<channel id="CDTV4"><display-name lang="zh">CDTV4</display-name></channel>
+<channel id="CDTV5"><display-name lang="zh">CDTV5</display-name></channel>
+<channel id="CDTV6"><display-name lang="zh">CDTV6</display-name></channel><
+辽宁
+<channel id="辽宁都市"><display-name lang="zh">辽宁都市</display-name></channel>
+<channel id="辽宁影视剧"><display-name lang="zh">辽宁影视剧</display-name></channel>
+<channel id="辽宁青少"><display-name lang="zh">辽宁青少</display-name></channel>
+<channel id="辽宁生活"><display-name lang="zh">辽宁生活</display-name></channel>
+channel id="辽宁公共"><display-name lang="zh">辽宁公共</display-name></channel>
+<channel id="辽宁北方"><display-name lang="zh">辽宁北方</display-name></channel>
+<channel id="辽宁体育"><display-name lang="zh">辽宁体育</display-name></channel><
+channel id="辽宁经济"><display-name lang="zh">辽宁经济</display-name></channel>
+<channel id="沈阳新闻"><display-name lang="zh">沈阳新闻</display-name></channel>
 
 
 
@@ -463,7 +575,7 @@ NOW宽频
 台湾
 
 hami视频
-
+<channel id="Hami日漫台(免費)"><display-name lang="zh">Hami日漫台(免費)</display-name></channel><channel id="Hami體育1台"><display-name lang="zh">Hami體育1台</display-name></channel><channel id="Hami體育2台"><display-name lang="zh">Hami體育2台</display-name></channel><channel id="Hami體育2台(免費)"><display-name lang="zh">Hami體育2台(免費)</display-name></channel><channel id="HBLTV1台"><display-name lang="zh">HBLTV1台</display-name></channel><channel id="HBLTV1台(免費)"><display-name lang="zh">HBLTV1台(免費)</display-name></channel><channel id="HBLTV2台"><display-name lang="zh">HBLTV2台</display-name></channel><channel id="HBLTV2台(免費)"><display-name lang="zh">HBLTV2台(免費)</display-name>
 <channel id="Hami韓劇台(免費)"><display-name lang="zh">Hami韓劇台(免費)</display-name></channel>
 <channel id="Hami韓劇台"><display-name lang="zh">Hami韓劇台</display-name></channel>
 <channel id="三立新聞"><display-name lang="zh">三立新聞</display-name></channel>
@@ -608,7 +720,8 @@ hami视频
 <channel id="Hami卡通台"><display-name lang="zh">Hami卡通台</display-name></channel>
 <channel id="Hami MLB 台"><display-name lang="zh">Hami MLB 台</display-name></channel>
 <channel id="空中英語教室"><display-name lang="zh">空中英語教室</display-name></channel>
-
+<channel id="龍華卡通台"><display-name lang="zh">龍華卡通台</display-name></channel>
+<channel id="龍華日韓台"><display-name lang="zh">龍華日韓台</display-name>
 
 4GTV
 <channel id="民視第一台"><display-name lang="zh">民視第一台</display-name></channel>
@@ -1345,161 +1458,157 @@ BB宽频有线
 <channel id="cmplus新加坡"><display-name lang="zh">cmplus新加坡</display-name></channel>
 马来西亚
 
-101.astro	TV1 HD	Radio Televisyen Malaysia	16:9 HDTV
-102.astro TV2 HD	Radio Televisyen Malaysia	16:9 HDTV
-103.astro	TV3	Media Prima Berhad	16:9 SDTV
-104	Astro Ria	Astro Holdings Sdn Bhd	16:9 HDTV
-105	Astro Prima	Astro Holdings Sdn Bhd	16:9 HDTV
-106	Astro Oasis	Astro Holdings Sdn Bhd	16:9 HDTV
-107	Astro Warna	Astro Holdings Sdn Bhd	16:9 HDTV
-108	Astro Citra	Astro Holdings Sdn Bhd	16:9 HDTV
-112	Astro Rania	Astro Holdings Sdn Bhd	16:9 HDTV
-113	Astro Aura	Astro Holdings Sdn Bhd	16:9 HDTV
-114	TV AlHijrah	Al-Hijrah Media Corporation	16:9 HDTV
-116	Colors HD (Hindi)	Viacom18	16:9 HDTV
-122	TVS (TV Sarawak)	Sarawak Media Group	16:9 HDTV
-123	Awesome TV	Awesome Media Network Sdn Bhd	16:9 HDTV
-124	TVB Magic	Television Broadcasts Ltd & Astro Holdings Sdn Bhd	16:9 HDTV
-146	TV Okey	Radio Televisyen Malaysia	16:9 HDTV
-147	DidikTV KPM	Media Prima Berhad	16:9 SDTV
-148	8TV	Media Prima Berhad	16:9 SDTV
-149	TV9	Media Prima Berhad	16:9 SDTV
-201	Astro Vaanavil	Astro Holdings Sdn Bhd	16:9 HDTV
-202	Astro Vinmeen HD	Astro Holdings Sdn Bhd	16:9 HDTV
-203	Astro Vellithirai	Astro Holdings Sdn Bhd	16:9 HDTV
-211	Sun TV	Sun TV Network (Sun Group)	16:9 HDTV
-212	Sun Music	Sun TV Network (Sun Group)	16:9 HDTV
-214	Adithya TV	Sun TV Network (Sun Group)	4.3 SDTV
-215	Sun News	Sun TV Network (Sun Group)	16:9 HDTV
-216	KTV	Sun TV Network (Sun Group)	16:9 HDTV
-217	Sun Life	Sun TV Network (Sun Group)	16:9 HDTV
-221	Star Vijay HD	Star India (The Walt Disney Company)	16:9 HDTV
-222	Colors HD (Tamil)	Viacom18	16:9 HDTV
-223	Zee Tamil	Zee Entertainment Enterprises	16:9 HDTV
-241	Astro Box Office Movie Thangathirai	Astro Holdings Sdn Bhd	16:9 HDTV
-251	Zee Cinema	Zee Entertainment Enterprises	16:9 HDTV
-300	iQIYI HD	Astro Holdings Sdn Bhd/iQIYI	16:9 HDTV
-305	TVB Classic HD	Television Broadcasts Ltd	16:9 HDTV
-306	Astro AEC HD	Astro Holdings Sdn Bhd	16:9 HDTV
-308	Astro QJ	Astro Holdings Sdn Bhd	16:9 HDTV
-309	Celestial Movies HD	Celestial Tiger Entertainment	16:9 HDTV
-310	TVB Jade	Television Broadcasts Ltd	16:9 HDTV
-311	Astro AOD HD	Astro Holdings Sdn Bhd	16:9 HDTV
-316	CTI Asia	Want Want China Times	16:9 HDTV
-317	TVB Entertainment News	Television Broadcasts Ltd	16:9 HDTV
-319	TVB Xing He HD	Television Broadcasts Ltd	16:9 HDTV
-320	TVBS Asia HD	TVBS Media	16:9 HDTV
-321	Celestial Classic Movies (CCM)	Celestial Tiger Entertainment	16:9 SDTV
-325	Phoenix Chinese Channel HD	Phoenix Television	16:9 HDTV
-326	Phoenix Info News HD	Phoenix Television	16:9 HDTV
-333	Astro Hua Hee Dai HD	Astro Holdings Sdn Bhd	16:9 HDTV
-335	CCTV4 HD	China Central Television	16:9 HDTV
-352	Astro AOD 352	Astro Holdings Sdn Bhd	4:3 SDTV
-354	Astro AOD 354	Astro Holdings Sdn Bhd	4:3 SDTV
-392	KBS World	Korean Broadcasting System	16:9 HDTV
-393	ONE	KC Global Media	16:9 HDTV
-395	tvN	CJ E&M	16:9 HDTV
-396	K-Plus	Plus Media Networks Asia	16:9 HDTV
-398	NHK World Premium	Japan Broadcasting Corporation	16:9 HDTV
-401	HITS Movies	Rewind Networks	16:9 HDTV
-404	BOO	Astro Holdings Sdn Bhd	16:9 HDTV
-411	HBO	Warner Bros Discovery	16:9 HDTV
-412	Cinemax	Warner Bros Discovery	16:9 HDTV
-413	Showcase	Astro Holdings Sdn Bhd	16:9 HDTV
-414	HBO Family	Warner Bros Discovery	16:9 HDTV
-415	HBO Hits	Warner Bros Discovery	16:9 HDTV
-416	tvN Movies	CJ E&M	16:9 HDTV
-501	Astro Awani	Astro Holdings Sdn Bhd	16:9 HDTV
-502	Bernama TV	Malaysian National News Agency	4:3 SDTV
-503	CGTN HD	China Media Group	16:9 HDTV
-511	CNN HD	Warner Bros Discovery	16:9 HDTV
-512	BBC World News HD	BBC Global News Ltd	16:9 HDTV
-513	Al Jazeera English HD	Al Jazeera Media Network	16:9 HDTV
-514	Sky News HD	Sky Group	16:9 HDTV
-515	CNA HD	Mediacorp	16:9 HDTV
-516	CNBC Asia	NBCUniversal	16:9 HDTV
-517	Bloomberg Television	Bloomberg LP	16:9 HDTV
-518	ABC Australia	Australian Broadcasting Corporation	16:9 HDTV
-549	Love Nature 4K	ROCK Entertainment Holdings	16:9 UHDTV
-550	Love Nature HD	ROCK Entertainment Holdings	16:9 HDTV
-551	Global Trekker	ROCK Entertainment Holdings	16:9 HDTV
-552	Discovery Channel	Warner Bros Discovery	16:9 HDTV
-553	Discovery Asia	Warner Bros Discovery	16:9 HDTV
-554	BBC Earth	BBC Studios	16:9 HDTV
-555	History	A+E Networks Asia	16:9 HDTV
-556	Animal Planet	Warner Bros Discovery	16:9 HDTV
-603	Astro Tutor TV	Astro Holdings Sdn Bhd	16:9 HDTV
-611	Astro Ceria	Astro Holdings Sdn Bhd	16:9 HDTV
-612	DreamWorks Channel	NBCUniversal	16:9 HDTV
-615	Cartoon Network	Warner Bros Discovery	16:9 HDTV
-616	Nickelodeon	Paramount Global	16:9 HDTV
-617	Nick Jr	Paramount Global	16:9 HDTV
-618	Moonbug Kids	Moonbug Entertainment	16:9 HDTV
-620	CBeebies	BBC Studios	16:9 HDTV
-701	AXN	KC Global Media	16:9 HDTV
-703	Lifetime	A+E Networks Asia	16:9 HDTV
-704	PRIMEtime HD	Astro Holdings Sdn Bhd	16:9 HDTV
-706	HITS HD	Rewind Media Networks	16:9 HDTV
-707	TLC HD	Warner Bros Discovery	16:9 HDTV
-708	Food Network HD	Warner Bros Discovery	16:9 HDTV
-709	Asian Food Network HD	Warner Bros Discovery	16:9 HDTV
-712	Warner TV HD	Warner Bros Discovery	16:9 HDTV
-713	Paramount Network	Paramount Global	16:9 HDTV
-714	Crime & Investigation	A+E Networks	16:9 HDTV
-715	HGTV	Warner Bros Discovery	16:9 HDTV
-716	DMAX	Warner Bros Discovery	16:9 HDTV
-717	BBC Lifestyle	BBC Studios	16:9 HDTV
-718	MTV Live	Paramount Global	16:9 HDTV
-801	Astro Arena HD	Astro Holdings Sdn Bhd	16:9 HDTV
-802	Astro Arena 2 HD	Astro Holdings Sdn Bhd	16:9 HDTV
-803	Astro Arena Bola	Astro Holdings Sdn Bhd	16:9 HDTV
-804	Astro Arena Bola 2	Astro Holdings Sdn Bhd	16:9 HDTV
-805	Astro Supersport UHD	Astro Holdings Sdn Bhd	16:9 UHDTV
-807	Astro Arena Bola 3	Astro Holdings Sdn Bhd	16:9 HDTV
-810	SPOTV2	Eclat Entertainment	16:9 HDTV
-811.astro	Astro SuperSport	Astro Holdings Sdn Bhd	16:9 HDTV
-812.astro	Astro SuperSport 2	Astro Holdings Sdn Bhd	16:9 HDTV
-813.astro	Astro SuperSport 3	Astro Holdings Sdn Bhd	16:9 HDTV
-814.astro	Astro SuperSport 4	Astro Holdings Sdn Bhd	16:9 HDTV
-815	W-Sports		16:9 HDTV
-816	SPOTV	Eclat Entertainment	16:9 HDTV
-817	BeIN Sports 2 HD	beIN Media Group	16:9 HDTV
-818	beIN Sports HD	beIN Media Group	16:9 HDTV
-819	beIN Sports 3 HD	beIN Media Group	16:9 HDTV
-820	Eurosport HD	Warner Bros Discovery	16:9 HDTV
-821	WWE Network HD	WWE	16:9 HDTV
-822	Golf Channel HD	NBCUniversal	16:9 HDTV
-823	Premier Sports	Premier Media Broadcasting	16:9 HDTV
-824.astro	Astro Cricket HD	Astro Holdings Sdn Bhd	16:9 HDTV
-Radio Channels
-EPG No.	Channel Name	Owner/Parent Company
-852	Hitz FM	Astro Holdings Sdn Bhd
-853	MY FM	Astro Holdings Sdn Bhd
-854	Lite FM	Astro Holdings Sdn Bhd
-855	Mix FM	Astro Holdings Sdn Bhd
-856	ERA FM	Astro Holdings Sdn Bhd
-857	Sinar FM	Astro Holdings Sdn Bhd
-858	Melody FM	Astro Holdings Sdn Bhd
-859	Raaga	Astro Holdings Sdn Bhd
-860	SYOK Classic Rock	Astro Holdings Sdn Bhd
-861	SYOK Gold	Astro Holdings Sdn Bhd
-862	SYOK Opus	Astro Holdings Sdn Bhd
-863	Gegar	Astro Holdings Sdn Bhd
-864	SYOK India Beat	Astro Holdings Sdn Bhd
-865	SYOK Jazz FM	Astro Holdings Sdn Bhd
-866	SYOK Osai FM	Astro Holdings Sdn Bhd
-867	SYOK Bayu FM	Astro Holdings Sdn Bhd
-868	SYOK Kenyalang FM	Astro Holdings Sdn Bhd
-869	Nasional FM	Radio Televisyen Malaysia
-870	V FM	Radio Televisyen Malaysia
-871	Wai FM	Radio Televisyen Malaysia
-872	TraXX FM	Radio Televisyen Malaysia
-873	Minnal FM	Radio Televisyen Malaysia
-874	Ai FM	Radio Televisyen Malaysia
-875	Asyik FM	Radio Televisyen Malaysia
-876	Zayan	Astro Holdings Sdn Bhd
-877	GO Xuan	Astro Holdings Sdn Bhd
+channel id="TV1"><display-name lang="en">TV1</display-name></channel>
+<channel id="TV2"><display-name lang="en">TV2</display-name></channel>
+<channel id="TV3"><display-name lang="en">TV3</display-name></channel>
+<channel id="RIA HD"><display-name lang="en">RIA HD</display-name></channel>
+<channel id="PRIMA HD"><display-name lang="en">PRIMA HD</display-name></channel>
+<channel id="OASIS HD"><display-name lang="en">OASIS HD</display-name></channel>
+<channel id="CITRA HD"><display-name lang="en">CITRA HD</display-name></channel>
+<channel id="RANIA HD"><display-name lang="en">RANIA HD</display-name></channel>
+<channel id="AURA HD"><display-name lang="en">AURA HD</display-name></channel>
+<channel id="TV ALHIJRAH"><display-name lang="en">TV ALHIJRAH</display-name></channel>
+<channel id="COLORS HD"><display-name lang="en">COLORS HD</display-name></channel>
+<channel id="TVS"><display-name lang="en">TVS</display-name></channel>
+<channel id="TV OKEY"><display-name lang="en">TV OKEY</display-name></channel>
+<channel id="NTV7"><display-name lang="en">NTV7</display-name></channel>
+<channel id="8TV"><display-name lang="en">8TV</display-name></channel>
+<channel id="TV9"><display-name lang="en">TV9</display-name></channel>
+<channel id="SELF SERVICE"><display-name lang="en">SELF SERVICE</display-name></channel>
+<channel id="VAANAVIL HD"><display-name lang="en">VAANAVIL HD</display-name></channel>
+<channel id="VINMEEN HD"><display-name lang="en">VINMEEN HD</display-name></channel>
+<channel id="Vellithirai HD"><display-name lang="en">Vellithirai HD</display-name></channel>
+<channel id="SUN TV HD"><display-name lang="en">SUN TV HD</display-name></channel>
+<channel id="SUN MUSIC HD"><display-name lang="en">SUN MUSIC HD</display-name></channel>
+<channel id="ADITHYA"><display-name lang="en">ADITHYA</display-name></channel>
+<channel id="Sun News"><display-name lang="en">Sun News</display-name></channel>
+<channel id="KTV"><display-name lang="en">KTV</display-name></channel>
+<channel id="Sun Life"><display-name lang="en">Sun Life</display-name></channel>
+<channel id="STAR VIJAY HD"><display-name lang="en">STAR VIJAY HD</display-name></channel>
+<channel id="COLORS TAMIL"><display-name lang="en">COLORS TAMIL</display-name></channel>
+<channel id="ZEE TAMIL HD"><display-name lang="en">ZEE TAMIL HD</display-name></channel>
+<channel id="THANGATHIRAI HD"><display-name lang="en">THANGATHIRAI HD</display-name></channel>
+<channel id="Zee Cinema"><display-name lang="en">Zee Cinema</display-name></channel>
+<channel id="iQIYI HD"><display-name lang="en">iQIYI HD</display-name></channel>
+<channel id="TVB CLASSIC HD"><display-name lang="en">TVB CLASSIC HD</display-name></channel>
+<channel id="AEC HD"><display-name lang="en">AEC HD</display-name></channel>
+<channel id="QJ HD"><display-name lang="en">QJ HD</display-name></channel>
+<channel id="CELESTIAL HD"><display-name lang="en">CELESTIAL HD</display-name></channel>
+<channel id="TVBJ"><display-name lang="en">TVBJ</display-name></channel>
+<channel id="AOD HD"><display-name lang="en">AOD HD</display-name></channel>
+<channel id="CTI ASIA HD"><display-name lang="en">CTI ASIA HD</display-name></channel>
+<channel id="TVB E-NEWS HD"><display-name lang="en">TVB E-NEWS HD</display-name></channel>
+<channel id="TVB XING HE HD"><display-name lang="en">TVB XING HE HD</display-name></channel>
+<channel id="TVBS ASIA HD"><display-name lang="en">TVBS ASIA HD</display-name></channel>
+<channel id="CCM"><display-name lang="en">CCM</display-name></channel>
+<channel id="PHOENIX HD"><display-name lang="en">PHOENIX HD</display-name></channel>
+<channel id="PHOENIX NEWS HD"><display-name lang="en">PHOENIX NEWS HD</display-name></channel>
+<channel id="HUA HEE DAI HD"><display-name lang="en">HUA HEE DAI HD</display-name></channel>
+<channel id="CCTV4 HD"><display-name lang="en">CCTV4 HD</display-name></channel>
+<channel id="KBSW HD"><display-name lang="en">KBSW HD</display-name></channel>
+<channel id="ONE HD"><display-name lang="en">ONE HD</display-name></channel>
+<channel id="tvN HD"><display-name lang="en">tvN HD</display-name></channel>
+<channel id="KPLUS"><display-name lang="en">KPLUS</display-name></channel>
+<channel id="NHK HD"><display-name lang="en">NHK HD</display-name></channel>
+<channel id="HITS MOVIES HD"><display-name lang="en">HITS MOVIES HD</display-name></channel>
+<channel id="BOO"><display-name lang="en">BOO</display-name></channel>
+<channel id="HBO HD"><display-name lang="en">HBO HD</display-name></channel>
+<channel id="CINEMAX HD"><display-name lang="en">CINEMAX HD</display-name></channel>
+<channel id="SHOWCASE"><display-name lang="en">SHOWCASE</display-name></channel>
+<channel id="HBO Family"><display-name lang="en">HBO Family</display-name></channel>
+<channel id="HBO Hits"><display-name lang="en">HBO Hits</display-name></channel>
+<channel id="tvN Movies"><display-name lang="en">tvN Movies</display-name></channel>
+<channel id="FIRST HD"><display-name lang="en">FIRST HD</display-name></channel>
 
+<channel id="AWANI HD"><display-name lang="en">AWANI HD</display-name></channel>
+<channel id="BERNAMA"><display-name lang="en">BERNAMA</display-name></channel>
+<channel id="CGTN HD"><display-name lang="en">CGTN HD</display-name></channel>
+<channel id="CNN HD"><display-name lang="en">CNN HD</display-name></channel>
+<channel id="BBC News HD"><display-name lang="en">BBC News HD</display-name></channel>
+<channel id="AL JAZEERA HD"><display-name lang="en">AL JAZEERA HD</display-name></channel>
+<channel id="SKY NEWS HD"><display-name lang="en">SKY NEWS HD</display-name></channel>
+<channel id="CNA HD"><display-name lang="en">CNA HD</display-name></channel>
+<channel id="CNBC HD"><display-name lang="en">CNBC HD</display-name></channel>
+<channel id="BLOOMBERG  TV HD"><display-name lang="en">BLOOMBERG  TV HD</display-name></channel>
+<channel id="ABC AUSTRALIA"><display-name lang="en">ABC AUSTRALIA</display-name></channel>
+<channel id="DW HD"><display-name lang="en">DW HD</display-name></channel>
+<channel id="FRANCE24 HD"><display-name lang="en">FRANCE24 HD</display-name></channel>
+<channel id="Love Nature 4K"><display-name lang="en">Love Nature 4K</display-name></channel>
+<channel id="Love Nature"><display-name lang="en">Love Nature</display-name></channel>
+<channel id="Global Trekker"><display-name lang="en">Global Trekker</display-name></channel>
+<channel id="DISCOVERY HD"><display-name lang="en">DISCOVERY HD</display-name></channel>
+<channel id="DISCOVERY ASIA"><display-name lang="en">DISCOVERY ASIA</display-name></channel>
+<channel id="BBC Earth"><display-name lang="en">BBC Earth</display-name></channel>
+<channel id="HISTORY HD"><display-name lang="en">HISTORY HD</display-name></channel>
+<channel id="ANIMAL PLANET HD"><display-name lang="en">ANIMAL PLANET HD</display-name></channel>
+<channel id="TUTOR TV"><display-name lang="en">TUTOR TV</display-name></channel>
+<channel id="CERIA HD"><display-name lang="en">CERIA HD</display-name></channel>
+<channel id="CARTOON NTWK HD"><display-name lang="en">CARTOON NTWK HD</display-name></channel>
+<channel id="NICKELODEON HD"><display-name lang="en">NICKELODEON HD</display-name></channel>
+<channel id="NICK JR"><display-name lang="en">NICK JR</display-name></channel>
+<channel id="Moonbug Kids"><display-name lang="en">Moonbug Kids</display-name></channel>
+<channel id="Blippi &amp; Friends"><display-name lang="en">Blippi &amp; Friends</display-name></channel>
+<channel id="CBeebies"><display-name lang="en">CBeebies</display-name></channel>
+<channel id="AXN HD"><display-name lang="en">AXN HD</display-name></channel>
+<channel id="HITS NOW"><display-name lang="en">HITS NOW</display-name></channel>
+<channel id="Lifetime"><display-name lang="en">Lifetime</display-name></channel>
+<channel id="HITS HD"><display-name lang="en">HITS HD</display-name></channel>
+<channel id="TLC HD"><display-name lang="en">TLC HD</display-name></channel>
+<channel id="FOOD NTWK HD"><display-name lang="en">FOOD NTWK HD</display-name></channel><
+channel id="AFN HD"><display-name lang="en">AFN HD</display-name></channel>
+<channel id="WARNER TV"><display-name lang="en">WARNER TV</display-name></channel>
+<channel id="CI HD"><display-name lang="en">CI HD</display-name></channel>
+<channel id="HGTV HD"><display-name lang="en">HGTV HD</display-name></channel>
+<channel id="DMAX HD"><display-name lang="en">DMAX HD</display-name></channel>
+<channel id="BBC Lifestyle"><display-name lang="en">BBC Lifestyle</display-name></channel>
+<channel id="MTV HD"><display-name lang="en">MTV HD</display-name></channel>
+<channel id="ARENA HD"><display-name lang="en">ARENA HD</display-name></channel>
+<channel id="ARENA 2 HD"><display-name lang="en">ARENA 2 HD</display-name></channel>
+<channel id="ARENA BOLA"><display-name lang="en">ARENA BOLA</display-name></channel>
+<channel id="ARENA BOLA 2"><display-name lang="en">ARENA BOLA 2</display-name></channel>
+<channel id="ASTRO UHD"><display-name lang="en">ASTRO UHD</display-name></channel>
+<channel id="Astro Grandstand"><display-name lang="en">Astro Grandstand</display-name></channel>
+<channel id="Astro Premier League"><display-name lang="en">Astro Premier League</display-name></channel>
+<channel id="Astro Premier League 2"><display-name lang="en">Astro Premier League 2</display-name></channel>
+<channel id="Astro Football"><display-name lang="en">Astro Football</display-name></channel>
+<channel id="Astro Badminton"><display-name lang="en">Astro Badminton</display-name></channel>
+<channel id="Astro Sports Plus"><display-name lang="en">Astro Sports Plus</display-name></channel>
+<channel id="beIN SPORTS"><display-name lang="en">beIN SPORTS</display-name></channel>
+<channel id="beIN SPORTS 2"><display-name lang="en">beIN SPORTS 2</display-name></channel>
+<channel id="bEIN SPORTS 3"><display-name lang="en">bEIN SPORTS 3</display-name></channel>
+<channel id="SPOTV"><display-name lang="en">SPOTV</display-name></channel>
+<channel id="SPOTV2"><display-name lang="en">SPOTV2</display-name></channel>
+<channel id="EUROSPORT HD"><display-name lang="en">EUROSPORT HD</display-name></channel>
+<channel id="W-Sport"><display-name lang="en">W-Sport</display-name></channel>
+<channel id="GOLF CHANNEL HD"><display-name lang="en">GOLF CHANNEL HD</display-name></channel>
+<channel id="ASTRO CRICKET"><display-name lang="en">ASTRO CRICKET</display-name></channel>
+<channel id="Premier Sports"><display-name lang="en">Premier Sports</display-name></channel>
+<channel id="HITZ"><display-name lang="en">HITZ</display-name></channel>
+<channel id="MY"><display-name lang="en">MY</display-name></channel>
+<channel id="LITE"><display-name lang="en">LITE</display-name></channel>
+<channel id="MIX"><display-name lang="en">MIX</display-name></channel>
+<channel id="ERA"><display-name lang="en">ERA</display-name></channel>
+<channel id="SINAR"><display-name lang="en">SINAR</display-name></channel>
+<channel id="MELODY"><display-name lang="en">MELODY</display-name></channel>
+<channel id="RAAGA"><display-name lang="en">RAAGA</display-name></channel>
+<channel id="CLASSIC ROCK"><display-name lang="en">CLASSIC ROCK</display-name></channel>
+<channel id="GOLD"><display-name lang="en">GOLD</display-name></channel>
+<channel id="OPUS"><display-name lang="en">OPUS</display-name></channel>
+<channel id="GEGAR"><display-name lang="en">GEGAR</display-name></channel>
+<channel id="INDIA BEAT"><display-name lang="en">INDIA BEAT</display-name></channel>
+<channel id="JAZZ"><display-name lang="en">JAZZ</display-name></channel>
+<channel id="OSAI"><display-name lang="en">OSAI</display-name></channel>
+<channel id="BAYU"><display-name lang="en">BAYU</display-name></channel>
+<channel id="KENYALANG"><display-name lang="en">KENYALANG</display-name></channel>
+<channel id="NAS FM"><display-name lang="en">NAS FM</display-name></channel>
+<channel id="V FM"><display-name lang="en">V FM</display-name></channel>
+<channel id="WAI FM"><display-name lang="en">WAI FM</display-name></channel>
+<channel id="TRAXX FM"><display-name lang="en">TRAXX FM</display-name></channel>
+<channel id="MINNAL FM"><display-name lang="en">MINNAL FM</display-name></channel>
+<channel id="AI FM"><display-name lang="en">AI FM</display-name></channel>
+<channel id="ASYIK FM"><display-name lang="en">ASYIK FM</display-name></channel>
+<channel id="ZAYAN"><display-name lang="en">ZAYAN</display-name></channel>
+<channel id="GO XUAN"><display-name lang="en">GO XUAN</display-name></channel>
 新加坡
 <channel id="Channel 5 "><display-name lang="zh">Channel 5 </display-name></channel>
 <channel id="Channel 8"><display-name lang="zh">Channel 8</display-name></channel>
