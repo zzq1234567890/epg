@@ -10,10 +10,21 @@
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epgziyong.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
-#EXTINF:-1 tvg-id="cctv1" tvg-name="cctv1" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="黑龙江移动",CCTV-1 
+#EXTINF:-1 tvg-id="电视台名称" tvg-name="电视台名称" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="你的分组",电视台名称
+
+节目源地址
+
+
+
+#EXTINF:-1 tvg-id="cctv1" tvg-name="cctv1" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="黑龙江移动",cctv-1 
 
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 
+
+
+
+
+本不提供diyp之类的epg,请用肥羊
 diyp 影视等播放器，适合json格式。 推荐https://epg.v1.mk/json?ch=频道名&date=日期
 
 https://epg.112114.xyz/?ch={name}&date={date}
