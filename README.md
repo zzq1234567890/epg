@@ -21,7 +21,7 @@
 节目源地址
 
 
-
+样例例如
 #EXTINF:-1 tvg-id="cctv1" tvg-name="cctv1" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="黑龙江移动",cctv-1 
 
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
