@@ -11,7 +11,7 @@
 Attention:
  
 1. This is for personal entertainment and self-use only. Please do not use it for commercial purposes. Generally, there will be no maintenance or technical support provided!
-It is recommended to use playback software such as Tivimate, ott navigator, and Jizhi Player!
+It is recommended to use player softwares such as Tivimate, ott navigator, and Jizhi Player!
  
 2. We do not provide the program source addresses! Please support and subscribe to the legitimate program source addresses!
  
