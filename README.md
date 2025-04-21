@@ -15,4 +15,4 @@ It is recommended to use playback software such as Tivimate, ott navigator, and 
  
 2. We do not provide the program source addresses! Please support and subscribe to the legitimate program source addresses!
  
-3. YouTube only provides the addresses and does not include any parsing.
+3. YouTube only provides the addresses list by groupsand does not include any parsing.
