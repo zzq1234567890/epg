@@ -9,12 +9,10 @@
 3.Youtube僅僅提供地址，不帶任何解析。建議用影視(影視直播對xml支持較差)。
 
 Attention:
-1. The documents are used in enterment by private!Do not apply in commercial purpose.All the defeats are not to be revised if you like.
-Pls use the player such as Tivimate,ott navigator or jizhi player in prior.
-
-2.We don't provide any programs address.
-Pls pay for the offical app by yourself.
-
-3.The lists of YouTube are the summry of address from YouTube website.
-
-4. 
+ 
+1. This is for personal entertainment and self-use only. Please do not use it for commercial purposes. Generally, there will be no maintenance or technical support provided!
+It is recommended to use playback software such as Tivimate, ott navigator, and Jizhi Player!
+ 
+2. We do not provide the program source addresses! Please support and subscribe to the legitimate program source addresses!
+ 
+3. YouTube only provides the addresses and does not include any parsing.
