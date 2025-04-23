@@ -7,17 +7,17 @@
 2.不提供節目源地址！請支持訂閱正版節目源地址！
 
 3.Youtube僅僅提供地址，不帶任何解析。建議用影視(影視直播對xml支持較差)。
+
+
+
 Important Notices
  
-1. For Personal Use Only – Commercial Use Prohibited
-This service is strictly intended for personal entertainment and non-commercial purposes. Maintenance and technical support are not generally provided.
-Recommended Playback Software: Tivimate, OTT Navigator, Extreme Player.
+1. For Personal Use Only – Commercial Use Strictly Prohibited
+This service is exclusively intended for personal entertainment and non-commercial use. Maintenance and technical support are not provided as a general policy.
+Recommended Playback Applications: Tivimate, OTT Navigator, Jizhi Player.
  
-2. No Program Source URLs Provided
-We do not distribute or provide program source URLs. Please support official/licensed content by subscribing to legitimate program source URLs.
+2. No Program Source URLs Distributed
+We do not provide or share program source URLs. Please support legitimate content by subscribing to official program source URLs.
  
-3. YouTube Links Provided “As-Is” (No Parsing Functionality)
-YouTube URLs are shared in their original format without any parsing or decoding functionality. For optimal compatibility, we recommend using Yingshi (Note: Yingshi Live has limited support for XML formats).
-
-
-
+3. YouTube URLs Provided “As-Is” (No Parsing Functionality)
+YouTube URLs are shared in their raw format without any parsing, decoding, or technical processing. For optimal compatibility, we recommend using Yingshi (Note: Yingshi Live has limited support for XML formats).
