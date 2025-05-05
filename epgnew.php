@@ -3,7 +3,7 @@
 $channelsToRemove = ['三立新聞台', '新唐人亞太台', '民視新聞台']; // 替換為你要刪除的頻道 ID
 
 // 讀取 XML 文件
-$xmlFile = ['./epgziyong.xml'];
+$xmlFile = 'epgziyong.xml';
 
 
 if (!file_exists($xmlFile)) {
