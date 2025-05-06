@@ -8,6 +8,7 @@
 
 3.Youtube僅僅提供地址，不帶任何解析。建議用影視(影視直播對xml支持較差)。
 
+4.墻內建議選epgnew.xml(去掉幾個少兒不宜預告)，墻外無所謂了，epgziyong.xml還是epgnew.xml隨便了
 
 
 Important Notices
