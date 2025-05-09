@@ -149,8 +149,36 @@ channel id="汽摩"><display-name lang="zh">汽摩</display-name></channel>
 
 
 地方台
+北京
+channel id="北京纪实">
+    <display-name lang="zh">北京纪实</display-name>
+  </channel>
+  <channel id="BTV文艺">
+    <display-name lang="zh">BTV文艺</display-name>
+  </channel>
+  <channel id="BTV科教">
+    <display-name lang="zh">BTV科教</display-name>
+  </channel>
+  <channel id="BTV影视">
+    <display-name lang="zh">BTV影视</display-name>
+  </channel>
+  <channel id="BTV财经">
+    <display-name lang="zh">BTV财经</display-name>
+  </channel>
+  <channel id="BTV体育">
+    <display-name lang="zh">BTV体育</display-name>
+  </channel>
+  <channel id="BTV生活">
+    <display-name lang="zh">BTV生活</display-name>
+  </channel>
+  <channel id="BTV新闻">
+    <display-name lang="zh">BTV新闻</display-name>
+  </channel>
+  <channel id="卡酷少儿">
+    <display-name lang="zh">卡酷少儿</display-name>
+  </channel>
+  
 上海
-
 <channel id="早期教育"><display-name lang="zh">早期教育</display-name></channel>
 <channel id="游戏风云"><display-name lang="zh">游戏风云</display-name></channel>
 <channel id="生活时尚"><display-name lang="zh">生活时尚</display-name></channel>
@@ -173,6 +201,7 @@ channel id="汽摩"><display-name lang="zh">汽摩</display-name></channel>
 <channel id="欢笑剧场"><display-name lang="zh">欢笑剧场</display-name></channel>
 <channel id="魅力足球"><display-name lang="zh">魅力足球</display-name></channel>
 <channel id="新视觉"><display-name lang="zh">新视觉</display-name></channel>
+
 湖南
 <channel><channel id="快乐垂钓"><display-name lang="zh">快乐垂钓</display-name></channel>
 <channel id="茶频道"><display-name lang="zh">茶频道</display-name></channel>
