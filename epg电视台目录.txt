@@ -842,7 +842,6 @@ LITV及歡樂看用
 <channel id="Smart知識台"><display-name lang="zh">Smart知識台</display-name></channel>
 <channel id="東森購物2台"><display-name lang="zh">東森購物2台</display-name></channel>
 <channel id="龍華卡通台"><display-name lang="zh">龍華卡通台</display-name></channel>
-
 <channel id="公視金獎台"><display-name lang="zh">公視金獎台</display-name></channel>
 <channel id="哆啦A梦(中文)"><display-name lang="zh">哆啦A梦(中文)</display-name></channel>
 <channel id="哆啦A梦中文版"><display-name lang="zh">哆啦A梦中文版</display-name></channel>
@@ -1043,7 +1042,6 @@ LITV及歡樂看用
 <channel id="寰宇新聞台"><display-name lang="zh">寰宇新聞台</display-name></channel>
 <channel id="寰宇新聞台灣台"><display-name lang="zh">寰宇新聞台灣台</display-name></channel>
 <channel id="SBN全球財經台"><display-name lang="zh">SBN全球財經台</display-name></channel>
-<channel id="寰宇財經台"><display-name lang="zh">寰宇財經台</display-name></channel>
 <channel id="TVBS"><display-name lang="zh">TVBS</display-name></channel>
 <channel id="東森購物二台"><display-name lang="zh">東森購物二台</display-name></channel>
 <channel id="民視綜藝台"><display-name lang="zh">民視綜藝台</display-name></channel>
@@ -1103,6 +1101,7 @@ LITV及歡樂看用
 <channel id="好消息2台"><display-name lang="zh">好消息2台</display-name></channel>
 <channel id="大愛二台"><display-name lang="zh">大愛二台</display-name></channel>
 <channel id="人間衛視"><display-name lang="zh">人間衛視</display-name></channel>
+<channel id="NHK WORLD-JAPAN"><display-name lang="zh">NHK WORLD-JAPAN</display-name></channel>
 <channel id="FRANCE24 英文台"><display-name lang="zh">FRANCE24 英文台</display-name></channel>
 <channel id="半島國際新聞台"><display-name lang="zh">半島國際新聞台</display-name></channel>
 <channel id="VOA美國之音"><display-name lang="zh">VOA美國之音</display-name></channel>
@@ -1120,17 +1119,17 @@ LITV及歡樂看用
 中华电信MOD
 <channel id="民視MOD"><display-name lang="zh">民視MOD</display-name></channel>
 <channel id="人間衛視"><display-name lang="zh">人間衛視</display-name></channel>
-<channel id="台視"><display-name lang="zh">台視</display-name></channel>
-<channel id="大愛電視"><display-name lang="zh">大愛電視</display-name></channel>
+<channel id="台視MOD"><display-name lang="zh">台視MOD</display-name></channel>
+<channel id="大愛電視MOD"><display-name lang="zh">大愛電視MOD</display-name></channel>
 <channel id="中視MOD"><display-name lang="zh">中視MOD</display-name></channel>
-<channel id="華視"><display-name lang="zh">華視</display-name></channel>
-<channel id="公視"><display-name lang="zh">公視</display-name></channel>
+<channel id="華視MOD"><display-name lang="zh">華視MOD</display-name></channel>
+<channel id="公視MOD"><display-name lang="zh">公視MOD</display-name></channel>
 <channel id="公視台語台"><display-name lang="zh">公視台語台</display-name></channel>
 <channel id="好消息衛星電視台"><display-name lang="zh">好消息衛星電視台</display-name></channel>
 <channel id="原住民族電視台"><display-name lang="zh">原住民族電視台</display-name></channel>
 <channel id="客家電視"><display-name lang="zh">客家電視</display-name></channel>
 <channel id="華視教育體育文化台"><display-name lang="zh">華視教育體育文化台</display-name></channel>
-<channel id="小公視"><display-name lang="zh">小公視</display-name></channel>
+<channel id="小公視MOD"><display-name lang="zh">小公視MOD</display-name></channel>
 <channel id="大愛二台"><display-name lang="zh">大愛二台</display-name></channel>
 <channel id="CARTOONITO HD"><display-name lang="zh">CARTOONITO HD</display-name></channel>
 <channel id="ELTV生活英語台"><display-name lang="zh">ELTV生活英語台</display-name></channel>
@@ -1144,6 +1143,7 @@ LITV及歡樂看用
 <channel id="DREAMWORKS"><display-name lang="zh">DREAMWORKS</display-name></channel>
 <channel id="國會頻道1"><display-name lang="zh">國會頻道1</display-name></channel>
 <channel id="國會頻道2"><display-name lang="zh">國會頻道2</display-name></channel>
+<channel id="Fun探索娛樂台4K"><display-name lang="zh">Fun探索娛樂台4K</display-name></channel>
 <channel id="Medici-arts"><display-name lang="zh">Medici-arts</display-name></channel>
 <channel id="MTV Live"><display-name lang="zh">MTV Live</display-name></channel>
 <channel id="MTV綜合電視台"><display-name lang="zh">MTV綜合電視台</display-name></channel>
@@ -1187,10 +1187,11 @@ LITV及歡樂看用
 <channel id="幸福空間居家台"><display-name lang="zh">幸福空間居家台</display-name></channel>
 <channel id="滾動力 rollor"><display-name lang="zh">滾動力 rollor</display-name></channel>
 <channel id="HGTV 居家樂活頻道"><display-name lang="zh">HGTV 居家樂活頻道</display-name></channel>
+<channel id="車迷TV HD"><display-name lang="zh">車迷TV HD</display-name></channel>
 <channel id="美食星球頻道"><display-name lang="zh">美食星球頻道</display-name></channel>
 <channel id="Asian Food Network 亞洲美食頻道"><display-name lang="zh">Asian Food Network 亞洲美食頻道</display-name></channel>
 <channel id="Food Network 美食台頻道"><display-name lang="zh">Food Network 美食台頻道</display-name></channel>
-<channel id="亞洲旅遊台"><display-name lang="zh">亞洲旅遊台</display-name></channel>
+<channel id="亞洲旅遊台MOD"><display-name lang="zh">亞洲旅遊台MOD</display-name></channel>
 <channel id="EYE TV旅遊台"><display-name lang="zh">EYE TV旅遊台</display-name></channel>
 <channel id="Travel Channel"><display-name lang="zh">Travel Channel</display-name></channel>
 <channel id="時尚頻道"><display-name lang="zh">時尚頻道</display-name></channel>
@@ -1204,9 +1205,9 @@ LITV及歡樂看用
 <channel id="Smart知識台"><display-name lang="zh">Smart知識台</display-name></channel>
 <channel id="台視綜合台"><display-name lang="zh">台視綜合台</display-name></channel>
 <channel id="亞洲綜合台"><display-name lang="zh">亞洲綜合台</display-name></channel>
-<channel id="中視經典台"><display-name lang="zh">中視經典台</display-name></channel>
+<channel id="中視經典台MOD"><display-name lang="zh">中視經典台MOD</display-name></channel>
 <channel id="寰宇HD綜合台"><display-name lang="zh">寰宇HD綜合台</display-name></channel>
-<channel id="中視菁采台"><display-name lang="zh">中視菁采台</display-name></channel>
+<channel id="中視菁采台MOD"><display-name lang="zh">中視菁采台MOD</display-name></channel>
 <channel id="TVBS精采台"><display-name lang="zh">TVBS精采台</display-name></channel>
 <channel id="壹電視綜合台"><display-name lang="zh">壹電視綜合台</display-name></channel>
 <channel id="緯來精采台"><display-name lang="zh">緯來精采台</display-name></channel>
@@ -1239,14 +1240,13 @@ LITV及歡樂看用
 <channel id="東森購物2台"><display-name lang="zh">東森購物2台</display-name></channel>
 <channel id="靖天日本台"><display-name lang="zh">靖天日本台</display-name></channel>
 <channel id="曼迪日本台"><display-name lang="zh">曼迪日本台</display-name></channel>
+<channel id="OUTtv"><display-name lang="zh">OUTtv</display-name></channel>
 <channel id="Animax"><display-name lang="zh">Animax</display-name></channel>
-<channel id="i-Fun動漫台"><display-name lang="zh">i-Fun動漫台</display-name></channel>
 <channel id="tvN"><display-name lang="zh">tvN</display-name></channel>
 <channel id="韓國娛樂台KMTV"><display-name lang="zh">韓國娛樂台KMTV</display-name></channel>
-<channel id="華藝MBC綜合台"><display-name lang="zh">華藝MBC綜合台</display-name></channel>
+<channel id="華藝中文台"><display-name lang="zh">華藝中文台</display-name></channel>
 <channel id="ROCK Extreme"><display-name lang="zh">ROCK Extreme</display-name></channel>
 <channel id="ROCK Entertainment"><display-name lang="zh">ROCK Entertainment</display-name></channel>
-<channel id="TechStorm"><display-name lang="zh">TechStorm</display-name></channel>
 <channel id="美好2台"><display-name lang="zh">美好2台</display-name></channel>
 <channel id="momo1台"><display-name lang="zh">momo1台</display-name></channel>
 <channel id="東森購物4台"><display-name lang="zh">東森購物4台</display-name></channel>
@@ -1282,6 +1282,7 @@ LITV及歡樂看用
 <channel id="靖天電影台"><display-name lang="zh">靖天電影台</display-name></channel>
 <channel id="龍華洋片"><display-name lang="zh">龍華洋片</display-name></channel>
 <channel id="Warner TV"><display-name lang="zh">Warner TV</display-name></channel>
+<channel id="wedotv Movies"><display-name lang="zh">wedotv Movies</display-name></channel>
 <channel id="ROCK Action HD"><display-name lang="zh">ROCK Action HD</display-name></channel>
 <channel id="amc最愛電影"><display-name lang="zh">amc最愛電影</display-name></channel>
 <channel id="HITS"><display-name lang="zh">HITS</display-name></channel>
@@ -1296,8 +1297,8 @@ LITV及歡樂看用
 <channel id="唯心電視台"><display-name lang="zh">唯心電視台</display-name></channel>
 <channel id="佛衛電視慈悲台"><display-name lang="zh">佛衛電視慈悲台</display-name></channel>
 <channel id="華藏衛視"><display-name lang="zh">華藏衛視</display-name></channel>
-<channel id="生命電視台"><display-name lang="zh">生命電視台</display-name></channel>
 <channel id="正德電視台"><display-name lang="zh">正德電視台</display-name></channel>
+<channel id="天良綜合台"><display-name lang="zh">天良綜合台</display-name></channel>
 <channel id="TV5MONDE"><display-name lang="zh">TV5MONDE</display-name></channel>
 <channel id="Arirang TV"><display-name lang="zh">Arirang TV</display-name></channel>
 <channel id="FRANCE24F"><display-name lang="zh">FRANCE24F</display-name></channel>
