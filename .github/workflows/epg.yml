@@ -2,7 +2,7 @@ name: epg copy
 
 on:
   schedule:
-    - cron: '5 */1 * * *'
+    - cron: '0 */1 * * *'
   workflow_dispatch:
 
 jobs:
