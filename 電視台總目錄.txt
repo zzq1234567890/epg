@@ -877,7 +877,39 @@
   <channel id="第一財經直播">
     <display-name lang="zh">第一財經直播</display-name>
   </channel>
+
+<channel id="上海新闻综合"><display-name lang="zh">上海新闻综合</display-name></channel>
+<channel id="上视东方影视"><display-name lang="zh">上视东方影视</display-name></channel>
+<channel id="上海第一财经"><display-name lang="zh">上海第一财经</display-name></channel>
+
+
 江苏电视台
+
+<channel id="江苏体育休闲频道"><display-name lang="zh">江苏体育休闲频道</display-name></channel>
+<channel id="江苏城市频道"><display-name lang="zh">江苏城市频道</display-name></channel>
+<channel id="江苏国际"><display-name lang="zh">江苏国际</display-name></channel>
+<channel id="江苏教育"><display-name lang="zh">江苏教育</display-name></channel>
+<channel id="江苏影视频道"><display-name lang="zh">江苏影视频道</display-name></channel>
+<channel id="江苏综艺频道"><display-name lang="zh">江苏综艺频道</display-name></channel>
+<channel id="江苏公共新闻频道"><display-name lang="zh">江苏公共新闻频道</display-name></channel>
+<channel id="财富天下"><display-name lang="zh">财富天下</display-name></channel>
+<channel id="南京新闻综合频道"><display-name lang="zh">南京新闻综合频道</display-name></channel>
+<channel id="南京教科频道"><display-name lang="zh">南京教科频道</display-name></channel>
+<channel id="南京十八频道"><display-name lang="zh">南京十八频道</display-name></channel>
+
+<channel id="盐城新闻综合"><display-name lang="zh">盐城新闻综合</display-name></channel>
+<channel id="淮安新闻综合"><display-name lang="zh">淮安新闻综合</display-name></channel>
+<channel id="泰州新闻综合"><display-name lang="zh">泰州新闻综合</display-name></channel>
+<channel id="连云港新闻综合"><display-name lang="zh">连云港新闻综合</display-name></channel>
+<channel id="宿迁新闻综合"><display-name lang="zh">宿迁新闻综合</display-name></channel>
+<channel id="徐州新闻综合"><display-name lang="zh">徐州新闻综合</display-name></channel>
+<channel id="优漫卡通频道"><display-name lang="zh">优漫卡通频道</display-name></channel>
+<channel id="江阴新闻综合"><display-name lang="zh">江阴新闻综合</display-name></channel>
+<channel id="南通新闻综合"><display-name lang="zh">南通新闻综合</display-name></channel>
+<channel id="宜兴新闻综合"><display-name lang="zh">宜兴新闻综合</display-name></channel>
+<channel id="苏州新闻综合"><display-name lang="zh">苏州新闻综合</display-name></channel>
+<channel id="溧水新闻综合"><display-name lang="zh">溧水新闻综合</display-name></channel>
+
   <channel id="江苏城市频道">
     <display-name lang="zh">江苏城市频道</display-name>
   </channel>
@@ -989,6 +1021,14 @@
 
 
 陕西电视台
+
+<channel id="陕西银龄频道"><display-name lang="zh">陕西银龄频道</display-name></channel>
+<channel id="陕西都市青春频道"><display-name lang="zh">陕西都市青春频道</display-name></channel>
+<channel id="陕西体育休闲频道"><display-name lang="zh">陕西体育休闲频道</display-name></channel>
+<channel id="陕西秦腔频道"><display-name lang="zh">陕西秦腔频道</display-name></channel>
+<channel id="陕西新闻资讯频道"><display-name lang="zh">陕西新闻资讯频道</display-name></channel>
+
+
   <channel id="陝西卫视">
     <display-name lang="zh">陝西卫视</display-name>
   </channel>
