@@ -188,6 +188,18 @@ channel id="BTV文艺"><display-name lang="zh">BTV文艺</display-name></channel
 <channel id="上海新闻综合"><display-name lang="zh">上海新闻综合</display-name></channel>
 <channel id="上视东方影视"><display-name lang="zh">上视东方影视</display-name></channel>
 <channel id="上海第一财经"><display-name lang="zh">上海第一财经</display-name></channel>
+
+
+江苏
+<channel id="江苏城市频道"><display-name lang="zh">江苏城市频道</display-name></channel>
+<channel id="江苏综艺频道"><display-name lang="zh">江苏综艺频道</display-name></channel>
+<channel id="江苏影视频道"><display-name lang="zh">江苏影视频道</display-name></channel>
+<channel id="江苏新闻频道"><display-name lang="zh">江苏新闻频道</display-name></channel>
+<channel id="江苏教育频道"><display-name lang="zh">江苏教育频道</display-name></channel>
+<channel id="江苏体育休闲频道"><display-name lang="zh">江苏体育休闲频道</display-name></channel>
+<channel id="江苏优漫卡通频道"><display-name lang="zh">江苏优漫卡通频道</display-name></channel>
+<channel id="江苏国际频道"><display-name lang="zh">江苏国际频道</display-name></channel>
+
 <channel id="南京新闻综合频道"><display-name lang="zh">南京新闻综合频道</display-name></channel>
 <channel id="南京教科频道"><display-name lang="zh">南京教科频道</display-name></channel>
 <channel id="南京十八频道"><display-name lang="zh">南京十八频道</display-name></channel>
@@ -210,11 +222,7 @@ channel id="BTV文艺"><display-name lang="zh">BTV文艺</display-name></channel
 <channel id="宜兴新闻综合"><display-name lang="zh">宜兴新闻综合</display-name></channel>
 <channel id="苏州新闻综合"><display-name lang="zh">苏州新闻综合</display-name></channel>
 <channel id="溧水新闻综合"><display-name lang="zh">溧水新闻综合</display-name></channel>
-<channel id="陕西银龄频道"><display-name lang="zh">陕西银龄频道</display-name></channel>
-<channel id="陕西都市青春频道"><display-name lang="zh">陕西都市青春频道</display-name></channel>
-<channel id="陕西体育休闲频道"><display-name lang="zh">陕西体育休闲频道</display-name></channel>
-<channel id="陕西秦腔频道"><display-name lang="zh">陕西秦腔频道</display-name></channel>
-<channel id="陕西新闻资讯频道"><display-name lang="zh">陕西新闻资讯频道</display-name></channel>
+
 <channel id="财富天下"><display-name lang="zh">财富天下</display-name></channel>
 
 湖南
@@ -290,16 +298,13 @@ channel id="BTV文艺"><display-name lang="zh">BTV文艺</display-name></channel
 <channel id="厦门1"><display-name lang="zh">厦门1</display-name></channel>
 <channel id="厦门2"><display-name lang="zh">厦门2</display-name></channel>
 
-江苏
-<channel id="江苏城市频道"><display-name lang="zh">江苏城市频道</display-name></channel>
-<channel id="江苏综艺频道"><display-name lang="zh">江苏综艺频道</display-name></channel>
-<channel id="江苏影视频道"><display-name lang="zh">江苏影视频道</display-name></channel>
-<channel id="江苏新闻频道"><display-name lang="zh">江苏新闻频道</display-name></channel>
-<channel id="江苏教育频道"><display-name lang="zh">江苏教育频道</display-name></channel>
-<channel id="江苏体育休闲频道"><display-name lang="zh">江苏体育休闲频道</display-name></channel>
-<channel id="江苏优漫卡通频道"><display-name lang="zh">江苏优漫卡通频道</display-name></channel>
-<channel id="江苏国际频道"><display-name lang="zh">江苏国际频道</display-name></channel>
 陕西
+<channel id="陕西银龄频道"><display-name lang="zh">陕西银龄频道</display-name></channel>
+<channel id="陕西都市青春频道"><display-name lang="zh">陕西都市青春频道</display-name></channel>
+<channel id="陕西体育休闲频道"><display-name lang="zh">陕西体育休闲频道</display-name></channel>
+<channel id="陕西秦腔频道"><display-name lang="zh">陕西秦腔频道</display-name></channel>
+<channel id="陕西新闻资讯频道"><display-name lang="zh">陕西新闻资讯频道</display-name></channel>
+
 <channel id="陝西卫视"><display-name lang="zh">陝西卫视</display-name></channel>
 <channel id="陝西新闻"><display-name lang="zh">陝西新闻</display-name></channel>
 <channel id="陝西都市青春"><display-name lang="zh">陝西都市青春</display-name></channel>
@@ -309,6 +314,8 @@ channel id="BTV文艺"><display-name lang="zh">BTV文艺</display-name></channel
 <channel id="陝西乐家购物"><display-name lang="zh">陝西乐家购物</display-name></channel>
 <channel id="陝西体育"><display-name lang="zh">陝西体育</display-name></channel>
 <channel id="陝西农林"><display-name lang="zh">陝西农林</display-name></channel>
+
+
 安徽
 <channel id="安徽卫视"><display-name lang="zh">安徽卫视</display-name></channel>
 <channel id="安徽经济"><display-name lang="zh">安徽经济</display-name></channel>
