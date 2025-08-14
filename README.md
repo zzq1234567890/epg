@@ -10,7 +10,7 @@
 
 4.墻內建議選epgnew.xml(去掉幾個少兒不宜預告)，墻外無所謂了，epgziyong.xml還是epgnew.xml隨便了
 
-
+5.增加咪咕視頻中的地方頻道節目預告（兩天））
 Important Notices
  
 1. For Personal Use Only – Commercial Use Strictly Prohibited
