@@ -347,8 +347,8 @@
   <channel id="早期教育_51zmt">
     <display-name lang="zh">早期教育</display-name>
   </channel>
-  <channel id="证券资讯_51zmt">
-    <display-name lang="zh">证券资讯</display-name>
+  <channel id="证券信息_51zmt">
+    <display-name lang="zh">证券信息</display-name>
   </channel>
   <channel id="央视台球_51zmt">
     <display-name lang="zh">央视台球</display-name>
@@ -523,11 +523,11 @@
 地方
 
 上海
-  <channel id="看看新聞直播">
-    <display-name lang="zh">看看新聞直播</display-name>
+  <channel id="看看新闻直播">
+    <display-name lang="zh">看看新闻直播</display-name>
   </channel>
-  <channel id="第一財經直播">
-    <display-name lang="zh">第一財經直播</display-name>
+  <channel id="第一财经直播">
+    <display-name lang="zh">第一财经直播</display-name>
   </channel>
     <channel id="游戏风云_shanghai">
     <display-name lang="zh">游戏风云</display-name>
@@ -1055,32 +1055,32 @@
   </channel>
 陕西
 
-  <channel id="陝西卫视">
-    <display-name lang="zh">陝西卫视</display-name>
+  <channel id="陕西卫视">
+    <display-name lang="zh">陕西卫视</display-name>
   </channel>
-  <channel id="陝西新闻">
-    <display-name lang="zh">陝西新闻</display-name>
+  <channel id="陕西新闻">
+    <display-name lang="zh">陕西新闻</display-name>
   </channel>
-  <channel id="陝西都市青春">
-    <display-name lang="zh">陝西都市青春</display-name>
+  <channel id="陕西都市青春">
+    <display-name lang="zh">陕西都市青春</display-name>
   </channel>
-  <channel id="陝西生活">
-    <display-name lang="zh">陝西生活</display-name>
+  <channel id="陕西生活">
+    <display-name lang="zh">陕西生活</display-name>
   </channel>
-  <channel id="陝西影视">
-    <display-name lang="zh">陝西影视</display-name>
+  <channel id="陕西影视">
+    <display-name lang="zh">陕西影视</display-name>
   </channel>
-  <channel id="陝西公共">
-    <display-name lang="zh">陝西公共</display-name>
+  <channel id="陕西公共">
+    <display-name lang="zh">陕西公共</display-name>
   </channel>
-  <channel id="陝西乐家购物">
-    <display-name lang="zh">陝西乐家购物</display-name>
+  <channel id="陕西乐家购物">
+    <display-name lang="zh">陕西乐家购物</display-name>
   </channel>
-  <channel id="陝西体育">
-    <display-name lang="zh">陝西体育</display-name>
+  <channel id="陕西体育">
+    <display-name lang="zh">陕西体育</display-name>
   </channel>
-  <channel id="陝西农林">
-    <display-name lang="zh">陝西农林</display-name>
+  <channel id="陕西农林">
+    <display-name lang="zh">陕西农林</display-name>
   </channel>
 
  <channel id="陕西银龄频道">
@@ -1095,8 +1095,8 @@
   <channel id="陕西秦腔频道">
     <display-name lang="zh">陕西秦腔频道</display-name>
   </channel>
-  <channel id="陕西新闻资讯频道">
-    <display-name lang="zh">陕西新闻资讯频道</display-name>
+  <channel id="陕西新闻信息频道">
+    <display-name lang="zh">陕西新闻信息频道</display-name>
   </channel>
 
 
@@ -1188,8 +1188,8 @@
   <channel id="新疆维吾尔语新闻综合频道">
     <display-name lang="zh">新疆维吾尔语新闻综合频道</display-name>
   </channel>
-  <channel id="新疆哈萨克语新闻综合频道">
-    <display-name lang="zh">新疆哈萨克语新闻综合频道</display-name>
+  <channel id="新疆哈萨克斯坦语新闻综合频道">
+    <display-name lang="zh">新疆哈萨克斯坦语新闻综合频道</display-name>
   </channel>
   <channel id="新疆汉语综艺频道">
     <display-name lang="zh">新疆汉语综艺频道</display-name>
@@ -1200,8 +1200,8 @@
   <channel id="新疆汉语经济生活频道">
     <display-name lang="zh">新疆汉语经济生活频道</display-name>
   </channel>
-  <channel id="新疆哈萨克语综艺频道">
-    <display-name lang="zh">新疆哈萨克语综艺频道</display-name>
+  <channel id="新疆哈萨克斯坦语综艺频道">
+    <display-name lang="zh">新疆哈萨克斯坦语综艺频道</display-name>
   </channel>
   <channel id="新疆维吾尔语经济生活频道">
     <display-name lang="zh">新疆维吾尔语经济生活频道</display-name>
@@ -1218,80 +1218,80 @@
 
 香港
 mytvsuper
- <channel id="SUPER FREE (免費)">
-    <display-name lang="zh">SUPER FREE (免費)</display-name>
+ <channel id="SUPER FREE (免费)">
+    <display-name lang="zh">SUPER FREE (免费)</display-name>
   </channel>
-  <channel id="SUPER獎門人 (免費)">
-    <display-name lang="zh">SUPER獎門人 (免費)</display-name>
+  <channel id="SUPER奖门人 (免费)">
+    <display-name lang="zh">SUPER奖门人 (免费)</display-name>
   </channel>
-  <channel id="SUPER EYT (免費)">
-    <display-name lang="zh">SUPER EYT (免費)</display-name>
+  <channel id="SUPER EYT (免费)">
+    <display-name lang="zh">SUPER EYT (免费)</display-name>
   </channel>
-  <channel id="SUPER識食 (免費)">
-    <display-name lang="zh">SUPER識食 (免費)</display-name>
+  <channel id="SUPER识食 (免费)">
+    <display-name lang="zh">SUPER识食 (免费)</display-name>
   </channel>
-  <channel id="SUPER識嘆 (免費)">
-    <display-name lang="zh">SUPER識嘆 (免費)</display-name>
+  <channel id="SUPER识叹 (免费)">
+    <display-name lang="zh">SUPER识叹 (免费)</display-name>
   </channel>
-  <channel id="SUPER Music (免費)">
-    <display-name lang="zh">SUPER Music (免費)</display-name>
+  <channel id="SUPER Music (免费)">
+    <display-name lang="zh">SUPER Music (免费)</display-name>
   </channel>
-  <channel id="SUPER金曲 (免費)">
-    <display-name lang="zh">SUPER金曲 (免費)</display-name>
+  <channel id="SUPER金曲 (免费)">
+    <display-name lang="zh">SUPER金曲 (免费)</display-name>
   </channel>
-  <channel id="SUPER煲劇 (免費)">
-    <display-name lang="zh">SUPER煲劇 (免費)</display-name>
+  <channel id="SUPER煲剧 (免费)">
+    <display-name lang="zh">SUPER煲剧 (免费)</display-name>
   </channel>
-  <channel id="SUPER劇場 (免費)">
-    <display-name lang="zh">SUPER劇場 (免費)</display-name>
+  <channel id="SUPER剧场 (免费)">
+    <display-name lang="zh">SUPER剧场 (免费)</display-name>
   </channel>
-  <channel id="SUPER話當年 (免費)">
-    <display-name lang="zh">SUPER話當年 (免費)</display-name>
+  <channel id="SUPER话当年 (免费)">
+    <display-name lang="zh">SUPER话当年 (免费)</display-name>
   </channel>
-  <channel id="SUPER Sports (免費)">
-    <display-name lang="zh">SUPER Sports (免費)</display-name>
+  <channel id="SUPER Sports (免费)">
+    <display-name lang="zh">SUPER Sports (免费)</display-name>
   </channel>
   <channel id="myTV SUPER 18台">
     <display-name lang="zh">myTV SUPER 18台</display-name>
   </channel>
-  <channel id="28AI智慧賽馬 (免費)">
-    <display-name lang="zh">28AI智慧賽馬 (免費)</display-name>
+  <channel id="28AI智慧赛马 (免费)">
+    <display-name lang="zh">28AI智慧赛马 (免费)</display-name>
   </channel>
-  <channel id="黃金翡翠台 (免費)">
-    <display-name lang="zh">黃金翡翠台 (免費)</display-name>
+  <channel id="黄金翡翠台 (免费)">
+    <display-name lang="zh">黄金翡翠台 (免费)</display-name>
   </channel>
   <channel id="翡翠台(超高清)">
     <display-name lang="zh">翡翠台(超高清)</display-name>
   </channel>
-  <channel id="翡翠台 (免費)">
-    <display-name lang="zh">翡翠台 (免費)</display-name>
+  <channel id="翡翠台 (免费)">
+    <display-name lang="zh">翡翠台 (免费)</display-name>
   </channel>
-  <channel id="TVB Plus (免費)">
-    <display-name lang="zh">TVB Plus (免費)</display-name>
+  <channel id="TVB Plus (免费)">
+    <display-name lang="zh">TVB Plus (免费)</display-name>
   </channel>
-  <channel id="無綫新聞台 (免費)">
-    <display-name lang="zh">無綫新聞台 (免費)</display-name>
+  <channel id="无线新闻台 (免费)">
+    <display-name lang="zh">无线新闻台 (免费)</display-name>
   </channel>
-  <channel id="明珠台 (免費)">
-    <display-name lang="zh">明珠台 (免費)</display-name>
+  <channel id="明珠台 (免费)">
+    <display-name lang="zh">明珠台 (免费)</display-name>
   </channel>
-  <channel id="千禧經典台">
-    <display-name lang="zh">千禧經典台</display-name>
+  <channel id="千禧经典台">
+    <display-name lang="zh">千禧经典台</display-name>
   </channel>
-  <channel id="亞洲劇台">
-    <display-name lang="zh">亞洲劇台</display-name>
+  <channel id="亚洲剧台">
+    <display-name lang="zh">亚洲剧台</display-name>
   </channel>
-  <channel id="華語劇台">
-    <display-name lang="zh">華語劇台</display-name>
+  <channel id="华语剧台">
+    <display-name lang="zh">华语剧台</display-name>
   </channel>
-  <channel id="黃金華劇台">
-    <display-name lang="zh">黃金華劇台</display-name>
+  <channel id="黄金华剧台">
+    <display-name lang="zh">黄金华剧台</display-name>
   </channel>
-  <channel id="娛樂新聞台 (免費)">
-    <display-name lang="zh">娛樂新聞台 (免費)</display-name>
+  <channel id="娱乐新闻台 (免费)">
+    <display-name lang="zh">娱乐新闻台 (免费)</display-name>
   </channel>
-  <channel id="戲曲台">
-    <display-name lang="zh">戲曲台</display-name>
+  <channel id="戏曲台">
+    <display-name lang="zh">戏曲台</display-name>
   </channel>
   <channel id="SUPER Kids Channel">
     <display-name lang="zh">SUPER Kids Channel</display-name>
@@ -1305,20 +1305,20 @@ mytvsuper
   <channel id="Nick Jr">
     <display-name lang="zh">Nick Jr</display-name>
   </channel>
-  <channel id="粵語片台">
-    <display-name lang="zh">粵語片台</display-name>
+  <channel id="粤语片台">
+    <display-name lang="zh">粤语片台</display-name>
   </channel>
-  <channel id="美亞電影台">
-    <display-name lang="zh">美亞電影台</display-name>
+  <channel id="美亚电影台">
+    <display-name lang="zh">美亚电影台</display-name>
   </channel>
   <channel id="Thrill">
     <display-name lang="zh">Thrill</display-name>
   </channel>
-  <channel id="天映經典頻道">
-    <display-name lang="zh">天映經典頻道</display-name>
+  <channel id="天映经典频道">
+    <display-name lang="zh">天映经典频道</display-name>
   </channel>
-  <channel id="中國電影頻道">
-    <display-name lang="zh">中國電影頻道</display-name>
+  <channel id="中国电影频道">
+    <display-name lang="zh">中国电影频道</display-name>
   </channel>
   <channel id="ROCK Action">
     <display-name lang="zh">ROCK Action</display-name>
@@ -1326,17 +1326,17 @@ mytvsuper
   <channel id="PopC">
     <display-name lang="zh">PopC</display-name>
   </channel>
-  <channel id="Action Hollywood Movies (免費)">
-    <display-name lang="zh">Action Hollywood Movies (免費)</display-name>
+  <channel id="Action Hollywood Movies (免费)">
+    <display-name lang="zh">Action Hollywood Movies (免费)</display-name>
   </channel>
-  <channel id="Rialto Classic Movies (RCM) (免費)">
-    <display-name lang="zh">Rialto Classic Movies (RCM) (免費)</display-name>
+  <channel id="Rialto Classic Movies (RCM) (免费)">
+    <display-name lang="zh">Rialto Classic Movies (RCM) (免费)</display-name>
   </channel>
   <channel id="KIX">
     <display-name lang="zh">KIX</display-name>
   </channel>
-  <channel id="TRACE Sport Stars (免費)">
-    <display-name lang="zh">TRACE Sport Stars (免費)</display-name>
+  <channel id="TRACE Sport Stars (免费)">
+    <display-name lang="zh">TRACE Sport Stars (免费)</display-name>
   </channel>
   <channel id="Love Nature HD">
     <display-name lang="zh">Love Nature HD</display-name>
@@ -1347,20 +1347,20 @@ mytvsuper
   <channel id="Global Trekker">
     <display-name lang="zh">Global Trekker</display-name>
   </channel>
-  <channel id="Pet Club TV (免費)">
-    <display-name lang="zh">Pet Club TV (免費)</display-name>
+  <channel id="Pet Club TV (免费)">
+    <display-name lang="zh">Pet Club TV (免费)</display-name>
   </channel>
-  <channel id="Globetrotter (免費)">
-    <display-name lang="zh">Globetrotter (免費)</display-name>
+  <channel id="Globetrotter (免费)">
+    <display-name lang="zh">Globetrotter (免费)</display-name>
   </channel>
-  <channel id="DocsVille (免費)">
-    <display-name lang="zh">DocsVille (免費)</display-name>
+  <channel id="DocsVille (免费)">
+    <display-name lang="zh">DocsVille (免费)</display-name>
   </channel>
-  <channel id="Pulse Documentaries (免費)">
-    <display-name lang="zh">Pulse Documentaries (免費)</display-name>
+  <channel id="Pulse Documentaries (免费)">
+    <display-name lang="zh">Pulse Documentaries (免费)</display-name>
   </channel>
-  <channel id="ROCK綜藝娛樂">
-    <display-name lang="zh">ROCK綜藝娛樂</display-name>
+  <channel id="ROCK综艺娱乐">
+    <display-name lang="zh">ROCK综艺娱乐</display-name>
   </channel>
   <channel id="AXN">
     <display-name lang="zh">AXN</display-name>
@@ -1371,11 +1371,11 @@ mytvsuper
   <channel id="tvN">
     <display-name lang="zh">tvN</display-name>
   </channel>
-  <channel id="無線衛星亞洲台">
-    <display-name lang="zh">無線衛星亞洲台</display-name>
+  <channel id="无线卫星亚洲台">
+    <display-name lang="zh">无线卫星亚洲台</display-name>
   </channel>
-  <channel id="創世電視 (免費)">
-    <display-name lang="zh">創世電視 (免費)</display-name>
+  <channel id="创世电视 (免费)">
+    <display-name lang="zh">创世电视 (免费)</display-name>
   </channel>
   <channel id="FashionBox">
     <display-name lang="zh">FashionBox</display-name>
@@ -1383,92 +1383,92 @@ mytvsuper
   <channel id="Mezzo Live HD">
     <display-name lang="zh">Mezzo Live HD</display-name>
   </channel>
-  <channel id="中央電視台綜合頻道 (港澳版) (免費)">
-    <display-name lang="zh">中央電視台綜合頻道 (港澳版) (免費)</display-name>
+  <channel id="中央电视台综合频道 (港澳版) (免费)">
+    <display-name lang="zh">中央电视台综合频道 (港澳版) (免费)</display-name>
   </channel>
-  <channel id="CGTN (中國環球電視網)記錄頻道 (免費)">
-    <display-name lang="zh">CGTN (中國環球電視網)記錄頻道 (免費)</display-name>
+  <channel id="CGTN (中国环球电视网)记录频道 (免费)">
+    <display-name lang="zh">CGTN (中国环球电视网)记录频道 (免费)</display-name>
   </channel>
-  <channel id="CGTN (中國環球電視網)英語頻道 (免費)">
-    <display-name lang="zh">CGTN (中國環球電視網)英語頻道 (免費)</display-name>
+  <channel id="CGTN (中国环球电视网)英语频道 (免费)">
+    <display-name lang="zh">CGTN (中国环球电视网)英语频道 (免费)</display-name>
   </channel>
-  <channel id="東方衛視國際頻道 (免費)">
-    <display-name lang="zh">東方衛視國際頻道 (免費)</display-name>
+  <channel id="东方卫视国际频道 (免费)">
+    <display-name lang="zh">东方卫视国际频道 (免费)</display-name>
   </channel>
-  <channel id="鳳凰衛視中文台 (免費)">
-    <display-name lang="zh">鳳凰衛視中文台 (免費)</display-name>
+  <channel id="凤凰卫视中文台 (免费)">
+    <display-name lang="zh">凤凰卫视中文台 (免费)</display-name>
   </channel>
-  <channel id="鳳凰衛視資訊台 (免費)">
-    <display-name lang="zh">鳳凰衛視資訊台 (免費)</display-name>
+  <channel id="凤凰卫视信息台 (免费)">
+    <display-name lang="zh">凤凰卫视信息台 (免费)</display-name>
   </channel>
-  <channel id="鳳凰衛視香港台 (免費)">
-    <display-name lang="zh">鳳凰衛視香港台 (免費)</display-name>
+  <channel id="凤凰卫视香港台 (免费)">
+    <display-name lang="zh">凤凰卫视香港台 (免费)</display-name>
   </channel>
-  <channel id="中國中央電視台中文國際頻道 (免費)">
-    <display-name lang="zh">中國中央電視台中文國際頻道 (免費)</display-name>
+  <channel id="中国中央电视台中文国际频道 (免费)">
+    <display-name lang="zh">中国中央电视台中文国际频道 (免费)</display-name>
   </channel>
-  <channel id="中國中央電視台娛樂頻道 (免費)">
-    <display-name lang="zh">中國中央電視台娛樂頻道 (免費)</display-name>
+  <channel id="中国中央电视台娱乐频道 (免费)">
+    <display-name lang="zh">中国中央电视台娱乐频道 (免费)</display-name>
   </channel>
-  <channel id="中國中央電視台戲曲頻道 (免費)">
-    <display-name lang="zh">中國中央電視台戲曲頻道 (免費)</display-name>
+  <channel id="中国中央电视台戏曲频道 (免费)">
+    <display-name lang="zh">中国中央电视台戏曲频道 (免费)</display-name>
   </channel>
-  <channel id="雲南瀾湄國際衛視 (免費)">
-    <display-name lang="zh">雲南瀾湄國際衛視 (免費)</display-name>
+  <channel id="云南澜湄国际卫视 (免费)">
+    <display-name lang="zh">云南澜湄国际卫视 (免费)</display-name>
   </channel>
-  <channel id="安徽廣播電視台國際頻道 (免費)">
-    <display-name lang="zh">安徽廣播電視台國際頻道 (免費)</display-name>
+  <channel id="安徽广播电视台国际频道 (免费)">
+    <display-name lang="zh">安徽广播电视台国际频道 (免费)</display-name>
   </channel>
-  <channel id="北京電視台國際頻道 (免費)">
-    <display-name lang="zh">北京電視台國際頻道 (免費)</display-name>
+  <channel id="北京电视台国际频道 (免费)">
+    <display-name lang="zh">北京电视台国际频道 (免费)</display-name>
   </channel>
-  <channel id="廣西電視台國際頻道 (免費)">
-    <display-name lang="zh">廣西電視台國際頻道 (免費)</display-name>
+  <channel id="广西电视台国际频道 (免费)">
+    <display-name lang="zh">广西电视台国际频道 (免费)</display-name>
   </channel>
-  <channel id="福建海峽衛視國際頻道 (免費)">
-    <display-name lang="zh">福建海峽衛視國際頻道 (免費)</display-name>
+  <channel id="福建海峡卫视国际频道 (免费)">
+    <display-name lang="zh">福建海峡卫视国际频道 (免费)</display-name>
   </channel>
-  <channel id="湖南電視台國際頻道 (免費)">
-    <display-name lang="zh">湖南電視台國際頻道 (免費)</display-name>
+  <channel id="湖南电视台国际频道 (免费)">
+    <display-name lang="zh">湖南电视台国际频道 (免费)</display-name>
   </channel>
-  <channel id="江蘇電視台國際頻道 (免費)">
-    <display-name lang="zh">江蘇電視台國際頻道 (免費)</display-name>
+  <channel id="江苏电视台国际频道 (免费)">
+    <display-name lang="zh">江苏电视台国际频道 (免费)</display-name>
   </channel>
-  <channel id="廣東廣播電視台大灣區衛視頻道 (免費)">
-    <display-name lang="zh">廣東廣播電視台大灣區衛視頻道 (免費)</display-name>
+  <channel id="广东广播电视台大湾区卫视频道 (免费)">
+    <display-name lang="zh">广东广播电视台大湾区卫视频道 (免费)</display-name>
   </channel>
-  <channel id="浙江電視台國際頻道 (免費)">
-    <display-name lang="zh">浙江電視台國際頻道 (免費)</display-name>
+  <channel id="浙江电视台国际频道 (免费)">
+    <display-name lang="zh">浙江电视台国际频道 (免费)</display-name>
   </channel>
-  <channel id="深圳衛視國際頻道 (免費)">
-    <display-name lang="zh">深圳衛視國際頻道 (免費)</display-name>
+  <channel id="深圳卫视国际频道 (免费)">
+    <display-name lang="zh">深圳卫视国际频道 (免费)</display-name>
   </channel>
-  <channel id="NOW 70s (免費)">
-    <display-name lang="zh">NOW 70s (免費)</display-name>
+  <channel id="NOW 70s (免费)">
+    <display-name lang="zh">NOW 70s (免费)</display-name>
   </channel>
-  <channel id="NOW 80s (免費)">
-    <display-name lang="zh">NOW 80s (免費)</display-name>
+  <channel id="NOW 80s (免费)">
+    <display-name lang="zh">NOW 80s (免费)</display-name>
   </channel>
-  <channel id="NOW ROCK (免費)">
-    <display-name lang="zh">NOW ROCK (免費)</display-name>
+  <channel id="NOW ROCK (免费)">
+    <display-name lang="zh">NOW ROCK (免费)</display-name>
   </channel>
-  <channel id="NOW 90s00s (免費)">
-    <display-name lang="zh">NOW 90s00s (免費)</display-name>
+  <channel id="NOW 90s00s (免费)">
+    <display-name lang="zh">NOW 90s00s (免费)</display-name>
   </channel>
-  <channel id="Concerto (免費)">
-    <display-name lang="zh">Concerto (免費)</display-name>
+  <channel id="Concerto (免费)">
+    <display-name lang="zh">Concerto (免费)</display-name>
   </channel>
-  <channel id="TRACE Urban (免費)">
-    <display-name lang="zh">TRACE Urban (免費)</display-name>
+  <channel id="TRACE Urban (免费)">
+    <display-name lang="zh">TRACE Urban (免费)</display-name>
   </channel>
-  <channel id="無線衛星新聞台">
-    <display-name lang="zh">無線衛星新聞台</display-name>
+  <channel id="无线卫星新闻台">
+    <display-name lang="zh">无线卫星新闻台</display-name>
   </channel>
-  <channel id="亞洲新聞台">
-    <display-name lang="zh">亞洲新聞台</display-name>
+  <channel id="亚洲新闻台">
+    <display-name lang="zh">亚洲新闻台</display-name>
   </channel>
-  <channel id="半島電視台英語頻道">
-    <display-name lang="zh">半島電視台英語頻道</display-name>
+  <channel id="半岛电视台英语频道">
+    <display-name lang="zh">半岛电视台英语频道</display-name>
   </channel>
   <channel id="France 24">
     <display-name lang="zh">France 24</display-name>
@@ -1482,8 +1482,8 @@ mytvsuper
   <channel id="Arirang TV">
     <display-name lang="zh">Arirang TV</display-name>
   </channel>
-  <channel id="NewsWorld (免費)">
-    <display-name lang="zh">NewsWorld (免費)</display-name>
+  <channel id="NewsWorld (免费)">
+    <display-name lang="zh">NewsWorld (免费)</display-name>
   </channel>
   <channel id="myTV SUPER直播足球2台">
     <display-name lang="zh">myTV SUPER直播足球2台</display-name>
@@ -1503,8 +1503,8 @@ mytvsuper
   <channel id="myTV SUPER直播足球7台">
     <display-name lang="zh">myTV SUPER直播足球7台</display-name>
   </channel>
-  <channel id="測試頻道">
-    <display-name lang="zh">測試頻道</display-name>
+  <channel id="测试频道">
+    <display-name lang="zh">测试频道</display-name>
   </channel>
 
 TVB anywhere
@@ -1546,11 +1546,11 @@ nowtv
   <channel id="ViuTV">
     <display-name lang="zh">ViuTV</display-name>
   </channel>
-  <channel id="Viu 頻道">
-    <display-name lang="zh">Viu 頻道</display-name>
+  <channel id="Viu 频道">
+    <display-name lang="zh">Viu 频道</display-name>
   </channel>
-  <channel id="now 劇集">
-    <display-name lang="zh">now 劇集</display-name>
+  <channel id="now 剧集">
+    <display-name lang="zh">now 剧集</display-name>
   </channel>
   <channel id="video express rentnow">
     <display-name lang="zh">video express rentnow</display-name>
@@ -1591,8 +1591,8 @@ nowtv
   <channel id="KBS World香港">
     <display-name lang="zh">KBS World香港</display-name>
   </channel>
-  <channel id="東森亞洲">
-    <display-name lang="zh">東森亞洲</display-name>
+  <channel id="东森亚洲">
+    <display-name lang="zh">东森亚洲</display-name>
   </channel>
   <channel id="moov">
     <display-name lang="zh">moov</display-name>
@@ -1606,17 +1606,17 @@ nowtv
   <channel id="Discovery Channel香港">
     <display-name lang="zh">Discovery Channel香港</display-name>
   </channel>
-  <channel id="動物星球頻道香港">
-    <display-name lang="zh">動物星球頻道香港</display-name>
+  <channel id="动物星球频道香港">
+    <display-name lang="zh">动物星球频道香港</display-name>
   </channel>
-  <channel id="Discovery 科學頻道香港">
-    <display-name lang="zh">Discovery 科學頻道香港</display-name>
+  <channel id="Discovery 科学频道香港">
+    <display-name lang="zh">Discovery 科学频道香港</display-name>
   </channel>
   <channel id="DMAX香港">
     <display-name lang="zh">DMAX香港</display-name>
   </channel>
-  <channel id="TLC旅遊生活頻道香港">
-    <display-name lang="zh">TLC旅遊生活頻道香港</display-name>
+  <channel id="TLC旅游生活频道香港">
+    <display-name lang="zh">TLC旅游生活频道香港</display-name>
   </channel>
   <channel id="Love Nature香港">
     <display-name lang="zh">Love Nature香港</display-name>
@@ -1624,17 +1624,17 @@ nowtv
   <channel id="BBC Earth香港">
     <display-name lang="zh">BBC Earth香港</display-name>
   </channel>
-  <channel id="戶外頻道香港">
-    <display-name lang="zh">戶外頻道香港</display-name>
+  <channel id="户外频道香港">
+    <display-name lang="zh">户外频道香港</display-name>
   </channel>
-  <channel id="罪案 + 偵緝香港">
-    <display-name lang="zh">罪案 + 偵緝香港</display-name>
+  <channel id="罪案 + 侦缉香港">
+    <display-name lang="zh">罪案 + 侦缉香港</display-name>
   </channel>
   <channel id="HISTORY香港">
     <display-name lang="zh">HISTORY香港</display-name>
   </channel>
-  <channel id="CNN 國際新聞網絡香港">
-    <display-name lang="zh">CNN 國際新聞網絡香港</display-name>
+  <channel id="CNN 国际新闻网络香港">
+    <display-name lang="zh">CNN 国际新闻网络香港</display-name>
   </channel>
   <channel id="CNBC香港">
     <display-name lang="zh">CNBC香港</display-name>
@@ -1645,8 +1645,8 @@ nowtv
   <channel id="Bloomberg Television香港">
     <display-name lang="zh">Bloomberg Television香港</display-name>
   </channel>
-  <channel id="亞洲新聞台香港">
-    <display-name lang="zh">亞洲新聞台香港</display-name>
+  <channel id="亚洲新闻台香港">
+    <display-name lang="zh">亚洲新闻台香港</display-name>
   </channel>
   <channel id="Sky News香港">
     <display-name lang="zh">Sky News香港</display-name>
@@ -1654,8 +1654,8 @@ nowtv
   <channel id="DW (English)香港">
     <display-name lang="zh">DW (English)香港</display-name>
   </channel>
-  <channel id="半島電視台英語頻道香港">
-    <display-name lang="zh">半島電視台英語頻道香港</display-name>
+  <channel id="半岛电视台英语频道香港">
+    <display-name lang="zh">半岛电视台英语频道香港</display-name>
   </channel>
   <channel id="euronews香港">
     <display-name lang="zh">euronews香港</display-name>
@@ -1669,44 +1669,44 @@ nowtv
   <channel id="RT香港">
     <display-name lang="zh">RT香港</display-name>
   </channel>
-  <channel id="中國環球電視網香港">
-    <display-name lang="zh">中國環球電視網香港</display-name>
+  <channel id="中国环球电视网香港">
+    <display-name lang="zh">中国环球电视网香港</display-name>
   </channel>
   <channel id="now直播 ">
     <display-name lang="zh">now直播 </display-name>
   </channel>
-  <channel id="now新聞">
-    <display-name lang="zh">now新聞</display-name>
+  <channel id="now新闻">
+    <display-name lang="zh">now新闻</display-name>
   </channel>
-  <channel id="now財經">
-    <display-name lang="zh">now財經</display-name>
+  <channel id="now财经">
+    <display-name lang="zh">now财经</display-name>
   </channel>
-  <channel id="now報價">
-    <display-name lang="zh">now報價</display-name>
+  <channel id="now报价">
+    <display-name lang="zh">now报价</display-name>
   </channel>
-  <channel id="第一財經">
-    <display-name lang="zh">第一財經</display-name>
+  <channel id="第一财经">
+    <display-name lang="zh">第一财经</display-name>
   </channel>
-  <channel id="鳳凰資訊">
-    <display-name lang="zh">鳳凰資訊</display-name>
+  <channel id="凤凰信息">
+    <display-name lang="zh">凤凰信息</display-name>
   </channel>
-  <channel id="鳳凰香港台">
-    <display-name lang="zh">鳳凰香港台</display-name>
+  <channel id="凤凰香港台">
+    <display-name lang="zh">凤凰香港台</display-name>
   </channel>
-  <channel id="智叻樂園">
-    <display-name lang="zh">智叻樂園</display-name>
+  <channel id="智叻乐园">
+    <display-name lang="zh">智叻乐园</display-name>
   </channel>
-  <channel id="鳳凰中文">
-    <display-name lang="zh">鳳凰中文</display-name>
+  <channel id="凤凰中文">
+    <display-name lang="zh">凤凰中文</display-name>
   </channel>
-  <channel id="香港衛視">
-    <display-name lang="zh">香港衛視</display-name>
+  <channel id="香港卫视">
+    <display-name lang="zh">香港卫视</display-name>
   </channel>
-  <channel id="東森亞洲新聞">
-    <display-name lang="zh">東森亞洲新聞</display-name>
+  <channel id="东森亚洲新闻">
+    <display-name lang="zh">东森亚洲新闻</display-name>
   </channel>
-  <channel id="DreamWorks 頻道香港">
-    <display-name lang="zh">DreamWorks 頻道香港</display-name>
+  <channel id="DreamWorks 频道香港">
+    <display-name lang="zh">DreamWorks 频道香港</display-name>
   </channel>
   <channel id="Cartoon Network香港">
     <display-name lang="zh">Cartoon Network香港</display-name>
@@ -1741,20 +1741,20 @@ nowtv
   <channel id="Food Network香港">
     <display-name lang="zh">Food Network香港</display-name>
   </channel>
-  <channel id="亞洲美食台香港">
-    <display-name lang="zh">亞洲美食台香港</display-name>
+  <channel id="亚洲美食台香港">
+    <display-name lang="zh">亚洲美食台香港</display-name>
   </channel>
-  <channel id="旅遊頻道香港">
-    <display-name lang="zh">旅遊頻道香港</display-name>
+  <channel id="旅游频道香港">
+    <display-name lang="zh">旅游频道香港</display-name>
   </channel>
-  <channel id="居家樂活頻道香港">
-    <display-name lang="zh">居家樂活頻道香港</display-name>
+  <channel id="居家乐活频道香港">
+    <display-name lang="zh">居家乐活频道香港</display-name>
   </channel>
   <channel id="Netflix香港">
     <display-name lang="zh">Netflix香港</display-name>
   </channel>
-  <channel id="深圳衛視香港">
-    <display-name lang="zh">深圳衛視香港</display-name>
+  <channel id="深圳卫视香港">
+    <display-name lang="zh">深圳卫视香港</display-name>
   </channel>
   <channel id="CCTV-1香港">
     <display-name lang="zh">CCTV-1香港</display-name>
@@ -1762,38 +1762,38 @@ nowtv
   <channel id="CCTV-4香港">
     <display-name lang="zh">CCTV-4香港</display-name>
   </channel>
-  <channel id="大灣區衛視香港">
-    <display-name lang="zh">大灣區衛視香港</display-name>
+  <channel id="大湾区卫视香港">
+    <display-name lang="zh">大湾区卫视香港</display-name>
   </channel>
-  <channel id="中央電視台新聞頻道香港">
-    <display-name lang="zh">中央電視台新聞頻道香港</display-name>
+  <channel id="中央电视台新闻频道香港">
+    <display-name lang="zh">中央电视台新闻频道香港</display-name>
   </channel>
-  <channel id="鳳凰衛視中文台">
-    <display-name lang="zh">鳳凰衛視中文台</display-name>
+  <channel id="凤凰卫视中文台">
+    <display-name lang="zh">凤凰卫视中文台</display-name>
   </channel>
-  <channel id="OneTV 綜合頻道">
-    <display-name lang="zh">OneTV 綜合頻道</display-name>
+  <channel id="OneTV 综合频道">
+    <display-name lang="zh">OneTV 综合频道</display-name>
   </channel>
-  <channel id="三沙衛視香港">
-    <display-name lang="zh">三沙衛視香港</display-name>
+  <channel id="三沙卫视香港">
+    <display-name lang="zh">三沙卫视香港</display-name>
   </channel>
-  <channel id="浙江衛視香港">
-    <display-name lang="zh">浙江衛視香港</display-name>
+  <channel id="浙江卫视香港">
+    <display-name lang="zh">浙江卫视香港</display-name>
   </channel>
   <channel id="ABC Australia香港">
     <display-name lang="zh">ABC Australia香港</display-name>
   </channel>
-  <channel id="now體育">
-    <display-name lang="zh">now體育</display-name>
+  <channel id="now体育">
+    <display-name lang="zh">now体育</display-name>
   </channel>
-  <channel id="now體育4k">
-    <display-name lang="zh">now體育4k</display-name>
+  <channel id="now体育4k">
+    <display-name lang="zh">now体育4k</display-name>
   </channel>
-  <channel id="now體育4k">
-    <display-name lang="zh">now體育4k</display-name>
+  <channel id="now体育4k">
+    <display-name lang="zh">now体育4k</display-name>
   </channel>
-  <channel id="now體育4k">
-    <display-name lang="zh">now體育4k</display-name>
+  <channel id="now体育4k">
+    <display-name lang="zh">now体育4k</display-name>
   </channel>
   <channel id="Now Sports 英超TV">
     <display-name lang="zh">Now Sports 英超TV</display-name>
@@ -1900,11 +1900,11 @@ nowtv
   <channel id="Now Sports 681">
     <display-name lang="zh">Now Sports 681</display-name>
   </channel>
-  <channel id="Now 高爾夫2">
-    <display-name lang="zh">Now 高爾夫2</display-name>
+  <channel id="Now 高尔夫2">
+    <display-name lang="zh">Now 高尔夫2</display-name>
   </channel>
-  <channel id="Now 高爾夫3">
-    <display-name lang="zh">Now 高爾夫3</display-name>
+  <channel id="Now 高尔夫3">
+    <display-name lang="zh">Now 高尔夫3</display-name>
   </channel>
   <channel id="Lucky 688">
     <display-name lang="zh">Lucky 688</display-name>
@@ -1963,156 +1963,156 @@ nowtv
   <channel id="Star Bharat">
     <display-name lang="zh">Star Bharat</display-name>
   </channel>
-  <channel id="成人節目資訊">
-    <display-name lang="zh">成人節目資訊</display-name>
+  <channel id="成人节目信息">
+    <display-name lang="zh">成人节目信息</display-name>
   </channel>
-  <channel id="冰火頻道">
-    <display-name lang="zh">冰火頻道</display-name>
+  <channel id="冰火频道">
+    <display-name lang="zh">冰火频道</display-name>
   </channel>
-  <channel id="成人極品台">
-    <display-name lang="zh">成人極品台</display-name>
+  <channel id="成人极品台">
+    <display-name lang="zh">成人极品台</display-name>
   </channel>
 
 
-<channel id="HOY國際財經">
-    <display-name lang="zh">HOY國際財經</display-name>
+<channel id="HOY国际财经">
+    <display-name lang="zh">HOY国际财经</display-name>
   </channel>
   <channel id="HOY TV">
     <display-name lang="zh">HOY TV</display-name>
   </channel>
-  <channel id="HOY資訊">
-    <display-name lang="zh">HOY資訊</display-name>
+  <channel id="HOY信息">
+    <display-name lang="zh">HOY信息</display-name>
   </channel>
 
 
-  <channel id="香港電台31">
-    <display-name lang="zh">香港電台31</display-name>
+  <channel id="香港电台31">
+    <display-name lang="zh">香港电台31</display-name>
   </channel>
-  <channel id="香港電台32">
-    <display-name lang="zh">香港電台32</display-name>
+  <channel id="香港电台32">
+    <display-name lang="zh">香港电台32</display-name>
   </channel>
-  <channel id="香港電台33">
-    <display-name lang="zh">香港電台33</display-name>
+  <channel id="香港电台33">
+    <display-name lang="zh">香港电台33</display-name>
   </channel>
 
 
 澳门
   
- <channel id="澳視澳門">
-    <display-name lang="zh">澳視澳門</display-name>
+ <channel id="澳视澳门">
+    <display-name lang="zh">澳视澳门</display-name>
   </channel>
-  <channel id="澳門葡萄牙">
-    <display-name lang="zh">澳門葡萄牙</display-name>
+  <channel id="澳门葡萄牙">
+    <display-name lang="zh">澳门葡萄牙</display-name>
   </channel>
-  <channel id="澳門資訊">
-    <display-name lang="zh">澳門資訊</display-name>
+  <channel id="澳门信息">
+    <display-name lang="zh">澳门信息</display-name>
   </channel>
-  <channel id="澳門體育">
-    <display-name lang="zh">澳門體育</display-name>
+  <channel id="澳门体育">
+    <display-name lang="zh">澳门体育</display-name>
   </channel>
-  <channel id="澳門綜藝">
-    <display-name lang="zh">澳門綜藝</display-name>
+  <channel id="澳门综艺">
+    <display-name lang="zh">澳门综艺</display-name>
   </channel>
-  <channel id="澳門衛星">
-    <display-name lang="zh">澳門衛星</display-name>
+  <channel id="澳门卫星">
+    <display-name lang="zh">澳门卫星</display-name>
   </channel>
 
 
 台湾
- <channel id="中天亞洲台">
-    <display-name lang="zh">中天亞洲台</display-name>
+ <channel id="中天亚洲台">
+    <display-name lang="zh">中天亚洲台</display-name>
   </channel>
-  <channel id="龍華卡通台">
-    <display-name lang="zh">龍華卡通台</display-name>
+  <channel id="龙华卡通台">
+    <display-name lang="zh">龙华卡通台</display-name>
   </channel>
-  <channel id="龍華日韓台">
-    <display-name lang="zh">龍華日韓台</display-name>
+  <channel id="龙华日韩台">
+    <display-name lang="zh">龙华日韩台</display-name>
   </channel>
-  <channel id="龍華偶像台OTT">
-    <display-name lang="zh">龍華偶像台OTT</display-name>
-  </channel>
-
-<channel id="elta體育max 1">
-    <display-name lang="zh">elta體育max 1</display-name>
-  </channel>
-  <channel id="elta體育max 2">
-    <display-name lang="zh">elta體育max 2</display-name>
-  </channel>
-  <channel id="elta體育max 3">
-    <display-name lang="zh">elta體育max 3</display-name>
-  </channel>
-  <channel id="elta體育max 4">
-    <display-name lang="zh">elta體育max 4</display-name>
-  </channel>
-  <channel id="elta體育max 5">
-    <display-name lang="zh">elta體育max 5</display-name>
-  </channel>
-  <channel id="elta體育max 6">
-    <display-name lang="zh">elta體育max 6</display-name>
-  </channel>
-  <channel id="elta體育max 7">
-    <display-name lang="zh">elta體育max 7</display-name>
-  </channel>
-  <channel id="elta體育max 8">
-    <display-name lang="zh">elta體育max 8</display-name>
-  </channel>
-  <channel id="elta日韓">
-    <display-name lang="zh">elta日韓</display-name>
+  <channel id="龙华偶像台OTT">
+    <display-name lang="zh">龙华偶像台OTT</display-name>
   </channel>
 
-  <channel id="民視MOD">
-    <display-name lang="zh">民視MOD</display-name>
+<channel id="elta体育max 1">
+    <display-name lang="zh">elta体育max 1</display-name>
   </channel>
-  <channel id="人間衛視">
-    <display-name lang="zh">人間衛視</display-name>
+  <channel id="elta体育max 2">
+    <display-name lang="zh">elta体育max 2</display-name>
   </channel>
-  <channel id="台視MOD">
-    <display-name lang="zh">台視MOD</display-name>
+  <channel id="elta体育max 3">
+    <display-name lang="zh">elta体育max 3</display-name>
   </channel>
-  <channel id="大愛電視MOD">
-    <display-name lang="zh">大愛電視MOD</display-name>
+  <channel id="elta体育max 4">
+    <display-name lang="zh">elta体育max 4</display-name>
   </channel>
-  <channel id="中視MOD">
-    <display-name lang="zh">中視MOD</display-name>
+  <channel id="elta体育max 5">
+    <display-name lang="zh">elta体育max 5</display-name>
   </channel>
-  <channel id="華視MOD">
-    <display-name lang="zh">華視MOD</display-name>
+  <channel id="elta体育max 6">
+    <display-name lang="zh">elta体育max 6</display-name>
   </channel>
-  <channel id="公視MOD">
-    <display-name lang="zh">公視MOD</display-name>
+  <channel id="elta体育max 7">
+    <display-name lang="zh">elta体育max 7</display-name>
   </channel>
-  <channel id="公視台語台">
-    <display-name lang="zh">公視台語台</display-name>
+  <channel id="elta体育max 8">
+    <display-name lang="zh">elta体育max 8</display-name>
   </channel>
-  <channel id="好消息衛星電視台">
-    <display-name lang="zh">好消息衛星電視台</display-name>
+  <channel id="elta日韩">
+    <display-name lang="zh">elta日韩</display-name>
   </channel>
-  <channel id="原住民族電視台">
-    <display-name lang="zh">原住民族電視台</display-name>
+
+  <channel id="民视MOD">
+    <display-name lang="zh">民视MOD</display-name>
   </channel>
-  <channel id="客家電視">
-    <display-name lang="zh">客家電視</display-name>
+  <channel id="人间卫视">
+    <display-name lang="zh">人间卫视</display-name>
   </channel>
-  <channel id="華視教育體育文化台">
-    <display-name lang="zh">華視教育體育文化台</display-name>
+  <channel id="台视MOD">
+    <display-name lang="zh">台视MOD</display-name>
   </channel>
-  <channel id="小公視MOD">
-    <display-name lang="zh">小公視MOD</display-name>
+  <channel id="大爱电视MOD">
+    <display-name lang="zh">大爱电视MOD</display-name>
   </channel>
-  <channel id="大愛二台">
-    <display-name lang="zh">大愛二台</display-name>
+  <channel id="中视MOD">
+    <display-name lang="zh">中视MOD</display-name>
+  </channel>
+  <channel id="华视MOD">
+    <display-name lang="zh">华视MOD</display-name>
+  </channel>
+  <channel id="公视MOD">
+    <display-name lang="zh">公视MOD</display-name>
+  </channel>
+  <channel id="公视台语台">
+    <display-name lang="zh">公视台语台</display-name>
+  </channel>
+  <channel id="好消息卫星电视台">
+    <display-name lang="zh">好消息卫星电视台</display-name>
+  </channel>
+  <channel id="原住民族电视台">
+    <display-name lang="zh">原住民族电视台</display-name>
+  </channel>
+  <channel id="客家电视">
+    <display-name lang="zh">客家电视</display-name>
+  </channel>
+  <channel id="华视教育体育文化台">
+    <display-name lang="zh">华视教育体育文化台</display-name>
+  </channel>
+  <channel id="小公视MOD">
+    <display-name lang="zh">小公视MOD</display-name>
+  </channel>
+  <channel id="大爱二台">
+    <display-name lang="zh">大爱二台</display-name>
   </channel>
   <channel id="CARTOONITO HD">
     <display-name lang="zh">CARTOONITO HD</display-name>
   </channel>
-  <channel id="ELTV生活英語台">
-    <display-name lang="zh">ELTV生活英語台</display-name>
+  <channel id="ELTV生活英语台">
+    <display-name lang="zh">ELTV生活英语台</display-name>
   </channel>
-  <channel id="龍華動畫HD">
-    <display-name lang="zh">龍華動畫HD</display-name>
+  <channel id="龙华动画HD">
+    <display-name lang="zh">龙华动画HD</display-name>
   </channel>
-  <channel id="尼克兒童頻道HD">
-    <display-name lang="zh">尼克兒童頻道HD</display-name>
+  <channel id="尼克儿童频道HD">
+    <display-name lang="zh">尼克儿童频道HD</display-name>
   </channel>
   <channel id="靖洋卡通台Nice Bingo">
     <display-name lang="zh">靖洋卡通台Nice Bingo</display-name>
@@ -2123,8 +2123,8 @@ nowtv
   <channel id="CBeebies">
     <display-name lang="zh">CBeebies</display-name>
   </channel>
-  <channel id="DaVinCi Learning達文西頻道">
-    <display-name lang="zh">DaVinCi Learning達文西頻道</display-name>
+  <channel id="DaVinCi Learning达文西频道">
+    <display-name lang="zh">DaVinCi Learning达文西频道</display-name>
   </channel>
   <channel id="Nick Jr.">
     <display-name lang="zh">Nick Jr.</display-name>
@@ -2132,14 +2132,14 @@ nowtv
   <channel id="DREAMWORKS">
     <display-name lang="zh">DREAMWORKS</display-name>
   </channel>
-  <channel id="國會頻道1">
-    <display-name lang="zh">國會頻道1</display-name>
+  <channel id="国会频道1">
+    <display-name lang="zh">国会频道1</display-name>
   </channel>
-  <channel id="國會頻道2">
-    <display-name lang="zh">國會頻道2</display-name>
+  <channel id="国会频道2">
+    <display-name lang="zh">国会频道2</display-name>
   </channel>
-  <channel id="Fun探索娛樂台4K">
-    <display-name lang="zh">Fun探索娛樂台4K</display-name>
+  <channel id="Fun探索娱乐台4K">
+    <display-name lang="zh">Fun探索娱乐台4K</display-name>
   </channel>
   <channel id="Medici-arts">
     <display-name lang="zh">Medici-arts</display-name>
@@ -2147,8 +2147,8 @@ nowtv
   <channel id="MTV Live">
     <display-name lang="zh">MTV Live</display-name>
   </channel>
-  <channel id="MTV綜合電視台">
-    <display-name lang="zh">MTV綜合電視台</display-name>
+  <channel id="MTV综合电视台">
+    <display-name lang="zh">MTV综合电视台</display-name>
   </channel>
   <channel id="Mezzo Live HD">
     <display-name lang="zh">Mezzo Live HD</display-name>
@@ -2156,23 +2156,23 @@ nowtv
   <channel id="TRACE Urban">
     <display-name lang="zh">TRACE Urban</display-name>
   </channel>
-  <channel id="古典音樂台CLASSICA HD">
-    <display-name lang="zh">古典音樂台CLASSICA HD</display-name>
+  <channel id="古典音乐台CLASSICA HD">
+    <display-name lang="zh">古典音乐台CLASSICA HD</display-name>
   </channel>
   <channel id="CMusic">
     <display-name lang="zh">CMusic</display-name>
   </channel>
-  <channel id="愛爾達體育1台">
-    <display-name lang="zh">愛爾達體育1台</display-name>
+  <channel id="爱尔达体育1台">
+    <display-name lang="zh">爱尔达体育1台</display-name>
   </channel>
-  <channel id="愛爾達體育2台">
-    <display-name lang="zh">愛爾達體育2台</display-name>
+  <channel id="爱尔达体育2台">
+    <display-name lang="zh">爱尔达体育2台</display-name>
   </channel>
-  <channel id="愛爾達體育3台">
-    <display-name lang="zh">愛爾達體育3台</display-name>
+  <channel id="爱尔达体育3台">
+    <display-name lang="zh">爱尔达体育3台</display-name>
   </channel>
-  <channel id="愛爾達體育4台">
-    <display-name lang="zh">愛爾達體育4台</display-name>
+  <channel id="爱尔达体育4台">
+    <display-name lang="zh">爱尔达体育4台</display-name>
   </channel>
   <channel id="博斯高球一台">
     <display-name lang="zh">博斯高球一台</display-name>
@@ -2180,17 +2180,17 @@ nowtv
   <channel id="博斯高球二台">
     <display-name lang="zh">博斯高球二台</display-name>
   </channel>
-  <channel id="博斯網球">
-    <display-name lang="zh">博斯網球</display-name>
+  <channel id="博斯网球">
+    <display-name lang="zh">博斯网球</display-name>
   </channel>
   <channel id="博斯魅力">
     <display-name lang="zh">博斯魅力</display-name>
   </channel>
-  <channel id="博斯無限台">
-    <display-name lang="zh">博斯無限台</display-name>
+  <channel id="博斯无限台">
+    <display-name lang="zh">博斯无限台</display-name>
   </channel>
-  <channel id="博斯無限二台">
-    <display-name lang="zh">博斯無限二台</display-name>
+  <channel id="博斯无限二台">
+    <display-name lang="zh">博斯无限二台</display-name>
   </channel>
   <channel id="TRACE Sport Stars HD">
     <display-name lang="zh">TRACE Sport Stars HD</display-name>
@@ -2198,23 +2198,23 @@ nowtv
   <channel id="DAZN3">
     <display-name lang="zh">DAZN3</display-name>
   </channel>
-  <channel id="博斯運動一台">
-    <display-name lang="zh">博斯運動一台</display-name>
+  <channel id="博斯运动一台">
+    <display-name lang="zh">博斯运动一台</display-name>
   </channel>
   <channel id="DAZN2">
     <display-name lang="zh">DAZN2</display-name>
   </channel>
-  <channel id="智林體育台">
-    <display-name lang="zh">智林體育台</display-name>
+  <channel id="智林体育台">
+    <display-name lang="zh">智林体育台</display-name>
   </channel>
   <channel id="EUROSPORT">
     <display-name lang="zh">EUROSPORT</display-name>
   </channel>
-  <channel id="博斯運動二台">
-    <display-name lang="zh">博斯運動二台</display-name>
+  <channel id="博斯运动二台">
+    <display-name lang="zh">博斯运动二台</display-name>
   </channel>
-  <channel id="麥哲倫頻道 HD">
-    <display-name lang="zh">麥哲倫頻道 HD</display-name>
+  <channel id="麦哲伦频道 HD">
+    <display-name lang="zh">麦哲伦频道 HD</display-name>
   </channel>
   <channel id="LOVE NATURE 4K">
     <display-name lang="zh">LOVE NATURE 4K</display-name>
@@ -2225,8 +2225,8 @@ nowtv
   <channel id="Discovery Asia">
     <display-name lang="zh">Discovery Asia</display-name>
   </channel>
-  <channel id="Discovery科學頻道">
-    <display-name lang="zh">Discovery科學頻道</display-name>
+  <channel id="Discovery科学频道">
+    <display-name lang="zh">Discovery科学频道</display-name>
   </channel>
   <channel id="DMAX">
     <display-name lang="zh">DMAX</display-name>
@@ -2237,11 +2237,11 @@ nowtv
   <channel id="Global Trekker HD">
     <display-name lang="zh">Global Trekker HD</display-name>
   </channel>
-  <channel id="歷史頻道">
-    <display-name lang="zh">歷史頻道</display-name>
+  <channel id="历史频道">
+    <display-name lang="zh">历史频道</display-name>
   </channel>
-  <channel id="罪案偵緝頻道">
-    <display-name lang="zh">罪案偵緝頻道</display-name>
+  <channel id="罪案侦缉频道">
+    <display-name lang="zh">罪案侦缉频道</display-name>
   </channel>
   <channel id="BBC Lifestyle Channel">
     <display-name lang="zh">BBC Lifestyle Channel</display-name>
@@ -2258,131 +2258,131 @@ nowtv
   <channel id="Lifetime">
     <display-name lang="zh">Lifetime</display-name>
   </channel>
-  <channel id="KLT-靖天國際台">
-    <display-name lang="zh">KLT-靖天國際台</display-name>
+  <channel id="KLT-靖天国际台">
+    <display-name lang="zh">KLT-靖天国际台</display-name>
   </channel>
-  <channel id="幸福空間居家台">
-    <display-name lang="zh">幸福空間居家台</display-name>
+  <channel id="幸福空间居家台">
+    <display-name lang="zh">幸福空间居家台</display-name>
   </channel>
-  <channel id="滾動力 rollor">
-    <display-name lang="zh">滾動力 rollor</display-name>
+  <channel id="滚动力 rollor">
+    <display-name lang="zh">滚动力 rollor</display-name>
   </channel>
-  <channel id="HGTV 居家樂活頻道">
-    <display-name lang="zh">HGTV 居家樂活頻道</display-name>
+  <channel id="HGTV 居家乐活频道">
+    <display-name lang="zh">HGTV 居家乐活频道</display-name>
   </channel>
-  <channel id="車迷TV HD">
-    <display-name lang="zh">車迷TV HD</display-name>
+  <channel id="车迷TV HD">
+    <display-name lang="zh">车迷TV HD</display-name>
   </channel>
-  <channel id="美食星球頻道">
-    <display-name lang="zh">美食星球頻道</display-name>
+  <channel id="美食星球频道">
+    <display-name lang="zh">美食星球频道</display-name>
   </channel>
-  <channel id="Asian Food Network 亞洲美食頻道">
-    <display-name lang="zh">Asian Food Network 亞洲美食頻道</display-name>
+  <channel id="Asian Food Network 亚洲美食频道">
+    <display-name lang="zh">Asian Food Network 亚洲美食频道</display-name>
   </channel>
-  <channel id="Food Network 美食台頻道">
-    <display-name lang="zh">Food Network 美食台頻道</display-name>
+  <channel id="Food Network 美食台频道">
+    <display-name lang="zh">Food Network 美食台频道</display-name>
   </channel>
-  <channel id="亞洲旅遊台MOD">
-    <display-name lang="zh">亞洲旅遊台MOD</display-name>
+  <channel id="亚洲旅游台MOD">
+    <display-name lang="zh">亚洲旅游台MOD</display-name>
   </channel>
-  <channel id="EYE TV旅遊台">
-    <display-name lang="zh">EYE TV旅遊台</display-name>
+  <channel id="EYE TV旅游台">
+    <display-name lang="zh">EYE TV旅游台</display-name>
   </channel>
   <channel id="Travel Channel">
     <display-name lang="zh">Travel Channel</display-name>
   </channel>
-  <channel id="時尚頻道">
-    <display-name lang="zh">時尚頻道</display-name>
+  <channel id="时尚频道">
+    <display-name lang="zh">时尚频道</display-name>
   </channel>
-  <channel id="TV5MONDE STYLE HD 生活時尚">
-    <display-name lang="zh">TV5MONDE STYLE HD 生活時尚</display-name>
+  <channel id="TV5MONDE STYLE HD 生活时尚">
+    <display-name lang="zh">TV5MONDE STYLE HD 生活时尚</display-name>
   </channel>
-  <channel id="東森購物1台">
-    <display-name lang="zh">東森購物1台</display-name>
+  <channel id="东森购物1台">
+    <display-name lang="zh">东森购物1台</display-name>
   </channel>
-  <channel id="愛爾達綜合台">
-    <display-name lang="zh">愛爾達綜合台</display-name>
+  <channel id="爱尔达综合台">
+    <display-name lang="zh">爱尔达综合台</display-name>
   </channel>
-  <channel id="三立綜合台">
-    <display-name lang="zh">三立綜合台</display-name>
+  <channel id="三立综合台">
+    <display-name lang="zh">三立综合台</display-name>
   </channel>
-  <channel id="靖天資訊台">
-    <display-name lang="zh">靖天資訊台</display-name>
+  <channel id="靖天信息台">
+    <display-name lang="zh">靖天信息台</display-name>
   </channel>
-  <channel id="靖天綜合台">
-    <display-name lang="zh">靖天綜合台</display-name>
+  <channel id="靖天综合台">
+    <display-name lang="zh">靖天综合台</display-name>
   </channel>
-  <channel id="靖天育樂台">
-    <display-name lang="zh">靖天育樂台</display-name>
+  <channel id="靖天育乐台">
+    <display-name lang="zh">靖天育乐台</display-name>
   </channel>
-  <channel id="Smart知識台">
-    <display-name lang="zh">Smart知識台</display-name>
+  <channel id="Smart知识台">
+    <display-name lang="zh">Smart知识台</display-name>
   </channel>
-  <channel id="台視綜合台">
-    <display-name lang="zh">台視綜合台</display-name>
+  <channel id="台视综合台">
+    <display-name lang="zh">台视综合台</display-name>
   </channel>
-  <channel id="亞洲綜合台">
-    <display-name lang="zh">亞洲綜合台</display-name>
+  <channel id="亚洲综合台">
+    <display-name lang="zh">亚洲综合台</display-name>
   </channel>
-  <channel id="中視經典台MOD">
-    <display-name lang="zh">中視經典台MOD</display-name>
+  <channel id="中视经典台MOD">
+    <display-name lang="zh">中视经典台MOD</display-name>
   </channel>
-  <channel id="寰宇HD綜合台">
-    <display-name lang="zh">寰宇HD綜合台</display-name>
+  <channel id="寰宇HD综合台">
+    <display-name lang="zh">寰宇HD综合台</display-name>
   </channel>
-  <channel id="中視菁采台MOD">
-    <display-name lang="zh">中視菁采台MOD</display-name>
+  <channel id="中视菁采台MOD">
+    <display-name lang="zh">中视菁采台MOD</display-name>
   </channel>
   <channel id="TVBS精采台">
     <display-name lang="zh">TVBS精采台</display-name>
   </channel>
-  <channel id="壹電視綜合台">
-    <display-name lang="zh">壹電視綜合台</display-name>
+  <channel id="壹电视综合台">
+    <display-name lang="zh">壹电视综合台</display-name>
   </channel>
-  <channel id="緯來精采台">
-    <display-name lang="zh">緯來精采台</display-name>
+  <channel id="纬来精采台">
+    <display-name lang="zh">纬来精采台</display-name>
   </channel>
-  <channel id="天天電視台">
-    <display-name lang="zh">天天電視台</display-name>
+  <channel id="天天电视台">
+    <display-name lang="zh">天天电视台</display-name>
   </channel>
-  <channel id="ETtoday綜合台">
-    <display-name lang="zh">ETtoday綜合台</display-name>
+  <channel id="ETtoday综合台">
+    <display-name lang="zh">ETtoday综合台</display-name>
   </channel>
-  <channel id="民視第一台">
-    <display-name lang="zh">民視第一台</display-name>
+  <channel id="民视第一台">
+    <display-name lang="zh">民视第一台</display-name>
   </channel>
-  <channel id="民視台灣台">
-    <display-name lang="zh">民視台灣台</display-name>
+  <channel id="民视台湾台">
+    <display-name lang="zh">民视台湾台</display-name>
   </channel>
-  <channel id="Nice TV 靖天歡樂台">
-    <display-name lang="zh">Nice TV 靖天歡樂台</display-name>
+  <channel id="Nice TV 靖天欢乐台">
+    <display-name lang="zh">Nice TV 靖天欢乐台</display-name>
   </channel>
-  <channel id="新唐人亞太台">
-    <display-name lang="zh">新唐人亞太台</display-name>
+  <channel id="新唐人亚太台">
+    <display-name lang="zh">新唐人亚太台</display-name>
   </channel>
-  <channel id="八大優頻道">
-    <display-name lang="zh">八大優頻道</display-name>
+  <channel id="八大优频道">
+    <display-name lang="zh">八大优频道</display-name>
   </channel>
-  <channel id="momo綜合台HD">
-    <display-name lang="zh">momo綜合台HD</display-name>
+  <channel id="momo综合台HD">
+    <display-name lang="zh">momo综合台HD</display-name>
   </channel>
-  <channel id="信吉藝文台">
-    <display-name lang="zh">信吉藝文台</display-name>
+  <channel id="信吉艺文台">
+    <display-name lang="zh">信吉艺文台</display-name>
   </channel>
-  <channel id="冠軍電視台">
-    <display-name lang="zh">冠軍電視台</display-name>
+  <channel id="冠军电视台">
+    <display-name lang="zh">冠军电视台</display-name>
   </channel>
-  <channel id="華藝台灣台">
-    <display-name lang="zh">華藝台灣台</display-name>
+  <channel id="华艺台湾台">
+    <display-name lang="zh">华艺台湾台</display-name>
   </channel>
-  <channel id="信吉文藝台">
-    <display-name lang="zh">信吉文藝台</display-name>
+  <channel id="信吉文艺台">
+    <display-name lang="zh">信吉文艺台</display-name>
   </channel>
-  <channel id="大立電視台">
-    <display-name lang="zh">大立電視台</display-name>
+  <channel id="大立电视台">
+    <display-name lang="zh">大立电视台</display-name>
   </channel>
-  <channel id="富力電視台">
-    <display-name lang="zh">富力電視台</display-name>
+  <channel id="富力电视台">
+    <display-name lang="zh">富力电视台</display-name>
   </channel>
   <channel id="新天地民俗台 HD">
     <display-name lang="zh">新天地民俗台 HD</display-name>
@@ -2390,38 +2390,38 @@ nowtv
   <channel id="momo2台">
     <display-name lang="zh">momo2台</display-name>
   </channel>
-  <channel id="東森購物3台">
-    <display-name lang="zh">東森購物3台</display-name>
+  <channel id="东森购物3台">
+    <display-name lang="zh">东森购物3台</display-name>
   </channel>
-  <channel id="三立戲劇台">
-    <display-name lang="zh">三立戲劇台</display-name>
+  <channel id="三立戏剧台">
+    <display-name lang="zh">三立戏剧台</display-name>
   </channel>
-  <channel id="台灣戲劇台">
-    <display-name lang="zh">台灣戲劇台</display-name>
+  <channel id="台湾戏剧台">
+    <display-name lang="zh">台湾戏剧台</display-name>
   </channel>
-  <channel id="龍華戲劇">
-    <display-name lang="zh">龍華戲劇</display-name>
+  <channel id="龙华戏剧">
+    <display-name lang="zh">龙华戏剧</display-name>
   </channel>
-  <channel id="龍華偶像MOD">
-    <display-name lang="zh">龍華偶像MOD</display-name>
+  <channel id="龙华偶像MOD">
+    <display-name lang="zh">龙华偶像MOD</display-name>
   </channel>
-  <channel id="龍華影劇">
-    <display-name lang="zh">龍華影劇</display-name>
+  <channel id="龙华影剧">
+    <display-name lang="zh">龙华影剧</display-name>
   </channel>
-  <channel id="愛爾達影劇台">
-    <display-name lang="zh">愛爾達影劇台</display-name>
+  <channel id="爱尔达影剧台">
+    <display-name lang="zh">爱尔达影剧台</display-name>
   </channel>
-  <channel id="靖天戲劇台">
-    <display-name lang="zh">靖天戲劇台</display-name>
+  <channel id="靖天戏剧台">
+    <display-name lang="zh">靖天戏剧台</display-name>
   </channel>
-  <channel id="靖洋戲劇台">
-    <display-name lang="zh">靖洋戲劇台</display-name>
+  <channel id="靖洋戏剧台">
+    <display-name lang="zh">靖洋戏剧台</display-name>
   </channel>
-  <channel id="EYE TV戲劇台">
-    <display-name lang="zh">EYE TV戲劇台</display-name>
+  <channel id="EYE TV戏剧台">
+    <display-name lang="zh">EYE TV戏剧台</display-name>
   </channel>
-  <channel id="東森購物2台">
-    <display-name lang="zh">東森購物2台</display-name>
+  <channel id="东森购物2台">
+    <display-name lang="zh">东森购物2台</display-name>
   </channel>
   <channel id="靖天日本台">
     <display-name lang="zh">靖天日本台</display-name>
@@ -2438,11 +2438,11 @@ nowtv
   <channel id="tvN">
     <display-name lang="zh">tvN</display-name>
   </channel>
-  <channel id="韓國娛樂台KMTV">
-    <display-name lang="zh">韓國娛樂台KMTV</display-name>
+  <channel id="韩国娱乐台KMTV">
+    <display-name lang="zh">韩国娱乐台KMTV</display-name>
   </channel>
-  <channel id="華藝中文台">
-    <display-name lang="zh">華藝中文台</display-name>
+  <channel id="华艺中文台">
+    <display-name lang="zh">华艺中文台</display-name>
   </channel>
   <channel id="ROCK Extreme">
     <display-name lang="zh">ROCK Extreme</display-name>
@@ -2456,47 +2456,47 @@ nowtv
   <channel id="momo1台">
     <display-name lang="zh">momo1台</display-name>
   </channel>
-  <channel id="東森購物4台">
-    <display-name lang="zh">東森購物4台</display-name>
+  <channel id="东森购物4台">
+    <display-name lang="zh">东森购物4台</display-name>
   </channel>
-  <channel id="中視新聞台">
-    <display-name lang="zh">中視新聞台</display-name>
+  <channel id="中视新闻台">
+    <display-name lang="zh">中视新闻台</display-name>
   </channel>
-  <channel id="寰宇新聞台">
-    <display-name lang="zh">寰宇新聞台</display-name>
+  <channel id="寰宇新闻台">
+    <display-name lang="zh">寰宇新闻台</display-name>
   </channel>
-  <channel id="寰宇新聞台灣台">
-    <display-name lang="zh">寰宇新聞台灣台</display-name>
+  <channel id="寰宇新闻台湾台">
+    <display-name lang="zh">寰宇新闻台湾台</display-name>
   </channel>
-  <channel id="台視新聞台">
-    <display-name lang="zh">台視新聞台</display-name>
+  <channel id="台视新闻台">
+    <display-name lang="zh">台视新闻台</display-name>
   </channel>
-  <channel id="三立財經新聞台">
-    <display-name lang="zh">三立財經新聞台</display-name>
+  <channel id="三立财经新闻台">
+    <display-name lang="zh">三立财经新闻台</display-name>
   </channel>
-  <channel id="華視新聞資訊台">
-    <display-name lang="zh">華視新聞資訊台</display-name>
+  <channel id="华视新闻信息台">
+    <display-name lang="zh">华视新闻信息台</display-name>
   </channel>
-  <channel id="壹電視新聞台">
-    <display-name lang="zh">壹電視新聞台</display-name>
+  <channel id="壹电视新闻台">
+    <display-name lang="zh">壹电视新闻台</display-name>
   </channel>
-  <channel id="民視新聞台">
-    <display-name lang="zh">民視新聞台</display-name>
+  <channel id="民视新闻台">
+    <display-name lang="zh">民视新闻台</display-name>
   </channel>
-  <channel id="鏡電視新聞台">
-    <display-name lang="zh">鏡電視新聞台</display-name>
+  <channel id="镜电视新闻台">
+    <display-name lang="zh">镜电视新闻台</display-name>
   </channel>
-  <channel id="寰宇財經台">
-    <display-name lang="zh">寰宇財經台</display-name>
+  <channel id="寰宇财经台">
+    <display-name lang="zh">寰宇财经台</display-name>
   </channel>
-  <channel id="台視財經台">
-    <display-name lang="zh">台視財經台</display-name>
+  <channel id="台视财经台">
+    <display-name lang="zh">台视财经台</display-name>
   </channel>
   <channel id="美好1台">
     <display-name lang="zh">美好1台</display-name>
   </channel>
-  <channel id="東森購物5台">
-    <display-name lang="zh">東森購物5台</display-name>
+  <channel id="东森购物5台">
+    <display-name lang="zh">东森购物5台</display-name>
   </channel>
   <channel id="CNN International">
     <display-name lang="zh">CNN International</display-name>
@@ -2507,8 +2507,8 @@ nowtv
   <channel id="Bloomberg TV">
     <display-name lang="zh">Bloomberg TV</display-name>
   </channel>
-  <channel id="Channel NewsAsia頻道">
-    <display-name lang="zh">Channel NewsAsia頻道</display-name>
+  <channel id="Channel NewsAsia频道">
+    <display-name lang="zh">Channel NewsAsia频道</display-name>
   </channel>
   <channel id="CNBC Asia Channel">
     <display-name lang="zh">CNBC Asia Channel</display-name>
@@ -2516,8 +2516,8 @@ nowtv
   <channel id="Euronews">
     <display-name lang="zh">Euronews</display-name>
   </channel>
-  <channel id="德國之聲電視台">
-    <display-name lang="zh">德國之聲電視台</display-name>
+  <channel id="德国之声电视台">
+    <display-name lang="zh">德国之声电视台</display-name>
   </channel>
   <channel id="FRANCE24(English)">
     <display-name lang="zh">FRANCE24(English)</display-name>
@@ -2525,32 +2525,32 @@ nowtv
   <channel id="TaiwanPlus">
     <display-name lang="zh">TaiwanPlus</display-name>
   </channel>
-  <channel id="NHK新聞資訊台">
-    <display-name lang="zh">NHK新聞資訊台</display-name>
+  <channel id="NHK新闻信息台">
+    <display-name lang="zh">NHK新闻信息台</display-name>
   </channel>
-  <channel id="半島英語新聞台Al Jazeera English">
-    <display-name lang="zh">半島英語新聞台Al Jazeera English</display-name>
+  <channel id="半岛英语新闻台Al Jazeera English">
+    <display-name lang="zh">半岛英语新闻台Al Jazeera English</display-name>
   </channel>
-  <channel id="視納華仁紀實台">
-    <display-name lang="zh">視納華仁紀實台</display-name>
+  <channel id="视纳华仁纪实台">
+    <display-name lang="zh">视纳华仁纪实台</display-name>
   </channel>
-  <channel id="影迷數位紀實台">
-    <display-name lang="zh">影迷數位紀實台</display-name>
+  <channel id="影迷数位纪实台">
+    <display-name lang="zh">影迷数位纪实台</display-name>
   </channel>
-  <channel id="美亞電影台台灣">
-    <display-name lang="zh">美亞電影台台灣</display-name>
+  <channel id="美亚电影台台湾">
+    <display-name lang="zh">美亚电影台台湾</display-name>
   </channel>
-  <channel id="龍華電影">
-    <display-name lang="zh">龍華電影</display-name>
+  <channel id="龙华电影">
+    <display-name lang="zh">龙华电影</display-name>
   </channel>
-  <channel id="靖天映畫">
-    <display-name lang="zh">靖天映畫</display-name>
+  <channel id="靖天映画">
+    <display-name lang="zh">靖天映画</display-name>
   </channel>
-  <channel id="靖天電影台">
-    <display-name lang="zh">靖天電影台</display-name>
+  <channel id="靖天电影台">
+    <display-name lang="zh">靖天电影台</display-name>
   </channel>
-  <channel id="龍華洋片MOD">
-    <display-name lang="zh">龍華洋片MOD</display-name>
+  <channel id="龙华洋片MOD">
+    <display-name lang="zh">龙华洋片MOD</display-name>
   </channel>
   <channel id="Warner TV">
     <display-name lang="zh">Warner TV</display-name>
@@ -2561,50 +2561,50 @@ nowtv
   <channel id="ROCK Action HD">
     <display-name lang="zh">ROCK Action HD</display-name>
   </channel>
-  <channel id="amc最愛電影">
-    <display-name lang="zh">amc最愛電影</display-name>
+  <channel id="amc最爱电影">
+    <display-name lang="zh">amc最爱电影</display-name>
   </channel>
   <channel id="HITS">
     <display-name lang="zh">HITS</display-name>
   </channel>
-  <channel id="龍華經典">
-    <display-name lang="zh">龍華經典</display-name>
+  <channel id="龙华经典">
+    <display-name lang="zh">龙华经典</display-name>
   </channel>
-  <channel id="華藝影劇台">
-    <display-name lang="zh">華藝影劇台</display-name>
+  <channel id="华艺影剧台">
+    <display-name lang="zh">华艺影剧台</display-name>
   </channel>
-  <channel id="CatchPlay電影台">
-    <display-name lang="zh">CatchPlay電影台</display-name>
+  <channel id="CatchPlay电影台">
+    <display-name lang="zh">CatchPlay电影台</display-name>
   </channel>
   <channel id="CinemaWorld">
     <display-name lang="zh">CinemaWorld</display-name>
   </channel>
-  <channel id="壹電視電影台">
-    <display-name lang="zh">壹電視電影台</display-name>
+  <channel id="壹电视电影台">
+    <display-name lang="zh">壹电视电影台</display-name>
   </channel>
-  <channel id="采昌影劇台">
-    <display-name lang="zh">采昌影劇台</display-name>
+  <channel id="采昌影剧台">
+    <display-name lang="zh">采昌影剧台</display-name>
   </channel>
-  <channel id="影迷數位電影台">
-    <display-name lang="zh">影迷數位電影台</display-name>
+  <channel id="影迷数字电影台">
+    <display-name lang="zh">影迷数字电影台</display-name>
   </channel>
-  <channel id="My Cinema Europe HD 我的歐洲電影">
-    <display-name lang="zh">My Cinema Europe HD 我的歐洲電影</display-name>
+  <channel id="My Cinema Europe HD 我的欧洲电影">
+    <display-name lang="zh">My Cinema Europe HD 我的欧洲电影</display-name>
   </channel>
-  <channel id="唯心電視台">
-    <display-name lang="zh">唯心電視台</display-name>
+  <channel id="唯心电视台">
+    <display-name lang="zh">唯心电视台</display-name>
   </channel>
-  <channel id="佛衛電視慈悲台">
-    <display-name lang="zh">佛衛電視慈悲台</display-name>
+  <channel id="佛卫电视慈悲台">
+    <display-name lang="zh">佛卫电视慈悲台</display-name>
   </channel>
-  <channel id="華藏衛視">
-    <display-name lang="zh">華藏衛視</display-name>
+  <channel id="华藏卫视">
+    <display-name lang="zh">华藏卫视</display-name>
   </channel>
-  <channel id="正德電視台">
-    <display-name lang="zh">正德電視台</display-name>
+  <channel id="正德电视台">
+    <display-name lang="zh">正德电视台</display-name>
   </channel>
-  <channel id="天良綜合台">
-    <display-name lang="zh">天良綜合台</display-name>
+  <channel id="天良综合台">
+    <display-name lang="zh">天良综合台</display-name>
   </channel>
   <channel id="TV5MONDE">
     <display-name lang="zh">TV5MONDE</display-name>
@@ -2615,53 +2615,53 @@ nowtv
   <channel id="FRANCE24F">
     <display-name lang="zh">FRANCE24F</display-name>
   </channel>
-  <channel id="bb快報">
-    <display-name lang="zh">bb快報</display-name>
+  <channel id="bb快报">
+    <display-name lang="zh">bb快报</display-name>
   </channel>
-  <channel id="公用頻道">
-    <display-name lang="zh">公用頻道</display-name>
+  <channel id="公用频道">
+    <display-name lang="zh">公用频道</display-name>
   </channel>
-  <channel id="高雄都會台">
-    <display-name lang="zh">高雄都會台</display-name>
+  <channel id="高雄都会台">
+    <display-name lang="zh">高雄都会台</display-name>
   </channel>
   <channel id="CNN International">
     <display-name lang="zh">CNN International</display-name>
   </channel>
-  <channel id="民視無線台">
-    <display-name lang="zh">民視無線台</display-name>
+  <channel id="民视无线台">
+    <display-name lang="zh">民视无线台</display-name>
   </channel>
-  <channel id="人間衛視">
-    <display-name lang="zh">人間衛視</display-name>
+  <channel id="人间卫视">
+    <display-name lang="zh">人间卫视</display-name>
   </channel>
-  <channel id="台灣電視台">
-    <display-name lang="zh">台灣電視台</display-name>
+  <channel id="台湾电视台">
+    <display-name lang="zh">台湾电视台</display-name>
   </channel>
-  <channel id="大愛電視台">
-    <display-name lang="zh">大愛電視台</display-name>
+  <channel id="大爱电视台">
+    <display-name lang="zh">大爱电视台</display-name>
   </channel>
-  <channel id="中視數位台">
-    <display-name lang="zh">中視數位台</display-name>
+  <channel id="中视数位台">
+    <display-name lang="zh">中视数位台</display-name>
   </channel>
-  <channel id="霹靂電視台">
-    <display-name lang="zh">霹靂電視台</display-name>
+  <channel id="霹雳电视台">
+    <display-name lang="zh">霹雳电视台</display-name>
   </channel>
-  <channel id="中華電視台">
-    <display-name lang="zh">中華電視台</display-name>
+  <channel id="中华电视台">
+    <display-name lang="zh">中华电视台</display-name>
   </channel>
-  <channel id="公共電視台">
-    <display-name lang="zh">公共電視台</display-name>
+  <channel id="公共电视台">
+    <display-name lang="zh">公共电视台</display-name>
   </channel>
-  <channel id="公視台語台">
-    <display-name lang="zh">公視台語台</display-name>
+  <channel id="公视台语台">
+    <display-name lang="zh">公视台语台</display-name>
   </channel>
-  <channel id="好消息衛星電視台">
-    <display-name lang="zh">好消息衛星電視台</display-name>
+  <channel id="好消息卫星电视台">
+    <display-name lang="zh">好消息卫星电视台</display-name>
   </channel>
-  <channel id="原住民族電視台">
-    <display-name lang="zh">原住民族電視台</display-name>
+  <channel id="原住民族电视台">
+    <display-name lang="zh">原住民族电视台</display-name>
   </channel>
-  <channel id="客家電視台">
-    <display-name lang="zh">客家電視台</display-name>
+  <channel id="客家电视台">
+    <display-name lang="zh">客家电视台</display-name>
   </channel>
   <channel id="BBC EARTH">
     <display-name lang="zh">BBC EARTH</display-name>
@@ -2669,11 +2669,11 @@ nowtv
   <channel id="Discovery">
     <display-name lang="zh">Discovery</display-name>
   </channel>
-  <channel id="TLC 旅遊生活頻道">
-    <display-name lang="zh">TLC 旅遊生活頻道</display-name>
+  <channel id="TLC 旅游生活频道">
+    <display-name lang="zh">TLC 旅游生活频道</display-name>
   </channel>
-  <channel id="動物星球頻道">
-    <display-name lang="zh">動物星球頻道</display-name>
+  <channel id="动物星球频道">
+    <display-name lang="zh">动物星球频道</display-name>
   </channel>
   <channel id="Nick Jr.(小尼克)">
     <display-name lang="zh">Nick Jr.(小尼克)</display-name>
@@ -2681,152 +2681,152 @@ nowtv
   <channel id="Cartoon Network">
     <display-name lang="zh">Cartoon Network</display-name>
   </channel>
-  <channel id="MOMO親子台">
-    <display-name lang="zh">MOMO親子台</display-name>
+  <channel id="MOMO亲子台">
+    <display-name lang="zh">MOMO亲子台</display-name>
   </channel>
-  <channel id="東森幼幼台">
-    <display-name lang="zh">東森幼幼台</display-name>
+  <channel id="东森幼幼台">
+    <display-name lang="zh">东森幼幼台</display-name>
   </channel>
-  <channel id="緯來綜合台">
-    <display-name lang="zh">緯來綜合台</display-name>
+  <channel id="纬来综合台">
+    <display-name lang="zh">纬来综合台</display-name>
   </channel>
   <channel id="八大第一台">
     <display-name lang="zh">八大第一台</display-name>
   </channel>
-  <channel id="八大綜合台">
-    <display-name lang="zh">八大綜合台</display-name>
+  <channel id="八大综合台">
+    <display-name lang="zh">八大综合台</display-name>
   </channel>
-  <channel id="三立台灣台">
-    <display-name lang="zh">三立台灣台</display-name>
+  <channel id="三立台湾台">
+    <display-name lang="zh">三立台湾台</display-name>
   </channel>
-  <channel id="三立都會台">
-    <display-name lang="zh">三立都會台</display-name>
+  <channel id="三立都会台">
+    <display-name lang="zh">三立都会台</display-name>
   </channel>
-  <channel id="韓國娛樂KMTV">
-    <display-name lang="zh">韓國娛樂KMTV</display-name>
+  <channel id="韩国娱乐KMTV">
+    <display-name lang="zh">韩国娱乐KMTV</display-name>
   </channel>
-  <channel id="東森綜合台">
-    <display-name lang="zh">東森綜合台</display-name>
+  <channel id="东森综合台">
+    <display-name lang="zh">东森综合台</display-name>
   </channel>
-  <channel id="超視">
-    <display-name lang="zh">超視</display-name>
+  <channel id="超视">
+    <display-name lang="zh">超视</display-name>
   </channel>
-  <channel id="東森購物2台">
-    <display-name lang="zh">東森購物2台</display-name>
+  <channel id="东森购物2台">
+    <display-name lang="zh">东森购物2台</display-name>
   </channel>
   <channel id="momo2台">
     <display-name lang="zh">momo2台</display-name>
   </channel>
-  <channel id="中天綜合台">
-    <display-name lang="zh">中天綜合台</display-name>
+  <channel id="中天综合台">
+    <display-name lang="zh">中天综合台</display-name>
   </channel>
-  <channel id="東風衛視台">
-    <display-name lang="zh">東風衛視台</display-name>
+  <channel id="东风卫视台">
+    <display-name lang="zh">东风卫视台</display-name>
   </channel>
   <channel id="MUCH TV">
     <display-name lang="zh">MUCH TV</display-name>
   </channel>
-  <channel id="中天娛樂台">
-    <display-name lang="zh">中天娛樂台</display-name>
+  <channel id="中天娱乐台">
+    <display-name lang="zh">中天娱乐台</display-name>
   </channel>
-  <channel id="東森戲劇台">
-    <display-name lang="zh">東森戲劇台</display-name>
+  <channel id="东森戏剧台">
+    <display-name lang="zh">东森戏剧台</display-name>
   </channel>
-  <channel id="八大戲劇台">
-    <display-name lang="zh">八大戲劇台</display-name>
+  <channel id="八大戏剧台">
+    <display-name lang="zh">八大戏剧台</display-name>
   </channel>
-  <channel id="TVBS歡樂台">
-    <display-name lang="zh">TVBS歡樂台</display-name>
+  <channel id="TVBS欢乐台">
+    <display-name lang="zh">TVBS欢乐台</display-name>
   </channel>
-  <channel id="緯來戲劇台">
-    <display-name lang="zh">緯來戲劇台</display-name>
+  <channel id="纬来戏剧台">
+    <display-name lang="zh">纬来戏剧台</display-name>
   </channel>
-  <channel id="高點電視台">
-    <display-name lang="zh">高點電視台</display-name>
+  <channel id="高点电视台">
+    <display-name lang="zh">高点电视台</display-name>
   </channel>
-  <channel id="東森購物3台">
-    <display-name lang="zh">東森購物3台</display-name>
+  <channel id="东森购物3台">
+    <display-name lang="zh">东森购物3台</display-name>
   </channel>
-  <channel id="東森購物1台">
-    <display-name lang="zh">東森購物1台</display-name>
+  <channel id="东森购物1台">
+    <display-name lang="zh">东森购物1台</display-name>
   </channel>
   <channel id="momo 1台">
     <display-name lang="zh">momo 1台</display-name>
   </channel>
-  <channel id="三立財經新聞台">
-    <display-name lang="zh">三立財經新聞台</display-name>
+  <channel id="三立财经新闻台">
+    <display-name lang="zh">三立财经新闻台</display-name>
   </channel>
-  <channel id="壹電視新聞台">
-    <display-name lang="zh">壹電視新聞台</display-name>
+  <channel id="壹电视新闻台">
+    <display-name lang="zh">壹电视新闻台</display-name>
   </channel>
-  <channel id="era news 年代新聞">
-    <display-name lang="zh">era news 年代新聞</display-name>
+  <channel id="era news 年代新闻">
+    <display-name lang="zh">era news 年代新闻</display-name>
   </channel>
-  <channel id="東森新聞台">
-    <display-name lang="zh">東森新聞台</display-name>
+  <channel id="东森新闻台">
+    <display-name lang="zh">东森新闻台</display-name>
   </channel>
-  <channel id="華視新聞資訊台">
-    <display-name lang="zh">華視新聞資訊台</display-name>
+  <channel id="华视新闻信息台">
+    <display-name lang="zh">华视新闻信息台</display-name>
   </channel>
-  <channel id="民視新聞台">
-    <display-name lang="zh">民視新聞台</display-name>
+  <channel id="民视新闻台">
+    <display-name lang="zh">民视新闻台</display-name>
   </channel>
-  <channel id="三立新聞台">
-    <display-name lang="zh">三立新聞台</display-name>
+  <channel id="三立新闻台">
+    <display-name lang="zh">三立新闻台</display-name>
   </channel>
-  <channel id="TVBS 新聞台">
-    <display-name lang="zh">TVBS 新聞台</display-name>
+  <channel id="TVBS 新闻台">
+    <display-name lang="zh">TVBS 新闻台</display-name>
   </channel>
   <channel id="TVBS">
     <display-name lang="zh">TVBS</display-name>
   </channel>
-  <channel id="東森財經新聞台">
-    <display-name lang="zh">東森財經新聞台</display-name>
+  <channel id="东森财经新闻台">
+    <display-name lang="zh">东森财经新闻台</display-name>
   </channel>
-  <channel id="非凡新聞台">
-    <display-name lang="zh">非凡新聞台</display-name>
+  <channel id="非凡新闻台">
+    <display-name lang="zh">非凡新闻台</display-name>
   </channel>
   <channel id="ViVa 1台">
     <display-name lang="zh">ViVa 1台</display-name>
   </channel>
-  <channel id="東森購物5台">
-    <display-name lang="zh">東森購物5台</display-name>
+  <channel id="东森购物5台">
+    <display-name lang="zh">东森购物5台</display-name>
   </channel>
-  <channel id="CATCH PLAY電影台">
-    <display-name lang="zh">CATCH PLAY電影台</display-name>
+  <channel id="CATCH PLAY电影台">
+    <display-name lang="zh">CATCH PLAY电影台</display-name>
   </channel>
-  <channel id="東森電影台">
-    <display-name lang="zh">東森電影台</display-name>
+  <channel id="东森电影台">
+    <display-name lang="zh">东森电影台</display-name>
   </channel>
-  <channel id="緯來電影台">
-    <display-name lang="zh">緯來電影台</display-name>
+  <channel id="纬来电影台">
+    <display-name lang="zh">纬来电影台</display-name>
   </channel>
-  <channel id="LS TIME電影台">
-    <display-name lang="zh">LS TIME電影台</display-name>
+  <channel id="LS TIME电影台">
+    <display-name lang="zh">LS TIME电影台</display-name>
   </channel>
   <channel id="HBO">
     <display-name lang="zh">HBO</display-name>
   </channel>
-  <channel id="東森洋片台">
-    <display-name lang="zh">東森洋片台</display-name>
+  <channel id="东森洋片台">
+    <display-name lang="zh">东森洋片台</display-name>
   </channel>
   <channel id="AXN">
     <display-name lang="zh">AXN</display-name>
   </channel>
-  <channel id="好萊塢電影台">
-    <display-name lang="zh">好萊塢電影台</display-name>
+  <channel id="好莱坞电影台">
+    <display-name lang="zh">好莱坞电影台</display-name>
   </channel>
-  <channel id="AMC電影">
-    <display-name lang="zh">AMC電影</display-name>
+  <channel id="AMC电影">
+    <display-name lang="zh">AMC电影</display-name>
   </channel>
-  <channel id="CINEMAX有線">
-    <display-name lang="zh">CINEMAX有線</display-name>
+  <channel id="CINEMAX有线">
+    <display-name lang="zh">CINEMAX有线</display-name>
   </channel>
-  <channel id="緯來育樂台">
-    <display-name lang="zh">緯來育樂台</display-name>
+  <channel id="纬来育乐台">
+    <display-name lang="zh">纬来育乐台</display-name>
   </channel>
-  <channel id="緯來體育台">
-    <display-name lang="zh">緯來體育台</display-name>
+  <channel id="纬来体育台">
+    <display-name lang="zh">纬来体育台</display-name>
   </channel>
   <channel id="ELEVEN SPORTS 1">
     <display-name lang="zh">ELEVEN SPORTS 1</display-name>
@@ -2834,218 +2834,218 @@ nowtv
   <channel id="ELEVEN SPORTS 2">
     <display-name lang="zh">ELEVEN SPORTS 2</display-name>
   </channel>
-  <channel id="MOMO綜合台">
-    <display-name lang="zh">MOMO綜合台</display-name>
+  <channel id="MOMO综合台">
+    <display-name lang="zh">MOMO综合台</display-name>
   </channel>
-  <channel id="緯來日本台">
-    <display-name lang="zh">緯來日本台</display-name>
+  <channel id="纬来日本台">
+    <display-name lang="zh">纬来日本台</display-name>
   </channel>
-  <channel id="國興衛視">
-    <display-name lang="zh">國興衛視</display-name>
+  <channel id="国兴卫视">
+    <display-name lang="zh">国兴卫视</display-name>
   </channel>
   <channel id="BBC LIFESTYLE">
     <display-name lang="zh">BBC LIFESTYLE</display-name>
   </channel>
-  <channel id="MTV綜合電視台">
-    <display-name lang="zh">MTV綜合電視台</display-name>
+  <channel id="MTV综合电视台">
+    <display-name lang="zh">MTV综合电视台</display-name>
   </channel>
-  <channel id="靖天購物一台有線">
-    <display-name lang="zh">靖天購物一台有線</display-name>
+  <channel id="靖天购物一台有线">
+    <display-name lang="zh">靖天购物一台有线</display-name>
   </channel>
   <channel id="ANIMAX">
     <display-name lang="zh">ANIMAX</display-name>
   </channel>
-  <channel id="信吉電視台">
-    <display-name lang="zh">信吉電視台</display-name>
+  <channel id="信吉电视台">
+    <display-name lang="zh">信吉电视台</display-name>
   </channel>
-  <channel id="寰宇新聞台">
-    <display-name lang="zh">寰宇新聞台</display-name>
+  <channel id="寰宇新闻台">
+    <display-name lang="zh">寰宇新闻台</display-name>
   </channel>
-  <channel id="鏡電視新聞台">
-    <display-name lang="zh">鏡電視新聞台</display-name>
+  <channel id="镜电视新闻台">
+    <display-name lang="zh">镜电视新闻台</display-name>
   </channel>
-  <channel id="冠軍電視台">
-    <display-name lang="zh">冠軍電視台</display-name>
+  <channel id="冠军电视台">
+    <display-name lang="zh">冠军电视台</display-name>
   </channel>
   <channel id="JET TV">
     <display-name lang="zh">JET TV</display-name>
   </channel>
-  <channel id="非凡商業台">
-    <display-name lang="zh">非凡商業台</display-name>
+  <channel id="非凡商业台">
+    <display-name lang="zh">非凡商业台</display-name>
   </channel>
-  <channel id="中台灣生活網頻道">
-    <display-name lang="zh">中台灣生活網頻道</display-name>
+  <channel id="中台湾生活网频道">
+    <display-name lang="zh">中台湾生活网频道</display-name>
   </channel>
-  <channel id="八大娛樂台">
-    <display-name lang="zh">八大娛樂台</display-name>
+  <channel id="八大娱乐台">
+    <display-name lang="zh">八大娱乐台</display-name>
   </channel>
-  <channel id="運通財經綜合台">
-    <display-name lang="zh">運通財經綜合台</display-name>
+  <channel id="运通财经综合台">
+    <display-name lang="zh">运通财经综合台</display-name>
   </channel>
-  <channel id="全球財經網頻道">
-    <display-name lang="zh">全球財經網頻道</display-name>
+  <channel id="全球财经网频道">
+    <display-name lang="zh">全球财经网频道</display-name>
   </channel>
-  <channel id="誠心電視台">
-    <display-name lang="zh">誠心電視台</display-name>
+  <channel id="诚心电视台">
+    <display-name lang="zh">诚心电视台</display-name>
   </channel>
   <channel id="未有频道">
     <display-name lang="zh">未有频道</display-name>
   </channel>
-  <channel id="Z頻道">
-    <display-name lang="zh">Z頻道</display-name>
+  <channel id="Z频道">
+    <display-name lang="zh">Z频道</display-name>
   </channel>
-  <channel id="台灣綜合台">
-    <display-name lang="zh">台灣綜合台</display-name>
+  <channel id="台湾综合台">
+    <display-name lang="zh">台湾综合台</display-name>
   </channel>
-  <channel id="海豚綜合台">
-    <display-name lang="zh">海豚綜合台</display-name>
+  <channel id="海豚综合台">
+    <display-name lang="zh">海豚综合台</display-name>
   </channel>
-  <channel id="威達超舜生活台">
-    <display-name lang="zh">威達超舜生活台</display-name>
+  <channel id="威达超舜生活台">
+    <display-name lang="zh">威达超舜生活台</display-name>
   </channel>
-  <channel id="台灣藝術台">
-    <display-name lang="zh">台灣藝術台</display-name>
+  <channel id="台湾艺术台">
+    <display-name lang="zh">台湾艺术台</display-name>
   </channel>
-  <channel id="華藏衛星電視台">
-    <display-name lang="zh">華藏衛星電視台</display-name>
+  <channel id="华藏卫星电视台">
+    <display-name lang="zh">华藏卫星电视台</display-name>
   </channel>
-  <channel id="十方法界電視台">
-    <display-name lang="zh">十方法界電視台</display-name>
+  <channel id="十方法界电视台">
+    <display-name lang="zh">十方法界电视台</display-name>
   </channel>
-  <channel id="世界衛星電視台">
-    <display-name lang="zh">世界衛星電視台</display-name>
+  <channel id="世界卫星电视台">
+    <display-name lang="zh">世界卫星电视台</display-name>
   </channel>
-  <channel id="佛衛電視慈悲台">
-    <display-name lang="zh">佛衛電視慈悲台</display-name>
+  <channel id="佛卫电视慈悲台">
+    <display-name lang="zh">佛卫电视慈悲台</display-name>
   </channel>
-  <channel id="信大電視台">
-    <display-name lang="zh">信大電視台</display-name>
+  <channel id="信大电视台">
+    <display-name lang="zh">信大电视台</display-name>
   </channel>
   <channel id="NHK WORLD PREMIUM">
     <display-name lang="zh">NHK WORLD PREMIUM</display-name>
   </channel>
-  <channel id="全大電視台">
-    <display-name lang="zh">全大電視台</display-name>
+  <channel id="全大电视台">
+    <display-name lang="zh">全大电视台</display-name>
   </channel>
-  <channel id="美麗人生購物台">
-    <display-name lang="zh">美麗人生購物台</display-name>
+  <channel id="美丽人生购物台">
+    <display-name lang="zh">美丽人生购物台</display-name>
   </channel>
-  <channel id="正德電視台">
-    <display-name lang="zh">正德電視台</display-name>
+  <channel id="正德电视台">
+    <display-name lang="zh">正德电视台</display-name>
   </channel>
-  <channel id="天良綜合台">
-    <display-name lang="zh">天良綜合台</display-name>
+  <channel id="天良综合台">
+    <display-name lang="zh">天良综合台</display-name>
   </channel>
-  <channel id="番薯衛星電視台">
-    <display-name lang="zh">番薯衛星電視台</display-name>
+  <channel id="番薯卫星电视台">
+    <display-name lang="zh">番薯卫星电视台</display-name>
   </channel>
-  <channel id="富立電視台">
-    <display-name lang="zh">富立電視台</display-name>
+  <channel id="富立电视台">
+    <display-name lang="zh">富立电视台</display-name>
   </channel>
-  <channel id="華藝台灣台">
-    <display-name lang="zh">華藝台灣台</display-name>
+  <channel id="华艺台湾台">
+    <display-name lang="zh">华艺台湾台</display-name>
   </channel>
-  <channel id="冠軍夢想台">
-    <display-name lang="zh">冠軍夢想台</display-name>
+  <channel id="冠军梦想台">
+    <display-name lang="zh">冠军梦想台</display-name>
   </channel>
   <channel id="新天地民俗台">
     <display-name lang="zh">新天地民俗台</display-name>
   </channel>
-  <channel id="三聖電視台">
-    <display-name lang="zh">三聖電視台</display-name>
+  <channel id="三圣电视台">
+    <display-name lang="zh">三圣电视台</display-name>
   </channel>
-  <channel id="紅豆2台">
-    <display-name lang="zh">紅豆2台</display-name>
+  <channel id="红豆2台">
+    <display-name lang="zh">红豆2台</display-name>
   </channel>
-  <channel id="天美麗電視台">
-    <display-name lang="zh">天美麗電視台</display-name>
+  <channel id="天美丽电视台">
+    <display-name lang="zh">天美丽电视台</display-name>
   </channel>
-  <channel id="大立電視台">
-    <display-name lang="zh">大立電視台</display-name>
+  <channel id="大立电视台">
+    <display-name lang="zh">大立电视台</display-name>
   </channel>
-  <channel id="雙子衛視">
-    <display-name lang="zh">雙子衛視</display-name>
+  <channel id="双子卫视">
+    <display-name lang="zh">双子卫视</display-name>
   </channel>
-  <channel id="小公視">
-    <display-name lang="zh">小公視</display-name>
+  <channel id="小公视">
+    <display-name lang="zh">小公视</display-name>
   </channel>
-  <channel id="華視教育體育文化台">
-    <display-name lang="zh">華視教育體育文化台</display-name>
+  <channel id="华视教育体育文化台">
+    <display-name lang="zh">华视教育体育文化台</display-name>
   </channel>
-  <channel id="國會頻道1台">
-    <display-name lang="zh">國會頻道1台</display-name>
+  <channel id="国会频道1台">
+    <display-name lang="zh">国会频道1台</display-name>
   </channel>
-  <channel id="國會頻道2台">
-    <display-name lang="zh">國會頻道2台</display-name>
+  <channel id="国会频道2台">
+    <display-name lang="zh">国会频道2台</display-name>
   </channel>
-  <channel id="幸福空間居家台">
-    <display-name lang="zh">幸福空間居家台</display-name>
+  <channel id="幸福空间居家台">
+    <display-name lang="zh">幸福空间居家台</display-name>
   </channel>
-  <channel id="亞洲旅遊台有線">
-    <display-name lang="zh">亞洲旅遊台有線</display-name>
+  <channel id="亚洲旅游台有线">
+    <display-name lang="zh">亚洲旅游台有线</display-name>
   </channel>
-  <channel id="智林體育台有線">
-    <display-name lang="zh">智林體育台有線</display-name>
+  <channel id="智林体育台有线">
+    <display-name lang="zh">智林体育台有线</display-name>
   </channel>
-  <channel id="大愛二台">
-    <display-name lang="zh">大愛二台</display-name>
+  <channel id="大爱二台">
+    <display-name lang="zh">大爱二台</display-name>
   </channel>
   <channel id="好消息二台">
     <display-name lang="zh">好消息二台</display-name>
   </channel>
-  <channel id="高點育樂台">
-    <display-name lang="zh">高點育樂台</display-name>
+  <channel id="高点育乐台">
+    <display-name lang="zh">高点育乐台</display-name>
   </channel>
-  <channel id="靖天綜合台靖天">
-    <display-name lang="zh">靖天綜合台靖天</display-name>
+  <channel id="靖天综合台靖天">
+    <display-name lang="zh">靖天综合台靖天</display-name>
   </channel>
-  <channel id="靖天資訊台靖天">
-    <display-name lang="zh">靖天資訊台靖天</display-name>
+  <channel id="靖天信息台靖天">
+    <display-name lang="zh">靖天信息台靖天</display-name>
   </channel>
   <channel id="靖天日本台靖天">
     <display-name lang="zh">靖天日本台靖天</display-name>
   </channel>
-  <channel id="唯心電視台">
-    <display-name lang="zh">唯心電視台</display-name>
+  <channel id="唯心电视台">
+    <display-name lang="zh">唯心电视台</display-name>
   </channel>
   <channel id="GLOBLTREKKER探索世界">
     <display-name lang="zh">GLOBLTREKKER探索世界</display-name>
   </channel>
-  <channel id="ROCK ACTION 搖滾電影">
-    <display-name lang="zh">ROCK ACTION 搖滾電影</display-name>
+  <channel id="ROCK ACTION 摇滚电影">
+    <display-name lang="zh">ROCK ACTION 摇滚电影</display-name>
   </channel>
-  <channel id="trace sport star運動明星">
-    <display-name lang="zh">trace sport star運動明星</display-name>
+  <channel id="trace sport star运动明星">
+    <display-name lang="zh">trace sport star运动明星</display-name>
   </channel>
   <channel id="美食星球">
     <display-name lang="zh">美食星球</display-name>
   </channel>
-  <channel id="環宇財經">
-    <display-name lang="zh">環宇財經</display-name>
+  <channel id="环宇财经">
+    <display-name lang="zh">环宇财经</display-name>
   </channel>
-  <channel id="寰宇新聞台灣台">
-    <display-name lang="zh">寰宇新聞台灣台</display-name>
+  <channel id="寰宇新闻台湾台">
+    <display-name lang="zh">寰宇新闻台湾台</display-name>
   </channel>
-  <channel id="民視第一台">
-    <display-name lang="zh">民視第一台</display-name>
+  <channel id="民视第一台">
+    <display-name lang="zh">民视第一台</display-name>
   </channel>
-  <channel id="民視台灣台">
-    <display-name lang="zh">民視台灣台</display-name>
+  <channel id="民视台湾台">
+    <display-name lang="zh">民视台湾台</display-name>
   </channel>
-  <channel id="中視菁采台">
-    <display-name lang="zh">中視菁采台</display-name>
+  <channel id="中视菁采台">
+    <display-name lang="zh">中视菁采台</display-name>
   </channel>
-  <channel id="中視新聞台">
-    <display-name lang="zh">中視新聞台</display-name>
+  <channel id="中视新闻台">
+    <display-name lang="zh">中视新闻台</display-name>
   </channel>
-  <channel id="台視新聞台">
-    <display-name lang="zh">台視新聞台</display-name>
+  <channel id="台视新闻台">
+    <display-name lang="zh">台视新闻台</display-name>
   </channel>
-  <channel id="台視財經台">
-    <display-name lang="zh">台視財經台</display-name>
+  <channel id="台视财经台">
+    <display-name lang="zh">台视财经台</display-name>
   </channel>
-  <channel id="台視綜合台">
-    <display-name lang="zh">台視綜合台</display-name>
+  <channel id="台视综合台">
+    <display-name lang="zh">台视综合台</display-name>
   </channel>
   <channel id="Bloomberg Television">
     <display-name lang="zh">Bloomberg Television</display-name>
@@ -3059,80 +3059,80 @@ nowtv
   <channel id="Channel News Asia">
     <display-name lang="zh">Channel News Asia</display-name>
   </channel>
-  <channel id="TaiwanPlus有線">
-    <display-name lang="zh">TaiwanPlus有線</display-name>
+  <channel id="TaiwanPlus有线">
+    <display-name lang="zh">TaiwanPlus有线</display-name>
   </channel>
-  <channel id="LOVE NATURE有線">
-    <display-name lang="zh">LOVE NATURE有線</display-name>
+  <channel id="LOVE NATURE有线">
+    <display-name lang="zh">LOVE NATURE有线</display-name>
   </channel>
-  <channel id="CI罪案偵查頻道有線">
-    <display-name lang="zh">CI罪案偵查頻道有線</display-name>
+  <channel id="CI罪案侦查频道有线">
+    <display-name lang="zh">CI罪案侦查频道有线</display-name>
   </channel>
-  <channel id="lifetime娛樂頻道有線">
-    <display-name lang="zh">lifetime娛樂頻道有線</display-name>
+  <channel id="lifetime娱乐频道有线">
+    <display-name lang="zh">lifetime娱乐频道有线</display-name>
   </channel>
-  <channel id="Asian Food Network 亞洲美食頻道">
-    <display-name lang="zh">Asian Food Network 亞洲美食頻道</display-name>
+  <channel id="Asian Food Network 亚洲美食频道">
+    <display-name lang="zh">Asian Food Network 亚洲美食频道</display-name>
   </channel>
-  <channel id="梅迪奇藝術頻道有線">
-    <display-name lang="zh">梅迪奇藝術頻道有線</display-name>
+  <channel id="梅迪奇艺术频道有线">
+    <display-name lang="zh">梅迪奇艺术频道有线</display-name>
   </channel>
-  <channel id="Discovery Asia有線">
-    <display-name lang="zh">Discovery Asia有線</display-name>
+  <channel id="Discovery Asia有线">
+    <display-name lang="zh">Discovery Asia有线</display-name>
   </channel>
-  <channel id="Discovery科學頻道有線">
-    <display-name lang="zh">Discovery科學頻道有線</display-name>
+  <channel id="Discovery科学频道有线">
+    <display-name lang="zh">Discovery科学频道有线</display-name>
   </channel>
-  <channel id="DMAX有線">
-    <display-name lang="zh">DMAX有線</display-name>
+  <channel id="DMAX有线">
+    <display-name lang="zh">DMAX有线</display-name>
   </channel>
-  <channel id="EVE有線">
-    <display-name lang="zh">EVE有線</display-name>
+  <channel id="EVE有线">
+    <display-name lang="zh">EVE有线</display-name>
   </channel>
-  <channel id="博斯運動一台有線">
-    <display-name lang="zh">博斯運動一台有線</display-name>
+  <channel id="博斯运动一台有线">
+    <display-name lang="zh">博斯运动一台有线</display-name>
   </channel>
-  <channel id="HITS有線">
-    <display-name lang="zh">HITS有線</display-name>
+  <channel id="HITS有线">
+    <display-name lang="zh">HITS有线</display-name>
   </channel>
-  <channel id="History 歷史頻道有線">
-    <display-name lang="zh">History 歷史頻道有線</display-name>
+  <channel id="History 历史频道有线">
+    <display-name lang="zh">History 历史频道有线</display-name>
   </channel>
-  <channel id="PET CLUB TV寵物頻道有線">
-    <display-name lang="zh">PET CLUB TV寵物頻道有線</display-name>
+  <channel id="PET CLUB TV宠物频道有线">
+    <display-name lang="zh">PET CLUB TV宠物频道有线</display-name>
   </channel>
-  <channel id="滾動力 rollor有線">
-    <display-name lang="zh">滾動力 rollor有線</display-name>
+  <channel id="滚动力 rollor有线">
+    <display-name lang="zh">滚动力 rollor有线</display-name>
   </channel>
-  <channel id="cinemalworld世界電影頻道有線">
-    <display-name lang="zh">cinemalworld世界電影頻道有線</display-name>
+  <channel id="cinemalworld世界电影频道有线">
+    <display-name lang="zh">cinemalworld世界电影频道有线</display-name>
   </channel>
-  <channel id="My Cinema Europe HD 我的歐洲電影有線">
-    <display-name lang="zh">My Cinema Europe HD 我的歐洲電影有線</display-name>
+  <channel id="My Cinema Europe HD 我的欧洲电影有线">
+    <display-name lang="zh">My Cinema Europe HD 我的欧洲电影有线</display-name>
   </channel>
   <channel id="HBO HD">
     <display-name lang="zh">HBO HD</display-name>
   </channel>
-  <channel id="HBO Signature 原創鉅獻">
-    <display-name lang="zh">HBO Signature 原創鉅獻</display-name>
+  <channel id="HBO Signature 原创鉅献">
+    <display-name lang="zh">HBO Signature 原创鉅献</display-name>
   </channel>
-  <channel id="HBO Hits 強檔鉅獻">
-    <display-name lang="zh">HBO Hits 強檔鉅獻</display-name>
+  <channel id="HBO Hits 强档鉅献">
+    <display-name lang="zh">HBO Hits 强档鉅献</display-name>
   </channel>
   <channel id="HBO Family">
     <display-name lang="zh">HBO Family</display-name>
   </channel>
-  <channel id="tvN有線">
-    <display-name lang="zh">tvN有線</display-name>
+  <channel id="tvN有线">
+    <display-name lang="zh">tvN有线</display-name>
   </channel>
-  <channel id="華藝MBC綜合台有線">
-    <display-name lang="zh">華藝MBC綜合台有線</display-name>
+  <channel id="华艺MBC综合台有线">
+    <display-name lang="zh">华艺MBC综合台有线</display-name>
   </channel>
-  <channel id="靖天映畫有線">
-    <display-name lang="zh">靖天映畫有線</display-name>
+  <channel id="靖天映画有线">
+    <display-name lang="zh">靖天映画有线</display-name>
   </channel>
-  <channel id="靖天電影有線">
-    <display-name lang="zh">靖天電影有線</display-name>
+  <channel id="靖天电影有线">
+    <display-name lang="zh">靖天电影有线</display-name>
   </channel>
   <channel id="ROCK ENTERTAINMENT">
     <display-name lang="zh">ROCK ENTERTAINMENT</display-name>
@@ -3146,14 +3146,14 @@ nowtv
   <channel id="Warner TV">
     <display-name lang="zh">Warner TV</display-name>
   </channel>
-  <channel id="MTV Live音樂頻道">
-    <display-name lang="zh">MTV Live音樂頻道</display-name>
+  <channel id="MTV Live音乐频道">
+    <display-name lang="zh">MTV Live音乐频道</display-name>
   </channel>
-  <channel id="靖洋卡通有線">
-    <display-name lang="zh">靖洋卡通有線</display-name>
+  <channel id="靖洋卡通有线">
+    <display-name lang="zh">靖洋卡通有线</display-name>
   </channel>
-  <channel id="Nickelodeon Asia尼克兒童頻道">
-    <display-name lang="zh">Nickelodeon Asia尼克兒童頻道</display-name>
+  <channel id="Nickelodeon Asia尼克儿童频道">
+    <display-name lang="zh">Nickelodeon Asia尼克儿童频道</display-name>
   </channel>
   <channel id="CARTOONITO">
     <display-name lang="zh">CARTOONITO</display-name>
@@ -3164,47 +3164,47 @@ nowtv
   <channel id="Eurosport">
     <display-name lang="zh">Eurosport</display-name>
   </channel>
-  <channel id="博斯運動二台有線">
-    <display-name lang="zh">博斯運動二台有線</display-name>
+  <channel id="博斯运动二台有线">
+    <display-name lang="zh">博斯运动二台有线</display-name>
   </channel>
-  <channel id="博斯高球一台有線">
-    <display-name lang="zh">博斯高球一台有線</display-name>
+  <channel id="博斯高球一台有线">
+    <display-name lang="zh">博斯高球一台有线</display-name>
   </channel>
-  <channel id="博斯高球二台有線">
-    <display-name lang="zh">博斯高球二台有線</display-name>
+  <channel id="博斯高球二台有线">
+    <display-name lang="zh">博斯高球二台有线</display-name>
   </channel>
-  <channel id="博斯魅力網有線">
-    <display-name lang="zh">博斯魅力網有線</display-name>
+  <channel id="博斯魅力网有线">
+    <display-name lang="zh">博斯魅力网有线</display-name>
   </channel>
-  <channel id="博斯網球台有線">
-    <display-name lang="zh">博斯網球台有線</display-name>
+  <channel id="博斯网球台有线">
+    <display-name lang="zh">博斯网球台有线</display-name>
   </channel>
-  <channel id="博斯無限台有線">
-    <display-name lang="zh">博斯無限台有線</display-name>
+  <channel id="博斯无限台有线">
+    <display-name lang="zh">博斯无限台有线</display-name>
   </channel>
-  <channel id="博斯無限二台有線">
-    <display-name lang="zh">博斯無限二台有線</display-name>
+  <channel id="博斯无限二台有线">
+    <display-name lang="zh">博斯无限二台有线</display-name>
   </channel>
-  <channel id="彩虹頻道">
-    <display-name lang="zh">彩虹頻道</display-name>
+  <channel id="彩虹频道">
+    <display-name lang="zh">彩虹频道</display-name>
   </channel>
-  <channel id="松視4台">
-    <display-name lang="zh">松視4台</display-name>
+  <channel id="松视4台">
+    <display-name lang="zh">松视4台</display-name>
   </channel>
-  <channel id="Pandora潘朵啦高畫質玩美台">
-    <display-name lang="zh">Pandora潘朵啦高畫質玩美台</display-name>
+  <channel id="Pandora潘朵啦高画质玩美台">
+    <display-name lang="zh">Pandora潘朵啦高画质玩美台</display-name>
   </channel>
-  <channel id="Pandora潘朵啦高畫質粉紅台">
-    <display-name lang="zh">Pandora潘朵啦高畫質粉紅台</display-name>
+  <channel id="Pandora潘朵啦高画质粉红台">
+    <display-name lang="zh">Pandora潘朵啦高画质粉红台</display-name>
   </channel>
-  <channel id="松視1台">
-    <display-name lang="zh">松視1台</display-name>
+  <channel id="松视1台">
+    <display-name lang="zh">松视1台</display-name>
   </channel>
-  <channel id="松視2台">
-    <display-name lang="zh">松視2台</display-name>
+  <channel id="松视2台">
+    <display-name lang="zh">松视2台</display-name>
   </channel>
-  <channel id="松視3台">
-    <display-name lang="zh">松視3台</display-name>
+  <channel id="松视3台">
+    <display-name lang="zh">松视3台</display-name>
   </channel>
   <channel id="彩虹E台">
     <display-name lang="zh">彩虹E台</display-name>
@@ -3212,35 +3212,35 @@ nowtv
   <channel id="彩虹Movie台">
     <display-name lang="zh">彩虹Movie台</display-name>
   </channel>
-  <channel id="K頻道">
-    <display-name lang="zh">K頻道</display-name>
+  <channel id="K频道">
+    <display-name lang="zh">K频道</display-name>
   </channel>
-  <channel id="HOT頻道">
-    <display-name lang="zh">HOT頻道</display-name>
+  <channel id="HOT频道">
+    <display-name lang="zh">HOT频道</display-name>
   </channel>
-  <channel id="HAPPY頻道">
-    <display-name lang="zh">HAPPY頻道</display-name>
+  <channel id="HAPPY频道">
+    <display-name lang="zh">HAPPY频道</display-name>
   </channel>
-  <channel id="玩家頻道">
-    <display-name lang="zh">玩家頻道</display-name>
+  <channel id="玩家频道">
+    <display-name lang="zh">玩家频道</display-name>
   </channel>
-  <channel id="驚豔成人電影台">
-    <display-name lang="zh">驚豔成人電影台</display-name>
+  <channel id="惊艳成人电影台">
+    <display-name lang="zh">惊艳成人电影台</display-name>
   </channel>
   <channel id="香蕉台">
     <display-name lang="zh">香蕉台</display-name>
   </channel>
-  <channel id="樂活頻道">
-    <display-name lang="zh">樂活頻道</display-name>
+  <channel id="乐活频道">
+    <display-name lang="zh">乐活频道</display-name>
   </channel>
-  <channel id="JStar極限台電影頻道">
-    <display-name lang="zh">JStar極限台電影頻道</display-name>
+  <channel id="JStar极限台电影频道">
+    <display-name lang="zh">JStar极限台电影频道</display-name>
   </channel>
-  <channel id="amc電影台">
-    <display-name lang="zh">amc電影台</display-name>
+  <channel id="amc电影台">
+    <display-name lang="zh">amc电影台</display-name>
   </channel>
-  <channel id="AsianFoodNetwork亞洲美食頻道">
-    <display-name lang="zh">AsianFoodNetwork亞洲美食頻道</display-name>
+  <channel id="AsianFoodNetwork亚洲美食频道">
+    <display-name lang="zh">AsianFoodNetwork亚洲美食频道</display-name>
   </channel>
   <channel id="BBCEarth">
     <display-name lang="zh">BBCEarth</display-name>
@@ -3257,26 +3257,26 @@ nowtv
   <channel id="CARTOONITO">
     <display-name lang="zh">CARTOONITO</display-name>
   </channel>
-  <channel id="CATCHPLAY電影台">
-    <display-name lang="zh">CATCHPLAY電影台</display-name>
+  <channel id="CATCHPLAY电影台">
+    <display-name lang="zh">CATCHPLAY电影台</display-name>
   </channel>
   <channel id="CBeebies">
     <display-name lang="zh">CBeebies</display-name>
   </channel>
-  <channel id="CinemaWorld頻道">
-    <display-name lang="zh">CinemaWorld頻道</display-name>
+  <channel id="CinemaWorld频道">
+    <display-name lang="zh">CinemaWorld频道</display-name>
   </channel>
-  <channel id="CNEX紀實頻道">
-    <display-name lang="zh">CNEX紀實頻道</display-name>
+  <channel id="CNEX纪实频道">
+    <display-name lang="zh">CNEX纪实频道</display-name>
   </channel>
-  <channel id="CNN國際新聞台">
-    <display-name lang="zh">CNN國際新聞台</display-name>
+  <channel id="CNN国际新闻台">
+    <display-name lang="zh">CNN国际新闻台</display-name>
   </channel>
-  <channel id="CNN頭條新聞台(HLN)">
-    <display-name lang="zh">CNN頭條新聞台(HLN)</display-name>
+  <channel id="CNN头条新闻台(HLN)">
+    <display-name lang="zh">CNN头条新闻台(HLN)</display-name>
   </channel>
-  <channel id="CN卡通頻道">
-    <display-name lang="zh">CN卡通頻道</display-name>
+  <channel id="CN卡通频道">
+    <display-name lang="zh">CN卡通频道</display-name>
   </channel>
   <channel id="DiscoveryAsia">
     <display-name lang="zh">DiscoveryAsia</display-name>
@@ -3287,8 +3287,8 @@ nowtv
   <channel id="DiscoveryEVE">
     <display-name lang="zh">DiscoveryEVE</display-name>
   </channel>
-  <channel id="Discovery科學台(Science)">
-    <display-name lang="zh">Discovery科學台(Science)</display-name>
+  <channel id="Discovery科学台(Science)">
+    <display-name lang="zh">Discovery科学台(Science)</display-name>
   </channel>
   <channel id="DREAMWORKS">
     <display-name lang="zh">DREAMWORKS</display-name>
@@ -3296,38 +3296,38 @@ nowtv
   <channel id="EUROSPORT">
     <display-name lang="zh">EUROSPORT</display-name>
   </channel>
-  <channel id="GinxTV電競頻道">
-    <display-name lang="zh">GinxTV電競頻道</display-name>
+  <channel id="GinxTV电竞频道">
+    <display-name lang="zh">GinxTV电竞频道</display-name>
   </channel>
   <channel id="GlobalTrekker">
     <display-name lang="zh">GlobalTrekker</display-name>
   </channel>
-  <channel id="Hami日漫台(免費)">
-    <display-name lang="zh">Hami日漫台(免費)</display-name>
+  <channel id="Hami日漫台(免费)">
+    <display-name lang="zh">Hami日漫台(免费)</display-name>
   </channel>
-  <channel id="Hami體育1台">
-    <display-name lang="zh">Hami體育1台</display-name>
+  <channel id="Hami体育1台">
+    <display-name lang="zh">Hami体育1台</display-name>
   </channel>
-  <channel id="Hami體育2台">
-    <display-name lang="zh">Hami體育2台</display-name>
+  <channel id="Hami体育2台">
+    <display-name lang="zh">Hami体育2台</display-name>
   </channel>
-  <channel id="Hami體育2台(免費)">
-    <display-name lang="zh">Hami體育2台(免費)</display-name>
+  <channel id="Hami体育2台(免费)">
+    <display-name lang="zh">Hami体育2台(免费)</display-name>
   </channel>
   <channel id="HBLTV1台">
     <display-name lang="zh">HBLTV1台</display-name>
   </channel>
-  <channel id="HBLTV1台(免費)">
-    <display-name lang="zh">HBLTV1台(免費)</display-name>
+  <channel id="HBLTV1台(免费)">
+    <display-name lang="zh">HBLTV1台(免费)</display-name>
   </channel>
   <channel id="HBLTV2台">
     <display-name lang="zh">HBLTV2台</display-name>
   </channel>
-  <channel id="HBLTV2台(免費)">
-    <display-name lang="zh">HBLTV2台(免費)</display-name>
+  <channel id="HBLTV2台(免费)">
+    <display-name lang="zh">HBLTV2台(免费)</display-name>
   </channel>
-  <channel id="HGTV居家樂活頻道">
-    <display-name lang="zh">HGTV居家樂活頻道</display-name>
+  <channel id="HGTV居家乐活频道">
+    <display-name lang="zh">HGTV居家乐活频道</display-name>
   </channel>
   <channel id="History">
     <display-name lang="zh">History</display-name>
@@ -3335,23 +3335,23 @@ nowtv
   <channel id="INULTRA">
     <display-name lang="zh">INULTRA</display-name>
   </channel>
-  <channel id="KKBOX風雲榜C位視角">
-    <display-name lang="zh">KKBOX風雲榜C位視角</display-name>
+  <channel id="KKBOX风云榜C位视角">
+    <display-name lang="zh">KKBOX风云榜C位视角</display-name>
   </channel>
-  <channel id="KKBOX風雲榜主視角">
-    <display-name lang="zh">KKBOX風雲榜主視角</display-name>
+  <channel id="KKBOX风云榜主视角">
+    <display-name lang="zh">KKBOX风云榜主视角</display-name>
   </channel>
-  <channel id="KKBOX風雲榜應援視角">
-    <display-name lang="zh">KKBOX風雲榜應援視角</display-name>
+  <channel id="KKBOX风云榜应援视角">
+    <display-name lang="zh">KKBOX风云榜应援视角</display-name>
   </channel>
-  <channel id="KKBOX風雲榜追星視角">
-    <display-name lang="zh">KKBOX風雲榜追星視角</display-name>
+  <channel id="KKBOX风云榜追星视角">
+    <display-name lang="zh">KKBOX风云榜追星视角</display-name>
   </channel>
   <channel id="Lifetime">
     <display-name lang="zh">Lifetime</display-name>
   </channel>
-  <channel id="LiveABC互動英語頻道">
-    <display-name lang="zh">LiveABC互動英語頻道</display-name>
+  <channel id="LiveABC互动英语频道">
+    <display-name lang="zh">LiveABC互动英语频道</display-name>
   </channel>
   <channel id="LOVENATURE">
     <display-name lang="zh">LOVENATURE</display-name>
@@ -3359,17 +3359,17 @@ nowtv
   <channel id="MezzoLive">
     <display-name lang="zh">MezzoLive</display-name>
   </channel>
-  <channel id="momo綜合台">
-    <display-name lang="zh">momo綜合台</display-name>
+  <channel id="momo综合台">
+    <display-name lang="zh">momo综合台</display-name>
   </channel>
-  <channel id="momo親子台">
-    <display-name lang="zh">momo親子台</display-name>
+  <channel id="momo亲子台">
+    <display-name lang="zh">momo亲子台</display-name>
   </channel>
-  <channel id="momo親子台(免費)">
-    <display-name lang="zh">momo親子台(免費)</display-name>
+  <channel id="momo亲子台(免费)">
+    <display-name lang="zh">momo亲子台(免费)</display-name>
   </channel>
-  <channel id="NHK新聞資訊台">
-    <display-name lang="zh">NHK新聞資訊台</display-name>
+  <channel id="NHK新闻信息台">
+    <display-name lang="zh">NHK新闻信息台</display-name>
   </channel>
   <channel id="NickJr.">
     <display-name lang="zh">NickJr.</display-name>
@@ -3386,8 +3386,8 @@ nowtv
   <channel id="ROCKExtreme">
     <display-name lang="zh">ROCKExtreme</display-name>
   </channel>
-  <channel id="ROCKExtreme(免費)">
-    <display-name lang="zh">ROCKExtreme(免費)</display-name>
+  <channel id="ROCKExtreme(免费)">
+    <display-name lang="zh">ROCKExtreme(免费)</display-name>
   </channel>
   <channel id="TRACESportStars">
     <display-name lang="zh">TRACESportStars</display-name>
@@ -3401,11 +3401,11 @@ nowtv
   <channel id="TVBS">
     <display-name lang="zh">TVBS</display-name>
   </channel>
-  <channel id="TVBS新聞台">
-    <display-name lang="zh">TVBS新聞台</display-name>
+  <channel id="TVBS新闻台">
+    <display-name lang="zh">TVBS新闻台</display-name>
   </channel>
-  <channel id="TVBS歡樂台">
-    <display-name lang="zh">TVBS歡樂台</display-name>
+  <channel id="TVBS欢乐台">
+    <display-name lang="zh">TVBS欢乐台</display-name>
   </channel>
   <channel id="TVBS精采台">
     <display-name lang="zh">TVBS精采台</display-name>
@@ -3419,305 +3419,305 @@ nowtv
   <channel id="三立iNEWS">
     <display-name lang="zh">三立iNEWS</display-name>
   </channel>
-  <channel id="三立新聞台">
-    <display-name lang="zh">三立新聞台</display-name>
+  <channel id="三立新闻台">
+    <display-name lang="zh">三立新闻台</display-name>
   </channel>
-  <channel id="中天新聞台">
-    <display-name lang="zh">中天新聞台</display-name>
+  <channel id="中天新闻台">
+    <display-name lang="zh">中天新闻台</display-name>
   </channel>
-  <channel id="中央氣象署影音頻道">
-    <display-name lang="zh">中央氣象署影音頻道</display-name>
+  <channel id="中央气象署影音频道">
+    <display-name lang="zh">中央气象署影音频道</display-name>
   </channel>
-  <channel id="中視主頻">
-    <display-name lang="zh">中視主頻</display-name>
+  <channel id="中视主频">
+    <display-name lang="zh">中视主频</display-name>
   </channel>
-  <channel id="中視新聞台">
-    <display-name lang="zh">中視新聞台</display-name>
+  <channel id="中视新闻台">
+    <display-name lang="zh">中视新闻台</display-name>
   </channel>
-  <channel id="中視經典台">
-    <display-name lang="zh">中視經典台</display-name>
+  <channel id="中视经典台">
+    <display-name lang="zh">中视经典台</display-name>
   </channel>
-  <channel id="中視菁采台">
-    <display-name lang="zh">中視菁采台</display-name>
+  <channel id="中视菁采台">
+    <display-name lang="zh">中视菁采台</display-name>
   </channel>
-  <channel id="亞洲旅遊台">
-    <display-name lang="zh">亞洲旅遊台</display-name>
+  <channel id="亚洲旅游台">
+    <display-name lang="zh">亚洲旅游台</display-name>
   </channel>
-  <channel id="人間衛視">
-    <display-name lang="zh">人間衛視</display-name>
+  <channel id="人间卫视">
+    <display-name lang="zh">人间卫视</display-name>
   </channel>
   <channel id="八大精彩台">
     <display-name lang="zh">八大精彩台</display-name>
   </channel>
-  <channel id="八大綜藝台">
-    <display-name lang="zh">八大綜藝台</display-name>
+  <channel id="八大综艺台">
+    <display-name lang="zh">八大综艺台</display-name>
   </channel>
-  <channel id="公視戲劇">
-    <display-name lang="zh">公視戲劇</display-name>
+  <channel id="公视戏剧">
+    <display-name lang="zh">公视戏剧</display-name>
   </channel>
-  <channel id="博斯無限二台">
-    <display-name lang="zh">博斯無限二台</display-name>
+  <channel id="博斯无限二台">
+    <display-name lang="zh">博斯无限二台</display-name>
   </channel>
-  <channel id="博斯無限台">
-    <display-name lang="zh">博斯無限台</display-name>
+  <channel id="博斯无限台">
+    <display-name lang="zh">博斯无限台</display-name>
   </channel>
-  <channel id="博斯網球台">
-    <display-name lang="zh">博斯網球台</display-name>
+  <channel id="博斯网球台">
+    <display-name lang="zh">博斯网球台</display-name>
   </channel>
-  <channel id="博斯運動一台">
-    <display-name lang="zh">博斯運動一台</display-name>
+  <channel id="博斯运动一台">
+    <display-name lang="zh">博斯运动一台</display-name>
   </channel>
   <channel id="博斯高球一台">
     <display-name lang="zh">博斯高球一台</display-name>
   </channel>
-  <channel id="博斯魅力網">
-    <display-name lang="zh">博斯魅力網</display-name>
+  <channel id="博斯魅力网">
+    <display-name lang="zh">博斯魅力网</display-name>
   </channel>
-  <channel id="古典音樂台">
-    <display-name lang="zh">古典音樂台</display-name>
+  <channel id="古典音乐台">
+    <display-name lang="zh">古典音乐台</display-name>
   </channel>
-  <channel id="台視主頻">
-    <display-name lang="zh">台視主頻</display-name>
+  <channel id="台视主频">
+    <display-name lang="zh">台视主频</display-name>
   </channel>
-  <channel id="台視新聞台">
-    <display-name lang="zh">台視新聞台</display-name>
+  <channel id="台视新闻台">
+    <display-name lang="zh">台视新闻台</display-name>
   </channel>
-  <channel id="台視綜合台">
-    <display-name lang="zh">台視綜合台</display-name>
+  <channel id="台视综合台">
+    <display-name lang="zh">台视综合台</display-name>
   </channel>
-  <channel id="台視財經台">
-    <display-name lang="zh">台視財經台</display-name>
+  <channel id="台视财经台">
+    <display-name lang="zh">台视财经台</display-name>
   </channel>
-  <channel id="國會頻道1">
-    <display-name lang="zh">國會頻道1</display-name>
+  <channel id="国会频道1">
+    <display-name lang="zh">国会频道1</display-name>
   </channel>
-  <channel id="國會頻道2">
-    <display-name lang="zh">國會頻道2</display-name>
+  <channel id="国会频道2">
+    <display-name lang="zh">国会频道2</display-name>
   </channel>
-  <channel id="大愛電視">
-    <display-name lang="zh">大愛電視</display-name>
+  <channel id="大爱电视">
+    <display-name lang="zh">大爱电视</display-name>
   </channel>
-  <channel id="寰宇新聞">
-    <display-name lang="zh">寰宇新聞</display-name>
+  <channel id="寰宇新闻">
+    <display-name lang="zh">寰宇新闻</display-name>
   </channel>
-  <channel id="尼克兒童頻道">
-    <display-name lang="zh">尼克兒童頻道</display-name>
+  <channel id="尼克儿童频道">
+    <display-name lang="zh">尼克儿童频道</display-name>
   </channel>
-  <channel id="影迷數位電影台">
-    <display-name lang="zh">影迷數位電影台</display-name>
+  <channel id="影迷数字电影台">
+    <display-name lang="zh">影迷数字电影台</display-name>
   </channel>
-  <channel id="愛爾達娛樂台">
-    <display-name lang="zh">愛爾達娛樂台</display-name>
+  <channel id="爱尔达娱乐台">
+    <display-name lang="zh">爱尔达娱乐台</display-name>
   </channel>
-  <channel id="愛爾達影劇台">
-    <display-name lang="zh">愛爾達影劇台</display-name>
+  <channel id="爱尔达影剧台">
+    <display-name lang="zh">爱尔达影剧台</display-name>
   </channel>
-  <channel id="愛爾達日韓台">
-    <display-name lang="zh">愛爾達日韓台</display-name>
+  <channel id="爱尔达日韩台">
+    <display-name lang="zh">爱尔达日韩台</display-name>
   </channel>
-  <channel id="愛爾達綜合台">
-    <display-name lang="zh">愛爾達綜合台</display-name>
+  <channel id="爱尔达综合台">
+    <display-name lang="zh">爱尔达综合台</display-name>
   </channel>
-  <channel id="愛爾達體育1台">
-    <display-name lang="zh">愛爾達體育1台</display-name>
+  <channel id="爱尔达体育1台">
+    <display-name lang="zh">爱尔达体育1台</display-name>
   </channel>
-  <channel id="愛爾達體育2台">
-    <display-name lang="zh">愛爾達體育2台</display-name>
+  <channel id="爱尔达体育2台">
+    <display-name lang="zh">爱尔达体育2台</display-name>
   </channel>
-  <channel id="愛爾達體育3台">
-    <display-name lang="zh">愛爾達體育3台</display-name>
+  <channel id="爱尔达体育3台">
+    <display-name lang="zh">爱尔达体育3台</display-name>
   </channel>
-  <channel id="愛爾達體育4台">
-    <display-name lang="zh">愛爾達體育4台</display-name>
+  <channel id="爱尔达体育4台">
+    <display-name lang="zh">爱尔达体育4台</display-name>
   </channel>
-  <channel id="愛爾達體育MAX1台">
-    <display-name lang="zh">愛爾達體育MAX1台</display-name>
+  <channel id="爱尔达体育MAX1台">
+    <display-name lang="zh">爱尔达体育MAX1台</display-name>
   </channel>
-  <channel id="愛爾達體育MAX2台">
-    <display-name lang="zh">愛爾達體育MAX2台</display-name>
+  <channel id="爱尔达体育MAX2台">
+    <display-name lang="zh">爱尔达体育MAX2台</display-name>
   </channel>
-  <channel id="愛爾達體育MAX3台">
-    <display-name lang="zh">愛爾達體育MAX3台</display-name>
+  <channel id="爱尔达体育MAX3台">
+    <display-name lang="zh">爱尔达体育MAX3台</display-name>
   </channel>
-  <channel id="愛爾達體育MAX4台">
-    <display-name lang="zh">愛爾達體育MAX4台</display-name>
+  <channel id="爱尔达体育MAX4台">
+    <display-name lang="zh">爱尔达体育MAX4台</display-name>
   </channel>
-  <channel id="東森新聞台">
-    <display-name lang="zh">東森新聞台</display-name>
+  <channel id="东森新闻台">
+    <display-name lang="zh">东森新闻台</display-name>
   </channel>
-  <channel id="東森財經台">
-    <display-name lang="zh">東森財經台</display-name>
+  <channel id="东森财经台">
+    <display-name lang="zh">东森财经台</display-name>
   </channel>
-  <channel id="東森購物頻道">
-    <display-name lang="zh">東森購物頻道</display-name>
+  <channel id="东森购物频道">
+    <display-name lang="zh">东森购物频道</display-name>
   </channel>
-  <channel id="民視台灣台">
-    <display-name lang="zh">民視台灣台</display-name>
+  <channel id="民视台湾台">
+    <display-name lang="zh">民视台湾台</display-name>
   </channel>
-  <channel id="民視台灣台(免費)">
-    <display-name lang="zh">民視台灣台(免費)</display-name>
+  <channel id="民视台湾台(免费)">
+    <display-name lang="zh">民视台湾台(免费)</display-name>
   </channel>
-  <channel id="民視影劇台">
-    <display-name lang="zh">民視影劇台</display-name>
+  <channel id="民视影剧台">
+    <display-name lang="zh">民视影剧台</display-name>
   </channel>
-  <channel id="民視新聞台">
-    <display-name lang="zh">民視新聞台</display-name>
+  <channel id="民视新闻台">
+    <display-name lang="zh">民视新闻台</display-name>
   </channel>
-  <channel id="民視無線台">
-    <display-name lang="zh">民視無線台</display-name>
+  <channel id="民视无线台">
+    <display-name lang="zh">民视无线台</display-name>
   </channel>
-  <channel id="民視第一台">
-    <display-name lang="zh">民視第一台</display-name>
+  <channel id="民视第一台">
+    <display-name lang="zh">民视第一台</display-name>
   </channel>
-  <channel id="民視綜藝台">
-    <display-name lang="zh">民視綜藝台</display-name>
+  <channel id="民视综艺台">
+    <display-name lang="zh">民视综艺台</display-name>
   </channel>
-  <channel id="空中英語教室">
-    <display-name lang="zh">空中英語教室</display-name>
+  <channel id="空中英语教室">
+    <display-name lang="zh">空中英语教室</display-name>
   </channel>
-  <channel id="空中英語教室(免費)">
-    <display-name lang="zh">空中英語教室(免費)</display-name>
+  <channel id="空中英语教室(免费)">
+    <display-name lang="zh">空中英语教室(免费)</display-name>
   </channel>
-  <channel id="罪案偵緝頻道">
-    <display-name lang="zh">罪案偵緝頻道</display-name>
+  <channel id="罪案侦缉频道">
+    <display-name lang="zh">罪案侦缉频道</display-name>
   </channel>
-  <channel id="華藝中文台">
-    <display-name lang="zh">華藝中文台</display-name>
+  <channel id="华艺中文台">
+    <display-name lang="zh">华艺中文台</display-name>
   </channel>
-  <channel id="華視主頻">
-    <display-name lang="zh">華視主頻</display-name>
+  <channel id="华视主频">
+    <display-name lang="zh">华视主频</display-name>
   </channel>
-  <channel id="華視新聞資訊台">
-    <display-name lang="zh">華視新聞資訊台</display-name>
+  <channel id="华视新闻信息台">
+    <display-name lang="zh">华视新闻信息台</display-name>
   </channel>
-  <channel id="豬哥亮歌廳秀">
-    <display-name lang="zh">豬哥亮歌廳秀</display-name>
+  <channel id="猪哥亮歌厅秀">
+    <display-name lang="zh">猪哥亮歌厅秀</display-name>
   </channel>
-  <channel id="達文西頻道">
-    <display-name lang="zh">達文西頻道</display-name>
+  <channel id="达文西频道">
+    <display-name lang="zh">达文西频道</display-name>
   </channel>
-  <channel id="采昌影劇台">
-    <display-name lang="zh">采昌影劇台</display-name>
+  <channel id="采昌影剧台">
+    <display-name lang="zh">采昌影剧台</display-name>
   </channel>
-  <channel id="金光布袋戲">
-    <display-name lang="zh">金光布袋戲</display-name>
+  <channel id="金光木偶戏">
+    <display-name lang="zh">金光木偶戏</display-name>
   </channel>
-  <channel id="鏡電視新聞台">
-    <display-name lang="zh">鏡電視新聞台</display-name>
+  <channel id="镜电视新闻台">
+    <display-name lang="zh">镜电视新闻台</display-name>
   </channel>
-  <channel id="電影原聲台CMusic">
-    <display-name lang="zh">電影原聲台CMusic</display-name>
+  <channel id="电影原声台CMusic">
+    <display-name lang="zh">电影原声台CMusic</display-name>
   </channel>
   <channel id="靖天日本台">
     <display-name lang="zh">靖天日本台</display-name>
   </channel>
-  <channel id="靖天育樂台">
-    <display-name lang="zh">靖天育樂台</display-name>
+  <channel id="靖天育乐台">
+    <display-name lang="zh">靖天育乐台</display-name>
   </channel>
-  <channel id="靖洋戲劇台">
-    <display-name lang="zh">靖洋戲劇台</display-name>
+  <channel id="靖洋戏剧台">
+    <display-name lang="zh">靖洋戏剧台</display-name>
   </channel>
-  <channel id="非凡商業台">
-    <display-name lang="zh">非凡商業台</display-name>
+  <channel id="非凡商业台">
+    <display-name lang="zh">非凡商业台</display-name>
   </channel>
-  <channel id="非凡新聞台">
-    <display-name lang="zh">非凡新聞台</display-name>
+  <channel id="非凡新闻台">
+    <display-name lang="zh">非凡新闻台</display-name>
   </channel>
-  <channel id="麥哲倫頻道">
-    <display-name lang="zh">麥哲倫頻道</display-name>
+  <channel id="麦哲伦频道">
+    <display-name lang="zh">麦哲伦频道</display-name>
   </channel>
-  <channel id="龍華偶像">
-    <display-name lang="zh">龍華偶像</display-name>
+  <channel id="龙华偶像">
+    <display-name lang="zh">龙华偶像</display-name>
   </channel>
-  <channel id="龍華影劇">
-    <display-name lang="zh">龍華影劇</display-name>
+  <channel id="龙华影剧">
+    <display-name lang="zh">龙华影剧</display-name>
   </channel>
-  <channel id="龍華戲劇">
-    <display-name lang="zh">龍華戲劇</display-name>
+  <channel id="龙华戏剧">
+    <display-name lang="zh">龙华戏剧</display-name>
   </channel>
-  <channel id="龍華洋片台HAMI">
-    <display-name lang="zh">龍華洋片台HAMI</display-name>
+  <channel id="龙华洋片台HAMI">
+    <display-name lang="zh">龙华洋片台HAMI</display-name>
   </channel>
-  <channel id="龍華電影">
-    <display-name lang="zh">龍華電影</display-name>
+  <channel id="龙华电影">
+    <display-name lang="zh">龙华电影</display-name>
   </channel>
-  <channel id="民視第一台">
-    <display-name lang="zh">民視第一台</display-name>
+  <channel id="民视第一台">
+    <display-name lang="zh">民视第一台</display-name>
   </channel>
-  <channel id="民視台灣台">
-    <display-name lang="zh">民視台灣台</display-name>
+  <channel id="民视台湾台">
+    <display-name lang="zh">民视台湾台</display-name>
   </channel>
-  <channel id="民視">
-    <display-name lang="zh">民視</display-name>
+  <channel id="民视">
+    <display-name lang="zh">民视</display-name>
   </channel>
-  <channel id="大愛電視">
-    <display-name lang="zh">大愛電視</display-name>
+  <channel id="大爱电视">
+    <display-name lang="zh">大爱电视</display-name>
   </channel>
-  <channel id="中視">
-    <display-name lang="zh">中視</display-name>
+  <channel id="中视">
+    <display-name lang="zh">中视</display-name>
   </channel>
-  <channel id="中視經典台">
-    <display-name lang="zh">中視經典台</display-name>
+  <channel id="中视经典台">
+    <display-name lang="zh">中视经典台</display-name>
   </channel>
-  <channel id="華視">
-    <display-name lang="zh">華視</display-name>
+  <channel id="华视">
+    <display-name lang="zh">华视</display-name>
   </channel>
-  <channel id="三立綜合台">
-    <display-name lang="zh">三立綜合台</display-name>
+  <channel id="三立综合台">
+    <display-name lang="zh">三立综合台</display-name>
   </channel>
-  <channel id="客家電視台">
-    <display-name lang="zh">客家電視台</display-name>
+  <channel id="客家电视台">
+    <display-name lang="zh">客家电视台</display-name>
   </channel>
-  <channel id="八大綜藝台">
-    <display-name lang="zh">八大綜藝台</display-name>
+  <channel id="八大综艺台">
+    <display-name lang="zh">八大综艺台</display-name>
   </channel>
-  <channel id="中視菁采台">
-    <display-name lang="zh">中視菁采台</display-name>
+  <channel id="中视菁采台">
+    <display-name lang="zh">中视菁采台</display-name>
   </channel>
   <channel id="TVBS精采台">
     <display-name lang="zh">TVBS精采台</display-name>
   </channel>
-  <channel id="愛爾達娛樂台">
-    <display-name lang="zh">愛爾達娛樂台</display-name>
+  <channel id="爱尔达娱乐台">
+    <display-name lang="zh">爱尔达娱乐台</display-name>
   </channel>
-  <channel id="靖天綜合台">
-    <display-name lang="zh">靖天綜合台</display-name>
+  <channel id="靖天综合台">
+    <display-name lang="zh">靖天综合台</display-name>
   </channel>
   <channel id="靖天日本台">
     <display-name lang="zh">靖天日本台</display-name>
   </channel>
-  <channel id="新唐人亞太台">
-    <display-name lang="zh">新唐人亞太台</display-name>
+  <channel id="新唐人亚太台">
+    <display-name lang="zh">新唐人亚太台</display-name>
   </channel>
-  <channel id="ARIRANG阿里郎頻道">
-    <display-name lang="zh">ARIRANG阿里郎頻道</display-name>
+  <channel id="ARIRANG阿里郎频道">
+    <display-name lang="zh">ARIRANG阿里郎频道</display-name>
   </channel>
   <channel id="Global Trekker">
     <display-name lang="zh">Global Trekker</display-name>
   </channel>
-  <channel id="原住民族電視台">
-    <display-name lang="zh">原住民族電視台</display-name>
+  <channel id="原住民族电视台">
+    <display-name lang="zh">原住民族电视台</display-name>
   </channel>
-  <channel id="東森購物四台">
-    <display-name lang="zh">東森購物四台</display-name>
+  <channel id="东森购物四台">
+    <display-name lang="zh">东森购物四台</display-name>
   </channel>
-  <channel id="LiveABC互動英語頻道">
-    <display-name lang="zh">LiveABC互動英語頻道</display-name>
+  <channel id="LiveABC互动英语频道">
+    <display-name lang="zh">LiveABC互动英语频道</display-name>
   </channel>
-  <channel id="達文西頻道">
-    <display-name lang="zh">達文西頻道</display-name>
+  <channel id="达文西频道">
+    <display-name lang="zh">达文西频道</display-name>
   </channel>
-  <channel id="ELTV生活英語台">
-    <display-name lang="zh">ELTV生活英語台</display-name>
+  <channel id="ELTV生活英语台">
+    <display-name lang="zh">ELTV生活英语台</display-name>
   </channel>
-  <channel id="Nick Jr. 兒童頻道">
-    <display-name lang="zh">Nick Jr. 兒童頻道</display-name>
+  <channel id="Nick Jr. 儿童频道">
+    <display-name lang="zh">Nick Jr. 儿童频道</display-name>
   </channel>
-  <channel id="尼克兒童頻道">
-    <display-name lang="zh">尼克兒童頻道</display-name>
+  <channel id="尼克儿童频道">
+    <display-name lang="zh">尼克儿童频道</display-name>
   </channel>
-  <channel id="DreamWorks 夢工廠動畫">
-    <display-name lang="zh">DreamWorks 夢工廠動畫</display-name>
+  <channel id="DreamWorks 梦工厂动画">
+    <display-name lang="zh">DreamWorks 梦工厂动画</display-name>
   </channel>
   <channel id="靖天卡通台">
     <display-name lang="zh">靖天卡通台</display-name>
@@ -3725,104 +3725,104 @@ nowtv
   <channel id="靖洋卡通Nice Bingo">
     <display-name lang="zh">靖洋卡通Nice Bingo</display-name>
   </channel>
-  <channel id="MOMO親子台">
-    <display-name lang="zh">MOMO親子台</display-name>
+  <channel id="MOMO亲子台">
+    <display-name lang="zh">MOMO亲子台</display-name>
   </channel>
-  <channel id="東森購物一台">
-    <display-name lang="zh">東森購物一台</display-name>
+  <channel id="东森购物一台">
+    <display-name lang="zh">东森购物一台</display-name>
   </channel>
-  <channel id="鏡電視新聞台">
-    <display-name lang="zh">鏡電視新聞台</display-name>
+  <channel id="镜电视新闻台">
+    <display-name lang="zh">镜电视新闻台</display-name>
   </channel>
-  <channel id="東森新聞台">
-    <display-name lang="zh">東森新聞台</display-name>
+  <channel id="东森新闻台">
+    <display-name lang="zh">东森新闻台</display-name>
   </channel>
-  <channel id="華視新聞">
-    <display-name lang="zh">華視新聞</display-name>
+  <channel id="华视新闻">
+    <display-name lang="zh">华视新闻</display-name>
   </channel>
-  <channel id="民視新聞台">
-    <display-name lang="zh">民視新聞台</display-name>
+  <channel id="民视新闻台">
+    <display-name lang="zh">民视新闻台</display-name>
   </channel>
-  <channel id="三立新聞iNEWS">
-    <display-name lang="zh">三立新聞iNEWS</display-name>
+  <channel id="三立新闻iNEWS">
+    <display-name lang="zh">三立新闻iNEWS</display-name>
   </channel>
-  <channel id="TVBS新聞">
-    <display-name lang="zh">TVBS新聞</display-name>
+  <channel id="TVBS新闻">
+    <display-name lang="zh">TVBS新闻</display-name>
   </channel>
-  <channel id="東森財經新聞台">
-    <display-name lang="zh">東森財經新聞台</display-name>
+  <channel id="东森财经新闻台">
+    <display-name lang="zh">东森财经新闻台</display-name>
   </channel>
-  <channel id="中視新聞">
-    <display-name lang="zh">中視新聞</display-name>
+  <channel id="中视新闻">
+    <display-name lang="zh">中视新闻</display-name>
   </channel>
-  <channel id="中天新聞台">
-    <display-name lang="zh">中天新聞台</display-name>
+  <channel id="中天新闻台">
+    <display-name lang="zh">中天新闻台</display-name>
   </channel>
   <channel id="Bloomberg TV">
     <display-name lang="zh">Bloomberg TV</display-name>
   </channel>
-  <channel id="寰宇新聞台">
-    <display-name lang="zh">寰宇新聞台</display-name>
+  <channel id="寰宇新闻台">
+    <display-name lang="zh">寰宇新闻台</display-name>
   </channel>
-  <channel id="寰宇新聞台灣台">
-    <display-name lang="zh">寰宇新聞台灣台</display-name>
+  <channel id="寰宇新闻台湾台">
+    <display-name lang="zh">寰宇新闻台湾台</display-name>
   </channel>
-  <channel id="SBN全球財經台">
-    <display-name lang="zh">SBN全球財經台</display-name>
+  <channel id="SBN全球财经台">
+    <display-name lang="zh">SBN全球财经台</display-name>
   </channel>
   <channel id="TVBS">
     <display-name lang="zh">TVBS</display-name>
   </channel>
-  <channel id="東森購物二台">
-    <display-name lang="zh">東森購物二台</display-name>
+  <channel id="东森购物二台">
+    <display-name lang="zh">东森购物二台</display-name>
   </channel>
-  <channel id="民視綜藝台">
-    <display-name lang="zh">民視綜藝台</display-name>
+  <channel id="民视综艺台">
+    <display-name lang="zh">民视综艺台</display-name>
   </channel>
-  <channel id="豬哥亮歌廳秀">
-    <display-name lang="zh">豬哥亮歌廳秀</display-name>
+  <channel id="猪哥亮歌厅秀">
+    <display-name lang="zh">猪哥亮歌厅秀</display-name>
   </channel>
-  <channel id="靖天育樂台">
-    <display-name lang="zh">靖天育樂台</display-name>
+  <channel id="靖天育乐台">
+    <display-name lang="zh">靖天育乐台</display-name>
   </channel>
-  <channel id="KLT-靖天國際台">
-    <display-name lang="zh">KLT-靖天國際台</display-name>
+  <channel id="KLT-靖天国际台">
+    <display-name lang="zh">KLT-靖天国际台</display-name>
   </channel>
-  <channel id="Nice TV 靖天歡樂台">
-    <display-name lang="zh">Nice TV 靖天歡樂台</display-name>
+  <channel id="Nice TV 靖天欢乐台">
+    <display-name lang="zh">Nice TV 靖天欢乐台</display-name>
   </channel>
-  <channel id="靖天資訊台">
-    <display-name lang="zh">靖天資訊台</display-name>
+  <channel id="靖天信息台">
+    <display-name lang="zh">靖天信息台</display-name>
   </channel>
-  <channel id="TVBS歡樂台">
-    <display-name lang="zh">TVBS歡樂台</display-name>
+  <channel id="TVBS欢乐台">
+    <display-name lang="zh">TVBS欢乐台</display-name>
   </channel>
-  <channel id="韓國娛樂台 KMTV">
-    <display-name lang="zh">韓國娛樂台 KMTV</display-name>
+  <channel id="韩国娱乐台 KMTV">
+    <display-name lang="zh">韩国娱乐台 KMTV</display-name>
   </channel>
   <channel id="ROCK Entertainment">
     <display-name lang="zh">ROCK Entertainment</display-name>
   </channel>
-  <channel id="Lifetime 娛樂頻道">
-    <display-name lang="zh">Lifetime 娛樂頻道</display-name>
+  <channel id="Lifetime 娱乐频道">
+    <display-name lang="zh">Lifetime 娱乐频道</display-name>
   </channel>
-  <channel id="電影原聲台CMusic">
-    <display-name lang="zh">電影原聲台CMusic</display-name>
+  <channel id="电影原声台CMusic">
+    <display-name lang="zh">电影原声台CMusic</display-name>
   </channel>
   <channel id="TRACE Urban">
     <display-name lang="zh">TRACE Urban</display-name>
   </channel>
-  <channel id="MTV Live HD 音樂頻道">
-    <display-name lang="zh">MTV Live HD 音樂頻道</display-name>
+  <channel id="MTV Live HD 音乐频道">
+    <display-name lang="zh">MTV Live HD 音乐频道</display-name>
   </channel>
   <channel id="Mezzo Live HD">
     <display-name lang="zh">Mezzo Live HD</display-name>
   </channel>
-  <channel id="CLASSICA 古典樂">
-    <display-name lang="zh">CLASSICA 古典樂</display-name>
+  <channel id="CLASSICA 古典乐">
+    <display-name lang="zh">CLASSICA 古典乐</display-name>
   </channel>
-  <channel id="東森購物三台">
-    <display-name lang="zh">東森購物三台</display-name>
+  <channel id="东森购物三台">
+    <display-name lang="zh">东森购物三台</display-name>
   </channel>
   <channel id="INULTRA">
     <display-name lang="zh">INULTRA</display-name>
@@ -3830,14 +3830,14 @@ nowtv
   <channel id="TRACE Sport Stars">
     <display-name lang="zh">TRACE Sport Stars</display-name>
   </channel>
-  <channel id="智林體育台">
-    <display-name lang="zh">智林體育台</display-name>
+  <channel id="智林体育台">
+    <display-name lang="zh">智林体育台</display-name>
   </channel>
-  <channel id="時尚運動X">
-    <display-name lang="zh">時尚運動X</display-name>
+  <channel id="时尚运动X">
+    <display-name lang="zh">时尚运动X</display-name>
   </channel>
-  <channel id="車迷TV">
-    <display-name lang="zh">車迷TV</display-name>
+  <channel id="车迷TV">
+    <display-name lang="zh">车迷TV</display-name>
   </channel>
   <channel id="GINX Esports TV">
     <display-name lang="zh">GINX Esports TV</display-name>
@@ -3845,95 +3845,95 @@ nowtv
   <channel id="Pet Club TV">
     <display-name lang="zh">Pet Club TV</display-name>
   </channel>
-  <channel id="民視旅遊台">
-    <display-name lang="zh">民視旅遊台</display-name>
+  <channel id="民视旅游台">
+    <display-name lang="zh">民视旅游台</display-name>
   </channel>
-  <channel id="滾動力rollor">
-    <display-name lang="zh">滾動力rollor</display-name>
+  <channel id="滚动力rollor">
+    <display-name lang="zh">滚动力rollor</display-name>
   </channel>
-  <channel id="亞洲旅遊台">
-    <display-name lang="zh">亞洲旅遊台</display-name>
+  <channel id="亚洲旅游台">
+    <display-name lang="zh">亚洲旅游台</display-name>
   </channel>
-  <channel id="fun探索娛樂台">
-    <display-name lang="zh">fun探索娛樂台</display-name>
+  <channel id="fun探索娱乐台">
+    <display-name lang="zh">fun探索娱乐台</display-name>
   </channel>
-  <channel id="幸福空間居家台">
-    <display-name lang="zh">幸福空間居家台</display-name>
+  <channel id="幸福空间居家台">
+    <display-name lang="zh">幸福空间居家台</display-name>
   </channel>
   <channel id="Love Nature">
     <display-name lang="zh">Love Nature</display-name>
   </channel>
-  <channel id="History 歷史頻道">
-    <display-name lang="zh">History 歷史頻道</display-name>
+  <channel id="History 历史频道">
+    <display-name lang="zh">History 历史频道</display-name>
   </channel>
-  <channel id="愛爾達生活旅遊台">
-    <display-name lang="zh">愛爾達生活旅遊台</display-name>
+  <channel id="爱尔达生活旅游台">
+    <display-name lang="zh">爱尔达生活旅游台</display-name>
   </channel>
   <channel id="LUXE TV Channel">
     <display-name lang="zh">LUXE TV Channel</display-name>
   </channel>
-  <channel id="TV5MONDE STYLE HD 生活時尚">
-    <display-name lang="zh">TV5MONDE STYLE HD 生活時尚</display-name>
+  <channel id="TV5MONDE STYLE HD 生活时尚">
+    <display-name lang="zh">TV5MONDE STYLE HD 生活时尚</display-name>
   </channel>
-  <channel id="MagellanTV頻道 (麥哲倫頻道) ">
-    <display-name lang="zh">MagellanTV頻道 (麥哲倫頻道) </display-name>
+  <channel id="MagellanTV频道 (麦哲伦频道) ">
+    <display-name lang="zh">MagellanTV频道 (麦哲伦频道) </display-name>
   </channel>
-  <channel id="公視戲劇">
-    <display-name lang="zh">公視戲劇</display-name>
+  <channel id="公视戏剧">
+    <display-name lang="zh">公视戏剧</display-name>
   </channel>
-  <channel id="民視影劇台">
-    <display-name lang="zh">民視影劇台</display-name>
+  <channel id="民视影剧台">
+    <display-name lang="zh">民视影剧台</display-name>
   </channel>
-  <channel id="HITS頻道">
-    <display-name lang="zh">HITS頻道</display-name>
+  <channel id="HITS频道">
+    <display-name lang="zh">HITS频道</display-name>
   </channel>
   <channel id="八大精彩台">
     <display-name lang="zh">八大精彩台</display-name>
   </channel>
-  <channel id="霹靂布袋戲">
-    <display-name lang="zh">霹靂布袋戲</display-name>
+  <channel id="霹雳木偶戏">
+    <display-name lang="zh">霹雳木偶戏</display-name>
   </channel>
-  <channel id="靖天戲劇台">
-    <display-name lang="zh">靖天戲劇台</display-name>
+  <channel id="靖天戏剧台">
+    <display-name lang="zh">靖天戏剧台</display-name>
   </channel>
-  <channel id="靖洋戲劇台">
-    <display-name lang="zh">靖洋戲劇台</display-name>
+  <channel id="靖洋戏剧台">
+    <display-name lang="zh">靖洋戏剧台</display-name>
   </channel>
-  <channel id="CI 罪案偵查頻道">
-    <display-name lang="zh">CI 罪案偵查頻道</display-name>
+  <channel id="CI 罪案侦查频道">
+    <display-name lang="zh">CI 罪案侦查频道</display-name>
   </channel>
-  <channel id="視納華仁紀實頻道">
-    <display-name lang="zh">視納華仁紀實頻道</display-name>
+  <channel id="视纳华仁纪实频道">
+    <display-name lang="zh">视纳华仁纪实频道</display-name>
   </channel>
-  <channel id="影迷數位紀實台">
-    <display-name lang="zh">影迷數位紀實台</display-name>
+  <channel id="影迷数位纪实台">
+    <display-name lang="zh">影迷数位纪实台</display-name>
   </channel>
-  <channel id="金光布袋戲">
-    <display-name lang="zh">金光布袋戲</display-name>
+  <channel id="金光木偶戏">
+    <display-name lang="zh">金光木偶戏</display-name>
   </channel>
   <channel id="ROCK Action">
     <display-name lang="zh">ROCK Action</display-name>
   </channel>
-  <channel id="采昌影劇台">
-    <display-name lang="zh">采昌影劇台</display-name>
+  <channel id="采昌影剧台">
+    <display-name lang="zh">采昌影剧台</display-name>
   </channel>
-  <channel id="靖天映畫">
-    <display-name lang="zh">靖天映畫</display-name>
+  <channel id="靖天映画">
+    <display-name lang="zh">靖天映画</display-name>
   </channel>
-  <channel id="靖天電影台">
-    <display-name lang="zh">靖天電影台</display-name>
+  <channel id="靖天电影台">
+    <display-name lang="zh">靖天电影台</display-name>
   </channel>
-  <channel id="影迷數位電影台">
-    <display-name lang="zh">影迷數位電影台</display-name>
+  <channel id="影迷数字电影台">
+    <display-name lang="zh">影迷数字电影台</display-name>
   </channel>
-  <channel id="amc電影台">
-    <display-name lang="zh">amc電影台</display-name>
+  <channel id="amc电影台">
+    <display-name lang="zh">amc电影台</display-name>
   </channel>
   <channel id="CinemaWorld">
     <display-name lang="zh">CinemaWorld</display-name>
   </channel>
-  <channel id="My Cinema Europe HD 我的歐洲電影">
-    <display-name lang="zh">My Cinema Europe HD 我的歐洲電影</display-name>
+  <channel id="My Cinema Europe HD 我的欧洲电影">
+    <display-name lang="zh">My Cinema Europe HD 我的欧洲电影</display-name>
   </channel>
   <channel id="好消息">
     <display-name lang="zh">好消息</display-name>
@@ -3941,11 +3941,11 @@ nowtv
   <channel id="好消息2台">
     <display-name lang="zh">好消息2台</display-name>
   </channel>
-  <channel id="大愛二台">
-    <display-name lang="zh">大愛二台</display-name>
+  <channel id="大爱二台">
+    <display-name lang="zh">大爱二台</display-name>
   </channel>
-  <channel id="人間衛視">
-    <display-name lang="zh">人間衛視</display-name>
+  <channel id="人间卫视">
+    <display-name lang="zh">人间卫视</display-name>
   </channel>
   <channel id="NHK WORLD-JAPAN">
     <display-name lang="zh">NHK WORLD-JAPAN</display-name>
@@ -3953,47 +3953,47 @@ nowtv
   <channel id="FRANCE24 英文台">
     <display-name lang="zh">FRANCE24 英文台</display-name>
   </channel>
-  <channel id="半島國際新聞台">
-    <display-name lang="zh">半島國際新聞台</display-name>
+  <channel id="半岛国际新闻台">
+    <display-name lang="zh">半岛国际新闻台</display-name>
   </channel>
-  <channel id="CNBC Asia 財經台">
-    <display-name lang="zh">CNBC Asia 財經台</display-name>
+  <channel id="CNBC Asia 财经台">
+    <display-name lang="zh">CNBC Asia 财经台</display-name>
   </channel>
-  <channel id="DW德國之聲">
-    <display-name lang="zh">DW德國之聲</display-name>
+  <channel id="DW德国之声">
+    <display-name lang="zh">DW德国之声</display-name>
   </channel>
-  <channel id="國會頻道1">
-    <display-name lang="zh">國會頻道1</display-name>
+  <channel id="国会频道1">
+    <display-name lang="zh">国会频道1</display-name>
   </channel>
-  <channel id="國會頻道2">
-    <display-name lang="zh">國會頻道2</display-name>
+  <channel id="国会频道2">
+    <display-name lang="zh">国会频道2</display-name>
   </channel>
-  <channel id="TVBS綜藝台">
-    <display-name lang="zh">TVBS綜藝台</display-name>
+  <channel id="TVBS综艺台">
+    <display-name lang="zh">TVBS综艺台</display-name>
   </channel>
-  <channel id="TVBS台劇台">
-    <display-name lang="zh">TVBS台劇台</display-name>
+  <channel id="TVBS台剧台">
+    <display-name lang="zh">TVBS台剧台</display-name>
   </channel>
-  <channel id="經典電影台">
-    <display-name lang="zh">經典電影台</display-name>
+  <channel id="经典电影台">
+    <display-name lang="zh">经典电影台</display-name>
   </channel>
-  <channel id="經典卡通台">
-    <display-name lang="zh">經典卡通台</display-name>
+  <channel id="经典卡通台">
+    <display-name lang="zh">经典卡通台</display-name>
   </channel>
-  <channel id="精選動漫台">
-    <display-name lang="zh">精選動漫台</display-name>
+  <channel id="精选动漫台">
+    <display-name lang="zh">精选动漫台</display-name>
   </channel>
-  <channel id="戲劇免費看 1台">
-    <display-name lang="zh">戲劇免費看 1台</display-name>
+  <channel id="戏剧免费看 1台">
+    <display-name lang="zh">戏剧免费看 1台</display-name>
   </channel>
-  <channel id="台視">
-    <display-name lang="zh">台視</display-name>
+  <channel id="台视">
+    <display-name lang="zh">台视</display-name>
   </channel>
-  <channel id="中視">
-    <display-name lang="zh">中視</display-name>
+  <channel id="中视">
+    <display-name lang="zh">中视</display-name>
   </channel>
-  <channel id="華視">
-    <display-name lang="zh">華視</display-name>
+  <channel id="华视">
+    <display-name lang="zh">华视</display-name>
   </channel>
   <channel id="好消息2台">
     <display-name lang="zh">好消息2台</display-name>
@@ -4004,80 +4004,80 @@ nowtv
   <channel id="ELTV生活英语台">
     <display-name lang="zh">ELTV生活英语台</display-name>
   </channel>
-  <channel id="龍華卡通台">
-    <display-name lang="zh">龍華卡通台</display-name>
+  <channel id="龙华卡通台">
+    <display-name lang="zh">龙华卡通台</display-name>
   </channel>
-  <channel id="亞洲旅遊台">
-    <display-name lang="zh">亞洲旅遊台</display-name>
+  <channel id="亚洲旅游台">
+    <display-name lang="zh">亚洲旅游台</display-name>
   </channel>
-  <channel id="Smart知識台">
-    <display-name lang="zh">Smart知識台</display-name>
+  <channel id="Smart知识台">
+    <display-name lang="zh">Smart知识台</display-name>
   </channel>
-  <channel id="龍華戲劇台">
-    <display-name lang="zh">龍華戲劇台</display-name>
+  <channel id="龙华戏剧台">
+    <display-name lang="zh">龙华戏剧台</display-name>
   </channel>
-  <channel id="台湾戲劇台">
-    <display-name lang="zh">台湾戲劇台</display-name>
+  <channel id="台湾戏剧台">
+    <display-name lang="zh">台湾戏剧台</display-name>
   </channel>
-  <channel id="東森购物1台">
-    <display-name lang="zh">東森购物1台</display-name>
+  <channel id="东森购物1台">
+    <display-name lang="zh">东森购物1台</display-name>
   </channel>
-  <channel id="龍華偶像台">
-    <display-name lang="zh">龍華偶像台</display-name>
+  <channel id="龙华偶像台">
+    <display-name lang="zh">龙华偶像台</display-name>
   </channel>
-  <channel id="龍華日韩台">
-    <display-name lang="zh">龍華日韩台</display-name>
+  <channel id="龙华日韩台">
+    <display-name lang="zh">龙华日韩台</display-name>
   </channel>
-  <channel id="東森购物2台">
-    <display-name lang="zh">東森购物2台</display-name>
+  <channel id="东森购物2台">
+    <display-name lang="zh">东森购物2台</display-name>
   </channel>
-  <channel id="華视新闻">
-    <display-name lang="zh">華视新闻</display-name>
+  <channel id="华视新闻">
+    <display-name lang="zh">华视新闻</display-name>
   </channel>
-  <channel id="倪珍播新聞">
-    <display-name lang="zh">倪珍播新聞</display-name>
+  <channel id="倪珍播新闻">
+    <display-name lang="zh">倪珍播新闻</display-name>
   </channel>
   <channel id="三立新闻iNEWS">
     <display-name lang="zh">三立新闻iNEWS</display-name>
   </channel>
-  <channel id="寰宇財經台">
-    <display-name lang="zh">寰宇財經台</display-name>
+  <channel id="寰宇财经台">
+    <display-name lang="zh">寰宇财经台</display-name>
   </channel>
-  <channel id="台視新聞">
-    <display-name lang="zh">台視新聞</display-name>
+  <channel id="台视新闻">
+    <display-name lang="zh">台视新闻</display-name>
   </channel>
-  <channel id="中視新聞">
-    <display-name lang="zh">中視新聞</display-name>
+  <channel id="中视新闻">
+    <display-name lang="zh">中视新闻</display-name>
   </channel>
-  <channel id="中天新聞台">
-    <display-name lang="zh">中天新聞台</display-name>
+  <channel id="中天新闻台">
+    <display-name lang="zh">中天新闻台</display-name>
   </channel>
-  <channel id="寰宇新聞台">
-    <display-name lang="zh">寰宇新聞台</display-name>
+  <channel id="寰宇新闻台">
+    <display-name lang="zh">寰宇新闻台</display-name>
   </channel>
-  <channel id="寰宇新聞台">
-    <display-name lang="zh">寰宇新聞台</display-name>
+  <channel id="寰宇新闻台">
+    <display-name lang="zh">寰宇新闻台</display-name>
   </channel>
-  <channel id="第1商業台">
-    <display-name lang="zh">第1商業台</display-name>
+  <channel id="第1商业台">
+    <display-name lang="zh">第1商业台</display-name>
   </channel>
-  <channel id="國會頻道1台">
-    <display-name lang="zh">國會頻道1台</display-name>
+  <channel id="国会频道1台">
+    <display-name lang="zh">国会频道1台</display-name>
   </channel>
-  <channel id="國會頻道2台">
-    <display-name lang="zh">國會頻道2台</display-name>
+  <channel id="国会频道2台">
+    <display-name lang="zh">国会频道2台</display-name>
   </channel>
-  <channel id="倪珍報氣象">
-    <display-name lang="zh">倪珍報氣象</display-name>
+  <channel id="倪珍报气象">
+    <display-name lang="zh">倪珍报气象</display-name>
   </channel>
-  <channel id="龍華經典台">
-    <display-name lang="zh">龍華經典台</display-name>
+  <channel id="龙华经典台">
+    <display-name lang="zh">龙华经典台</display-name>
   </channel>
-  <channel id="龍華電影院">
-    <display-name lang="zh">龍華電影院</display-name>
+  <channel id="龙华电影院">
+    <display-name lang="zh">龙华电影院</display-name>
   </channel>
-  <channel id="龍華洋片台OTT">
-    <display-name lang="zh">龍華洋片台OTT</display-name>
+  <channel id="龙华洋片台OTT">
+    <display-name lang="zh">龙华洋片台OTT</display-name>
   </channel>
 
 
@@ -4254,6 +4254,4 @@ nowtv
   <channel id="咪咕体育">
     <display-name lang="zh">咪咕体育</display-name>
   </channel>
- 
-
 
