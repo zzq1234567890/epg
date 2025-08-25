@@ -1,0 +1,67 @@
+name: youtubelivem3u
+
+on:
+  schedule:
+    - cron: '15 * * * *'
+  workflow_dispatch:
+
+jobs:
+  generate_and_upload:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 第一步：检出当前仓库
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      # 第二步：设置 PHP 环境
+      - name: Set up PHP 7.4
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '7.4'
+
+      # 第三步：生成文件
+      - name: Run youtubelivem3u.php
+        run: php youtubelivem3u.php
+
+      # 第四步：检出目标仓库
+      - name: Checkout target repo
+        uses: actions/checkout@v4
+        with:
+          repository: zzq1234567890/epg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          path: epg
+
+      # 第五步：强制覆盖文件（关键修复）
+      - name: Overwrite target file
+        run: |
+          # 确保覆盖前文件存在
+          ls -l youtubelive.m3u
+          # 强制复制并保留权限
+          cp -f youtubelive.m3u epg/youtubelive.m3u
+          # 验证覆盖结果
+          ls -l epg/youtubelive.m3u
+
+      # 第六步：提交变更（优化路径处理）
+      - name: Commit and push
+        working-directory: epg  # 使用官方推荐方式指定路径
+        run: |
+          # 显式检查文件状态
+          git status
+          git diff
+
+          # 配置 Git 身份
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # 添加所有变化（适应文件名大小写变化）
+          git add --all
+
+          # 检测是否有可提交内容
+          if [ -n "$(git status --porcelain)" ]; then
+            now_time=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
+            git commit -m "自动更新时间：$now_time"
+            git push origin main
+          else
+            echo "无实际文件变更，跳过提交"
+          fi
