@@ -1457,6 +1457,13 @@ mytvsuper
   <channel id="myTV SUPER直播足球7台">
     <display-name lang="zh">myTV SUPER直播足球7台</display-name>
   </channel>
+  <channel id="myTV SUPER直播足球8台">
+    <display-name lang="zh">myTV SUPER直播足球8台</display-name>
+  </channel>
+  <channel id="myTV SUPER直播足球9台">
+    <display-name lang="zh">myTV SUPER直播足球9台</display-name>
+  </channel>
+
   <channel id="測試頻道">
     <display-name lang="zh">測試頻道</display-name>
   </channel>
