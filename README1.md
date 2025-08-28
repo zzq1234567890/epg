@@ -33,7 +33,7 @@ Mod和hami一样，在mod电视台后面加mod(仅仅限于中文台)，
 增加了上海地方台，以及老张的epg.
 目前每4小时自动更新数据,同时更新到github上。
 
-具体电视台名称参见 https://raw.githubusercontent.com/zzq1234567890/epg/main/電視台總目錄.txte
+具体电视台名称参见 https://raw.githubusercontent.com/zzq1234567890/epg/main/電視台總目錄.txt
 
 主要是填写 tvg-id="电视台名称" tvg-name="电视台名称"
 
