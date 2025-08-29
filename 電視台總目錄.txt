@@ -4066,9 +4066,6 @@ litv
   <channel id="咪咕体育">
     <display-name lang="zh">咪咕体育</display-name>
   </channel>
-  <channel id="奥林匹克官网直播">
-    <display-name lang="zh">奥林匹克官网直播</display-name>
-  </channel>
 
 
 
@@ -4135,10 +4132,9 @@ litv
   <channel id="SPOTV Stadia">
     <display-name lang="zh">SPOTV Stadia</display-name>
   </channel>
-
-
-
-
+  <channel id="奥林匹克官网直播">
+    <display-name lang="zh">奥林匹克官网直播</display-name>
+  </channel>
   <channel id="dubai one">
     <display-name lang="zh">dubai one</display-name>
   </channel>
