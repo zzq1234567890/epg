@@ -1079,6 +1079,15 @@
     <display-name lang="zh">安徽国际</display-name>
   </channel>
 
+廣西電視台
+<channel id="广西卫视"><display-name lang="zh">广西卫视</display-name></channel>
+<channel id="广西综艺旅游频道"><display-name lang="zh">广西综艺旅游频道</display-name></channel>
+<channel id="广西都市频道"><display-name lang="zh">广西都市频道</display-name></channel>
+<channel id="广西新闻频道"><display-name lang="zh">广西新闻频道</display-name></channel>
+<channel id="广西影视频道"><display-name lang="zh">广西影视频道</display-name></channel>
+<channel id="广西国际频道"><display-name lang="zh">广西国际频道</display-name></channel>
+<channel id="广西乐思购频道"><display-name lang="zh">广西乐思购频道</display-name></channel>
+
  河北電視台
   <channel id="河北卫视">
     <display-name lang="zh">河北卫视</display-name>
