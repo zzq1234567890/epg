@@ -10,7 +10,9 @@
 
 4.墻內建議選epgnew.xml(去掉幾個少兒不宜預告)，墻外無所謂了，epgziyong.xml還是epgnew.xml隨便了
 
-5.增加廣西電視台節目預告（兩天））
+5.增加廣西電視台節目預告（兩天）
+
+6.增加河北電信以及河北地方台節目
 
 Important Notices
  
@@ -25,3 +27,4 @@ We do not provide or share program source URLs. Please support legitimate conten
 YouTube URLs are shared in their raw format without any parsing, decoding, or technical processing. For optimal compatibility, we recommend using Yingshi (Note: Yingshi Live has limited support for XML formats).
 
 4. Add the epg of some chinese local  channels from guangxi tv  website.
+5.Adding the epg of local tv channels of hebei province .
