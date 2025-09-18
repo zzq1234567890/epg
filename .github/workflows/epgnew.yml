@@ -41,7 +41,12 @@ jobs:
           cp -f epgnew.xml epg/epgnew.xml
           # 验证覆盖结果
           ls -l epg/epgnew.xml
-
+          # 确保覆盖前文件存在
+          ls -l epgnew.xml.gz
+          # 强制复制并保留权限
+          cp -f epgnew.xml.gz epg/epgnew.xml.gz
+          # 验证覆盖结果
+          ls -l epg/epgnew.xml.gz
       # 第六步：提交变更（优化路径处理）
       - name: Commit and push
         working-directory: epg  # 使用官方推荐方式指定路径
