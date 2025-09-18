@@ -43,4 +43,13 @@ if ($dom->save($newFile)) {
 } else {
     echo "保存文件時出錯。";
 }
+$xmlContent = file_get_contents('epgnrw.xml');
+$gz = gzopen('epgnew.xml.gz', 'w9');  // 'w9' 表示最高压缩级别（可选，默认为 6）
+if ($gz !== false) {
+    gzwrite($gz, $xmlContent);
+    gzclose($gz);
+    echo "XML文件合并完成，已保存为 epgnew.xml 和 epgnee.xml.gz";
+} else {
+    echo "创建 gz 文件失败";
+}
 ?>
