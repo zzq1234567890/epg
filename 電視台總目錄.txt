@@ -1022,8 +1022,219 @@
   <channel id="深视移动电视频道">
     <display-name lang="zh">深视移动电视频道</display-name>
   </channel>
-
-
+ <channel id="广东卫视">
+    <display-name lang="zh">广东卫视</display-name>
+  </channel>
+  <channel id="广东珠江">
+    <display-name lang="zh">广东珠江</display-name>
+  </channel>
+  <channel id="广东新闻">
+    <display-name lang="zh">广东新闻</display-name>
+  </channel>
+  <channel id="广东民生">
+    <display-name lang="zh">广东民生</display-name>
+  </channel>
+  <channel id="广东体育">
+    <display-name lang="zh">广东体育</display-name>
+  </channel>
+  <channel id="经济科教">
+    <display-name lang="zh">经济科教</display-name>
+  </channel>
+  <channel id="大湾区卫视">
+    <display-name lang="zh">大湾区卫视</display-name>
+  </channel>
+  <channel id="广东影视">
+    <display-name lang="zh">广东影视</display-name>
+  </channel>
+  <channel id="广东少儿">
+    <display-name lang="zh">广东少儿</display-name>
+  </channel>
+  <channel id="嘉佳卡通">
+    <display-name lang="zh">嘉佳卡通</display-name>
+  </channel>
+  <channel id="南方购物-精选">
+    <display-name lang="zh">南方购物-精选</display-name>
+  </channel>
+  <channel id="广东移动">
+    <display-name lang="zh">广东移动</display-name>
+  </channel>
+  <channel id="南方购物">
+    <display-name lang="zh">南方购物</display-name>
+  </channel>
+  <channel id="岭南戏曲">
+    <display-name lang="zh">岭南戏曲</display-name>
+  </channel>
+  <channel id="现代教育">
+    <display-name lang="zh">现代教育</display-name>
+  </channel>
+  <channel id="广州综合">
+    <display-name lang="zh">广州综合</display-name>
+  </channel>
+  <channel id="广州新闻">
+    <display-name lang="zh">广州新闻</display-name>
+  </channel>
+  <channel id="广州法治">
+    <display-name lang="zh">广州法治</display-name>
+  </channel>
+  <channel id="深圳卫视">
+    <display-name lang="zh">深圳卫视</display-name>
+  </channel>
+  <channel id="深圳都市">
+    <display-name lang="zh">深圳都市</display-name>
+  </channel>
+  <channel id="深圳体育">
+    <display-name lang="zh">深圳体育</display-name>
+  </channel>
+  <channel id="深圳电视剧">
+    <display-name lang="zh">深圳电视剧</display-name>
+  </channel>
+  <channel id="深圳财经">
+    <display-name lang="zh">深圳财经</display-name>
+  </channel>
+  <channel id="深圳少儿">
+    <display-name lang="zh">深圳少儿</display-name>
+  </channel>
+  <channel id="深圳宝安">
+    <display-name lang="zh">深圳宝安</display-name>
+  </channel>
+  <channel id="深圳龙岗">
+    <display-name lang="zh">深圳龙岗</display-name>
+  </channel>
+  <channel id="佛山综合">
+    <display-name lang="zh">佛山综合</display-name>
+  </channel>
+  <channel id="佛山公共">
+    <display-name lang="zh">佛山公共</display-name>
+  </channel>
+  <channel id="佛山顺德">
+    <display-name lang="zh">佛山顺德</display-name>
+  </channel>
+  <channel id="佛山南海">
+    <display-name lang="zh">佛山南海</display-name>
+  </channel>
+  <channel id="东莞新闻综合">
+    <display-name lang="zh">东莞新闻综合</display-name>
+  </channel>
+  <channel id="东莞生活咨询">
+    <display-name lang="zh">东莞生活咨询</display-name>
+  </channel>
+  <channel id="惠州综合">
+    <display-name lang="zh">惠州综合</display-name>
+  </channel>
+  <channel id="惠州都市生活">
+    <display-name lang="zh">惠州都市生活</display-name>
+  </channel>
+  <channel id="珠海">
+    <display-name lang="zh">珠海</display-name>
+  </channel>
+  <channel id="江门综合">
+    <display-name lang="zh">江门综合</display-name>
+  </channel>
+  <channel id="中山综合">
+    <display-name lang="zh">中山综合</display-name>
+  </channel>
+  <channel id="香山文化">
+    <display-name lang="zh">香山文化</display-name>
+  </channel>
+  <channel id="肇庆新闻综合">
+    <display-name lang="zh">肇庆新闻综合</display-name>
+  </channel>
+  <channel id="肇庆生活服务">
+    <display-name lang="zh">肇庆生活服务</display-name>
+  </channel>
+  <channel id="汕头新闻综合">
+    <display-name lang="zh">汕头新闻综合</display-name>
+  </channel>
+  <channel id="汕头经济生活">
+    <display-name lang="zh">汕头经济生活</display-name>
+  </channel>
+  <channel id="揭阳综合">
+    <display-name lang="zh">揭阳综合</display-name>
+  </channel>
+  <channel id="揭阳生活">
+    <display-name lang="zh">揭阳生活</display-name>
+  </channel>
+  <channel id="潮州综合">
+    <display-name lang="zh">潮州综合</display-name>
+  </channel>
+  <channel id="潮州民生">
+    <display-name lang="zh">潮州民生</display-name>
+  </channel>
+  <channel id="汕尾新闻综合">
+    <display-name lang="zh">汕尾新闻综合</display-name>
+  </channel>
+  <channel id="汕尾文化生活">
+    <display-name lang="zh">汕尾文化生活</display-name>
+  </channel>
+  <channel id="湛江新闻综合">
+    <display-name lang="zh">湛江新闻综合</display-name>
+  </channel>
+  <channel id="湛江公共">
+    <display-name lang="zh">湛江公共</display-name>
+  </channel>
+  <channel id="茂名综合">
+    <display-name lang="zh">茂名综合</display-name>
+  </channel>
+  <channel id="茂名文化生活">
+    <display-name lang="zh">茂名文化生活</display-name>
+  </channel>
+  <channel id="阳江-1">
+    <display-name lang="zh">阳江-1</display-name>
+  </channel>
+  <channel id="阳江-2">
+    <display-name lang="zh">阳江-2</display-name>
+  </channel>
+  <channel id="云浮综合">
+    <display-name lang="zh">云浮综合</display-name>
+  </channel>
+  <channel id="云浮文旅">
+    <display-name lang="zh">云浮文旅</display-name>
+  </channel>
+  <channel id="清远新闻综合">
+    <display-name lang="zh">清远新闻综合</display-name>
+  </channel>
+  <channel id="韶关新闻综合">
+    <display-name lang="zh">韶关新闻综合</display-name>
+  </channel>
+  <channel id="河源新闻综合">
+    <display-name lang="zh">河源新闻综合</display-name>
+  </channel>
+  <channel id="河源公共">
+    <display-name lang="zh">河源公共</display-name>
+  </channel>
+  <channel id="梅州综合">
+    <display-name lang="zh">梅州综合</display-name>
+  </channel>
+  <channel id="梅州客家生活">
+    <display-name lang="zh">梅州客家生活</display-name>
+  </channel>
+  <channel id="睛彩竞技">
+    <display-name lang="zh">睛彩竞技</display-name>
+  </channel>
+  <channel id="睛彩篮球">
+    <display-name lang="zh">睛彩篮球</display-name>
+  </channel>
+  <channel id="睛彩青少">
+    <display-name lang="zh">睛彩青少</display-name>
+  </channel>
+  <channel id="睛彩广场舞">
+    <display-name lang="zh">睛彩广场舞</display-name>
+  </channel>
+<channel id="广东卫视4K">
+    <display-name lang="zh">广东卫视4K</display-name>
+  </channel>
+  <channel id="广东4K超高清">
+    <display-name lang="zh">广东4K超高清</display-name>
+  </channel>
+  <channel id="广东4K超高清 窄色域 30">
+    <display-name lang="zh">广东4K超高清 窄色域 30</display-name>
+  </channel>
+  <channel id="广州南国都市4K">
+    <display-name lang="zh">广州南国都市4K</display-name>
+  </channel>
+  <channel id="深圳卫视4K">
+    <display-name lang="zh">深圳卫视4K</display-name>
+  </channel>
 陝西電視台
   <channel id="陝西卫视">
     <display-name lang="zh">陝西卫视</display-name>
