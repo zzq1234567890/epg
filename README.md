@@ -14,6 +14,8 @@
 
 6.增加河北電信廣東電信的地方台節目
 
+7.增加HOY新增頻道EPG
+
 Important Notices
  
 1. For Personal Use Only – Commercial Use Strictly Prohibited
@@ -26,5 +28,8 @@ We do not provide or share program source URLs. Please support legitimate conten
 3. YouTube URLs Provided “As-Is” (No Parsing Functionality)
 YouTube URLs are shared in their raw format without any parsing, decoding, or technical processing. For optimal compatibility, we recommend using Yingshi (Note: Yingshi Live has limited support for XML formats).
 
-4. Add the epg of some chinese local  channels from guangxi tv  website.
+4. Adding the epg of some chinese local  channels from guangxi tv  website.
+   
 5.Adding the epg of local tv channels of hebei&guangdong province .
+
+6.Adding the epg of some JOY new channels
