@@ -4427,7 +4427,24 @@ tvb anywhere
   <channel id="HOY資訊">
     <display-name lang="zh">HOY資訊</display-name>
   </channel>
-
+<channel id="HOY生活台">
+<display-name lang="zh">HOY生活台</display-name>
+</channel>
+<channel id="HOY劇集台">
+<display-name lang="zh">HOY劇集台</display-name>
+</channel>
+<channel id="HOY怪談台">
+<display-name lang="zh">HOY怪談台</display-name>
+</channel>
+<channel id="SportsPlus">
+<display-name lang="zh">SportsPlus</display-name>
+</channel>
+<channel id="Travel & Food TV">
+<display-name lang="zh">Travel & Food TV</display-name>
+</channel>
+<channel id="Spot on news">
+<display-name lang="zh">Spot on news</display-name>
+</channel>
 澳門
 <channel id="澳視澳門">
     <display-name lang="zh">澳視澳門</display-name>
