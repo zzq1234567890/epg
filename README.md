@@ -32,4 +32,4 @@ YouTube URLs are shared in their raw format without any parsing, decoding, or te
    
 5.Adding the epg of local tv channels of hebei&guangdong province .
 
-6.Adding the epg of some JOY new channels
+6.Adding the epg of some HOY new channels
