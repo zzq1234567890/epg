@@ -16,6 +16,8 @@
 
 7.增加HOY新增頻道EPG
 
+8.增加tvb anywhere usa 6個頻道EPG
+
 Important Notices
  
 1. For Personal Use Only – Commercial Use Strictly Prohibited
@@ -33,3 +35,5 @@ YouTube URLs are shared in their raw format without any parsing, decoding, or te
 5.Adding the epg of local tv channels of hebei&guangdong province .
 
 6.Adding the epg of some HOY new channels
+
+7.Adding theepg of six channels from TVB anywhere USA .
