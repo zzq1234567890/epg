@@ -18,6 +18,9 @@
 
 8.增加tvb anywhere usa 6個頻道EPG
 
+9.增加
+簡體版本的epg，適合中國大陸，swepg.xml.gz;  繁體版本epg,適合港澳台，twepg.xml.gz.
+
 Important Notices
  
 1. For Personal Use Only – Commercial Use Strictly Prohibited
@@ -37,3 +40,6 @@ YouTube URLs are shared in their raw format without any parsing, decoding, or te
 6.Adding the epg of some HOY new channels
 
 7.Adding theepg of six channels from TVB anywhere USA .
+
+8.Adding the epg for simplied chinese ,swepg.xml.gz, used in mainland of china;
+the epg of  tradional chinese epg,tw.epg.gz, used in hk ,marcol,taiwan  area .
