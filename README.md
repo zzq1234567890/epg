@@ -19,9 +19,9 @@
 8.增加tvb anywhere usa 6個頻道EPG
 
 9.增加
-簡體版本的epg(https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz)，適合中國大陸，swepg.xml.gz;  
-繁體版本epg(https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz),適合港澳台，twepg.xml.gz.
-強烈推薦xm;.gz ,而不是xml格式，檔案小很多
+簡體版本的epg，適合中國大陸，swepg.xml.gz，(網址https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz);  
+繁體版本epg,適合港澳台，twepg.xml.gz. （網址https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.g)）
+強烈推薦xm.gz,而不是xml格式，檔案小很多
 Important Notices
  
 1. For Personal Use Only – Commercial Use Strictly Prohibited
