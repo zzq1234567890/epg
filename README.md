@@ -38,7 +38,7 @@ https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/%E7%AE%80%E4
 #EXTM3U url-tvg="https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/twepg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-id="電視台名稱" tvg-name="電視台名稱" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="你的分组",电视台名称
-
+節目地址
 
 
   简体，适合东南亚及中国大陆用
@@ -47,12 +47,9 @@ https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/%E7%AE%80%E4
 #EXTM3U url-tvg="https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/swepg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-id="电视台名称" tvg-name="电视台名称" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="你的分组",电视台名称
-
 节目源地址
 
-样例例如 #EXTINF:-1 tvg-id="cctv1" tvg-name="cctv1" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="黑龙江移动",cctv-1
 
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 1. For Personal Use Only – Commercial Use Strictly Prohibited
 This service is exclusively intended for personal entertainment and non-commercial use. Maintenance and technical support are not provided as a general policy.
 Recommended Playback Applications: Tivimate, OTT Navigator, Jizhi Player.
