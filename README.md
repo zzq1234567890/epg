@@ -25,7 +25,11 @@ https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz );
 
 10.強烈推薦xm.gz,而不是xml格式，檔案小很多
 Important Notices
- 具体电视台名称参见 https://raw.githubusercontent.com/zzq1234567890/epg/main/電視台總目錄.txt
+ 具体电视台名称参见 
+ 繁體[https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/%E7%B9%81%E9%AB%94%E9%9B%BB%E8%A6%96%E5%8F%B0%E7%9B%AE%E9%8C%84.txt]
+
+简体电视台目录[
+https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/%E7%AE%80%E4%BD%93%E7%94%B5%E8%A7%86%E5%8F%B0%E6%95%B4%E7%90%86%E6%9C%AA%E5%88%86%E7%B1%BB.txt]
 
 主要是填写 tvg-id="电视台名称" tvg-name="电视台名称"
  繁體，適合港澳台
