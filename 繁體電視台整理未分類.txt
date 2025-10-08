@@ -1,4 +1,4 @@
-  <channel id="TVB翡翠娛樂臺(TVBe)">
+ <channel id="TVB翡翠娛樂臺(TVBe)">
     <display-name lang="zh">TVB翡翠娛樂臺(TVBe)</display-name>
   </channel>
   <channel id="翡翠一臺(TVB1)">
@@ -3775,342 +3775,6 @@
   <channel id="EBS EDUCATION">
     <display-name lang="zh">EBS EDUCATION</display-name>
   </channel>
-  <channel id="中國教育1臺">
-    <display-name lang="zh">中國教育1臺</display-name>
-  </channel>
-  <channel id="中國教育2臺">
-    <display-name lang="zh">中國教育2臺</display-name>
-  </channel>
-  <channel id="中國教育3臺">
-    <display-name lang="zh">中國教育3臺</display-name>
-  </channel>
-  <channel id="外匯理財">
-    <display-name lang="zh">外匯理財</display-name>
-  </channel>
-  <channel id="電競天堂">
-    <display-name lang="zh">電競天堂</display-name>
-  </channel>
-  <channel id="IPTV5+">
-    <display-name lang="zh">IPTV5+</display-name>
-  </channel>
-  <channel id="IPTV6+">
-    <display-name lang="zh">IPTV6+</display-name>
-  </channel>
-  <channel id="IPTV經典電影">
-    <display-name lang="zh">IPTV經典電影</display-name>
-  </channel>
-  <channel id="IPTV熱播劇場">
-    <display-name lang="zh">IPTV熱播劇場</display-name>
-  </channel>
-  <channel id="IPTV少兒動畫">
-    <display-name lang="zh">IPTV少兒動畫</display-name>
-  </channel>
-  <channel id="IPTV魅力時尚">
-    <display-name lang="zh">IPTV魅力時尚</display-name>
-  </channel>
-  <channel id="GTV遊戲競技">
-    <display-name lang="zh">GTV遊戲競技</display-name>
-  </channel>
-  <channel id="新動漫">
-    <display-name lang="zh">新動漫</display-name>
-  </channel>
-  <channel id="山東齊魯">
-    <display-name lang="zh">山東齊魯</display-name>
-  </channel>
-  <channel id="山東體育">
-    <display-name lang="zh">山東體育</display-name>
-  </channel>
-  <channel id="山東農科">
-    <display-name lang="zh">山東農科</display-name>
-  </channel>
-  <channel id="山東公共">
-    <display-name lang="zh">山東公共</display-name>
-  </channel>
-  <channel id="山東少兒">
-    <display-name lang="zh">山東少兒</display-name>
-  </channel>
-  <channel id="山東影視">
-    <display-name lang="zh">山東影視</display-name>
-  </channel>
-  <channel id="山東綜藝">
-    <display-name lang="zh">山東綜藝</display-name>
-  </channel>
-  <channel id="山東生活">
-    <display-name lang="zh">山東生活</display-name>
-  </channel>
-  <channel id="環宇電影">
-    <display-name lang="zh">環宇電影</display-name>
-  </channel>
-  <channel id="湖北綜合頻道">
-    <display-name lang="zh">湖北綜合頻道</display-name>
-  </channel>
-  <channel id="湖北影視頻道">
-    <display-name lang="zh">湖北影視頻道</display-name>
-  </channel>
-  <channel id="湖北教育頻道">
-    <display-name lang="zh">湖北教育頻道</display-name>
-  </channel>
-  <channel id="湖北生活頻道">
-    <display-name lang="zh">湖北生活頻道</display-name>
-  </channel>
-  <channel id="湖北公共·新聞">
-    <display-name lang="zh">湖北公共·新聞</display-name>
-  </channel>
-  <channel id="湖北經濟頻道">
-    <display-name lang="zh">湖北經濟頻道</display-name>
-  </channel>
-  <channel id="湖北壟上頻道">
-    <display-name lang="zh">湖北壟上頻道</display-name>
-  </channel>
-  <channel id="武漢新聞綜合頻道">
-    <display-name lang="zh">武漢新聞綜合頻道</display-name>
-  </channel>
-  <channel id="武漢電視劇頻道">
-    <display-name lang="zh">武漢電視劇頻道</display-name>
-  </channel>
-  <channel id="武漢科技生活頻道">
-    <display-name lang="zh">武漢科技生活頻道</display-name>
-  </channel>
-  <channel id="武漢經濟頻道">
-    <display-name lang="zh">武漢經濟頻道</display-name>
-  </channel>
-  <channel id="武漢文體頻道">
-    <display-name lang="zh">武漢文體頻道</display-name>
-  </channel>
-  <channel id="武漢外語頻道">
-    <display-name lang="zh">武漢外語頻道</display-name>
-  </channel>
-  <channel id="武漢少兒頻道">
-    <display-name lang="zh">武漢少兒頻道</display-name>
-  </channel>
-  <channel id="武漢教育電視臺">
-    <display-name lang="zh">武漢教育電視臺</display-name>
-  </channel>
-  <channel id="北京紀實">
-    <display-name lang="zh">北京紀實</display-name>
-  </channel>
-  <channel id="BTV文藝">
-    <display-name lang="zh">BTV文藝</display-name>
-  </channel>
-  <channel id="BTV科教">
-    <display-name lang="zh">BTV科教</display-name>
-  </channel>
-  <channel id="BTV影視">
-    <display-name lang="zh">BTV影視</display-name>
-  </channel>
-  <channel id="BTV財經">
-    <display-name lang="zh">BTV財經</display-name>
-  </channel>
-  <channel id="BTV體育">
-    <display-name lang="zh">BTV體育</display-name>
-  </channel>
-  <channel id="BTV生活">
-    <display-name lang="zh">BTV生活</display-name>
-  </channel>
-  <channel id="BTV新聞">
-    <display-name lang="zh">BTV新聞</display-name>
-  </channel>
-  <channel id="SCTV2">
-    <display-name lang="zh">SCTV2</display-name>
-  </channel>
-  <channel id="SCTV3">
-    <display-name lang="zh">SCTV3</display-name>
-  </channel>
-  <channel id="SCTV4">
-    <display-name lang="zh">SCTV4</display-name>
-  </channel>
-  <channel id="SCTV5">
-    <display-name lang="zh">SCTV5</display-name>
-  </channel>
-  <channel id="SCTV7">
-    <display-name lang="zh">SCTV7</display-name>
-  </channel>
-  <channel id="峨嵋電影">
-    <display-name lang="zh">峨嵋電影</display-name>
-  </channel>
-  <channel id="SCTV9">
-    <display-name lang="zh">SCTV9</display-name>
-  </channel>
-  <channel id="SCTV8">
-    <display-name lang="zh">SCTV8</display-name>
-  </channel>
-  <channel id="CDTV1">
-    <display-name lang="zh">CDTV1</display-name>
-  </channel>
-  <channel id="CDTV2">
-    <display-name lang="zh">CDTV2</display-name>
-  </channel>
-  <channel id="CDTV3">
-    <display-name lang="zh">CDTV3</display-name>
-  </channel>
-  <channel id="CDTV4">
-    <display-name lang="zh">CDTV4</display-name>
-  </channel>
-  <channel id="CDTV5">
-    <display-name lang="zh">CDTV5</display-name>
-  </channel>
-  <channel id="CDTV6">
-    <display-name lang="zh">CDTV6</display-name>
-  </channel>
-  <channel id="遼寧都市">
-    <display-name lang="zh">遼寧都市</display-name>
-  </channel>
-  <channel id="遼寧影視劇">
-    <display-name lang="zh">遼寧影視劇</display-name>
-  </channel>
-  <channel id="遼寧青少">
-    <display-name lang="zh">遼寧青少</display-name>
-  </channel>
-  <channel id="遼寧生活">
-    <display-name lang="zh">遼寧生活</display-name>
-  </channel>
-  <channel id="遼寧公共">
-    <display-name lang="zh">遼寧公共</display-name>
-  </channel>
-  <channel id="遼寧北方">
-    <display-name lang="zh">遼寧北方</display-name>
-  </channel>
-  <channel id="遼寧體育">
-    <display-name lang="zh">遼寧體育</display-name>
-  </channel>
-  <channel id="遼寧經濟">
-    <display-name lang="zh">遼寧經濟</display-name>
-  </channel>
-  <channel id="瀋陽新聞">
-    <display-name lang="zh">瀋陽新聞</display-name>
-  </channel>
-  <channel id="求索科學">
-    <display-name lang="zh">求索科學</display-name>
-  </channel>
-  <channel id="CHC高清電影">
-    <display-name lang="zh">CHC高清電影</display-name>
-  </channel>
-  <channel id="求索動物">
-    <display-name lang="zh">求索動物</display-name>
-  </channel>
-  <channel id="求索記錄">
-    <display-name lang="zh">求索記錄</display-name>
-  </channel>
-  <channel id="CHC動作電影">
-    <display-name lang="zh">CHC動作電影</display-name>
-  </channel>
-  <channel id="CHC家庭電影">
-    <display-name lang="zh">CHC家庭電影</display-name>
-  </channel>
-  <channel id="CCTV-娛樂">
-    <display-name lang="zh">CCTV-娛樂</display-name>
-  </channel>
-  <channel id="CCTV-戲曲">
-    <display-name lang="zh">CCTV-戲曲</display-name>
-  </channel>
-  <channel id="央視精品">
-    <display-name lang="zh">央視精品</display-name>
-  </channel>
-  <channel id="彩民在線">
-    <display-name lang="zh">彩民在線</display-name>
-  </channel>
-  <channel id="汽摩">
-    <display-name lang="zh">汽摩</display-name>
-  </channel>
-  <channel id="留學世界">
-    <display-name lang="zh">留學世界</display-name>
-  </channel>
-  <channel id="青年學苑">
-    <display-name lang="zh">青年學苑</display-name>
-  </channel>
-  <channel id="攝影頻道">
-    <display-name lang="zh">攝影頻道</display-name>
-  </channel>
-  <channel id="天元圍棋">
-    <display-name lang="zh">天元圍棋</display-name>
-  </channel>
-  <channel id="現代女性">
-    <display-name lang="zh">現代女性</display-name>
-  </channel>
-  <channel id="早期教育">
-    <display-name lang="zh">早期教育</display-name>
-  </channel>
-  <channel id="證券資訊">
-    <display-name lang="zh">證券資訊</display-name>
-  </channel>
-  <channel id="茶頻道">
-    <display-name lang="zh">茶頻道</display-name>
-  </channel>
-  <channel id="武術世界">
-    <display-name lang="zh">武術世界</display-name>
-  </channel>
-  <channel id="環球奇觀">
-    <display-name lang="zh">環球奇觀</display-name>
-  </channel>
-  <channel id="國學">
-    <display-name lang="zh">國學</display-name>
-  </channel>
-  <channel id="文物寶庫">
-    <display-name lang="zh">文物寶庫</display-name>
-  </channel>
-  <channel id="新科動漫">
-    <display-name lang="zh">新科動漫</display-name>
-  </channel>
-  <channel id="幼兒教育">
-    <display-name lang="zh">幼兒教育</display-name>
-  </channel>
-  <channel id="老故事">
-    <display-name lang="zh">老故事</display-name>
-  </channel>
-  <channel id="快樂垂釣">
-    <display-name lang="zh">快樂垂釣</display-name>
-  </channel>
-  <channel id="書畫頻道">
-    <display-name lang="zh">書畫頻道</display-name>
-  </channel>
-  <channel id="先鋒乒羽">
-    <display-name lang="zh">先鋒乒羽</display-name>
-  </channel>
-  <channel id="車迷頻道">
-    <display-name lang="zh">車迷頻道</display-name>
-  </channel>
-  <channel id="四海釣魚">
-    <display-name lang="zh">四海釣魚</display-name>
-  </channel>
-  <channel id="環球旅遊">
-    <display-name lang="zh">環球旅遊</display-name>
-  </channel>
-  <channel id="京視劇場">
-    <display-name lang="zh">京視劇場</display-name>
-  </channel>
-  <channel id="弈壇春秋">
-    <display-name lang="zh">弈壇春秋</display-name>
-  </channel>
-  <channel id="央廣健康">
-    <display-name lang="zh">央廣健康</display-name>
-  </channel>
-  <channel id="時代家居">
-    <display-name lang="zh">時代家居</display-name>
-  </channel>
-  <channel id="時代出行">
-    <display-name lang="zh">時代出行</display-name>
-  </channel>
-  <channel id="時代風尚">
-    <display-name lang="zh">時代風尚</display-name>
-  </channel>
-  <channel id="財富天下">
-    <display-name lang="zh">財富天下</display-name>
-  </channel>
-  <channel id="百姓健康">
-    <display-name lang="zh">百姓健康</display-name>
-  </channel>
-  <channel id="精品劇場">
-    <display-name lang="zh">精品劇場</display-name>
-  </channel>
-  <channel id="少兒動漫">
-    <display-name lang="zh">少兒動漫</display-name>
-  </channel>
-  <channel id="歐美影院">
-    <display-name lang="zh">歐美影院</display-name>
-  </channel>
-  <channel id="中國教育4臺">
-    <display-name lang="zh">中國教育4臺</display-name>
-  </channel>
   <channel id="快樂垂釣">
     <display-name lang="zh">快樂垂釣</display-name>
   </channel>
@@ -4408,2154 +4072,2466 @@
   <channel id="廣州南國都市4K">
     <display-name lang="zh">廣州南國都市4K</display-name>
   </channel>
-  <channel id="1">
+  <channel id="CCTV1">
     <display-name lang="">CCTV1</display-name>
   </channel>
-  <channel id="2">
+  <channel id="CCTV2">
     <display-name lang="">CCTV2</display-name>
   </channel>
-  <channel id="3">
+  <channel id="CCTV3">
     <display-name lang="">CCTV3</display-name>
   </channel>
-  <channel id="4">
+  <channel id="CCTV4">
     <display-name lang="">CCTV4</display-name>
   </channel>
-  <channel id="5">
+  <channel id="CCTV5">
     <display-name lang="">CCTV5</display-name>
   </channel>
-  <channel id="6">
+  <channel id="CCTV5+">
     <display-name lang="">CCTV5+</display-name>
   </channel>
-  <channel id="7">
+  <channel id="CCTV6">
     <display-name lang="">CCTV6</display-name>
   </channel>
-  <channel id="8">
+  <channel id="CCTV7">
     <display-name lang="">CCTV7</display-name>
   </channel>
-  <channel id="9">
+  <channel id="CCTV8">
     <display-name lang="">CCTV8</display-name>
   </channel>
-  <channel id="10">
+  <channel id="CCTV9">
     <display-name lang="">CCTV9</display-name>
   </channel>
-  <channel id="11">
+  <channel id="CCTV10">
     <display-name lang="">CCTV10</display-name>
   </channel>
-  <channel id="12">
+  <channel id="CCTV11">
     <display-name lang="">CCTV11</display-name>
   </channel>
-  <channel id="13">
+  <channel id="CCTV12">
     <display-name lang="">CCTV12</display-name>
   </channel>
-  <channel id="14">
+  <channel id="CCTV13">
     <display-name lang="">CCTV13</display-name>
   </channel>
-  <channel id="15">
+  <channel id="CCTV14">
     <display-name lang="">CCTV14</display-name>
   </channel>
-  <channel id="16">
+  <channel id="CCTV15">
     <display-name lang="">CCTV15</display-name>
   </channel>
-  <channel id="17">
+  <channel id="CCTV16">
     <display-name lang="">CCTV16</display-name>
   </channel>
-  <channel id="18">
+  <channel id="CCTV16 4K">
     <display-name lang="">CCTV16 4K</display-name>
   </channel>
-  <channel id="19">
+  <channel id="CCTV17">
     <display-name lang="">CCTV17</display-name>
   </channel>
-  <channel id="20">
+  <channel id="CGTN紀錄">
     <display-name lang="">CGTN紀錄</display-name>
   </channel>
-  <channel id="21">
+  <channel id="CGTN">
     <display-name lang="">CGTN</display-name>
   </channel>
-  <channel id="22">
+  <channel id="CGTN法語">
     <display-name lang="">CGTN法語</display-name>
   </channel>
-  <channel id="23">
+  <channel id="CGTN俄語">
     <display-name lang="">CGTN俄語</display-name>
   </channel>
-  <channel id="24">
+  <channel id="CGTN西語">
     <display-name lang="">CGTN西語</display-name>
   </channel>
-  <channel id="25">
+  <channel id="CGTN阿語">
     <display-name lang="">CGTN阿語</display-name>
   </channel>
-  <channel id="26">
+  <channel id="中國天氣">
     <display-name lang="">中國天氣</display-name>
   </channel>
-  <channel id="27">
+  <channel id="CETV1">
     <display-name lang="">CETV1</display-name>
   </channel>
-  <channel id="28">
+  <channel id="CETV2">
     <display-name lang="">CETV2</display-name>
   </channel>
-  <channel id="29">
+  <channel id="CETV4">
     <display-name lang="">CETV4</display-name>
   </channel>
-  <channel id="30">
+  <channel id="福建綜合">
     <display-name lang="">福建綜合</display-name>
   </channel>
-  <channel id="31">
+  <channel id="東南衛視">
     <display-name lang="">東南衛視</display-name>
   </channel>
-  <channel id="32">
+  <channel id="福建鄉村振興">
     <display-name lang="">福建鄉村振興</display-name>
   </channel>
-  <channel id="33">
+  <channel id="福建新聞">
     <display-name lang="">福建新聞</display-name>
   </channel>
-  <channel id="34">
+  <channel id="福建電視劇">
     <display-name lang="">福建電視劇</display-name>
   </channel>
-  <channel id="35">
+  <channel id="福建旅遊">
     <display-name lang="">福建旅遊</display-name>
   </channel>
-  <channel id="36">
+  <channel id="福建經濟">
     <display-name lang="">福建經濟</display-name>
   </channel>
-  <channel id="37">
+  <channel id="福建文體">
     <display-name lang="">福建文體</display-name>
   </channel>
-  <channel id="38">
+  <channel id="福建少兒">
     <display-name lang="">福建少兒</display-name>
   </channel>
-  <channel id="39">
+  <channel id="海峽衛視">
     <display-name lang="">海峽衛視</display-name>
   </channel>
-  <channel id="40">
+  <channel id="福建教育">
     <display-name lang="">福建教育</display-name>
   </channel>
-  <channel id="41">
+  <channel id="廈門衛視">
     <display-name lang="">廈門衛視</display-name>
   </channel>
-  <channel id="42">
+  <channel id="廈門1">
     <display-name lang="">廈門1</display-name>
   </channel>
-  <channel id="43">
+  <channel id="廈門2">
     <display-name lang="">廈門2</display-name>
   </channel>
-  <channel id="44">
+  <channel id="廈門3">
     <display-name lang="">廈門3</display-name>
   </channel>
-  <channel id="45">
+  <channel id="北京衛視">
     <display-name lang="">北京衛視</display-name>
   </channel>
-  <channel id="46">
+  <channel id="天津衛視">
     <display-name lang="">天津衛視</display-name>
   </channel>
-  <channel id="47">
+  <channel id="河北衛視">
     <display-name lang="">河北衛視</display-name>
   </channel>
-  <channel id="48">
+  <channel id="山西衛視">
     <display-name lang="">山西衛視</display-name>
   </channel>
-  <channel id="49">
+  <channel id="內蒙古衛視">
     <display-name lang="">內蒙古衛視</display-name>
   </channel>
-  <channel id="50">
+  <channel id="遼寧衛視">
     <display-name lang="">遼寧衛視</display-name>
   </channel>
-  <channel id="51">
+  <channel id="吉林衛視">
     <display-name lang="">吉林衛視</display-name>
   </channel>
-  <channel id="52">
+  <channel id="黑龍江衛視">
     <display-name lang="">黑龍江衛視</display-name>
   </channel>
-  <channel id="53">
+  <channel id="東方衛視">
     <display-name lang="">東方衛視</display-name>
   </channel>
-  <channel id="54">
+  <channel id="江蘇衛視">
     <display-name lang="">江蘇衛視</display-name>
   </channel>
-  <channel id="55">
+  <channel id="浙江衛視">
     <display-name lang="">浙江衛視</display-name>
   </channel>
-  <channel id="56">
+  <channel id="安徽衛視">
     <display-name lang="">安徽衛視</display-name>
   </channel>
-  <channel id="57">
+  <channel id="江西衛視">
     <display-name lang="">江西衛視</display-name>
   </channel>
-  <channel id="58">
+  <channel id="山東衛視">
     <display-name lang="">山東衛視</display-name>
   </channel>
-  <channel id="59">
+  <channel id="河南衛視">
     <display-name lang="">河南衛視</display-name>
   </channel>
-  <channel id="60">
+  <channel id="湖北衛視">
     <display-name lang="">湖北衛視</display-name>
   </channel>
-  <channel id="61">
+  <channel id="湖南衛視">
     <display-name lang="">湖南衛視</display-name>
   </channel>
-  <channel id="62">
+  <channel id="廣東衛視">
     <display-name lang="">廣東衛視</display-name>
   </channel>
-  <channel id="63">
+  <channel id="廣西衛視">
     <display-name lang="">廣西衛視</display-name>
   </channel>
-  <channel id="64">
+  <channel id="海南衛視">
     <display-name lang="">海南衛視</display-name>
   </channel>
-  <channel id="65">
+  <channel id="重慶衛視">
     <display-name lang="">重慶衛視</display-name>
   </channel>
-  <channel id="66">
+  <channel id="四川衛視">
     <display-name lang="">四川衛視</display-name>
   </channel>
-  <channel id="67">
+  <channel id="貴州衛視">
     <display-name lang="">貴州衛視</display-name>
   </channel>
-  <channel id="68">
+  <channel id="雲南衛視">
     <display-name lang="">雲南衛視</display-name>
   </channel>
-  <channel id="69">
+  <channel id="西藏衛視">
     <display-name lang="">西藏衛視</display-name>
   </channel>
-  <channel id="70">
+  <channel id="陝西衛視">
     <display-name lang="">陝西衛視</display-name>
   </channel>
-  <channel id="71">
+  <channel id="甘肅衛視">
     <display-name lang="">甘肅衛視</display-name>
   </channel>
-  <channel id="72">
+  <channel id="青海衛視">
     <display-name lang="">青海衛視</display-name>
   </channel>
-  <channel id="73">
+  <channel id="寧夏衛視">
     <display-name lang="">寧夏衛視</display-name>
   </channel>
-  <channel id="74">
+  <channel id="新疆衛視">
     <display-name lang="">新疆衛視</display-name>
   </channel>
-  <channel id="75">
+  <channel id="深圳衛視">
     <display-name lang="">深圳衛視</display-name>
   </channel>
-  <channel id="76">
+  <channel id="兵團衛視">
     <display-name lang="">兵團衛視</display-name>
   </channel>
-  <channel id="77">
+  <channel id="三沙衛視">
     <display-name lang="">三沙衛視</display-name>
   </channel>
-  <channel id="78">
+  <channel id="康巴衛視">
     <display-name lang="">康巴衛視</display-name>
   </channel>
-  <channel id="79">
+  <channel id="延邊衛視">
     <display-name lang="">延邊衛視</display-name>
   </channel>
-  <channel id="80">
+  <channel id="紀實科教">
     <display-name lang="">紀實科教</display-name>
   </channel>
-  <channel id="81">
+  <channel id="先鋒乒羽">
     <display-name lang="">先鋒乒羽</display-name>
   </channel>
-  <channel id="82">
+  <channel id="快樂垂釣">
     <display-name lang="">快樂垂釣</display-name>
   </channel>
-  <channel id="83">
+  <channel id="山東教育">
     <display-name lang="">山東教育</display-name>
   </channel>
-  <channel id="84">
+  <channel id="茶頻道">
     <display-name lang="">茶頻道</display-name>
   </channel>
-  <channel id="85">
+  <channel id="金鷹紀實">
     <display-name lang="">金鷹紀實</display-name>
   </channel>
-  <channel id="86">
+  <channel id="金鷹卡通">
     <display-name lang="">金鷹卡通</display-name>
   </channel>
-  <channel id="88">
+  <channel id="卡酷少兒">
     <display-name lang="">卡酷少兒</display-name>
   </channel>
-  <channel id="89">
+  <channel id="嘉佳卡通">
     <display-name lang="">嘉佳卡通</display-name>
   </channel>
-  <channel id="90">
+  <channel id="優漫卡通">
     <display-name lang="">優漫卡通</display-name>
   </channel>
-  <channel id="91">
+  <channel id="精品大劇">
     <display-name lang="">精品大劇</display-name>
   </channel>
-  <channel id="92">
+  <channel id="古裝劇場">
     <display-name lang="">古裝劇場</display-name>
   </channel>
-  <channel id="93">
+  <channel id="軍旅劇場">
     <display-name lang="">軍旅劇場</display-name>
   </channel>
-  <channel id="94">
+  <channel id="家庭劇場">
     <display-name lang="">家庭劇場</display-name>
   </channel>
-  <channel id="95">
+  <channel id="熱播精選">
     <display-name lang="">熱播精選</display-name>
   </channel>
-  <channel id="96">
+  <channel id="愛情喜劇">
     <display-name lang="">愛情喜劇</display-name>
   </channel>
-  <channel id="97">
+  <channel id="動作電影">
     <display-name lang="">動作電影</display-name>
   </channel>
-  <channel id="98">
+  <channel id="精品綜合">
     <display-name lang="">精品綜合</display-name>
   </channel>
-  <channel id="99">
+  <channel id="驚悚懸疑">
     <display-name lang="">驚悚懸疑</display-name>
   </channel>
-  <channel id="100">
+  <channel id="黑莓電影">
     <display-name lang="">黑莓電影</display-name>
   </channel>
-  <channel id="101">
+  <channel id="金牌綜藝">
     <display-name lang="">金牌綜藝</display-name>
   </channel>
-  <channel id="102">
+  <channel id="精品體育">
     <display-name lang="">精品體育</display-name>
   </channel>
-  <channel id="103">
+  <channel id="精品萌寵">
     <display-name lang="">精品萌寵</display-name>
   </channel>
-  <channel id="104">
+  <channel id="中國功夫">
     <display-name lang="">中國功夫</display-name>
   </channel>
-  <channel id="105">
+  <channel id="黑莓動畫">
     <display-name lang="">黑莓動畫</display-name>
   </channel>
-  <channel id="106">
+  <channel id="怡伴健康">
     <display-name lang="">怡伴健康</display-name>
   </channel>
-  <channel id="107">
+  <channel id="潮媽辣婆">
     <display-name lang="">潮媽辣婆</display-name>
   </channel>
-  <channel id="108">
+  <channel id="噠啵賽事">
     <display-name lang="">噠啵賽事</display-name>
   </channel>
-  <channel id="109">
+  <channel id="噠啵電競">
     <display-name lang="">噠啵電競</display-name>
   </channel>
-  <channel id="110">
+  <channel id="精品紀錄">
     <display-name lang="">精品紀錄</display-name>
   </channel>
-  <channel id="111">
+  <channel id="軍事評論">
     <display-name lang="">軍事評論</display-name>
   </channel>
-  <channel id="112">
+  <channel id="炫舞未來">
     <display-name lang="">炫舞未來</display-name>
   </channel>
-  <channel id="113">
+  <channel id="CCTV4K">
     <display-name lang="">CCTV4K</display-name>
   </channel>
-  <channel id="114">
+  <channel id="北京衛視4K">
     <display-name lang="">北京衛視4K</display-name>
   </channel>
-  <channel id="115">
+  <channel id="純享4K">
     <display-name lang="">純享4K</display-name>
   </channel>
-  <channel id="116">
+  <channel id="睛彩青少">
     <display-name lang="">睛彩青少</display-name>
   </channel>
-  <channel id="117">
+  <channel id="睛彩競技">
     <display-name lang="">睛彩競技</display-name>
   </channel>
-  <channel id="118">
+  <channel id="睛彩籃球">
     <display-name lang="">睛彩籃球</display-name>
   </channel>
-  <channel id="119">
+  <channel id="睛彩廣場舞">
     <display-name lang="">睛彩廣場舞</display-name>
   </channel>
-  <channel id="120">
+  <channel id="懷舊劇場">
     <display-name lang="">懷舊劇場</display-name>
   </channel>
-  <channel id="121">
+  <channel id="女性時尚">
     <display-name lang="">女性時尚</display-name>
   </channel>
-  <channel id="122">
+  <channel id="風雲音樂">
     <display-name lang="">風雲音樂</display-name>
   </channel>
-  <channel id="123">
+  <channel id="風雲足球">
     <display-name lang="">風雲足球</display-name>
   </channel>
-  <channel id="124">
+  <channel id="第一劇場">
     <display-name lang="">第一劇場</display-name>
   </channel>
-  <channel id="125">
+  <channel id="風雲劇場">
     <display-name lang="">風雲劇場</display-name>
   </channel>
-  <channel id="126">
+  <channel id="央視檯球">
     <display-name lang="">央視檯球</display-name>
   </channel>
-  <channel id="127">
+  <channel id="兵器科技">
     <display-name lang="">兵器科技</display-name>
   </channel>
-  <channel id="128">
+  <channel id="央視文化精品">
     <display-name lang="">央視文化精品</display-name>
   </channel>
-  <channel id="129">
+  <channel id="世界地理">
     <display-name lang="">世界地理</display-name>
   </channel>
-  <channel id="130">
+  <channel id="中學生">
     <display-name lang="">中學生</display-name>
   </channel>
-  <channel id="131">
+  <channel id="書畫頻道">
     <display-name lang="">書畫頻道</display-name>
   </channel>
-  <channel id="132">
+  <channel id="國學">
     <display-name lang="">國學</display-name>
   </channel>
-  <channel id="133">
+  <channel id="汽摩">
     <display-name lang="">汽摩</display-name>
   </channel>
-  <channel id="134">
+  <channel id="早期教育">
     <display-name lang="">早期教育</display-name>
   </channel>
-  <channel id="135">
+  <channel id="環球奇觀">
     <display-name lang="">環球奇觀</display-name>
   </channel>
-  <channel id="136">
+  <channel id="電視指南">
     <display-name lang="">電視指南</display-name>
   </channel>
-  <channel id="137">
+  <channel id="高爾夫">
     <display-name lang="">高爾夫</display-name>
   </channel>
-  <channel id="138">
+  <channel id="鹽城1">
     <display-name lang="">鹽城1</display-name>
   </channel>
-  <channel id="139">
+  <channel id="鹽城2">
     <display-name lang="">鹽城2</display-name>
   </channel>
-  <channel id="140">
+  <channel id="鹽城3">
     <display-name lang="">鹽城3</display-name>
   </channel>
-  <channel id="141">
+  <channel id="南京新聞綜合">
     <display-name lang="">南京新聞綜合</display-name>
   </channel>
-  <channel id="142">
+  <channel id="南京十八">
     <display-name lang="">南京十八</display-name>
   </channel>
-  <channel id="143">
+  <channel id="南京教科">
     <display-name lang="">南京教科</display-name>
   </channel>
-  <channel id="144">
+  <channel id="南京影視">
     <display-name lang="">南京影視</display-name>
   </channel>
-  <channel id="145">
+  <channel id="南京文旅紀錄">
     <display-name lang="">南京文旅紀錄</display-name>
   </channel>
-  <channel id="146">
+  <channel id="南京少兒">
     <display-name lang="">南京少兒</display-name>
   </channel>
-  <channel id="147">
+  <channel id="徐州新聞綜合">
     <display-name lang="">徐州新聞綜合</display-name>
   </channel>
-  <channel id="148">
+  <channel id="徐州經濟生活">
     <display-name lang="">徐州經濟生活</display-name>
   </channel>
-  <channel id="149">
+  <channel id="徐州文藝影視">
     <display-name lang="">徐州文藝影視</display-name>
   </channel>
-  <channel id="150">
+  <channel id="徐州公共">
     <display-name lang="">徐州公共</display-name>
   </channel>
-  <channel id="151">
+  <channel id="銅山1">
     <display-name lang="">銅山1</display-name>
   </channel>
-  <channel id="152">
+  <channel id="銅山2">
     <display-name lang="">銅山2</display-name>
   </channel>
-  <channel id="153">
+  <channel id="銅山3">
     <display-name lang="">銅山3</display-name>
   </channel>
-  <channel id="154">
+  <channel id="銅山4">
     <display-name lang="">銅山4</display-name>
   </channel>
-  <channel id="155">
+  <channel id="邳州綜合">
     <display-name lang="">邳州綜合</display-name>
   </channel>
-  <channel id="156">
+  <channel id="徐州新沂1">
     <display-name lang="">徐州新沂1</display-name>
   </channel>
-  <channel id="157">
+  <channel id="徐州新沂2">
     <display-name lang="">徐州新沂2</display-name>
   </channel>
-  <channel id="158">
+  <channel id="徐州新沂3">
     <display-name lang="">徐州新沂3</display-name>
   </channel>
-  <channel id="159">
+  <channel id="徐州新沂4">
     <display-name lang="">徐州新沂4</display-name>
   </channel>
-  <channel id="160">
+  <channel id="徐州沛縣新聞綜合">
     <display-name lang="">徐州沛縣新聞綜合</display-name>
   </channel>
-  <channel id="161">
+  <channel id="徐州沛縣生活">
     <display-name lang="">徐州沛縣生活</display-name>
   </channel>
-  <channel id="162">
+  <channel id="徐州沛縣綜藝">
     <display-name lang="">徐州沛縣綜藝</display-name>
   </channel>
-  <channel id="163">
+  <channel id="徐州賈汪頻道">
     <display-name lang="">徐州賈汪頻道</display-name>
   </channel>
-  <channel id="164">
+  <channel id="徐州賈汪旅遊頻道">
     <display-name lang="">徐州賈汪旅遊頻道</display-name>
   </channel>
-  <channel id="165">
+  <channel id="睢寧綜合">
     <display-name lang="">睢寧綜合</display-name>
   </channel>
-  <channel id="166">
+  <channel id="睢寧三農">
     <display-name lang="">睢寧三農</display-name>
   </channel>
-  <channel id="167">
+  <channel id="睢寧資訊">
     <display-name lang="">睢寧資訊</display-name>
   </channel>
-  <channel id="168">
+  <channel id="常州新聞">
     <display-name lang="">常州新聞</display-name>
   </channel>
-  <channel id="169">
+  <channel id="常州都市">
     <display-name lang="">常州都市</display-name>
   </channel>
-  <channel id="170">
+  <channel id="常州生活">
     <display-name lang="">常州生活</display-name>
   </channel>
-  <channel id="171">
+  <channel id="連雲港新聞綜合">
     <display-name lang="">連雲港新聞綜合</display-name>
   </channel>
-  <channel id="172">
+  <channel id="連雲港公共頻道">
     <display-name lang="">連雲港公共頻道</display-name>
   </channel>
-  <channel id="173">
+  <channel id="東海新聞">
     <display-name lang="">東海新聞</display-name>
   </channel>
-  <channel id="174">
+  <channel id="東海文娛">
     <display-name lang="">東海文娛</display-name>
   </channel>
-  <channel id="175">
+  <channel id="贛榆綜合">
     <display-name lang="">贛榆綜合</display-name>
   </channel>
-  <channel id="176">
+  <channel id="淮安影視娛樂">
     <display-name lang="">淮安影視娛樂</display-name>
   </channel>
-  <channel id="177">
+  <channel id="淮安新聞綜合">
     <display-name lang="">淮安新聞綜合</display-name>
   </channel>
-  <channel id="178">
+  <channel id="淮安公共">
     <display-name lang="">淮安公共</display-name>
   </channel>
-  <channel id="179">
+  <channel id="揚州生活">
     <display-name lang="">揚州生活</display-name>
   </channel>
-  <channel id="180">
+  <channel id="江都頻道">
     <display-name lang="">江都頻道</display-name>
   </channel>
-  <channel id="181">
+  <channel id="寶應新聞綜合">
     <display-name lang="">寶應新聞綜合</display-name>
   </channel>
-  <channel id="182">
+  <channel id="鎮江1">
     <display-name lang="">鎮江1</display-name>
   </channel>
-  <channel id="183">
+  <channel id="鎮江2">
     <display-name lang="">鎮江2</display-name>
   </channel>
-  <channel id="184">
+  <channel id="鎮江3">
     <display-name lang="">鎮江3</display-name>
   </channel>
-  <channel id="185">
+  <channel id="泰州1">
     <display-name lang="">泰州1</display-name>
   </channel>
-  <channel id="186">
+  <channel id="泰州2">
     <display-name lang="">泰州2</display-name>
   </channel>
-  <channel id="187">
+  <channel id="泰州3">
     <display-name lang="">泰州3</display-name>
   </channel>
-  <channel id="188">
+  <channel id="宿遷綜合">
     <display-name lang="">宿遷綜合</display-name>
   </channel>
-  <channel id="189">
+  <channel id="宿遷公共">
     <display-name lang="">宿遷公共</display-name>
   </channel>
-  <channel id="190">
+  <channel id="泗洪綜合">
     <display-name lang="">泗洪綜合</display-name>
   </channel>
-  <channel id="191">
+  <channel id="南通1">
     <display-name lang="">南通1</display-name>
   </channel>
-  <channel id="192">
+  <channel id="南通2">
     <display-name lang="">南通2</display-name>
   </channel>
-  <channel id="193">
+  <channel id="南通3">
     <display-name lang="">南通3</display-name>
   </channel>
-  <channel id="194">
+  <channel id="黑莓影視">
     <display-name lang="">黑莓影視</display-name>
   </channel>
-  <channel id="195">
+  <channel id="天元圍棋">
     <display-name lang="">天元圍棋</display-name>
   </channel>
-  <channel id="196">
+  <channel id="江蘇城市">
     <display-name lang="">江蘇城市</display-name>
   </channel>
-  <channel id="197">
+  <channel id="江蘇新聞">
     <display-name lang="">江蘇新聞</display-name>
   </channel>
-  <channel id="198">
+  <channel id="江蘇教育">
     <display-name lang="">江蘇教育</display-name>
   </channel>
-  <channel id="199">
+  <channel id="江蘇體育休閒">
     <display-name lang="">江蘇體育休閒</display-name>
   </channel>
-  <channel id="200">
+  <channel id="CNC中文">
     <display-name lang="">CNC中文</display-name>
   </channel>
-  <channel id="201">
+  <channel id="CNC英文">
     <display-name lang="">CNC英文</display-name>
   </channel>
-  <channel id="202">
+  <channel id="江西都市">
     <display-name lang="">江西都市</display-name>
   </channel>
-  <channel id="203">
+  <channel id="江西經濟生活">
     <display-name lang="">江西經濟生活</display-name>
   </channel>
-  <channel id="205">
+  <channel id="江西公共農業">
     <display-name lang="">江西公共農業</display-name>
   </channel>
-  <channel id="206">
+  <channel id="江西少兒">
     <display-name lang="">江西少兒</display-name>
   </channel>
-  <channel id="207">
+  <channel id="江西新聞">
     <display-name lang="">江西新聞</display-name>
   </channel>
-  <channel id="208">
+  <channel id="江西教育">
     <display-name lang="">江西教育</display-name>
   </channel>
-  <channel id="209">
+  <channel id="農林衛視">
     <display-name lang="">農林衛視</display-name>
   </channel>
-  <channel id="210">
+  <channel id="國學苑">
     <display-name lang="">國學苑</display-name>
   </channel>
-  <channel id="380">
+  <channel id="山東齊魯">
     <display-name lang="">山東齊魯</display-name>
   </channel>
-  <channel id="381">
+  <channel id="山東體育休閒">
     <display-name lang="">山東體育休閒</display-name>
   </channel>
-  <channel id="382">
+  <channel id="山東文旅">
     <display-name lang="">山東文旅</display-name>
   </channel>
-  <channel id="383">
+  <channel id="山東綜藝">
     <display-name lang="">山東綜藝</display-name>
   </channel>
-  <channel id="384">
+  <channel id="山東生活">
     <display-name lang="">山東生活</display-name>
   </channel>
-  <channel id="385">
+  <channel id="山東農科">
     <display-name lang="">山東農科</display-name>
   </channel>
-  <channel id="386">
+  <channel id="山東新聞">
     <display-name lang="">山東新聞</display-name>
   </channel>
-  <channel id="387">
+  <channel id="山東少兒">
     <display-name lang="">山東少兒</display-name>
   </channel>
-  <channel id="500">
+  <channel id="湘潭1">
     <display-name lang="">湘潭1</display-name>
   </channel>
-  <channel id="501">
+  <channel id="周口1">
     <display-name lang="">周口1</display-name>
   </channel>
-  <channel id="502">
+  <channel id="周口2">
     <display-name lang="">周口2</display-name>
   </channel>
-  <channel id="503">
+  <channel id="周口3">
     <display-name lang="">周口3</display-name>
   </channel>
-  <channel id="504">
+  <channel id="周口4">
     <display-name lang="">周口4</display-name>
   </channel>
-  <channel id="505">
+  <channel id="惠州1">
     <display-name lang="">惠州1</display-name>
   </channel>
-  <channel id="506">
+  <channel id="惠州2">
     <display-name lang="">惠州2</display-name>
   </channel>
-  <channel id="507">
+  <channel id="泰安1">
     <display-name lang="">泰安1</display-name>
   </channel>
-  <channel id="508">
+  <channel id="泰安2">
     <display-name lang="">泰安2</display-name>
   </channel>
-  <channel id="509">
+  <channel id="泰安3">
     <display-name lang="">泰安3</display-name>
   </channel>
-  <channel id="510">
+  <channel id="泰安4">
     <display-name lang="">泰安4</display-name>
   </channel>
-  <channel id="511">
+  <channel id="晉中1">
     <display-name lang="">晉中1</display-name>
   </channel>
-  <channel id="512">
+  <channel id="三門峽1">
     <display-name lang="">三門峽1</display-name>
   </channel>
-  <channel id="513">
+  <channel id="三門峽2">
     <display-name lang="">三門峽2</display-name>
   </channel>
-  <channel id="515">
+  <channel id="上海星尚">
+    <display-name lang="">上海星尚</display-name>
+  </channel>
+  <channel id="紀實人文">
     <display-name lang="">紀實人文</display-name>
   </channel>
-  <channel id="521">
+  <channel id="上海藝術人文">
+    <display-name lang="">上海藝術人文</display-name>
+  </channel>
+  <channel id="上海教育">
+    <display-name lang="">上海教育</display-name>
+  </channel>
+  <channel id="上海新聞綜合">
+    <display-name lang="">上海新聞綜合</display-name>
+  </channel>
+  <channel id="第一財經">
+    <display-name lang="">第一財經</display-name>
+  </channel>
+  <channel id="上海都市">
+    <display-name lang="">上海都市</display-name>
+  </channel>
+  <channel id="東方影視">
     <display-name lang="">東方影視</display-name>
   </channel>
-  <channel id="522">
+  <channel id="東莞新聞">
     <display-name lang="">東莞新聞</display-name>
   </channel>
-  <channel id="523">
+  <channel id="東莞生活資訊">
     <display-name lang="">東莞生活資訊</display-name>
   </channel>
-  <channel id="524">
+  <channel id="中山公共">
     <display-name lang="">中山公共</display-name>
   </channel>
-  <channel id="525">
+  <channel id="中山教育">
     <display-name lang="">中山教育</display-name>
   </channel>
-  <channel id="526">
+  <channel id="中山綜合">
     <display-name lang="">中山綜合</display-name>
   </channel>
-  <channel id="528">
+  <channel id="之江紀錄">
+    <display-name lang="">之江紀錄</display-name>
+  </channel>
+  <channel id="烏魯木齊都市">
     <display-name lang="">烏魯木齊都市</display-name>
   </channel>
-  <channel id="529">
+  <channel id="樂山新聞綜合">
     <display-name lang="">樂山新聞綜合</display-name>
   </channel>
-  <channel id="531">
+  <channel id="雲南娛樂">
+    <display-name lang="">雲南娛樂</display-name>
+  </channel>
+  <channel id="雲南康旅">
     <display-name lang="">雲南康旅</display-name>
   </channel>
-  <channel id="532">
+  <channel id="雲南影視">
     <display-name lang="">雲南影視</display-name>
   </channel>
-  <channel id="535">
+  <channel id="雲南都市">
+    <display-name lang="">雲南都市</display-name>
+  </channel>
+  <channel id="仙遊電視">
+    <display-name lang="">仙遊電視</display-name>
+  </channel>
+  <channel id="佛山公共">
     <display-name lang="">佛山公共</display-name>
   </channel>
-  <channel id="536">
+  <channel id="佛山南海">
     <display-name lang="">佛山南海</display-name>
   </channel>
-  <channel id="538">
+  <channel id="佛山綜合">
     <display-name lang="">佛山綜合</display-name>
   </channel>
-  <channel id="539">
+  <channel id="佛山順德">
     <display-name lang="">佛山順德</display-name>
   </channel>
-  <channel id="540">
+  <channel id="信陽1">
     <display-name lang="">信陽1</display-name>
   </channel>
-  <channel id="541">
+  <channel id="六安公共">
     <display-name lang="">六安公共</display-name>
   </channel>
-  <channel id="542">
+  <channel id="六安新聞綜合">
     <display-name lang="">六安新聞綜合</display-name>
   </channel>
-  <channel id="543">
+  <channel id="六安都市生活">
     <display-name lang="">六安都市生活</display-name>
   </channel>
-  <channel id="544">
+  <channel id="蘭州公共">
     <display-name lang="">蘭州公共</display-name>
   </channel>
-  <channel id="545">
+  <channel id="蘭州文旅">
     <display-name lang="">蘭州文旅</display-name>
   </channel>
-  <channel id="546">
+  <channel id="蘭州新聞綜合">
     <display-name lang="">蘭州新聞綜合</display-name>
   </channel>
-  <channel id="547">
+  <channel id="內蒙古農牧">
     <display-name lang="">內蒙古農牧</display-name>
   </channel>
-  <channel id="548">
+  <channel id="內蒙古少兒">
     <display-name lang="">內蒙古少兒</display-name>
   </channel>
-  <channel id="552">
+  <channel id="內蒙古文體娛樂">
+    <display-name lang="">內蒙古文體娛樂</display-name>
+  </channel>
+  <channel id="內蒙古新聞綜合">
+    <display-name lang="">內蒙古新聞綜合</display-name>
+  </channel>
+  <channel id="內蒙古經濟生活">
+    <display-name lang="">內蒙古經濟生活</display-name>
+  </channel>
+  <channel id="內蒙古綜合">
     <display-name lang="">內蒙古綜合</display-name>
   </channel>
-  <channel id="553">
+  <channel id="北海公共">
     <display-name lang="">北海公共</display-name>
   </channel>
-  <channel id="554">
+  <channel id="北海新聞綜合">
     <display-name lang="">北海新聞綜合</display-name>
   </channel>
-  <channel id="555">
+  <channel id="北海經濟科教">
     <display-name lang="">北海經濟科教</display-name>
   </channel>
-  <channel id="556">
+  <channel id="十堰新聞綜合">
     <display-name lang="">十堰新聞綜合</display-name>
   </channel>
-  <channel id="557">
+  <channel id="十堰經濟旅遊">
     <display-name lang="">十堰經濟旅遊</display-name>
   </channel>
-  <channel id="559">
-    <display-name lang="">南充科教</display-name>
-  </channel>
-  <channel id="560">
-    <display-name lang="">南充綜合</display-name>
-  </channel>
-  <channel id="562">
-    <display-name lang="">南方衛視</display-name>
-  </channel>
-  <channel id="567">
-    <display-name lang="">南昌新聞綜合</display-name>
-  </channel>
-  <channel id="568">
-    <display-name lang="">南昌資訊</display-name>
-  </channel>
-  <channel id="569">
-    <display-name lang="">南昌都市</display-name>
-  </channel>
-  <channel id="570">
-    <display-name lang="">南陽科教</display-name>
-  </channel>
-  <channel id="572">
-    <display-name lang="">台州公共</display-name>
-  </channel>
-  <channel id="573">
-    <display-name lang="">台州城市生活</display-name>
-  </channel>
-  <channel id="574">
-    <display-name lang="">台州文化生活</display-name>
-  </channel>
-  <channel id="575">
-    <display-name lang="">台州新聞綜合</display-name>
-  </channel>
-  <channel id="576">
-    <display-name lang="">吉林鄉村</display-name>
-  </channel>
-  <channel id="577">
-    <display-name lang="">吉林市公共</display-name>
-  </channel>
-  <channel id="578">
-    <display-name lang="">吉林市新聞</display-name>
-  </channel>
-  <channel id="579">
-    <display-name lang="">吉林市科教</display-name>
-  </channel>
-  <channel id="580">
-    <display-name lang="">吉林影視</display-name>
-  </channel>
-  <channel id="581">
-    <display-name lang="">吉林生活</display-name>
-  </channel>
-  <channel id="582">
-    <display-name lang="">吉林綜藝文化</display-name>
-  </channel>
-  <channel id="583">
-    <display-name lang="">吉林都市</display-name>
-  </channel>
-  <channel id="584">
-    <display-name lang="">吉視鄉村</display-name>
-  </channel>
-  <channel id="585">
-    <display-name lang="">吉視影視</display-name>
-  </channel>
-  <channel id="586">
-    <display-name lang="">吉視生活</display-name>
-  </channel>
-  <channel id="587">
-    <display-name lang="">吉視綜藝文化</display-name>
-  </channel>
-  <channel id="588">
-    <display-name lang="">吉視都市</display-name>
-  </channel>
-  <channel id="589">
-    <display-name lang="">吳江新聞綜合</display-name>
-  </channel>
-  <channel id="590">
-    <display-name lang="">呼和浩特影視</display-name>
-  </channel>
-  <channel id="591">
-    <display-name lang="">呼和浩特綜合</display-name>
-  </channel>
-  <channel id="592">
-    <display-name lang="">呼和浩特都市</display-name>
-  </channel>
-  <channel id="595">
-    <display-name lang="">大慶新聞綜合</display-name>
-  </channel>
-  <channel id="599">
-    <display-name lang="">天津體育</display-name>
-  </channel>
-  <channel id="600">
-    <display-name lang="">天津少兒</display-name>
-  </channel>
-  <channel id="601">
-    <display-name lang="">天津影視</display-name>
-  </channel>
-  <channel id="602">
-    <display-name lang="">天津教育</display-name>
-  </channel>
-  <channel id="603">
-    <display-name lang="">天津文藝</display-name>
-  </channel>
-  <channel id="604">
-    <display-name lang="">天津新聞</display-name>
-  </channel>
-  <channel id="605">
-    <display-name lang="">天津都市</display-name>
-  </channel>
-  <channel id="606">
-    <display-name lang="">太原影視</display-name>
-  </channel>
-  <channel id="607">
-    <display-name lang="">太原教育</display-name>
-  </channel>
-  <channel id="608">
-    <display-name lang="">太原文體</display-name>
-  </channel>
-  <channel id="609">
-    <display-name lang="">太原新聞綜合</display-name>
-  </channel>
-  <channel id="610">
-    <display-name lang="">太原百姓</display-name>
-  </channel>
-  <channel id="611">
-    <display-name lang="">太原社教法制</display-name>
-  </channel>
-  <channel id="612">
-    <display-name lang="">孝感新聞綜合</display-name>
-  </channel>
-  <channel id="613">
-    <display-name lang="">孝感生活</display-name>
-  </channel>
-  <channel id="614">
-    <display-name lang="">寧夏公共</display-name>
-  </channel>
-  <channel id="615">
-    <display-name lang="">寧夏少兒</display-name>
-  </channel>
-  <channel id="616">
-    <display-name lang="">寧夏教育</display-name>
-  </channel>
-  <channel id="618">
-    <display-name lang="">寧夏經濟</display-name>
-  </channel>
-  <channel id="620">
-    <display-name lang="">安徽公共</display-name>
-  </channel>
-  <channel id="621">
-    <display-name lang="">安徽農業科教</display-name>
-  </channel>
-  <channel id="622">
-    <display-name lang="">安徽影視</display-name>
-  </channel>
-  <channel id="623">
-    <display-name lang="">安徽科教</display-name>
-  </channel>
-  <channel id="624">
-    <display-name lang="">安徽經濟生活</display-name>
-  </channel>
-  <channel id="625">
-    <display-name lang="">安徽經視</display-name>
-  </channel>
-  <channel id="626">
-    <display-name lang="">安徽綜藝</display-name>
-  </channel>
-  <channel id="627">
-    <display-name lang="">安徽綜藝體育</display-name>
-  </channel>
-  <channel id="628">
-    <display-name lang="">宜賓新聞綜合</display-name>
-  </channel>
-  <channel id="629">
-    <display-name lang="">宜昌旅遊生活</display-name>
-  </channel>
-  <channel id="630">
-    <display-name lang="">宜昌綜合</display-name>
-  </channel>
-  <channel id="631">
-    <display-name lang="">宜春新聞綜合</display-name>
-  </channel>
-  <channel id="632">
-    <display-name lang="">客家生活</display-name>
-  </channel>
-  <channel id="633">
-    <display-name lang="">山西公共</display-name>
-  </channel>
-  <channel id="634">
-    <display-name lang="">山西影視</display-name>
-  </channel>
-  <channel id="635">
-    <display-name lang="">山西文體生活</display-name>
-  </channel>
-  <channel id="636">
-    <display-name lang="">山西社會與法治</display-name>
-  </channel>
-  <channel id="637">
-    <display-name lang="">山西經濟</display-name>
-  </channel>
-  <channel id="640">
-    <display-name lang="">平頂山1</display-name>
-  </channel>
-  <channel id="641">
-    <display-name lang="">平頂山2</display-name>
-  </channel>
-  <channel id="642">
-    <display-name lang="">平頂山3</display-name>
-  </channel>
-  <channel id="647">
-    <display-name lang="">廣東影視</display-name>
-  </channel>
-  <channel id="654">
-    <display-name lang="">廣元公共</display-name>
-  </channel>
-  <channel id="655">
-    <display-name lang="">廣元新聞綜合</display-name>
-  </channel>
-  <channel id="657">
-    <display-name lang="">廣州新聞</display-name>
-  </channel>
-  <channel id="658">
-    <display-name lang="">廣州法治</display-name>
-  </channel>
-  <channel id="659">
-    <display-name lang="">廣州競賽</display-name>
-  </channel>
-  <channel id="661">
-    <display-name lang="">廣州綜合臺</display-name>
-  </channel>
-  <channel id="663">
-    <display-name lang="">廣西影視</display-name>
-  </channel>
-  <channel id="664">
-    <display-name lang="">廣西新聞</display-name>
-  </channel>
-  <channel id="665">
-    <display-name lang="">廣西綜藝旅遊</display-name>
-  </channel>
-  <channel id="666">
-    <display-name lang="">廣西都市</display-name>
-  </channel>
-  <channel id="667">
-    <display-name lang="">延邊1</display-name>
-  </channel>
-  <channel id="668">
-    <display-name lang="">延邊2</display-name>
-  </channel>
-  <channel id="669">
-    <display-name lang="">開封1</display-name>
-  </channel>
-  <channel id="670">
-    <display-name lang="">揭陽生活</display-name>
-  </channel>
-  <channel id="671">
-    <display-name lang="">揭陽綜合</display-name>
-  </channel>
-  <channel id="672">
-    <display-name lang="">攀枝花新聞綜合</display-name>
-  </channel>
-  <channel id="673">
-    <display-name lang="">新鄉公共</display-name>
-  </channel>
-  <channel id="674">
-    <display-name lang="">新鄉影視</display-name>
-  </channel>
-  <channel id="675">
-    <display-name lang="">新鄉生活</display-name>
-  </channel>
-  <channel id="676">
-    <display-name lang="">新余公共</display-name>
-  </channel>
-  <channel id="677">
-    <display-name lang="">新余新聞綜合</display-name>
-  </channel>
-  <channel id="680">
-    <display-name lang="">新疆漢語影視</display-name>
-  </channel>
-  <channel id="682">
-    <display-name lang="">新疆漢語綜藝</display-name>
-  </channel>
-  <channel id="683">
-    <display-name lang="">無錫娛樂</display-name>
-  </channel>
-  <channel id="684">
-    <display-name lang="">無錫新聞綜合</display-name>
-  </channel>
-  <channel id="685">
-    <display-name lang="">無錫生活</display-name>
-  </channel>
-  <channel id="689">
-    <display-name lang="">無錫經濟</display-name>
-  </channel>
-  <channel id="691">
-    <display-name lang="">日照新聞綜合</display-name>
-  </channel>
-  <channel id="692">
-    <display-name lang="">日照科教</display-name>
-  </channel>
-  <channel id="693">
-    <display-name lang="">來賓綜合</display-name>
-  </channel>
-  <channel id="694">
-    <display-name lang="">杭州導視</display-name>
-  </channel>
-  <channel id="695">
-    <display-name lang="">杭州影視</display-name>
-  </channel>
-  <channel id="696">
-    <display-name lang="">杭州房產</display-name>
-  </channel>
-  <channel id="697">
-    <display-name lang="">杭州文化</display-name>
-  </channel>
-  <channel id="698">
-    <display-name lang="">杭州生活</display-name>
-  </channel>
-  <channel id="699">
-    <display-name lang="">杭州綜合</display-name>
-  </channel>
-  <channel id="700">
-    <display-name lang="">杭州西湖明珠</display-name>
-  </channel>
-  <channel id="702">
-    <display-name lang="">松原綜合</display-name>
-  </channel>
-  <channel id="703">
-    <display-name lang="">柳州新聞綜合</display-name>
-  </channel>
-  <channel id="704">
-    <display-name lang="">梅州1</display-name>
-  </channel>
-  <channel id="709">
-    <display-name lang="">汕頭文旅體育</display-name>
-  </channel>
-  <channel id="711">
-    <display-name lang="">汕頭經濟生活</display-name>
-  </channel>
-  <channel id="712">
-    <display-name lang="">汕頭綜合</display-name>
-  </channel>
-  <channel id="713">
-    <display-name lang="">汕尾文化生活</display-name>
-  </channel>
-  <channel id="714">
-    <display-name lang="">汕尾新聞綜合</display-name>
-  </channel>
-  <channel id="716">
-    <display-name lang="">江門綜合</display-name>
-  </channel>
-  <channel id="717">
-    <display-name lang="">瀋陽新聞</display-name>
-  </channel>
-  <channel id="719">
-    <display-name lang="">河北公共</display-name>
-  </channel>
-  <channel id="720">
-    <display-name lang="">河北農民</display-name>
-  </channel>
-  <channel id="721">
-    <display-name lang="">河北少兒科教</display-name>
-  </channel>
-  <channel id="722">
-    <display-name lang="">河北影視</display-name>
-  </channel>
-  <channel id="725">
-    <display-name lang="">河北經濟</display-name>
-  </channel>
-  <channel id="726">
-    <display-name lang="">河北都市</display-name>
-  </channel>
-  <channel id="728">
-    <display-name lang="">河南公共</display-name>
-  </channel>
-  <channel id="729">
-    <display-name lang="">河南新農村</display-name>
-  </channel>
-  <channel id="730">
-    <display-name lang="">河南新聞</display-name>
-  </channel>
-  <channel id="732">
-    <display-name lang="">河南民生</display-name>
-  </channel>
-  <channel id="733">
-    <display-name lang="">河南法治</display-name>
-  </channel>
-  <channel id="734">
-    <display-name lang="">河南電視劇</display-name>
-  </channel>
-  <channel id="736">
-    <display-name lang="">河源公共</display-name>
-  </channel>
-  <channel id="737">
-    <display-name lang="">瀘州新聞綜合</display-name>
-  </channel>
-  <channel id="738">
-    <display-name lang="">濟南綜合</display-name>
-  </channel>
-  <channel id="739">
-    <display-name lang="">濟南魯中</display-name>
-  </channel>
-  <channel id="740">
-    <display-name lang="">浙江公共新聞</display-name>
-  </channel>
-  <channel id="742">
-    <display-name lang="">浙江少兒</display-name>
-  </channel>
-  <channel id="743">
-    <display-name lang="">浙江影視</display-name>
-  </channel>
-  <channel id="744">
-    <display-name lang="">浙江教科影視</display-name>
-  </channel>
-  <channel id="745">
-    <display-name lang="">浙江教育</display-name>
-  </channel>
-  <channel id="748">
-    <display-name lang="">浙江民生</display-name>
-  </channel>
-  <channel id="750">
-    <display-name lang="">浙江經濟生活</display-name>
-  </channel>
-  <channel id="751">
-    <display-name lang="">浙江經視</display-name>
-  </channel>
-  <channel id="752">
-    <display-name lang="">浙江錢江都市</display-name>
-  </channel>
-  <channel id="757">
-    <display-name lang="">海南自貿</display-name>
-  </channel>
-  <channel id="759">
-    <display-name lang="">淮南公共</display-name>
-  </channel>
-  <channel id="760">
-    <display-name lang="">淮南新聞綜合</display-name>
-  </channel>
-  <channel id="761">
-    <display-name lang="">深圳體育健康</display-name>
-  </channel>
-  <channel id="763">
-    <display-name lang="">深圳少兒</display-name>
-  </channel>
-  <channel id="764">
-    <display-name lang="">深圳電視劇</display-name>
-  </channel>
-  <channel id="765">
-    <display-name lang="">深圳移動</display-name>
-  </channel>
-  <channel id="766">
-    <display-name lang="">深圳財經</display-name>
-  </channel>
-  <channel id="767">
-    <display-name lang="">深圳財經生活</display-name>
-  </channel>
-  <channel id="768">
-    <display-name lang="">深圳都市</display-name>
-  </channel>
-  <channel id="769">
-    <display-name lang="">深視體育健康</display-name>
-  </channel>
-  <channel id="771">
-    <display-name lang="">清遠新聞綜合</display-name>
-  </channel>
-  <channel id="772">
-    <display-name lang="">湖南國際</display-name>
-  </channel>
-  <channel id="773">
-    <display-name lang="">湖南娛樂</display-name>
-  </channel>
-  <channel id="774">
-    <display-name lang="">湖南愛晚</display-name>
-  </channel>
-  <channel id="775">
-    <display-name lang="">湖南電影</display-name>
-  </channel>
-  <channel id="776">
-    <display-name lang="">湖南電視劇</display-name>
-  </channel>
-  <channel id="777">
-    <display-name lang="">湖南經視</display-name>
-  </channel>
-  <channel id="778">
-    <display-name lang="">湛江公共</display-name>
-  </channel>
-  <channel id="779">
-    <display-name lang="">湛江綜合</display-name>
-  </channel>
-  <channel id="780">
-    <display-name lang="">濱州民生</display-name>
-  </channel>
-  <channel id="781">
-    <display-name lang="">濱州綜合</display-name>
-  </channel>
-  <channel id="782">
-    <display-name lang="">漳州新聞</display-name>
-  </channel>
-  <channel id="783">
-    <display-name lang="">潮州民生</display-name>
-  </channel>
-  <channel id="784">
-    <display-name lang="">潮州綜合</display-name>
-  </channel>
-  <channel id="785">
-    <display-name lang="">玉林公共</display-name>
-  </channel>
-  <channel id="786">
-    <display-name lang="">玉林新聞綜合</display-name>
-  </channel>
-  <channel id="787">
-    <display-name lang="">珠海1</display-name>
-  </channel>
-  <channel id="788">
-    <display-name lang="">珠海2</display-name>
-  </channel>
-  <channel id="789">
-    <display-name lang="">甘肅公共</display-name>
-  </channel>
-  <channel id="791">
-    <display-name lang="">甘肅少兒</display-name>
-  </channel>
-  <channel id="792">
-    <display-name lang="">甘肅文化影視</display-name>
-  </channel>
-  <channel id="794">
-    <display-name lang="">百色綜合</display-name>
-  </channel>
-  <channel id="795">
-    <display-name lang="">眉山綜合</display-name>
-  </channel>
-  <channel id="796">
-    <display-name lang="">石家莊娛樂</display-name>
-  </channel>
-  <channel id="797">
-    <display-name lang="">石家莊新聞綜合</display-name>
-  </channel>
-  <channel id="798">
-    <display-name lang="">石家莊生活</display-name>
-  </channel>
-  <channel id="799">
-    <display-name lang="">石家莊都市</display-name>
-  </channel>
-  <channel id="800">
-    <display-name lang="">福州1</display-name>
-  </channel>
-  <channel id="801">
-    <display-name lang="">福州2</display-name>
-  </channel>
-  <channel id="802">
-    <display-name lang="">福州3</display-name>
-  </channel>
-  <channel id="809">
-    <display-name lang="">綿陽影視科技</display-name>
-  </channel>
-  <channel id="810">
-    <display-name lang="">綿陽新聞綜合</display-name>
-  </channel>
-  <channel id="811">
-    <display-name lang="">肇慶新聞</display-name>
-  </channel>
-  <channel id="812">
-    <display-name lang="">肇慶生活服務</display-name>
-  </channel>
-  <channel id="813">
-    <display-name lang="">自貢公共</display-name>
-  </channel>
-  <channel id="814">
-    <display-name lang="">自貢綜合</display-name>
-  </channel>
-  <channel id="816">
-    <display-name lang="">蘇州新聞綜合</display-name>
-  </channel>
-  <channel id="818">
-    <display-name lang="">蘇州社會經濟</display-name>
-  </channel>
-  <channel id="819">
-    <display-name lang="">茂名公共</display-name>
-  </channel>
-  <channel id="820">
-    <display-name lang="">茂名綜合</display-name>
-  </channel>
-  <channel id="821">
-    <display-name lang="">荊門科教文旅</display-name>
-  </channel>
-  <channel id="825">
-    <display-name lang="">襄陽公共</display-name>
-  </channel>
-  <channel id="826">
-    <display-name lang="">襄陽經濟生活</display-name>
-  </channel>
-  <channel id="827">
-    <display-name lang="">襄陽綜合</display-name>
-  </channel>
-  <channel id="828">
-    <display-name lang="">西寧生活</display-name>
-  </channel>
-  <channel id="829">
-    <display-name lang="">西寧綜合</display-name>
-  </channel>
-  <channel id="830">
-    <display-name lang="">西安絲路</display-name>
-  </channel>
-  <channel id="832">
-    <display-name lang="">西安影視</display-name>
-  </channel>
-  <channel id="833">
-    <display-name lang="">西安新聞綜合</display-name>
-  </channel>
-  <channel id="834">
-    <display-name lang="">西安移動電視</display-name>
-  </channel>
-  <channel id="835">
-    <display-name lang="">西安都市</display-name>
-  </channel>
-  <channel id="838">
-    <display-name lang="">西藏藏語衛視</display-name>
-  </channel>
-  <channel id="839">
-    <display-name lang="">許昌1新聞綜合</display-name>
-  </channel>
-  <channel id="841">
-    <display-name lang="">貴州公共</display-name>
-  </channel>
-  <channel id="842">
-    <display-name lang="">貴州大衆生活</display-name>
-  </channel>
-  <channel id="843">
-    <display-name lang="">貴州影視文藝</display-name>
-  </channel>
-  <channel id="845">
-    <display-name lang="">貴州科教</display-name>
-  </channel>
-  <channel id="846">
-    <display-name lang="">貴州科教健康</display-name>
-  </channel>
-  <channel id="847">
-    <display-name lang="">貴陽綜合</display-name>
-  </channel>
-  <channel id="848">
-    <display-name lang="">贛州公共</display-name>
-  </channel>
-  <channel id="849">
-    <display-name lang="">贛州教育</display-name>
-  </channel>
-  <channel id="850">
-    <display-name lang="">贛州新聞綜合</display-name>
-  </channel>
-  <channel id="851">
-    <display-name lang="">遂寧公共</display-name>
-  </channel>
-  <channel id="852">
-    <display-name lang="">遂寧綜合</display-name>
-  </channel>
-  <channel id="853">
-    <display-name lang="">鄭州商都</display-name>
-  </channel>
-  <channel id="854">
-    <display-name lang="">鄭州婦女</display-name>
-  </channel>
-  <channel id="855">
-    <display-name lang="">鄭州戲曲</display-name>
-  </channel>
-  <channel id="856">
-    <display-name lang="">鄭州文體</display-name>
-  </channel>
-  <channel id="857">
-    <display-name lang="">鄭州新聞</display-name>
-  </channel>
-  <channel id="858">
-    <display-name lang="">鄭州生活</display-name>
-  </channel>
-  <channel id="861">
-    <display-name lang="">重慶農村</display-name>
-  </channel>
-  <channel id="862">
-    <display-name lang="">重慶國際</display-name>
-  </channel>
-  <channel id="863">
-    <display-name lang="">重慶娛樂</display-name>
-  </channel>
-  <channel id="864">
-    <display-name lang="">重慶少兒</display-name>
-  </channel>
-  <channel id="865">
-    <display-name lang="">重慶影視</display-name>
-  </channel>
-  <channel id="867">
-    <display-name lang="">重慶文體娛樂</display-name>
-  </channel>
-  <channel id="869">
-    <display-name lang="">重慶新聞</display-name>
-  </channel>
-  <channel id="870">
-    <display-name lang="">重慶時尚生活</display-name>
-  </channel>
-  <channel id="871">
-    <display-name lang="">重慶生活資訊</display-name>
-  </channel>
-  <channel id="872">
-    <display-name lang="">重慶社會與法</display-name>
-  </channel>
-  <channel id="876">
-    <display-name lang="">金華新聞</display-name>
-  </channel>
-  <channel id="877">
-    <display-name lang="">欽州公共</display-name>
-  </channel>
-  <channel id="878">
-    <display-name lang="">欽州綜合</display-name>
-  </channel>
-  <channel id="879">
-    <display-name lang="">錢江</display-name>
-  </channel>
-  <channel id="881">
-    <display-name lang="">銀川公共</display-name>
-  </channel>
-  <channel id="882">
-    <display-name lang="">銀川文體</display-name>
-  </channel>
-  <channel id="883">
-    <display-name lang="">銀川生活</display-name>
-  </channel>
-  <channel id="884">
-    <display-name lang="">錦州公共</display-name>
-  </channel>
-  <channel id="885">
-    <display-name lang="">錦州新聞</display-name>
-  </channel>
-  <channel id="886">
-    <display-name lang="">錦州都市</display-name>
-  </channel>
-  <channel id="887">
-    <display-name lang="">長春市民</display-name>
-  </channel>
-  <channel id="888">
-    <display-name lang="">長春文旅體育</display-name>
-  </channel>
-  <channel id="889">
-    <display-name lang="">長春汽車</display-name>
-  </channel>
-  <channel id="890">
-    <display-name lang="">長春經濟</display-name>
-  </channel>
-  <channel id="891">
-    <display-name lang="">長春綜合</display-name>
-  </channel>
-  <channel id="892">
-    <display-name lang="">長沙影視</display-name>
-  </channel>
-  <channel id="893">
-    <display-name lang="">長沙政法</display-name>
-  </channel>
-  <channel id="894">
-    <display-name lang="">防城港公共</display-name>
-  </channel>
-  <channel id="895">
-    <display-name lang="">防城港新聞綜合</display-name>
-  </channel>
-  <channel id="896">
-    <display-name lang="">陽江1</display-name>
-  </channel>
-  <channel id="897">
-    <display-name lang="">陽江2</display-name>
-  </channel>
-  <channel id="898">
-    <display-name lang="">陝西1</display-name>
-  </channel>
-  <channel id="899">
-    <display-name lang="">陝西7</display-name>
-  </channel>
-  <channel id="900">
-    <display-name lang="">陝西3</display-name>
-  </channel>
-  <channel id="901">
-    <display-name lang="">陝西2</display-name>
-  </channel>
-  <channel id="902">
-    <display-name lang="">陝西5</display-name>
-  </channel>
-  <channel id="903">
-    <display-name lang="">陝西8</display-name>
-  </channel>
-  <channel id="904">
-    <display-name lang="">陝西6</display-name>
-  </channel>
-  <channel id="905">
-    <display-name lang="">陝西4</display-name>
-  </channel>
-  <channel id="906">
-    <display-name lang="">隨州農村</display-name>
-  </channel>
-  <channel id="907">
-    <display-name lang="">隨州綜合</display-name>
-  </channel>
-  <channel id="914">
-    <display-name lang="">青海經視</display-name>
-  </channel>
-  <channel id="916">
-    <display-name lang="">青海都市</display-name>
-  </channel>
-  <channel id="917">
-    <display-name lang="">鞍山新聞綜合</display-name>
-  </channel>
-  <channel id="918">
-    <display-name lang="">韶關新聞</display-name>
-  </channel>
-  <channel id="920">
-    <display-name lang="">駐馬店科教</display-name>
-  </channel>
-  <channel id="921">
-    <display-name lang="">黃岡新聞綜合</display-name>
-  </channel>
-  <channel id="922">
-    <display-name lang="">黃岡生活</display-name>
-  </channel>
-  <channel id="923">
-    <display-name lang="">黃河衛視</display-name>
-  </channel>
-  <channel id="925">
-    <display-name lang="">黃石新聞綜合</display-name>
-  </channel>
-  <channel id="926">
-    <display-name lang="">黃石都市</display-name>
-  </channel>
-  <channel id="933">
-    <display-name lang="">龍巖綜合</display-name>
-  </channel>
-  <channel id="934">
-    <display-name lang="">大灣區衛視</display-name>
-  </channel>
-  <channel id="935">
-    <display-name lang="">江蘇國際</display-name>
-  </channel>
-  <channel id="936">
-    <display-name lang="">江蘇影視</display-name>
-  </channel>
-  <channel id="937">
-    <display-name lang="">江蘇綜藝</display-name>
-  </channel>
-  <channel id="938">
-    <display-name lang="">高清大片</display-name>
-  </channel>
-  <channel id="939">
-    <display-name lang="">新片放映廳</display-name>
-  </channel>
-  <channel id="940">
-    <display-name lang="">星光影院</display-name>
-  </channel>
-  <channel id="1000">
-    <display-name lang="">四川經濟</display-name>
-  </channel>
-  <channel id="1001">
-    <display-name lang="">四川文化旅遊</display-name>
-  </channel>
-  <channel id="1002">
-    <display-name lang="">四川新聞</display-name>
-  </channel>
-  <channel id="1003">
-    <display-name lang="">四川影視文藝</display-name>
-  </channel>
-  <channel id="1004">
-    <display-name lang="">四川婦女兒童</display-name>
-  </channel>
-  <channel id="1005">
-    <display-name lang="">四川科教</display-name>
-  </channel>
-  <channel id="1006">
-    <display-name lang="">四川鄉村</display-name>
-  </channel>
-  <channel id="1007">
-    <display-name lang="">成都新聞綜合</display-name>
-  </channel>
-  <channel id="1008">
-    <display-name lang="">成都經濟資訊</display-name>
-  </channel>
-  <channel id="1009">
-    <display-name lang="">成都都市生活</display-name>
-  </channel>
-  <channel id="1010">
-    <display-name lang="">成都影視文藝</display-name>
-  </channel>
-  <channel id="1011">
-    <display-name lang="">成都公共</display-name>
-  </channel>
-  <channel id="1012">
-    <display-name lang="">成都少兒</display-name>
-  </channel>
-  <channel id="1013">
-    <display-name lang="">湖北公共新聞</display-name>
-  </channel>
-  <channel id="1014">
-    <display-name lang="">湖北影視</display-name>
-  </channel>
-  <channel id="1015">
-    <display-name lang="">湖北教育</display-name>
-  </channel>
-  <channel id="1016">
-    <display-name lang="">湖北生活</display-name>
-  </channel>
-  <channel id="1017">
-    <display-name lang="">湖北經濟</display-name>
-  </channel>
-  <channel id="1019">
-    <display-name lang="">武漢外語</display-name>
-  </channel>
-  <channel id="1022">
-    <display-name lang="">武漢文體</display-name>
-  </channel>
-  <channel id="1023">
-    <display-name lang="">武漢新聞綜合</display-name>
-  </channel>
-  <channel id="1024">
-    <display-name lang="">武漢電視劇</display-name>
-  </channel>
-  <channel id="1025">
-    <display-name lang="">武漢科技生活</display-name>
-  </channel>
-  <channel id="1026">
-    <display-name lang="">武漢經濟</display-name>
-  </channel>
-  <channel id="1027">
-    <display-name lang="">北京新聞</display-name>
-  </channel>
-  <channel id="1028">
-    <display-name lang="">北京影視</display-name>
-  </channel>
-  <channel id="1029">
-    <display-name lang="">北京文藝</display-name>
-  </channel>
-  <channel id="1030">
-    <display-name lang="">北京財經</display-name>
-  </channel>
-  <channel id="1031">
-    <display-name lang="">北京生活</display-name>
-  </channel>
-  <channel id="1033">
-    <display-name lang="">遼寧體育</display-name>
-  </channel>
-  <channel id="1034">
-    <display-name lang="">遼寧公共</display-name>
-  </channel>
-  <channel id="1035">
-    <display-name lang="">遼寧北方</display-name>
-  </channel>
-  <channel id="1036">
-    <display-name lang="">遼寧影視劇</display-name>
-  </channel>
-  <channel id="1037">
-    <display-name lang="">遼寧生活</display-name>
-  </channel>
-  <channel id="1038">
-    <display-name lang="">遼寧經濟</display-name>
-  </channel>
-  <channel id="1039">
-    <display-name lang="">遼寧都市</display-name>
-  </channel>
-  <channel id="1040">
-    <display-name lang="">遼寧教育青少</display-name>
-  </channel>
-  <channel id="1041">
-    <display-name lang="">文物寶庫</display-name>
-  </channel>
-  <channel id="1042">
-    <display-name lang="">旅遊衛視</display-name>
-  </channel>
-  <channel id="1047">
-    <display-name lang="">梨園</display-name>
-  </channel>
-  <channel id="1048">
-    <display-name lang="">武術世界</display-name>
-  </channel>
-  <channel id="1049">
-    <display-name lang="">發現之旅</display-name>
-  </channel>
-  <channel id="1050">
-    <display-name lang="">四海釣魚</display-name>
-  </channel>
-  <channel id="1053">
-    <display-name lang="">環球旅遊</display-name>
-  </channel>
-  <channel id="1056">
-    <display-name lang="">財富天下</display-name>
-  </channel>
-  <channel id="1057">
-    <display-name lang="">車迷</display-name>
-  </channel>
-  <channel id="1060">
-    <display-name lang="">NHK World</display-name>
-  </channel>
-  <channel id="1061">
-    <display-name lang="">ABC Australia</display-name>
-  </channel>
-  <channel id="1062">
-    <display-name lang="">AXN</display-name>
-  </channel>
-  <channel id="1063">
-    <display-name lang="">BBC Earth</display-name>
-  </channel>
-  <channel id="1064">
-    <display-name lang="">BBC Lifestyle</display-name>
-  </channel>
-  <channel id="1065">
-    <display-name lang="">BBC News</display-name>
-  </channel>
-  <channel id="1066">
-    <display-name lang="">Bloomberg Television</display-name>
-  </channel>
-  <channel id="1067">
-    <display-name lang="">CINEMAX</display-name>
-  </channel>
-  <channel id="1068">
-    <display-name lang="">CNBC</display-name>
-  </channel>
-  <channel id="1069">
-    <display-name lang="">CNN</display-name>
-  </channel>
-  <channel id="1070">
-    <display-name lang="">DW (English)</display-name>
-  </channel>
-  <channel id="1071">
-    <display-name lang="">DW</display-name>
-  </channel>
-  <channel id="1072">
-    <display-name lang="">Da Vinci</display-name>
-  </channel>
-  <channel id="1073">
-    <display-name lang="">Discovery Asia</display-name>
-  </channel>
-  <channel id="1074">
-    <display-name lang="">Discovery Channel</display-name>
-  </channel>
-  <channel id="1075">
-    <display-name lang="">Discovery科學頻道</display-name>
-  </channel>
-  <channel id="1076">
-    <display-name lang="">France 24</display-name>
-  </channel>
-  <channel id="1077">
-    <display-name lang="">HBO Family</display-name>
-  </channel>
-  <channel id="1078">
-    <display-name lang="">HBO Hits</display-name>
-  </channel>
-  <channel id="1079">
-    <display-name lang="">HBO Signature</display-name>
-  </channel>
-  <channel id="1080">
-    <display-name lang="">HBO</display-name>
-  </channel>
-  <channel id="1081">
-    <display-name lang="">HISTORY</display-name>
-  </channel>
-  <channel id="1082">
-    <display-name lang="">HITS MOVIES</display-name>
-  </channel>
-  <channel id="1083">
-    <display-name lang="">HITS</display-name>
-  </channel>
-  <channel id="1084">
-    <display-name lang="">Lifetime</display-name>
-  </channel>
-  <channel id="1085">
-    <display-name lang="">Love Nature 4K</display-name>
-  </channel>
-  <channel id="1086">
-    <display-name lang="">Love Nature</display-name>
-  </channel>
-  <channel id="1087">
-    <display-name lang="">NBA TV</display-name>
-  </channel>
-  <channel id="1088">
-    <display-name lang="">NHK WORLD-JAPAN</display-name>
-  </channel>
-  <channel id="1089">
-    <display-name lang="">NHK World Premium</display-name>
-  </channel>
-  <channel id="1090">
-    <display-name lang="">NHK World-Japan</display-name>
-  </channel>
-  <channel id="1091">
-    <display-name lang="">PopC</display-name>
-  </channel>
-  <channel id="1092">
-    <display-name lang="">STAR PLUS</display-name>
-  </channel>
-  <channel id="1093">
-    <display-name lang="">Sky News</display-name>
-  </channel>
-  <channel id="1094">
-    <display-name lang="">Sony MAX</display-name>
-  </channel>
-  <channel id="1095">
-    <display-name lang="">Sony SAB</display-name>
-  </channel>
-  <channel id="1096">
-    <display-name lang="">Sony TV (India)</display-name>
-  </channel>
-  <channel id="1097">
-    <display-name lang="">Star Gold</display-name>
-  </channel>
-  <channel id="1100">
-    <display-name lang="">TVB Plus</display-name>
-  </channel>
-  <channel id="1103">
-    <display-name lang="">Thrill</display-name>
-  </channel>
-  <channel id="1104">
-    <display-name lang="">Viu 頻道</display-name>
-  </channel>
-  <channel id="1105">
-    <display-name lang="">ViuTVsix</display-name>
-  </channel>
-  <channel id="1106">
-    <display-name lang="">ViuTV</display-name>
-  </channel>
-  <channel id="1107">
-    <display-name lang="">beIN SPORTS 1</display-name>
-  </channel>
-  <channel id="1108">
-    <display-name lang="">beIN SPORTS 2</display-name>
-  </channel>
-  <channel id="1109">
-    <display-name lang="">beIN SPORTS 3</display-name>
-  </channel>
-  <channel id="1110">
-    <display-name lang="">beIN SPORTS 4</display-name>
-  </channel>
-  <channel id="1111">
-    <display-name lang="">beIN SPORTS 5</display-name>
-  </channel>
-  <channel id="1112">
-    <display-name lang="">beIN SPORTS 6</display-name>
-  </channel>
-  <channel id="1113">
-    <display-name lang="">myTV SUPER 18臺</display-name>
-  </channel>
-  <channel id="1114">
-    <display-name lang="">myTV SUPER直播足球2臺</display-name>
-  </channel>
-  <channel id="1115">
-    <display-name lang="">myTV SUPER直播足球3臺</display-name>
-  </channel>
-  <channel id="1116">
-    <display-name lang="">myTV SUPER直播足球4臺</display-name>
-  </channel>
-  <channel id="1117">
-    <display-name lang="">myTV SUPER直播足球5臺</display-name>
-  </channel>
-  <channel id="1118">
-    <display-name lang="">myTV SUPER直播足球6臺</display-name>
-  </channel>
-  <channel id="1119">
-    <display-name lang="">myTV SUPER直播足球7臺</display-name>
-  </channel>
-  <channel id="1120">
-    <display-name lang="">tvN</display-name>
-  </channel>
-  <channel id="1121">
-    <display-name lang="">中國環球電視網</display-name>
-  </channel>
-  <channel id="1122">
-    <display-name lang="">中國電影頻道</display-name>
-  </channel>
-  <channel id="1123">
-    <display-name lang="">中天亞洲臺</display-name>
-  </channel>
-  <channel id="1124">
-    <display-name lang="">亞洲劇臺</display-name>
-  </channel>
-  <channel id="1125">
-    <display-name lang="">亞洲新聞臺</display-name>
-  </channel>
-  <channel id="1126">
-    <display-name lang="">亞洲美食臺</display-name>
-  </channel>
-  <channel id="1127">
-    <display-name lang="">冰火頻道</display-name>
-  </channel>
-  <channel id="1128">
-    <display-name lang="">創世電視</display-name>
-  </channel>
-  <channel id="1129">
-    <display-name lang="">動物星球頻道</display-name>
-  </channel>
-  <channel id="1130">
+  <channel id="千禧經典臺">
     <display-name lang="">千禧經典臺</display-name>
   </channel>
-  <channel id="1131">
-    <display-name lang="">半島電視臺英語頻道</display-name>
+  <channel id="南充科教">
+    <display-name lang="">南充科教</display-name>
   </channel>
-  <channel id="1132">
-    <display-name lang="">天映經典頻道</display-name>
+  <channel id="南充綜合">
+    <display-name lang="">南充綜合</display-name>
   </channel>
-  <channel id="1133">
-    <display-name lang="">娛樂新聞臺</display-name>
+  <channel id="南國都市4K">
+    <display-name lang="">南國都市4K</display-name>
   </channel>
-  <channel id="1134">
-    <display-name lang="">戲曲臺</display-name>
+  <channel id="南方衛視">
+    <display-name lang="">南方衛視</display-name>
   </channel>
-  <channel id="1135">
-    <display-name lang="">戶外頻道</display-name>
+  <channel id="南方少兒">
+    <display-name lang="">南方少兒</display-name>
   </channel>
-  <channel id="1136">
-    <display-name lang="">明珠臺</display-name>
+  <channel id="南方影視">
+    <display-name lang="">南方影視</display-name>
   </channel>
-  <channel id="1137">
-    <display-name lang="">東森亞洲新聞臺</display-name>
+  <channel id="南方經濟">
+    <display-name lang="">南方經濟</display-name>
   </channel>
-  <channel id="1138">
-    <display-name lang="">東森亞洲衛視</display-name>
+  <channel id="南方綜藝">
+    <display-name lang="">南方綜藝</display-name>
   </channel>
-  <channel id="1139">
-    <display-name lang="">港臺電視31</display-name>
+  <channel id="南昌新聞綜合">
+    <display-name lang="">南昌新聞綜合</display-name>
   </channel>
-  <channel id="1140">
-    <display-name lang="">港臺電視32</display-name>
+  <channel id="南昌資訊">
+    <display-name lang="">南昌資訊</display-name>
   </channel>
-  <channel id="1141">
-    <display-name lang="">港臺電視33</display-name>
+  <channel id="南昌都市">
+    <display-name lang="">南昌都市</display-name>
   </channel>
-  <channel id="1142">
-    <display-name lang="">港臺電視34</display-name>
+  <channel id="南陽科教">
+    <display-name lang="">南陽科教</display-name>
   </channel>
-  <channel id="1143">
-    <display-name lang="">港臺電視35</display-name>
+  <channel id="廈門移動">
+    <display-name lang="">廈門移動</display-name>
   </channel>
-  <channel id="1144">
-    <display-name lang="">無線新聞臺</display-name>
+  <channel id="台州公共">
+    <display-name lang="">台州公共</display-name>
   </channel>
-  <channel id="1145">
-    <display-name lang="">無線衛星亞洲臺</display-name>
+  <channel id="台州城市生活">
+    <display-name lang="">台州城市生活</display-name>
   </channel>
-  <channel id="1146">
-    <display-name lang="">無線衛星新聞臺</display-name>
+  <channel id="台州文化生活">
+    <display-name lang="">台州文化生活</display-name>
   </channel>
-  <channel id="1147">
-    <display-name lang="">熊貓TV</display-name>
+  <channel id="台州新聞綜合">
+    <display-name lang="">台州新聞綜合</display-name>
   </channel>
-  <channel id="1148">
-    <display-name lang="">粵語片臺</display-name>
+  <channel id="吉林鄉村">
+    <display-name lang="">吉林鄉村</display-name>
   </channel>
-  <channel id="1149">
-    <display-name lang="">罪案+偵緝</display-name>
+  <channel id="吉林市公共">
+    <display-name lang="">吉林市公共</display-name>
   </channel>
-  <channel id="1150">
-    <display-name lang="">美亞電影臺</display-name>
+  <channel id="吉林市新聞">
+    <display-name lang="">吉林市新聞</display-name>
   </channel>
-  <channel id="1151">
-    <display-name lang="">華語劇臺</display-name>
+  <channel id="吉林市科教">
+    <display-name lang="">吉林市科教</display-name>
   </channel>
-  <channel id="1152">
-    <display-name lang="">鳳凰中文</display-name>
+  <channel id="吉林影視">
+    <display-name lang="">吉林影視</display-name>
   </channel>
-  <channel id="1153">
-    <display-name lang="">鳳凰資訊</display-name>
+  <channel id="吉林生活">
+    <display-name lang="">吉林生活</display-name>
   </channel>
-  <channel id="1154">
-    <display-name lang="">鳳凰香港</display-name>
+  <channel id="吉林綜藝文化">
+    <display-name lang="">吉林綜藝文化</display-name>
   </channel>
-  <channel id="1155">
-    <display-name lang="">黃金翡翠臺</display-name>
+  <channel id="吉林都市">
+    <display-name lang="">吉林都市</display-name>
   </channel>
-  <channel id="1156">
-    <display-name lang="">黃金華劇臺</display-name>
+  <channel id="吉視鄉村">
+    <display-name lang="">吉視鄉村</display-name>
   </channel>
-  <channel id="1157">
-    <display-name lang="">CNBC Asia 財經臺</display-name>
+  <channel id="吉視影視">
+    <display-name lang="">吉視影視</display-name>
   </channel>
-  <channel id="1165">
-    <display-name lang="">DW德國之聲</display-name>
+  <channel id="吉視生活">
+    <display-name lang="">吉視生活</display-name>
   </channel>
-  <channel id="1190">
-    <display-name lang="">KLT-靖天國際臺</display-name>
+  <channel id="吉視綜藝文化">
+    <display-name lang="">吉視綜藝文化</display-name>
   </channel>
-  <channel id="1193">
-    <display-name lang="">LUXE TV Channel</display-name>
+  <channel id="吉視都市">
+    <display-name lang="">吉視都市</display-name>
   </channel>
-  <channel id="1194">
-    <display-name lang="">Lifetime 娛樂頻道</display-name>
+  <channel id="吳江新聞綜合">
+    <display-name lang="">吳江新聞綜合</display-name>
   </channel>
-  <channel id="1196">
-    <display-name lang="">LiveABC互動英語頻道</display-name>
+  <channel id="呼和浩特影視">
+    <display-name lang="">呼和浩特影視</display-name>
   </channel>
-  <channel id="1197">
+  <channel id="呼和浩特綜合">
+    <display-name lang="">呼和浩特綜合</display-name>
+  </channel>
+  <channel id="呼和浩特都市">
+    <display-name lang="">呼和浩特都市</display-name>
+  </channel>
+  <channel id="哈薩克語新聞綜合">
+    <display-name lang="">哈薩克語新聞綜合</display-name>
+  </channel>
+  <channel id="哈薩克語綜藝">
+    <display-name lang="">哈薩克語綜藝</display-name>
+  </channel>
+  <channel id="大慶新聞綜合">
+    <display-name lang="">大慶新聞綜合</display-name>
+  </channel>
+  <channel id="大連文體">
+    <display-name lang="">大連文體</display-name>
+  </channel>
+  <channel id="大連新聞綜合">
+    <display-name lang="">大連新聞綜合</display-name>
+  </channel>
+  <channel id="大連生活">
+    <display-name lang="">大連生活</display-name>
+  </channel>
+  <channel id="天津體育">
+    <display-name lang="">天津體育</display-name>
+  </channel>
+  <channel id="天津少兒">
+    <display-name lang="">天津少兒</display-name>
+  </channel>
+  <channel id="天津影視">
+    <display-name lang="">天津影視</display-name>
+  </channel>
+  <channel id="天津教育">
+    <display-name lang="">天津教育</display-name>
+  </channel>
+  <channel id="天津文藝">
+    <display-name lang="">天津文藝</display-name>
+  </channel>
+  <channel id="天津新聞">
+    <display-name lang="">天津新聞</display-name>
+  </channel>
+  <channel id="天津都市">
+    <display-name lang="">天津都市</display-name>
+  </channel>
+  <channel id="太原影視">
+    <display-name lang="">太原影視</display-name>
+  </channel>
+  <channel id="太原教育">
+    <display-name lang="">太原教育</display-name>
+  </channel>
+  <channel id="太原文體">
+    <display-name lang="">太原文體</display-name>
+  </channel>
+  <channel id="太原新聞綜合">
+    <display-name lang="">太原新聞綜合</display-name>
+  </channel>
+  <channel id="太原百姓">
+    <display-name lang="">太原百姓</display-name>
+  </channel>
+  <channel id="太原社教法制">
+    <display-name lang="">太原社教法制</display-name>
+  </channel>
+  <channel id="孝感新聞綜合">
+    <display-name lang="">孝感新聞綜合</display-name>
+  </channel>
+  <channel id="孝感生活">
+    <display-name lang="">孝感生活</display-name>
+  </channel>
+  <channel id="寧夏公共">
+    <display-name lang="">寧夏公共</display-name>
+  </channel>
+  <channel id="寧夏少兒">
+    <display-name lang="">寧夏少兒</display-name>
+  </channel>
+  <channel id="寧夏教育">
+    <display-name lang="">寧夏教育</display-name>
+  </channel>
+  <channel id="寧夏文旅">
+    <display-name lang="">寧夏文旅</display-name>
+  </channel>
+  <channel id="寧夏經濟">
+    <display-name lang="">寧夏經濟</display-name>
+  </channel>
+  <channel id="安多衛視">
+    <display-name lang="">安多衛視</display-name>
+  </channel>
+  <channel id="安徽公共">
+    <display-name lang="">安徽公共</display-name>
+  </channel>
+  <channel id="安徽農業科教">
+    <display-name lang="">安徽農業科教</display-name>
+  </channel>
+  <channel id="安徽影視">
+    <display-name lang="">安徽影視</display-name>
+  </channel>
+  <channel id="安徽科教">
+    <display-name lang="">安徽科教</display-name>
+  </channel>
+  <channel id="安徽經濟生活">
+    <display-name lang="">安徽經濟生活</display-name>
+  </channel>
+  <channel id="安徽經視">
+    <display-name lang="">安徽經視</display-name>
+  </channel>
+  <channel id="安徽綜藝">
+    <display-name lang="">安徽綜藝</display-name>
+  </channel>
+  <channel id="安徽綜藝體育">
+    <display-name lang="">安徽綜藝體育</display-name>
+  </channel>
+  <channel id="宜賓新聞綜合">
+    <display-name lang="">宜賓新聞綜合</display-name>
+  </channel>
+  <channel id="宜昌旅遊生活">
+    <display-name lang="">宜昌旅遊生活</display-name>
+  </channel>
+  <channel id="宜昌綜合">
+    <display-name lang="">宜昌綜合</display-name>
+  </channel>
+  <channel id="宜春新聞綜合">
+    <display-name lang="">宜春新聞綜合</display-name>
+  </channel>
+  <channel id="客家生活">
+    <display-name lang="">客家生活</display-name>
+  </channel>
+  <channel id="山西公共">
+    <display-name lang="">山西公共</display-name>
+  </channel>
+  <channel id="山西影視">
+    <display-name lang="">山西影視</display-name>
+  </channel>
+  <channel id="山西文體生活">
+    <display-name lang="">山西文體生活</display-name>
+  </channel>
+  <channel id="山西社會與法治">
+    <display-name lang="">山西社會與法治</display-name>
+  </channel>
+  <channel id="山西經濟">
+    <display-name lang="">山西經濟</display-name>
+  </channel>
+  <channel id="山西經濟與科技">
+    <display-name lang="">山西經濟與科技</display-name>
+  </channel>
+  <channel id="嶺南戲曲">
+    <display-name lang="">嶺南戲曲</display-name>
+  </channel>
+  <channel id="平頂山1">
+    <display-name lang="">平頂山1</display-name>
+  </channel>
+  <channel id="平頂山2">
+    <display-name lang="">平頂山2</display-name>
+  </channel>
+  <channel id="平頂山3">
+    <display-name lang="">平頂山3</display-name>
+  </channel>
+  <channel id="廣東體育">
+    <display-name lang="">廣東體育</display-name>
+  </channel>
+  <channel id="廣東公共">
+    <display-name lang="">廣東公共</display-name>
+  </channel>
+  <channel id="廣東國際">
+    <display-name lang="">廣東國際</display-name>
+  </channel>
+  <channel id="廣東少兒">
+    <display-name lang="">廣東少兒</display-name>
+  </channel>
+  <channel id="廣東影視">
+    <display-name lang="">廣東影視</display-name>
+  </channel>
+  <channel id="廣東新聞">
+    <display-name lang="">廣東新聞</display-name>
+  </channel>
+  <channel id="廣東民生">
+    <display-name lang="">廣東民生</display-name>
+  </channel>
+  <channel id="廣東珠江">
+    <display-name lang="">廣東珠江</display-name>
+  </channel>
+  <channel id="廣東移動">
+    <display-name lang="">廣東移動</display-name>
+  </channel>
+  <channel id="廣東經濟科教">
+    <display-name lang="">廣東經濟科教</display-name>
+  </channel>
+  <channel id="廣東綜藝">
+    <display-name lang="">廣東綜藝</display-name>
+  </channel>
+  <channel id="廣元公共">
+    <display-name lang="">廣元公共</display-name>
+  </channel>
+  <channel id="廣元新聞綜合">
+    <display-name lang="">廣元新聞綜合</display-name>
+  </channel>
+  <channel id="廣州新聞">
+    <display-name lang="">廣州新聞</display-name>
+  </channel>
+  <channel id="廣州法治">
+    <display-name lang="">廣州法治</display-name>
+  </channel>
+  <channel id="廣州競賽">
+    <display-name lang="">廣州競賽</display-name>
+  </channel>
+  <channel id="廣州綜合">
+    <display-name lang="">廣州綜合</display-name>
+  </channel>
+  <channel id="廣州綜合臺">
+    <display-name lang="">廣州綜合臺</display-name>
+  </channel>
+  <channel id="廣西國際">
+    <display-name lang="">廣西國際</display-name>
+  </channel>
+  <channel id="廣西影視">
+    <display-name lang="">廣西影視</display-name>
+  </channel>
+  <channel id="廣西新聞">
+    <display-name lang="">廣西新聞</display-name>
+  </channel>
+  <channel id="廣西綜藝旅遊">
+    <display-name lang="">廣西綜藝旅遊</display-name>
+  </channel>
+  <channel id="廣西都市">
+    <display-name lang="">廣西都市</display-name>
+  </channel>
+  <channel id="延邊1">
+    <display-name lang="">延邊1</display-name>
+  </channel>
+  <channel id="延邊2">
+    <display-name lang="">延邊2</display-name>
+  </channel>
+  <channel id="開封1">
+    <display-name lang="">開封1</display-name>
+  </channel>
+  <channel id="揭陽生活">
+    <display-name lang="">揭陽生活</display-name>
+  </channel>
+  <channel id="揭陽綜合">
+    <display-name lang="">揭陽綜合</display-name>
+  </channel>
+  <channel id="攀枝花新聞綜合">
+    <display-name lang="">攀枝花新聞綜合</display-name>
+  </channel>
+  <channel id="新鄉公共">
+    <display-name lang="">新鄉公共</display-name>
+  </channel>
+  <channel id="新鄉影視">
+    <display-name lang="">新鄉影視</display-name>
+  </channel>
+  <channel id="新鄉生活">
+    <display-name lang="">新鄉生活</display-name>
+  </channel>
+  <channel id="新余公共">
+    <display-name lang="">新余公共</display-name>
+  </channel>
+  <channel id="新余新聞綜合">
+    <display-name lang="">新余新聞綜合</display-name>
+  </channel>
+  <channel id="新疆漢語影視">
+    <display-name lang="">新疆漢語影視</display-name>
+  </channel>
+  <channel id="新疆漢語綜藝">
+    <display-name lang="">新疆漢語綜藝</display-name>
+  </channel>
+  <channel id="無錫娛樂">
+    <display-name lang="">無錫娛樂</display-name>
+  </channel>
+  <channel id="無錫新聞綜合">
+    <display-name lang="">無錫新聞綜合</display-name>
+  </channel>
+  <channel id="無錫生活">
+    <display-name lang="">無錫生活</display-name>
+  </channel>
+  <channel id="無錫電視娛樂">
+    <display-name lang="">無錫電視娛樂</display-name>
+  </channel>
+  <channel id="無錫電視生活">
+    <display-name lang="">無錫電視生活</display-name>
+  </channel>
+  <channel id="無錫電視經濟">
+    <display-name lang="">無錫電視經濟</display-name>
+  </channel>
+  <channel id="無錫經濟">
+    <display-name lang="">無錫經濟</display-name>
+  </channel>
+  <channel id="無錫都市資訊">
+    <display-name lang="">無錫都市資訊</display-name>
+  </channel>
+  <channel id="日照新聞綜合">
+    <display-name lang="">日照新聞綜合</display-name>
+  </channel>
+  <channel id="日照科教">
+    <display-name lang="">日照科教</display-name>
+  </channel>
+  <channel id="來賓綜合">
+    <display-name lang="">來賓綜合</display-name>
+  </channel>
+  <channel id="杭州導視">
+    <display-name lang="">杭州導視</display-name>
+  </channel>
+  <channel id="杭州影視">
+    <display-name lang="">杭州影視</display-name>
+  </channel>
+  <channel id="杭州房產">
+    <display-name lang="">杭州房產</display-name>
+  </channel>
+  <channel id="杭州文化">
+    <display-name lang="">杭州文化</display-name>
+  </channel>
+  <channel id="杭州生活">
+    <display-name lang="">杭州生活</display-name>
+  </channel>
+  <channel id="杭州綜合">
+    <display-name lang="">杭州綜合</display-name>
+  </channel>
+  <channel id="杭州西湖明珠">
+    <display-name lang="">杭州西湖明珠</display-name>
+  </channel>
+  <channel id="杭州青少體育">
+    <display-name lang="">杭州青少體育</display-name>
+  </channel>
+  <channel id="松原綜合">
+    <display-name lang="">松原綜合</display-name>
+  </channel>
+  <channel id="柳州新聞綜合">
+    <display-name lang="">柳州新聞綜合</display-name>
+  </channel>
+  <channel id="梅州1">
+    <display-name lang="">梅州1</display-name>
+  </channel>
+  <channel id="漢語體育健康">
+    <display-name lang="">漢語體育健康</display-name>
+  </channel>
+  <channel id="漢語經濟生活">
+    <display-name lang="">漢語經濟生活</display-name>
+  </channel>
+  <channel id="漢語綜藝">
+    <display-name lang="">漢語綜藝</display-name>
+  </channel>
+  <channel id="汕頭文旅體育">
+    <display-name lang="">汕頭文旅體育</display-name>
+  </channel>
+  <channel id="汕頭新聞綜合">
+    <display-name lang="">汕頭新聞綜合</display-name>
+  </channel>
+  <channel id="汕頭經濟生活">
+    <display-name lang="">汕頭經濟生活</display-name>
+  </channel>
+  <channel id="汕頭綜合">
+    <display-name lang="">汕頭綜合</display-name>
+  </channel>
+  <channel id="汕尾文化生活">
+    <display-name lang="">汕尾文化生活</display-name>
+  </channel>
+  <channel id="汕尾新聞綜合">
+    <display-name lang="">汕尾新聞綜合</display-name>
+  </channel>
+  <channel id="江門綜合">
+    <display-name lang="">江門綜合</display-name>
+  </channel>
+  <channel id="瀋陽新聞">
+    <display-name lang="">瀋陽新聞</display-name>
+  </channel>
+  <channel id="河北三農">
+    <display-name lang="">河北三農</display-name>
+  </channel>
+  <channel id="河北公共">
+    <display-name lang="">河北公共</display-name>
+  </channel>
+  <channel id="河北農民">
+    <display-name lang="">河北農民</display-name>
+  </channel>
+  <channel id="河北少兒科教">
+    <display-name lang="">河北少兒科教</display-name>
+  </channel>
+  <channel id="河北影視">
+    <display-name lang="">河北影視</display-name>
+  </channel>
+  <channel id="河北影視劇">
+    <display-name lang="">河北影視劇</display-name>
+  </channel>
+  <channel id="河北文旅公共">
+    <display-name lang="">河北文旅公共</display-name>
+  </channel>
+  <channel id="河北經濟">
+    <display-name lang="">河北經濟</display-name>
+  </channel>
+  <channel id="河北都市">
+    <display-name lang="">河北都市</display-name>
+  </channel>
+  <channel id="河南鄉村">
+    <display-name lang="">河南鄉村</display-name>
+  </channel>
+  <channel id="河南公共">
+    <display-name lang="">河南公共</display-name>
+  </channel>
+  <channel id="河南新農村">
+    <display-name lang="">河南新農村</display-name>
+  </channel>
+  <channel id="河南新聞">
+    <display-name lang="">河南新聞</display-name>
+  </channel>
+  <channel id="河南梨園">
+    <display-name lang="">河南梨園</display-name>
+  </channel>
+  <channel id="河南民生">
+    <display-name lang="">河南民生</display-name>
+  </channel>
+  <channel id="河南法治">
+    <display-name lang="">河南法治</display-name>
+  </channel>
+  <channel id="河南電視劇">
+    <display-name lang="">河南電視劇</display-name>
+  </channel>
+  <channel id="河南都市">
+    <display-name lang="">河南都市</display-name>
+  </channel>
+  <channel id="河源公共">
+    <display-name lang="">河源公共</display-name>
+  </channel>
+  <channel id="瀘州新聞綜合">
+    <display-name lang="">瀘州新聞綜合</display-name>
+  </channel>
+  <channel id="濟南綜合">
+    <display-name lang="">濟南綜合</display-name>
+  </channel>
+  <channel id="濟南魯中">
+    <display-name lang="">濟南魯中</display-name>
+  </channel>
+  <channel id="浙江公共新聞">
+    <display-name lang="">浙江公共新聞</display-name>
+  </channel>
+  <channel id="浙江國際">
+    <display-name lang="">浙江國際</display-name>
+  </channel>
+  <channel id="浙江少兒">
+    <display-name lang="">浙江少兒</display-name>
+  </channel>
+  <channel id="浙江影視">
+    <display-name lang="">浙江影視</display-name>
+  </channel>
+  <channel id="浙江教科影視">
+    <display-name lang="">浙江教科影視</display-name>
+  </channel>
+  <channel id="浙江教育">
+    <display-name lang="">浙江教育</display-name>
+  </channel>
+  <channel id="浙江數碼時代">
+    <display-name lang="">浙江數碼時代</display-name>
+  </channel>
+  <channel id="浙江新聞">
+    <display-name lang="">浙江新聞</display-name>
+  </channel>
+  <channel id="浙江民生">
+    <display-name lang="">浙江民生</display-name>
+  </channel>
+  <channel id="浙江民生休閒">
+    <display-name lang="">浙江民生休閒</display-name>
+  </channel>
+  <channel id="浙江經濟生活">
+    <display-name lang="">浙江經濟生活</display-name>
+  </channel>
+  <channel id="浙江經視">
+    <display-name lang="">浙江經視</display-name>
+  </channel>
+  <channel id="浙江錢江都市">
+    <display-name lang="">浙江錢江都市</display-name>
+  </channel>
+  <channel id="海南公共">
+    <display-name lang="">海南公共</display-name>
+  </channel>
+  <channel id="海南少兒">
+    <display-name lang="">海南少兒</display-name>
+  </channel>
+  <channel id="海南文旅">
+    <display-name lang="">海南文旅</display-name>
+  </channel>
+  <channel id="海南新聞">
+    <display-name lang="">海南新聞</display-name>
+  </channel>
+  <channel id="海南自貿">
+    <display-name lang="">海南自貿</display-name>
+  </channel>
+  <channel id="海外劇場">
+    <display-name lang="">海外劇場</display-name>
+  </channel>
+  <channel id="淮南公共">
+    <display-name lang="">淮南公共</display-name>
+  </channel>
+  <channel id="淮南新聞綜合">
+    <display-name lang="">淮南新聞綜合</display-name>
+  </channel>
+  <channel id="深圳體育健康">
+    <display-name lang="">深圳體育健康</display-name>
+  </channel>
+  <channel id="深圳國際">
+    <display-name lang="">深圳國際</display-name>
+  </channel>
+  <channel id="深圳少兒">
+    <display-name lang="">深圳少兒</display-name>
+  </channel>
+  <channel id="深圳電視劇">
+    <display-name lang="">深圳電視劇</display-name>
+  </channel>
+  <channel id="深圳移動">
+    <display-name lang="">深圳移動</display-name>
+  </channel>
+  <channel id="深圳財經">
+    <display-name lang="">深圳財經</display-name>
+  </channel>
+  <channel id="深圳財經生活">
+    <display-name lang="">深圳財經生活</display-name>
+  </channel>
+  <channel id="深圳都市">
+    <display-name lang="">深圳都市</display-name>
+  </channel>
+  <channel id="深視體育健康">
+    <display-name lang="">深視體育健康</display-name>
+  </channel>
+  <channel id="清遠新聞綜合">
+    <display-name lang="">清遠新聞綜合</display-name>
+  </channel>
+  <channel id="湖南國際">
+    <display-name lang="">湖南國際</display-name>
+  </channel>
+  <channel id="湖南娛樂">
+    <display-name lang="">湖南娛樂</display-name>
+  </channel>
+  <channel id="湖南愛晚">
+    <display-name lang="">湖南愛晚</display-name>
+  </channel>
+  <channel id="湖南電影">
+    <display-name lang="">湖南電影</display-name>
+  </channel>
+  <channel id="湖南電視劇">
+    <display-name lang="">湖南電視劇</display-name>
+  </channel>
+  <channel id="湖南經視">
+    <display-name lang="">湖南經視</display-name>
+  </channel>
+  <channel id="湛江公共">
+    <display-name lang="">湛江公共</display-name>
+  </channel>
+  <channel id="湛江綜合">
+    <display-name lang="">湛江綜合</display-name>
+  </channel>
+  <channel id="濱州民生">
+    <display-name lang="">濱州民生</display-name>
+  </channel>
+  <channel id="濱州綜合">
+    <display-name lang="">濱州綜合</display-name>
+  </channel>
+  <channel id="漳州新聞">
+    <display-name lang="">漳州新聞</display-name>
+  </channel>
+  <channel id="潮州民生">
+    <display-name lang="">潮州民生</display-name>
+  </channel>
+  <channel id="潮州綜合">
+    <display-name lang="">潮州綜合</display-name>
+  </channel>
+  <channel id="玉林公共">
+    <display-name lang="">玉林公共</display-name>
+  </channel>
+  <channel id="玉林新聞綜合">
+    <display-name lang="">玉林新聞綜合</display-name>
+  </channel>
+  <channel id="珠海1">
+    <display-name lang="">珠海1</display-name>
+  </channel>
+  <channel id="珠海2">
+    <display-name lang="">珠海2</display-name>
+  </channel>
+  <channel id="甘肅公共">
+    <display-name lang="">甘肅公共</display-name>
+  </channel>
+  <channel id="甘肅公共應急">
+    <display-name lang="">甘肅公共應急</display-name>
+  </channel>
+  <channel id="甘肅少兒">
+    <display-name lang="">甘肅少兒</display-name>
+  </channel>
+  <channel id="甘肅文化影視">
+    <display-name lang="">甘肅文化影視</display-name>
+  </channel>
+  <channel id="甘肅科教">
+    <display-name lang="">甘肅科教</display-name>
+  </channel>
+  <channel id="百色綜合">
+    <display-name lang="">百色綜合</display-name>
+  </channel>
+  <channel id="眉山綜合">
+    <display-name lang="">眉山綜合</display-name>
+  </channel>
+  <channel id="石家莊娛樂">
+    <display-name lang="">石家莊娛樂</display-name>
+  </channel>
+  <channel id="石家莊新聞綜合">
+    <display-name lang="">石家莊新聞綜合</display-name>
+  </channel>
+  <channel id="石家莊生活">
+    <display-name lang="">石家莊生活</display-name>
+  </channel>
+  <channel id="石家莊都市">
+    <display-name lang="">石家莊都市</display-name>
+  </channel>
+  <channel id="福州1">
+    <display-name lang="">福州1</display-name>
+  </channel>
+  <channel id="福州2">
+    <display-name lang="">福州2</display-name>
+  </channel>
+  <channel id="福州3">
+    <display-name lang="">福州3</display-name>
+  </channel>
+  <channel id="紹興新聞綜合">
+    <display-name lang="">紹興新聞綜合</display-name>
+  </channel>
+  <channel id="維吾爾語影視">
+    <display-name lang="">維吾爾語影視</display-name>
+  </channel>
+  <channel id="維吾爾語新聞綜合">
+    <display-name lang="">維吾爾語新聞綜合</display-name>
+  </channel>
+  <channel id="維吾爾語經濟生活">
+    <display-name lang="">維吾爾語經濟生活</display-name>
+  </channel>
+  <channel id="綿陽影視科技">
+    <display-name lang="">綿陽影視科技</display-name>
+  </channel>
+  <channel id="綿陽新聞綜合">
+    <display-name lang="">綿陽新聞綜合</display-name>
+  </channel>
+  <channel id="肇慶新聞">
+    <display-name lang="">肇慶新聞</display-name>
+  </channel>
+  <channel id="肇慶生活服務">
+    <display-name lang="">肇慶生活服務</display-name>
+  </channel>
+  <channel id="自貢公共">
+    <display-name lang="">自貢公共</display-name>
+  </channel>
+  <channel id="自貢綜合">
+    <display-name lang="">自貢綜合</display-name>
+  </channel>
+  <channel id="蘇州文化生活">
+    <display-name lang="">蘇州文化生活</display-name>
+  </channel>
+  <channel id="蘇州新聞綜合">
+    <display-name lang="">蘇州新聞綜合</display-name>
+  </channel>
+  <channel id="蘇州生活資訊">
+    <display-name lang="">蘇州生活資訊</display-name>
+  </channel>
+  <channel id="蘇州社會經濟">
+    <display-name lang="">蘇州社會經濟</display-name>
+  </channel>
+  <channel id="茂名公共">
+    <display-name lang="">茂名公共</display-name>
+  </channel>
+  <channel id="茂名綜合">
+    <display-name lang="">茂名綜合</display-name>
+  </channel>
+  <channel id="荊門科教文旅">
+    <display-name lang="">荊門科教文旅</display-name>
+  </channel>
+  <channel id="莆田1">
+    <display-name lang="">莆田1</display-name>
+  </channel>
+  <channel id="莆田2">
+    <display-name lang="">莆田2</display-name>
+  </channel>
+  <channel id="蒙語衛視">
+    <display-name lang="">蒙語衛視</display-name>
+  </channel>
+  <channel id="襄陽公共">
+    <display-name lang="">襄陽公共</display-name>
+  </channel>
+  <channel id="襄陽經濟生活">
+    <display-name lang="">襄陽經濟生活</display-name>
+  </channel>
+  <channel id="襄陽綜合">
+    <display-name lang="">襄陽綜合</display-name>
+  </channel>
+  <channel id="西寧生活">
+    <display-name lang="">西寧生活</display-name>
+  </channel>
+  <channel id="西寧綜合">
+    <display-name lang="">西寧綜合</display-name>
+  </channel>
+  <channel id="西安絲路">
+    <display-name lang="">西安絲路</display-name>
+  </channel>
+  <channel id="西安商務資訊">
+    <display-name lang="">西安商務資訊</display-name>
+  </channel>
+  <channel id="西安影視">
+    <display-name lang="">西安影視</display-name>
+  </channel>
+  <channel id="西安新聞綜合">
+    <display-name lang="">西安新聞綜合</display-name>
+  </channel>
+  <channel id="西安移動電視">
+    <display-name lang="">西安移動電視</display-name>
+  </channel>
+  <channel id="西安都市">
+    <display-name lang="">西安都市</display-name>
+  </channel>
+  <channel id="西湖明珠">
+    <display-name lang="">西湖明珠</display-name>
+  </channel>
+  <channel id="西藏影視文化">
+    <display-name lang="">西藏影視文化</display-name>
+  </channel>
+  <channel id="西藏藏語衛視">
+    <display-name lang="">西藏藏語衛視</display-name>
+  </channel>
+  <channel id="許昌1新聞綜合">
+    <display-name lang="">許昌1新聞綜合</display-name>
+  </channel>
+  <channel id="貴州公共">
+    <display-name lang="">貴州公共</display-name>
+  </channel>
+  <channel id="貴州大衆生活">
+    <display-name lang="">貴州大衆生活</display-name>
+  </channel>
+  <channel id="貴州影視文藝">
+    <display-name lang="">貴州影視文藝</display-name>
+  </channel>
+  <channel id="貴州法制">
+    <display-name lang="">貴州法制</display-name>
+  </channel>
+  <channel id="貴州科教">
+    <display-name lang="">貴州科教</display-name>
+  </channel>
+  <channel id="貴州科教健康">
+    <display-name lang="">貴州科教健康</display-name>
+  </channel>
+  <channel id="貴陽綜合">
+    <display-name lang="">貴陽綜合</display-name>
+  </channel>
+  <channel id="贛州公共">
+    <display-name lang="">贛州公共</display-name>
+  </channel>
+  <channel id="贛州教育">
+    <display-name lang="">贛州教育</display-name>
+  </channel>
+  <channel id="贛州新聞綜合">
+    <display-name lang="">贛州新聞綜合</display-name>
+  </channel>
+  <channel id="遂寧公共">
+    <display-name lang="">遂寧公共</display-name>
+  </channel>
+  <channel id="遂寧綜合">
+    <display-name lang="">遂寧綜合</display-name>
+  </channel>
+  <channel id="鄭州商都">
+    <display-name lang="">鄭州商都</display-name>
+  </channel>
+  <channel id="鄭州婦女">
+    <display-name lang="">鄭州婦女</display-name>
+  </channel>
+  <channel id="鄭州戲曲">
+    <display-name lang="">鄭州戲曲</display-name>
+  </channel>
+  <channel id="鄭州文體">
+    <display-name lang="">鄭州文體</display-name>
+  </channel>
+  <channel id="鄭州新聞">
+    <display-name lang="">鄭州新聞</display-name>
+  </channel>
+  <channel id="鄭州生活">
+    <display-name lang="">鄭州生活</display-name>
+  </channel>
+  <channel id="重廣融媒">
+    <display-name lang="">重廣融媒</display-name>
+  </channel>
+  <channel id="重慶黨員教育">
+    <display-name lang="">重慶黨員教育</display-name>
+  </channel>
+  <channel id="重慶農村">
+    <display-name lang="">重慶農村</display-name>
+  </channel>
+  <channel id="重慶國際">
+    <display-name lang="">重慶國際</display-name>
+  </channel>
+  <channel id="重慶娛樂">
+    <display-name lang="">重慶娛樂</display-name>
+  </channel>
+  <channel id="重慶少兒">
+    <display-name lang="">重慶少兒</display-name>
+  </channel>
+  <channel id="重慶影視">
+    <display-name lang="">重慶影視</display-name>
+  </channel>
+  <channel id="重慶影視劇">
+    <display-name lang="">重慶影視劇</display-name>
+  </channel>
+  <channel id="重慶文體娛樂">
+    <display-name lang="">重慶文體娛樂</display-name>
+  </channel>
+  <channel id="重慶新農村">
+    <display-name lang="">重慶新農村</display-name>
+  </channel>
+  <channel id="重慶新聞">
+    <display-name lang="">重慶新聞</display-name>
+  </channel>
+  <channel id="重慶時尚生活">
+    <display-name lang="">重慶時尚生活</display-name>
+  </channel>
+  <channel id="重慶生活資訊">
+    <display-name lang="">重慶生活資訊</display-name>
+  </channel>
+  <channel id="重慶社會與法">
+    <display-name lang="">重慶社會與法</display-name>
+  </channel>
+  <channel id="重慶移動">
+    <display-name lang="">重慶移動</display-name>
+  </channel>
+  <channel id="重慶紅葉">
+    <display-name lang="">重慶紅葉</display-name>
+  </channel>
+  <channel id="重慶紅巖文化">
+    <display-name lang="">重慶紅巖文化</display-name>
+  </channel>
+  <channel id="金華新聞">
+    <display-name lang="">金華新聞</display-name>
+  </channel>
+  <channel id="欽州公共">
+    <display-name lang="">欽州公共</display-name>
+  </channel>
+  <channel id="欽州綜合">
+    <display-name lang="">欽州綜合</display-name>
+  </channel>
+  <channel id="錢江">
+    <display-name lang="">錢江</display-name>
+  </channel>
+  <channel id="錢江都市">
+    <display-name lang="">錢江都市</display-name>
+  </channel>
+  <channel id="銀川公共">
+    <display-name lang="">銀川公共</display-name>
+  </channel>
+  <channel id="銀川文體">
+    <display-name lang="">銀川文體</display-name>
+  </channel>
+  <channel id="銀川生活">
+    <display-name lang="">銀川生活</display-name>
+  </channel>
+  <channel id="錦州公共">
+    <display-name lang="">錦州公共</display-name>
+  </channel>
+  <channel id="錦州新聞">
+    <display-name lang="">錦州新聞</display-name>
+  </channel>
+  <channel id="錦州都市">
+    <display-name lang="">錦州都市</display-name>
+  </channel>
+  <channel id="長春市民">
+    <display-name lang="">長春市民</display-name>
+  </channel>
+  <channel id="長春文旅體育">
+    <display-name lang="">長春文旅體育</display-name>
+  </channel>
+  <channel id="長春汽車">
+    <display-name lang="">長春汽車</display-name>
+  </channel>
+  <channel id="長春經濟">
+    <display-name lang="">長春經濟</display-name>
+  </channel>
+  <channel id="長春綜合">
+    <display-name lang="">長春綜合</display-name>
+  </channel>
+  <channel id="長沙影視">
+    <display-name lang="">長沙影視</display-name>
+  </channel>
+  <channel id="長沙政法">
+    <display-name lang="">長沙政法</display-name>
+  </channel>
+  <channel id="防城港公共">
+    <display-name lang="">防城港公共</display-name>
+  </channel>
+  <channel id="防城港新聞綜合">
+    <display-name lang="">防城港新聞綜合</display-name>
+  </channel>
+  <channel id="陽江1">
+    <display-name lang="">陽江1</display-name>
+  </channel>
+  <channel id="陽江2">
+    <display-name lang="">陽江2</display-name>
+  </channel>
+  <channel id="陝西1">
+    <display-name lang="">陝西1</display-name>
+  </channel>
+  <channel id="陝西7">
+    <display-name lang="">陝西7</display-name>
+  </channel>
+  <channel id="陝西3">
+    <display-name lang="">陝西3</display-name>
+  </channel>
+  <channel id="陝西2">
+    <display-name lang="">陝西2</display-name>
+  </channel>
+  <channel id="陝西5">
+    <display-name lang="">陝西5</display-name>
+  </channel>
+  <channel id="陝西8">
+    <display-name lang="">陝西8</display-name>
+  </channel>
+  <channel id="陝西6">
+    <display-name lang="">陝西6</display-name>
+  </channel>
+  <channel id="陝西4">
+    <display-name lang="">陝西4</display-name>
+  </channel>
+  <channel id="隨州農村">
+    <display-name lang="">隨州農村</display-name>
+  </channel>
+  <channel id="隨州綜合">
+    <display-name lang="">隨州綜合</display-name>
+  </channel>
+  <channel id="青島影視">
+    <display-name lang="">青島影視</display-name>
+  </channel>
+  <channel id="青島教育">
+    <display-name lang="">青島教育</display-name>
+  </channel>
+  <channel id="青島新聞綜合">
+    <display-name lang="">青島新聞綜合</display-name>
+  </channel>
+  <channel id="青島生活服務">
+    <display-name lang="">青島生活服務</display-name>
+  </channel>
+  <channel id="青島財經資訊">
+    <display-name lang="">青島財經資訊</display-name>
+  </channel>
+  <channel id="青島都市">
+    <display-name lang="">青島都市</display-name>
+  </channel>
+  <channel id="青海經視">
+    <display-name lang="">青海經視</display-name>
+  </channel>
+  <channel id="青海綜合">
+    <display-name lang="">青海綜合</display-name>
+  </channel>
+  <channel id="青海都市">
+    <display-name lang="">青海都市</display-name>
+  </channel>
+  <channel id="鞍山新聞綜合">
+    <display-name lang="">鞍山新聞綜合</display-name>
+  </channel>
+  <channel id="韶關新聞">
+    <display-name lang="">韶關新聞</display-name>
+  </channel>
+  <channel id="香港衛視">
+    <display-name lang="">香港衛視</display-name>
+  </channel>
+  <channel id="駐馬店科教">
+    <display-name lang="">駐馬店科教</display-name>
+  </channel>
+  <channel id="黃岡新聞綜合">
+    <display-name lang="">黃岡新聞綜合</display-name>
+  </channel>
+  <channel id="黃岡生活">
+    <display-name lang="">黃岡生活</display-name>
+  </channel>
+  <channel id="黃河衛視">
+    <display-name lang="">黃河衛視</display-name>
+  </channel>
+  <channel id="黃河電視臺">
+    <display-name lang="">黃河電視臺</display-name>
+  </channel>
+  <channel id="黃石新聞綜合">
+    <display-name lang="">黃石新聞綜合</display-name>
+  </channel>
+  <channel id="黃石都市">
+    <display-name lang="">黃石都市</display-name>
+  </channel>
+  <channel id="黑龍江農業科教">
+    <display-name lang="">黑龍江農業科教</display-name>
+  </channel>
+  <channel id="黑龍江少兒">
+    <display-name lang="">黑龍江少兒</display-name>
+  </channel>
+  <channel id="黑龍江影視">
+    <display-name lang="">黑龍江影視</display-name>
+  </channel>
+  <channel id="黑龍江文體">
+    <display-name lang="">黑龍江文體</display-name>
+  </channel>
+  <channel id="黑龍江新聞法治">
+    <display-name lang="">黑龍江新聞法治</display-name>
+  </channel>
+  <channel id="黑龍江都市">
+    <display-name lang="">黑龍江都市</display-name>
+  </channel>
+  <channel id="龍巖綜合">
+    <display-name lang="">龍巖綜合</display-name>
+  </channel>
+  <channel id="大灣區衛視">
+    <display-name lang="">大灣區衛視</display-name>
+  </channel>
+  <channel id="江蘇國際">
+    <display-name lang="">江蘇國際</display-name>
+  </channel>
+  <channel id="江蘇影視">
+    <display-name lang="">江蘇影視</display-name>
+  </channel>
+  <channel id="江蘇綜藝">
+    <display-name lang="">江蘇綜藝</display-name>
+  </channel>
+  <channel id="高清大片">
+    <display-name lang="">高清大片</display-name>
+  </channel>
+  <channel id="新片放映廳">
+    <display-name lang="">新片放映廳</display-name>
+  </channel>
+  <channel id="星光影院">
+    <display-name lang="">星光影院</display-name>
+  </channel>
+  <channel id="四川經濟">
+    <display-name lang="">四川經濟</display-name>
+  </channel>
+  <channel id="四川文化旅遊">
+    <display-name lang="">四川文化旅遊</display-name>
+  </channel>
+  <channel id="四川新聞">
+    <display-name lang="">四川新聞</display-name>
+  </channel>
+  <channel id="四川影視文藝">
+    <display-name lang="">四川影視文藝</display-name>
+  </channel>
+  <channel id="四川婦女兒童">
+    <display-name lang="">四川婦女兒童</display-name>
+  </channel>
+  <channel id="四川科教">
+    <display-name lang="">四川科教</display-name>
+  </channel>
+  <channel id="四川鄉村">
+    <display-name lang="">四川鄉村</display-name>
+  </channel>
+  <channel id="成都新聞綜合">
+    <display-name lang="">成都新聞綜合</display-name>
+  </channel>
+  <channel id="成都經濟資訊">
+    <display-name lang="">成都經濟資訊</display-name>
+  </channel>
+  <channel id="成都都市生活">
+    <display-name lang="">成都都市生活</display-name>
+  </channel>
+  <channel id="成都影視文藝">
+    <display-name lang="">成都影視文藝</display-name>
+  </channel>
+  <channel id="成都公共">
+    <display-name lang="">成都公共</display-name>
+  </channel>
+  <channel id="成都少兒">
+    <display-name lang="">成都少兒</display-name>
+  </channel>
+  <channel id="湖北公共新聞">
+    <display-name lang="">湖北公共新聞</display-name>
+  </channel>
+  <channel id="湖北影視">
+    <display-name lang="">湖北影視</display-name>
+  </channel>
+  <channel id="湖北教育">
+    <display-name lang="">湖北教育</display-name>
+  </channel>
+  <channel id="湖北生活">
+    <display-name lang="">湖北生活</display-name>
+  </channel>
+  <channel id="湖北經濟">
+    <display-name lang="">湖北經濟</display-name>
+  </channel>
+  <channel id="武漢外語">
+    <display-name lang="">武漢外語</display-name>
+  </channel>
+  <channel id="武漢文體">
+    <display-name lang="">武漢文體</display-name>
+  </channel>
+  <channel id="武漢新聞綜合">
+    <display-name lang="">武漢新聞綜合</display-name>
+  </channel>
+  <channel id="武漢電視劇">
+    <display-name lang="">武漢電視劇</display-name>
+  </channel>
+  <channel id="武漢科技生活">
+    <display-name lang="">武漢科技生活</display-name>
+  </channel>
+  <channel id="武漢經濟">
+    <display-name lang="">武漢經濟</display-name>
+  </channel>
+  <channel id="北京新聞">
+    <display-name lang="">北京新聞</display-name>
+  </channel>
+  <channel id="北京影視">
+    <display-name lang="">北京影視</display-name>
+  </channel>
+  <channel id="北京文藝">
+    <display-name lang="">北京文藝</display-name>
+  </channel>
+  <channel id="北京財經">
+    <display-name lang="">北京財經</display-name>
+  </channel>
+  <channel id="北京生活">
+    <display-name lang="">北京生活</display-name>
+  </channel>
+  <channel id="遼寧體育">
+    <display-name lang="">遼寧體育</display-name>
+  </channel>
+  <channel id="遼寧公共">
+    <display-name lang="">遼寧公共</display-name>
+  </channel>
+  <channel id="遼寧北方">
+    <display-name lang="">遼寧北方</display-name>
+  </channel>
+  <channel id="遼寧影視劇">
+    <display-name lang="">遼寧影視劇</display-name>
+  </channel>
+  <channel id="遼寧生活">
+    <display-name lang="">遼寧生活</display-name>
+  </channel>
+  <channel id="遼寧經濟">
+    <display-name lang="">遼寧經濟</display-name>
+  </channel>
+  <channel id="遼寧都市">
+    <display-name lang="">遼寧都市</display-name>
+  </channel>
+  <channel id="遼寧教育青少">
+    <display-name lang="">遼寧教育青少</display-name>
+  </channel>
+  <channel id="文物寶庫">
+    <display-name lang="">文物寶庫</display-name>
+  </channel>
+  <channel id="旅遊衛視">
+    <display-name lang="">旅遊衛視</display-name>
+  </channel>
+  <channel id="梨園">
+    <display-name lang="">梨園</display-name>
+  </channel>
+  <channel id="武術世界">
+    <display-name lang="">武術世界</display-name>
+  </channel>
+  <channel id="發現之旅">
+    <display-name lang="">發現之旅</display-name>
+  </channel>
+  <channel id="四海釣魚">
+    <display-name lang="">四海釣魚</display-name>
+  </channel>
+  <channel id="環球旅遊">
+    <display-name lang="">環球旅遊</display-name>
+  </channel>
+  <channel id="財富天下">
+    <display-name lang="">財富天下</display-name>
+  </channel>
+  <channel id="車迷">
+    <display-name lang="">車迷</display-name>
+  </channel>
+  <channel id="NHK World">
+    <display-name lang="">NHK World</display-name>
+  </channel>
+  <channel id="ABC Australia">
+    <display-name lang="">ABC Australia</display-name>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="">AXN</display-name>
+  </channel>
+  <channel id="BBC Earth">
+    <display-name lang="">BBC Earth</display-name>
+  </channel>
+  <channel id="BBC Lifestyle">
+    <display-name lang="">BBC Lifestyle</display-name>
+  </channel>
+  <channel id="BBC News">
+    <display-name lang="">BBC News</display-name>
+  </channel>
+  <channel id="Bloomberg Television">
+    <display-name lang="">Bloomberg Television</display-name>
+  </channel>
+  <channel id="CINEMAX">
+    <display-name lang="">CINEMAX</display-name>
+  </channel>
+  <channel id="CNBC">
+    <display-name lang="">CNBC</display-name>
+  </channel>
+  <channel id="CNN">
+    <display-name lang="">CNN</display-name>
+  </channel>
+  <channel id="DW (English)">
+    <display-name lang="">DW (English)</display-name>
+  </channel>
+  <channel id="DW">
+    <display-name lang="">DW</display-name>
+  </channel>
+  <channel id="Da Vinci">
+    <display-name lang="">Da Vinci</display-name>
+  </channel>
+  <channel id="Discovery Asia">
+    <display-name lang="">Discovery Asia</display-name>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="">Discovery Channel</display-name>
+  </channel>
+  <channel id="Discovery科學頻道">
+    <display-name lang="">Discovery科學頻道</display-name>
+  </channel>
+  <channel id="France 24">
+    <display-name lang="">France 24</display-name>
+  </channel>
+  <channel id="HBO Family">
+    <display-name lang="">HBO Family</display-name>
+  </channel>
+  <channel id="HBO Hits">
+    <display-name lang="">HBO Hits</display-name>
+  </channel>
+  <channel id="HBO Signature">
+    <display-name lang="">HBO Signature</display-name>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="">HBO</display-name>
+  </channel>
+  <channel id="HISTORY">
+    <display-name lang="">HISTORY</display-name>
+  </channel>
+  <channel id="HITS MOVIES">
+    <display-name lang="">HITS MOVIES</display-name>
+  </channel>
+  <channel id="HITS">
+    <display-name lang="">HITS</display-name>
+  </channel>
+  <channel id="Lifetime">
+    <display-name lang="">Lifetime</display-name>
+  </channel>
+  <channel id="Love Nature 4K">
+    <display-name lang="">Love Nature 4K</display-name>
+  </channel>
+  <channel id="Love Nature">
     <display-name lang="">Love Nature</display-name>
   </channel>
-  <channel id="1203">
+  <channel id="NBA TV">
+    <display-name lang="">NBA TV</display-name>
+  </channel>
+  <channel id="NHK WORLD-JAPAN">
+    <display-name lang="">NHK WORLD-JAPAN</display-name>
+  </channel>
+  <channel id="NHK World Premium">
+    <display-name lang="">NHK World Premium</display-name>
+  </channel>
+  <channel id="NHK World-Japan">
+    <display-name lang="">NHK World-Japan</display-name>
+  </channel>
+  <channel id="PopC">
+    <display-name lang="">PopC</display-name>
+  </channel>
+  <channel id="STAR PLUS">
+    <display-name lang="">STAR PLUS</display-name>
+  </channel>
+  <channel id="Sky News">
+    <display-name lang="">Sky News</display-name>
+  </channel>
+  <channel id="Sony MAX">
+    <display-name lang="">Sony MAX</display-name>
+  </channel>
+  <channel id="Sony SAB">
+    <display-name lang="">Sony SAB</display-name>
+  </channel>
+  <channel id="Sony TV (India)">
+    <display-name lang="">Sony TV (India)</display-name>
+  </channel>
+  <channel id="Star Gold">
+    <display-name lang="">Star Gold</display-name>
+  </channel>
+  <channel id="TVB Plus">
+    <display-name lang="">TVB Plus</display-name>
+  </channel>
+  <channel id="Thrill">
+    <display-name lang="">Thrill</display-name>
+  </channel>
+  <channel id="Viu 頻道">
+    <display-name lang="">Viu 頻道</display-name>
+  </channel>
+  <channel id="ViuTVsix">
+    <display-name lang="">ViuTVsix</display-name>
+  </channel>
+  <channel id="ViuTV">
+    <display-name lang="">ViuTV</display-name>
+  </channel>
+  <channel id="beIN SPORTS 1">
+    <display-name lang="">beIN SPORTS 1</display-name>
+  </channel>
+  <channel id="beIN SPORTS 2">
+    <display-name lang="">beIN SPORTS 2</display-name>
+  </channel>
+  <channel id="beIN SPORTS 3">
+    <display-name lang="">beIN SPORTS 3</display-name>
+  </channel>
+  <channel id="beIN SPORTS 4">
+    <display-name lang="">beIN SPORTS 4</display-name>
+  </channel>
+  <channel id="beIN SPORTS 5">
+    <display-name lang="">beIN SPORTS 5</display-name>
+  </channel>
+  <channel id="beIN SPORTS 6">
+    <display-name lang="">beIN SPORTS 6</display-name>
+  </channel>
+  <channel id="myTV SUPER 18臺">
+    <display-name lang="">myTV SUPER 18臺</display-name>
+  </channel>
+  <channel id="myTV SUPER直播足球2臺">
+    <display-name lang="">myTV SUPER直播足球2臺</display-name>
+  </channel>
+  <channel id="myTV SUPER直播足球3臺">
+    <display-name lang="">myTV SUPER直播足球3臺</display-name>
+  </channel>
+  <channel id="myTV SUPER直播足球4臺">
+    <display-name lang="">myTV SUPER直播足球4臺</display-name>
+  </channel>
+  <channel id="myTV SUPER直播足球5臺">
+    <display-name lang="">myTV SUPER直播足球5臺</display-name>
+  </channel>
+  <channel id="myTV SUPER直播足球6臺">
+    <display-name lang="">myTV SUPER直播足球6臺</display-name>
+  </channel>
+  <channel id="myTV SUPER直播足球7臺">
+    <display-name lang="">myTV SUPER直播足球7臺</display-name>
+  </channel>
+  <channel id="tvN">
+    <display-name lang="">tvN</display-name>
+  </channel>
+  <channel id="中國環球電視網">
+    <display-name lang="">中國環球電視網</display-name>
+  </channel>
+  <channel id="中國電影頻道">
+    <display-name lang="">中國電影頻道</display-name>
+  </channel>
+  <channel id="中天亞洲臺">
+    <display-name lang="">中天亞洲臺</display-name>
+  </channel>
+  <channel id="亞洲劇臺">
+    <display-name lang="">亞洲劇臺</display-name>
+  </channel>
+  <channel id="亞洲新聞臺">
+    <display-name lang="">亞洲新聞臺</display-name>
+  </channel>
+  <channel id="亞洲美食臺">
+    <display-name lang="">亞洲美食臺</display-name>
+  </channel>
+  <channel id="冰火頻道">
+    <display-name lang="">冰火頻道</display-name>
+  </channel>
+  <channel id="創世電視">
+    <display-name lang="">創世電視</display-name>
+  </channel>
+  <channel id="動物星球頻道">
+    <display-name lang="">動物星球頻道</display-name>
+  </channel>
+  <channel id="千禧經典臺">
+    <display-name lang="">千禧經典臺</display-name>
+  </channel>
+  <channel id="半島電視臺英語頻道">
+    <display-name lang="">半島電視臺英語頻道</display-name>
+  </channel>
+  <channel id="天映經典頻道">
+    <display-name lang="">天映經典頻道</display-name>
+  </channel>
+  <channel id="娛樂新聞臺">
+    <display-name lang="">娛樂新聞臺</display-name>
+  </channel>
+  <channel id="戲曲臺">
+    <display-name lang="">戲曲臺</display-name>
+  </channel>
+  <channel id="戶外頻道">
+    <display-name lang="">戶外頻道</display-name>
+  </channel>
+  <channel id="明珠臺">
+    <display-name lang="">明珠臺</display-name>
+  </channel>
+  <channel id="東森亞洲新聞臺">
+    <display-name lang="">東森亞洲新聞臺</display-name>
+  </channel>
+  <channel id="東森亞洲衛視">
+    <display-name lang="">東森亞洲衛視</display-name>
+  </channel>
+  <channel id="港臺電視31">
+    <display-name lang="">港臺電視31</display-name>
+  </channel>
+  <channel id="港臺電視32">
+    <display-name lang="">港臺電視32</display-name>
+  </channel>
+  <channel id="港臺電視33">
+    <display-name lang="">港臺電視33</display-name>
+  </channel>
+  <channel id="港臺電視34">
+    <display-name lang="">港臺電視34</display-name>
+  </channel>
+  <channel id="港臺電視35">
+    <display-name lang="">港臺電視35</display-name>
+  </channel>
+  <channel id="無線新聞臺">
+    <display-name lang="">無線新聞臺</display-name>
+  </channel>
+  <channel id="無線衛星亞洲臺">
+    <display-name lang="">無線衛星亞洲臺</display-name>
+  </channel>
+  <channel id="無線衛星新聞臺">
+    <display-name lang="">無線衛星新聞臺</display-name>
+  </channel>
+  <channel id="熊貓TV">
+    <display-name lang="">熊貓TV</display-name>
+  </channel>
+  <channel id="粵語片臺">
+    <display-name lang="">粵語片臺</display-name>
+  </channel>
+  <channel id="罪案+偵緝">
+    <display-name lang="">罪案+偵緝</display-name>
+  </channel>
+  <channel id="美亞電影臺">
+    <display-name lang="">美亞電影臺</display-name>
+  </channel>
+  <channel id="華語劇臺">
+    <display-name lang="">華語劇臺</display-name>
+  </channel>
+  <channel id="鳳凰中文">
+    <display-name lang="">鳳凰中文</display-name>
+  </channel>
+  <channel id="鳳凰資訊">
+    <display-name lang="">鳳凰資訊</display-name>
+  </channel>
+  <channel id="鳳凰香港">
+    <display-name lang="">鳳凰香港</display-name>
+  </channel>
+  <channel id="黃金翡翠臺">
+    <display-name lang="">黃金翡翠臺</display-name>
+  </channel>
+  <channel id="黃金華劇臺">
+    <display-name lang="">黃金華劇臺</display-name>
+  </channel>
+  <channel id="CNBC Asia 財經臺">
+    <display-name lang="">CNBC Asia 財經臺</display-name>
+  </channel>
+  <channel id="DW德國之聲">
+    <display-name lang="">DW德國之聲</display-name>
+  </channel>
+  <channel id="KLT-靖天國際臺">
+    <display-name lang="">KLT-靖天國際臺</display-name>
+  </channel>
+  <channel id="LUXE TV Channel">
+    <display-name lang="">LUXE TV Channel</display-name>
+  </channel>
+  <channel id="Lifetime 娛樂頻道">
+    <display-name lang="">Lifetime 娛樂頻道</display-name>
+  </channel>
+  <channel id="LiveABC互動英語頻道">
+    <display-name lang="">LiveABC互動英語頻道</display-name>
+  </channel>
+  <channel id="Love Nature">
+    <display-name lang="">Love Nature</display-name>
+  </channel>
+  <channel id="MagellanTV頻道 (麥哲倫頻道)">
     <display-name lang="">MagellanTV頻道 (麥哲倫頻道)</display-name>
   </channel>
-  <channel id="1212">
+  <channel id="TVBS臺劇">
     <display-name lang="">TVBS臺劇</display-name>
   </channel>
-  <channel id="1213">
+  <channel id="TVBS新聞">
     <display-name lang="">TVBS新聞</display-name>
   </channel>
-  <channel id="1215">
+  <channel id="TVBS精采">
     <display-name lang="">TVBS精采</display-name>
   </channel>
-  <channel id="1216">
+  <channel id="TVBS綜藝">
     <display-name lang="">TVBS綜藝</display-name>
   </channel>
-  <channel id="1220">
+  <channel id="fun探索娛樂臺">
     <display-name lang="">fun探索娛樂臺</display-name>
   </channel>
-  <channel id="1227">
+  <channel id="三立新聞iNEWS">
     <display-name lang="">三立新聞iNEWS</display-name>
   </channel>
-  <channel id="1229">
+  <channel id="三立綜合">
     <display-name lang="">三立綜合</display-name>
   </channel>
-  <channel id="1234">
+  <channel id="中天新聞臺">
     <display-name lang="">中天新聞臺</display-name>
   </channel>
-  <channel id="1238">
+  <channel id="中視經典臺">
     <display-name lang="">中視經典臺</display-name>
   </channel>
-  <channel id="1239">
+  <channel id="中視菁採臺">
     <display-name lang="">中視菁採臺</display-name>
   </channel>
-  <channel id="1248">
+  <channel id="八大精彩臺">
     <display-name lang="">八大精彩臺</display-name>
   </channel>
-  <channel id="1250">
+  <channel id="八大綜藝臺">
     <display-name lang="">八大綜藝臺</display-name>
   </channel>
-  <channel id="1255">
+  <channel id="公視戲劇">
     <display-name lang="">公視戲劇</display-name>
   </channel>
-  <channel id="1257">
+  <channel id="半島國際新聞臺">
     <display-name lang="">半島國際新聞臺</display-name>
   </channel>
-  <channel id="1279">
+  <channel id="大愛電視">
     <display-name lang="">大愛電視</display-name>
   </channel>
-  <channel id="1284">
+  <channel id="寰宇新聞臺">
     <display-name lang="">寰宇新聞臺</display-name>
   </channel>
-  <channel id="1290">
+  <channel id="影迷數位紀實臺">
     <display-name lang="">影迷數位紀實臺</display-name>
   </channel>
-  <channel id="1291">
+  <channel id="影迷數位電影臺">
     <display-name lang="">影迷數位電影臺</display-name>
   </channel>
-  <channel id="1293">
+  <channel id="愛爾達娛樂臺">
     <display-name lang="">愛爾達娛樂臺</display-name>
   </channel>
-  <channel id="1295">
+  <channel id="愛爾達生活旅遊臺">
     <display-name lang="">愛爾達生活旅遊臺</display-name>
   </channel>
-  <channel id="1314">
+  <channel id="民視">
     <display-name lang="">民視</display-name>
   </channel>
-  <channel id="1316">
+  <channel id="民視影劇臺">
     <display-name lang="">民視影劇臺</display-name>
   </channel>
-  <channel id="1318">
+  <channel id="民視旅遊臺">
     <display-name lang="">民視旅遊臺</display-name>
   </channel>
-  <channel id="1321">
+  <channel id="民視綜藝臺">
     <display-name lang="">民視綜藝臺</display-name>
   </channel>
-  <channel id="1322">
+  <channel id="經典卡通臺">
     <display-name lang="">經典卡通臺</display-name>
   </channel>
-  <channel id="1323">
+  <channel id="經典電影臺">
     <display-name lang="">經典電影臺</display-name>
   </channel>
-  <channel id="1336">
+  <channel id="華視新聞">
     <display-name lang="">華視新聞</display-name>
   </channel>
-  <channel id="1340">
+  <channel id="靖天戲劇臺">
     <display-name lang="">靖天戲劇臺</display-name>
   </channel>
