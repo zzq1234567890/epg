@@ -1,4 +1,4 @@
- <channel id="TVB翡翠娱乐台(TVBe)">
+  <channel id="TVB翡翠娱乐台(TVBe)">
     <display-name lang="zh">TVB翡翠娱乐台(TVBe)</display-name>
   </channel>
   <channel id="翡翠一台(TVB1)">
@@ -15,6 +15,471 @@
   </channel>
   <channel id="TVB明珠剧集台(TVB Pearl Drama)">
     <display-name lang="zh">TVB明珠剧集台(TVB Pearl Drama)</display-name>
+  </channel>
+  <channel id="公视金奖台">
+    <display-name lang="zh">公视金奖台</display-name>
+  </channel>
+  <channel id="哆啦A梦(中文)">
+    <display-name lang="zh">哆啦A梦(中文)</display-name>
+  </channel>
+  <channel id="哆啦A梦中文版">
+    <display-name lang="zh">哆啦A梦中文版</display-name>
+  </channel>
+  <channel id="TVBS食尚玩家">
+    <display-name lang="zh">TVBS食尚玩家</display-name>
+  </channel>
+  <channel id="东森娱乐台">
+    <display-name lang="zh">东森娱乐台</display-name>
+  </channel>
+  <channel id="中天亚洲精采台">
+    <display-name lang="zh">中天亚洲精采台</display-name>
+  </channel>
+  <channel id="经典剧场">
+    <display-name lang="zh">经典剧场</display-name>
+  </channel>
+  <channel id="短剧马拉松">
+    <display-name lang="zh">短剧马拉松</display-name>
+  </channel>
+  <channel id="Yes娱乐">
+    <display-name lang="zh">Yes娱乐</display-name>
+  </channel>
+  <channel id="Focus风采戏剧台">
+    <display-name lang="zh">Focus风采戏剧台</display-name>
+  </channel>
+  <channel id="掏掏新闻">
+    <display-name lang="zh">掏掏新闻</display-name>
+  </channel>
+  <channel id="柯文哲政治风波">
+    <display-name lang="zh">柯文哲政治风波</display-name>
+  </channel>
+  <channel id="倪珍新闻">
+    <display-name lang="zh">倪珍新闻</display-name>
+  </channel>
+  <channel id="国际大小事">
+    <display-name lang="zh">国际大小事</display-name>
+  </channel>
+  <channel id="全国大罢免">
+    <display-name lang="zh">全国大罢免</display-name>
+  </channel>
+  <channel id="第1财经">
+    <display-name lang="zh">第1财经</display-name>
+  </channel>
+  <channel id="Golden强片台">
+    <display-name lang="zh">Golden强片台</display-name>
+  </channel>
+  <channel id="周星驰台">
+    <display-name lang="zh">周星驰台</display-name>
+  </channel>
+  <channel id="欧飞电影台">
+    <display-name lang="zh">欧飞电影台</display-name>
+  </channel>
+  <channel id="欧飞动作电影台">
+    <display-name lang="zh">欧飞动作电影台</display-name>
+  </channel>
+  <channel id="倪珍睡前新闻">
+    <display-name lang="zh">倪珍睡前新闻</display-name>
+  </channel>
+  <channel id="Focus探索新知台">
+    <display-name lang="zh">Focus探索新知台</display-name>
+  </channel>
+  <channel id="乡民大学问">
+    <display-name lang="zh">乡民大学问</display-name>
+  </channel>
+  <channel id="野球名人房">
+    <display-name lang="zh">野球名人房</display-name>
+  </channel>
+  <channel id="社会NOW什么">
+    <display-name lang="zh">社会NOW什么</display-name>
+  </channel>
+  <channel id="啦啦队独家专访">
+    <display-name lang="zh">啦啦队独家专访</display-name>
+  </channel>
+  <channel id="泰可爱旋风">
+    <display-name lang="zh">泰可爱旋风</display-name>
+  </channel>
+  <channel id="演唱会直击">
+    <display-name lang="zh">演唱会直击</display-name>
+  </channel>
+  <channel id="健康闲良医">
+    <display-name lang="zh">健康闲良医</display-name>
+  </channel>
+  <channel id="ASMR行车纪录">
+    <display-name lang="zh">ASMR行车纪录</display-name>
+  </channel>
+  <channel id="FreeMan @台湾">
+    <display-name lang="zh">FreeMan @台湾</display-name>
+  </channel>
+  <channel id="饕客揪爱吃">
+    <display-name lang="zh">饕客揪爱吃</display-name>
+  </channel>
+  <channel id="人气动漫预告">
+    <display-name lang="zh">人气动漫预告</display-name>
+  </channel>
+  <channel id="银发聚乐部">
+    <display-name lang="zh">银发聚乐部</display-name>
+  </channel>
+  <channel id="锦绣安宁">
+    <display-name lang="zh">锦绣安宁</display-name>
+  </channel>
+  <channel id="瑯琊榜">
+    <display-name lang="zh">瑯琊榜</display-name>
+  </channel>
+  <channel id="扶摇">
+    <display-name lang="zh">扶摇</display-name>
+  </channel>
+  <channel id="三国">
+    <display-name lang="zh">三国</display-name>
+  </channel>
+  <channel id="武媚娘传奇">
+    <display-name lang="zh">武媚娘传奇</display-name>
+  </channel>
+  <channel id="长乐曲">
+    <display-name lang="zh">长乐曲</display-name>
+  </channel>
+  <channel id="军师联盟">
+    <display-name lang="zh">军师联盟</display-name>
+  </channel>
+  <channel id="军师联盟2 虎啸龙吟">
+    <display-name lang="zh">军师联盟2 虎啸龙吟</display-name>
+  </channel>
+  <channel id="国色芳华">
+    <display-name lang="zh">国色芳华</display-name>
+  </channel>
+  <channel id="锦衣天下">
+    <display-name lang="zh">锦衣天下</display-name>
+  </channel>
+  <channel id="楚乔传">
+    <display-name lang="zh">楚乔传</display-name>
+  </channel>
+  <channel id="倚天屠龙记 2019">
+    <display-name lang="zh">倚天屠龙记 2019</display-name>
+  </channel>
+  <channel id="披荆斩棘的大小女">
+    <display-name lang="zh">披荆斩棘的大小女</display-name>
+  </channel>
+  <channel id="步步惊心">
+    <display-name lang="zh">步步惊心</display-name>
+  </channel>
+  <channel id="九重紫">
+    <display-name lang="zh">九重紫</display-name>
+  </channel>
+  <channel id="私藏浪漫">
+    <display-name lang="zh">私藏浪漫</display-name>
+  </channel>
+  <channel id="去有风的地方">
+    <display-name lang="zh">去有风的地方</display-name>
+  </channel>
+  <channel id="以爱为营">
+    <display-name lang="zh">以爱为营</display-name>
+  </channel>
+  <channel id="向风而行">
+    <display-name lang="zh">向风而行</display-name>
+  </channel>
+  <channel id="以家人之名">
+    <display-name lang="zh">以家人之名</display-name>
+  </channel>
+  <channel id="好运家">
+    <display-name lang="zh">好运家</display-name>
+  </channel>
+  <channel id="请叫我总监">
+    <display-name lang="zh">请叫我总监</display-name>
+  </channel>
+  <channel id="司藤">
+    <display-name lang="zh">司藤</display-name>
+  </channel>
+  <channel id="月嫂先生">
+    <display-name lang="zh">月嫂先生</display-name>
+  </channel>
+  <channel id="猪哥一级棒">
+    <display-name lang="zh">猪哥一级棒</display-name>
+  </channel>
+  <channel id="医师好辣">
+    <display-name lang="zh">医师好辣</display-name>
+  </channel>
+  <channel id="WTO姐妹会">
+    <display-name lang="zh">WTO姐妹会</display-name>
+  </channel>
+  <channel id="综艺玩很大">
+    <display-name lang="zh">综艺玩很大</display-name>
+  </channel>
+  <channel id="全民星攻略">
+    <display-name lang="zh">全民星攻略</display-name>
+  </channel>
+  <channel id="健康2.0">
+    <display-name lang="zh">健康2.0</display-name>
+  </channel>
+  <channel id="台湾启示录">
+    <display-name lang="zh">台湾启示录</display-name>
+  </channel>
+  <channel id="法眼黑与白">
+    <display-name lang="zh">法眼黑与白</display-name>
+  </channel>
+  <channel id="天才冲冲冲">
+    <display-name lang="zh">天才冲冲冲</display-name>
+  </channel>
+  <channel id="一步一脚印发现新台湾">
+    <display-name lang="zh">一步一脚印发现新台湾</display-name>
+  </channel>
+  <channel id="女人我最大">
+    <display-name lang="zh">女人我最大</display-name>
+  </channel>
+  <channel id="看板人物">
+    <display-name lang="zh">看板人物</display-name>
+  </channel>
+  <channel id="威廉沈欢乐送">
+    <display-name lang="zh">威廉沈欢乐送</display-name>
+  </channel>
+  <channel id="木曜4超玩一 日系列">
+    <display-name lang="zh">木曜4超玩一 日系列</display-name>
+  </channel>
+  <channel id="一字千金 ">
+    <display-name lang="zh">一字千金 </display-name>
+  </channel>
+  <channel id="11点热吵店">
+    <display-name lang="zh">11点热吵店</display-name>
+  </channel>
+  <channel id="回到20岁">
+    <display-name lang="zh">回到20岁</display-name>
+  </channel>
+  <channel id="白雪公主非死不可">
+    <display-name lang="zh">白雪公主非死不可</display-name>
+  </channel>
+  <channel id="好搭档">
+    <display-name lang="zh">好搭档</display-name>
+  </channel>
+  <channel id="头脑共助">
+    <display-name lang="zh">头脑共助</display-name>
+  </channel>
+  <channel id="凌晨两点的灰姑娘">
+    <display-name lang="zh">凌晨两点的灰姑娘</display-name>
+  </channel>
+  <channel id="台湾灵异事件">
+    <display-name lang="zh">台湾灵异事件</display-name>
+  </channel>
+  <channel id="包青天 1993版">
+    <display-name lang="zh">包青天 1993版</display-name>
+  </channel>
+  <channel id="我的婆婆怎么那么可爱">
+    <display-name lang="zh">我的婆婆怎么那么可爱</display-name>
+  </channel>
+  <channel id="村里来了个暴走女外科">
+    <display-name lang="zh">村里来了个暴走女外科</display-name>
+  </channel>
+  <channel id="一把青">
+    <display-name lang="zh">一把青</display-name>
+  </channel>
+  <channel id="茶金">
+    <display-name lang="zh">茶金</display-name>
+  </channel>
+  <channel id="苦力记">
+    <display-name lang="zh">苦力记</display-name>
+  </channel>
+  <channel id="俗女养成记">
+    <display-name lang="zh">俗女养成记</display-name>
+  </channel>
+  <channel id="麻醉风暴">
+    <display-name lang="zh">麻醉风暴</display-name>
+  </channel>
+  <channel id="虽然等级只有1级但固有技能是最强的">
+    <display-name lang="zh">虽然等级只有1级但固有技能是最强的</display-name>
+  </channel>
+  <channel id="拥有超常技能的异世界流浪美食家">
+    <display-name lang="zh">拥有超常技能的异世界流浪美食家</display-name>
+  </channel>
+  <channel id="WIND BREAKER - 防风少年 -">
+    <display-name lang="zh">WIND BREAKER - 防风少年 -</display-name>
+  </channel>
+  <channel id="在异世界获得超能力的我，在现实世界照样无敌~等级提升改变人生命运~">
+    <display-name lang="zh">在异世界获得超能力的我，在现实世界照样无敌~等级提升改变人生命运~</display-name>
+  </channel>
+  <channel id="第一神拳">
+    <display-name lang="zh">第一神拳</display-name>
+  </channel>
+  <channel id="刀剑神域(中文版)">
+    <display-name lang="zh">刀剑神域(中文版)</display-name>
+  </channel>
+  <channel id="龟笔小新(中文版)">
+    <display-name lang="zh">龟笔小新(中文版)</display-name>
+  </channel>
+  <channel id="我们这一家">
+    <display-name lang="zh">我们这一家</display-name>
+  </channel>
+  <channel id="猎人(中文版)">
+    <display-name lang="zh">猎人(中文版)</display-name>
+  </channel>
+  <channel id="中华一番(中文版)">
+    <display-name lang="zh">中华一番(中文版)</display-name>
+  </channel>
+  <channel id="队长小翼(中文版)">
+    <display-name lang="zh">队长小翼(中文版)</display-name>
+  </channel>
+  <channel id="SPY X FAMILY 间谍家家酒">
+    <display-name lang="zh">SPY X FAMILY 间谍家家酒</display-name>
+  </channel>
+  <channel id="SPY X FAMILY 间谍家家酒(中文版)">
+    <display-name lang="zh">SPY X FAMILY 间谍家家酒(中文版)</display-name>
+  </channel>
+  <channel id="无职转生，到了异世界就拿出真本事">
+    <display-name lang="zh">无职转生，到了异世界就拿出真本事</display-name>
+  </channel>
+  <channel id="关于我转生变成史莱姆这档事(国)">
+    <display-name lang="zh">关于我转生变成史莱姆这档事(国)</display-name>
+  </channel>
+  <channel id="夏目友人帐">
+    <display-name lang="zh">夏目友人帐</display-name>
+  </channel>
+  <channel id="家庭教师HITMAN REBORN!(中文版)">
+    <display-name lang="zh">家庭教师HITMAN REBORN!(中文版)</display-name>
+  </channel>
+  <channel id="烘焙王(中文版)">
+    <display-name lang="zh">烘焙王(中文版)</display-name>
+  </channel>
+  <channel id="钢之炼金术师">
+    <display-name lang="zh">钢之炼金术师</display-name>
+  </channel>
+  <channel id="JOJO 的奇妙冒险">
+    <display-name lang="zh">JOJO 的奇妙冒险</display-name>
+  </channel>
+  <channel id="葬送的芙莉莲">
+    <display-name lang="zh">葬送的芙莉莲</display-name>
+  </channel>
+  <channel id="史上最强弟子 一(中文版)">
+    <display-name lang="zh">史上最强弟子 一(中文版)</display-name>
+  </channel>
+  <channel id="爆漫王(中文版)">
+    <display-name lang="zh">爆漫王(中文版)</display-name>
+  </channel>
+  <channel id="忍者乱太郎(中文版)">
+    <display-name lang="zh">忍者乱太郎(中文版)</display-name>
+  </channel>
+  <channel id="胆大党">
+    <display-name lang="zh">胆大党</display-name>
+  </channel>
+  <channel id="新忍者哈特利">
+    <display-name lang="zh">新忍者哈特利</display-name>
+  </channel>
+  <channel id="生命的赢家">
+    <display-name lang="zh">生命的赢家</display-name>
+  </channel>
+  <channel id="海派甜心">
+    <display-name lang="zh">海派甜心</display-name>
+  </channel>
+  <channel id="不良笑花">
+    <display-name lang="zh">不良笑花</display-name>
+  </channel>
+  <channel id="战神">
+    <display-name lang="zh">战神</display-name>
+  </channel>
+  <channel id="王子看见二公主">
+    <display-name lang="zh">王子看见二公主</display-name>
+  </channel>
+  <channel id="呼叫大明星">
+    <display-name lang="zh">呼叫大明星</display-name>
+  </channel>
+  <channel id="大新闻大爆卦">
+    <display-name lang="zh">大新闻大爆卦</display-name>
+  </channel>
+  <channel id="新闻大白话">
+    <display-name lang="zh">新闻大白话</display-name>
+  </channel>
+  <channel id="文茜的世界周报">
+    <display-name lang="zh">文茜的世界周报</display-name>
+  </channel>
+  <channel id="寰宇全世界">
+    <display-name lang="zh">寰宇全世界</display-name>
+  </channel>
+  <channel id="文茜的世界财经周报">
+    <display-name lang="zh">文茜的世界财经周报</display-name>
+  </channel>
+  <channel id="环球大战线">
+    <display-name lang="zh">环球大战线</display-name>
+  </channel>
+  <channel id="少康战情室">
+    <display-name lang="zh">少康战情室</display-name>
+  </channel>
+  <channel id="国民大会">
+    <display-name lang="zh">国民大会</display-name>
+  </channel>
+  <channel id="电动车时代">
+    <display-name lang="zh">电动车时代</display-name>
+  </channel>
+  <channel id="SICAR爱车酷">
+    <display-name lang="zh">SICAR爱车酷</display-name>
+  </channel>
+  <channel id="狂人日志">
+    <display-name lang="zh">狂人日志</display-name>
+  </channel>
+  <channel id="脖子解说 Mr. Neck">
+    <display-name lang="zh">脖子解说 Mr. Neck</display-name>
+  </channel>
+  <channel id="食尚玩家 - Hello腹饿代">
+    <display-name lang="zh">食尚玩家 - Hello腹饿代</display-name>
+  </channel>
+  <channel id="食尚玩家 - 天菜就酱吃">
+    <display-name lang="zh">食尚玩家 - 天菜就酱吃</display-name>
+  </channel>
+  <channel id="食尚玩家 - 2天1夜go">
+    <display-name lang="zh">食尚玩家 - 2天1夜go</display-name>
+  </channel>
+  <channel id="食尚玩家 - 热血48小时">
+    <display-name lang="zh">食尚玩家 - 热血48小时</display-name>
+  </channel>
+  <channel id="食尚玩家 - 鱼肉乡民">
+    <display-name lang="zh">食尚玩家 - 鱼肉乡民</display-name>
+  </channel>
+  <channel id="食尚玩家 - 疯狂总部">
+    <display-name lang="zh">食尚玩家 - 疯狂总部</display-name>
+  </channel>
+  <channel id="非凡大探索">
+    <display-name lang="zh">非凡大探索</display-name>
+  </channel>
+  <channel id="台湾1001个故事">
+    <display-name lang="zh">台湾1001个故事</display-name>
+  </channel>
+  <channel id="詹姆士出走料理">
+    <display-name lang="zh">詹姆士出走料理</display-name>
+  </channel>
+  <channel id="进击的台湾">
+    <display-name lang="zh">进击的台湾</display-name>
+  </channel>
+  <channel id="世界第一等">
+    <display-name lang="zh">世界第一等</display-name>
+  </channel>
+  <channel id="台湾第一等">
+    <display-name lang="zh">台湾第一等</display-name>
+  </channel>
+  <channel id="溢游未尽">
+    <display-name lang="zh">溢游未尽</display-name>
+  </channel>
+  <channel id="台湾真善美">
+    <display-name lang="zh">台湾真善美</display-name>
+  </channel>
+  <channel id="请问今晚住谁家">
+    <display-name lang="zh">请问今晚住谁家</display-name>
+  </channel>
+  <channel id="早餐中国">
+    <display-name lang="zh">早餐中国</display-name>
+  </channel>
+  <channel id="溢起趣打卡">
+    <display-name lang="zh">溢起趣打卡</display-name>
+  </channel>
+  <channel id="台湾壹百种味道">
+    <display-name lang="zh">台湾壹百种味道</display-name>
+  </channel>
+  <channel id="纾压雷雨声">
+    <display-name lang="zh">纾压雷雨声</display-name>
+  </channel>
+  <channel id="疗愈下雨声">
+    <display-name lang="zh">疗愈下雨声</display-name>
+  </channel>
+  <channel id="放松的爵士午后">
+    <display-name lang="zh">放松的爵士午后</display-name>
+  </channel>
+  <channel id="野外烧柴火声">
+    <display-name lang="zh">野外烧柴火声</display-name>
+  </channel>
+  <channel id="夏日阳光海浪声">
+    <display-name lang="zh">夏日阳光海浪声</display-name>
   </channel>
   <channel id="天映经典香港">
     <display-name lang="zh">天映经典香港</display-name>
@@ -4828,9 +5293,6 @@
   <channel id="佛山公共">
     <display-name lang="">佛山公共</display-name>
   </channel>
-  <channel id="佛山南海">
-    <display-name lang="">佛山南海</display-name>
-  </channel>
   <channel id="佛山综合">
     <display-name lang="">佛山综合</display-name>
   </channel>
@@ -4875,9 +5337,6 @@
   </channel>
   <channel id="内蒙古综合">
     <display-name lang="">内蒙古综合</display-name>
-  </channel>
-  <channel id="北海公共">
-    <display-name lang="">北海公共</display-name>
   </channel>
   <channel id="北海新闻综合">
     <display-name lang="">北海新闻综合</display-name>
@@ -5535,9 +5994,6 @@
   </channel>
   <channel id="湛江综合">
     <display-name lang="">湛江综合</display-name>
-  </channel>
-  <channel id="滨州民生">
-    <display-name lang="">滨州民生</display-name>
   </channel>
   <channel id="滨州综合">
     <display-name lang="">滨州综合</display-name>
