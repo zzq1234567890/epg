@@ -40,8 +40,8 @@ jobs:
               except Exception as e:
                   print(f"Error parsing {xml_file}: {e}")
 
-          extract_names('twepg.xml', 'tw_channels.txt')
-          extract_names('swepg.xml', 'sw_channels.txt')
+          extract_names('twepg.xml', '繁體電視台目錄.txt')
+          extract_names('swepg.xml', '简体电视台目录.txt')
           EOF
 
       - name: Commit and push results
@@ -49,7 +49,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add tw_channels.txt sw_channels.txt
+          git add 繁體電視台目錄.txt 简体电视台目录.txt
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
