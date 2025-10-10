@@ -28,6 +28,7 @@ https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz );
 11.強烈推薦xm.gz,而不是xml格式，檔案小很多
 Important Notices
  具体电视台名称参见 
+ 
  繁體[https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/%E7%B9%81%E9%AB%94%E9%9B%BB%E8%A6%96%E5%8F%B0%E7%9B%AE%E9%8C%84.txt]
 
 简体电视台目录[
