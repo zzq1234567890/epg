@@ -2,7 +2,7 @@
 
 1.自娛自樂！自用，請勿用要商業用途！一般不進行維護和技術支持！
 
-推薦播放軟體 Tivimate, ott navigator,極致播放器！
+推薦播放軟體 ok影視， Tivimate, ott navigator,極致播放器！epg選擇xml.gz格式。速度快，體積小。
 
 2.不提供節目源地址！請支持訂閱正版節目源地址！
 
