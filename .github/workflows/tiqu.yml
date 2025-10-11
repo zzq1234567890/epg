@@ -2,7 +2,7 @@ name: 提取電視台名稱
 
 on:
   schedule:
-    - cron: '15 */6 * * *'   # 每6小时运行一次
+    - cron: '45 */1 * * *'   # 每6小时运行一次
   workflow_dispatch:          # 支持手动触发
 
 jobs:
