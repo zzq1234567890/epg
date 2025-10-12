@@ -33,6 +33,7 @@ Important Notices
 
 简体电视台目录[
 https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/简体电视台目录.txt]
+
 主要是填写 tvg-id="电视台名称" tvg-name="电视台名称"
  繁體，適合港澳台
 
