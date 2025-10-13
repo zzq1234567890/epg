@@ -1,6 +1,6 @@
 注意:
 
-1.自娛自樂！自用，請勿用要商業用途！一般不進行維護和技術支持！
+1.自娛自樂！自用，請勿用作商業用途！一般不進行維護和技術支持！
 
 推薦播放軟體 ok影視， Tivimate, ott navigator,極致播放器！epg選擇xml.gz格式。速度快，體積小。
 
@@ -69,7 +69,7 @@ YouTube URLs are shared in their raw format without any parsing, decoding, or te
 
 6.Adding the epg of some HOY new channels
 
-7.Adding theepg of six channels from TVB anywhere USA .
+7.Adding the epg of six channels from TVB anywhere USA .
 
 8.Adding the epg for simplied chinese ,swepg.xml.gz, used in mainland of china;
 the epg of  tradional chinese epg,tw.epg.gz, used in hk ,marcol,taiwan  area .
