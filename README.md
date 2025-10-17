@@ -10,22 +10,65 @@
 
 4.墻內建議選epgnew.xml(去掉幾個少兒不宜及對岸禁止的幾個電視台預告)，墻外無所謂了，epgziyong.xml還是epgnew.xml隨便了
 
-5.增加廣西電視台節目預告（兩天）
+5.本節目預告包括
 
-6.增加河北電信廣東電信的地方台節目
+中國大陸
 
-7.增加HOY新增頻道EPG
+央視頻
+1905
+浙江
+江蘇
+河北
+北京
+上海
+重慶
+福建
+廣東
+廣西
+江蘇
+江西
+四川
+內蒙古
+新疆
 
-8.增加tvb anywhere usa 6個頻道EPG
 
-8.增加ofiii點播epg
 
-9.增加
+香港  
+mytvsuper 
+anywhere
+tvb anywhere usa 
+now寬頻
+hoy電視台
+香港電台，
+
+澳門
+澳門電視台
+
+台灣
+mod 
+bb寬頻
+4gtv
+hami 
+ofiii
+
+韓國
+kbs
+sbs
+mbc
+ebc
+
+新加坡
+mewatch
+
+
+
+
+6.增加
 簡體版本的epg，適合中國大陸，新加坡，马来西亚，swepg.xml.gz，(網址: https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz   );  
 繁體版本epg,適合香港澳門台灣，twepg.xml.gz. （網址:
 https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz );
 
-10.強烈推薦xm.gz,而不是xml格式，檔案小很多
+7.強烈推薦xm.gz,而不是xml格式，檔案小很多
 Important Notices
  具体电视台名称参见 
  
