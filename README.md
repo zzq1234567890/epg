@@ -69,7 +69,7 @@ mewatch
 https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz );
 
 7.強烈推薦xm.gz,而不是xml格式，檔案小很多
-Important Notices
+
  具体电视台名称参见 
  
  繁體[https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/繁體電視台目錄.txt];
@@ -95,6 +95,7 @@ https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/简体电视
 #EXTINF:-1 tvg-id="电视台名称" tvg-name="电视台名称" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="你的分组",电视台名称
 节目源地址
 
+Important Notices
 
 1. For Personal Use Only – Commercial Use Strictly Prohibited
 This service is exclusively intended for personal entertainment and non-commercial use. Maintenance and technical support are not provided as a general policy.
