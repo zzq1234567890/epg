@@ -61,8 +61,6 @@ ebc
 mewatch
 
 
-
-
 6.增加
 簡體版本的epg，適合中國大陸，新加坡，马来西亚，swepg.xml.gz，(網址: https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz   );  
 繁體版本epg,適合香港澳門台灣，twepg.xml.gz. （網址:
