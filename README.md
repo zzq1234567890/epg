@@ -47,6 +47,7 @@ hoy電視台
 台灣
 mod 
 bb寬頻
+tbc有線(7天)
 4gtv
 hami 
 ofiii
