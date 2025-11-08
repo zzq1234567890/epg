@@ -1,61 +1,70 @@
-name: Auto Generate PPVLand.m3u8
+name: Generate and Upload PPVLand.m3u8
 
 on:
+  push:
+    branches: [ main ]
   schedule:
-    - cron: '0 */3 * * *'   # 每3小時執行一次
-  workflow_dispatch:         # 支援手動觸發
+    # 每天凌晨2点自动运行（UTC时间）
+    - cron: '0 2 * * *'
+  workflow_dispatch:  # 允许手动触发
 
 jobs:
-  generate-m3u:
+  generate-ppv:
     runs-on: ubuntu-latest
-
+    
     steps:
-      - name: Checkout target repository
-        uses: actions/checkout@v4
-        with:
-          repository: zzq1234567890/epg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          persist-credentials: true
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
-
-      - name: Install dependencies
-        run: |
-          pip install aiohttp playwright
-          playwright install firefox
-
-      - name: Copy ppv.py from current repo (if separate)
-        run: |
-          if [ -f ../ppv.py ]; then
-            cp ../ppv.py ./ppv.py
-          elif [ -f ../ppv.txt ]; then
-            cp ../ppv.txt ./ppv.py
-          fi
-
-      - name: Run ppv.py to generate M3U file
-        run: |
-          python ppv.py
-
-      - name: Commit and push changes
-        run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-
-          # 列出当前目录下的文件（调试步骤）
-          echo "Files in the current directory:"
-          ls -alh
-
-          # 添加所有下载的文件
-          git add .
-
-          # 检查是否有文件更改需要提交
-          if git diff-index --quiet HEAD --; then
-            echo "没有文件可提交"
-          else
-            now_time=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
-            git commit -m "更新时间：$now_time"
-            git push origin main || echo "推送到GitHub失败"
-          fi
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        # 如果有requirements.txt，取消下面的注释
+        # pip install -r requirements.txt
+        
+    - name: Run ppv.py script
+      run: |
+        python ppv.py
+        
+    - name: Check if PPVLand.m3u8 was generated
+      id: check_file
+      run: |
+        if [ -f "PPVLand.m3u8" ]; then
+          echo "file_exists=true" >> $GITHUB_OUTPUT
+          echo "PPVLand.m3u8 generated successfully"
+          ls -la PPVLand.m3u8
+        else
+          echo "file_exists=false" >> $GITHUB_OUTPUT
+          echo "PPVLand.m3u8 not found"
+          ls -la
+        fi
+        
+    - name: Configure Git
+      if: steps.check_file.outputs.file_exists == 'true'
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        
+    - name: Commit and push if changed
+      if: steps.check_file.outputs.file_exists == 'true'
+      run: |
+        git add PPVLand.m3u8
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Auto-update PPVLand.m3u8 [skip ci]"
+          git push
+        fi
+        
+    - name: Upload PPVLand.m3u8 as artifact
+      if: steps.check_file.outputs.file_exists == 'true'
+      uses: actions/upload-artifact@v4
+      with:
+        name: ppv-playlist
+        path: PPVLand.m3u8
+        retention-days: 1
