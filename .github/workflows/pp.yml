@@ -1,0 +1,42 @@
+name: Run PPV Script Every 3 Hours
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'   # 每3小時運行一次
+  workflow_dispatch:         # 支援手動觸發
+
+jobs:
+  run-ppv:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies (if any)
+        run: |
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          fi
+
+      - name: Run ppv.py
+        run: |
+          python ppv.py
+
+      - name: Commit and push generated files
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add .
+          if git diff --cached --quiet; then
+            echo "⚠️ No changes to commit."
+          else
+            git commit -m "Auto update from ppv.py [$(date '+%Y-%m-%d %H:%M:%S')]"
+            git push
+          fi
