@@ -1,42 +1,53 @@
-name: Run PPV Script Every 3 Hours
+name: Auto Generate PPVLand.m3u8
 
 on:
   schedule:
-    - cron: '0 */3 * * *'   # 每3小時運行一次
+    - cron: '0 */3 * * *'   # 每3小時執行一次
   workflow_dispatch:         # 支援手動觸發
 
 jobs:
-  run-ppv:
+  generate-m3u:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout target repository
         uses: actions/checkout@v4
+        with:
+          repository: zzq1234567890/epg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
-      - name: Install dependencies (if any)
+      - name: Install dependencies
         run: |
-          if [ -f requirements.txt ]; then
-            pip install -r requirements.txt
+          pip install aiohttp playwright
+          playwright install firefox
+
+      - name: Copy ppv.py from current repo (if separate)
+        run: |
+          if [ -f ../ppv.py ]; then
+            cp ../ppv.py ./ppv.py
+          elif [ -f ../ppv.txt ]; then
+            cp ../ppv.txt ./ppv.py
           fi
 
-      - name: Run ppv.py
+      - name: Run ppv.py to generate M3U file
         run: |
           python ppv.py
 
-      - name: Commit and push generated files
+      - name: Commit and push updated M3U
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           
-          git add .
+          git add PPVLand.m3u8
           if git diff --cached --quiet; then
             echo "⚠️ No changes to commit."
           else
-            git commit -m "Auto update from ppv.py [$(date '+%Y-%m-%d %H:%M:%S')]"
+            git commit -m "Auto update PPVLand.m3u8 [$(date '+%Y-%m-%d %H:%M:%S')]"
             git push
           fi
