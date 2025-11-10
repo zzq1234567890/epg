@@ -5,7 +5,7 @@ on:
     branches: [ main ]
   schedule:
     # 每天凌晨2点自动运行（UTC时间）
-    - cron: '30 */4 * * *'
+    - cron: '0 */1 * * *'
   workflow_dispatch:  # 允许手动触发
 
 jobs:
