@@ -61,6 +61,9 @@ ebc
 新加坡
 mewatch
 
+馬來西亞
+astro
+
 
 6.增加
 簡體版本的epg，適合中國大陸，新加坡，马来西亚，swepg.xml.gz，(網址: https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz   );  
