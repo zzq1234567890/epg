@@ -1,0 +1,184 @@
+name: 提取電視台名稱和生成分析報告
+
+on:
+  schedule:
+    - cron: '45 */1 * * *'   # 每6小时运行一次
+  workflow_dispatch:          # 支持手动触发
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout current repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Download XML files
+        run: |
+          curl -L -o twepg.xml https://raw.githubusercontent.com/zzq1234567890/epg/main/twepg.xml
+          curl -L -o swepg.xml https://raw.githubusercontent.com/zzq1234567890/epg/main/swepg.xml
+
+      - name: Extract channel names and generate JSON analysis
+        run: |
+          python <<'EOF'
+          import xml.etree.ElementTree as ET
+          import json
+          from datetime import datetime
+
+          def analyze_epg_data(xml_file):
+              try:
+                  tree = ET.parse(xml_file)
+                  root = tree.getroot()
+                  
+                  # 存储频道信息
+                  channels_info = {}
+                  
+                  # 第一遍：提取所有频道名称
+                  for channel in root.findall('channel'):
+                      channel_id = channel.get('id')
+                      name = channel.get('display-name') or channel.findtext('display-name') or channel_id
+                      
+                      if name and name.strip():
+                          channels_info[channel_id] = {
+                              'name': name.strip(),
+                              'program_count': 0,
+                              'program_dates': set()
+                          }
+                  
+                  # 第二遍：统计节目数量和日期
+                  for programme in root.findall('programme'):
+                      channel_id = programme.get('channel')
+                      start_time = programme.get('start')
+                      
+                      if channel_id in channels_info:
+                          channels_info[channel_id]['program_count'] += 1
+                          
+                          # 提取日期部分（假设格式为 YYYYMMDDHHMMSS）
+                          if start_time and len(start_time) >= 8:
+                              date_str = start_time[:8]  # YYYYMMDD
+                              try:
+                                  # 转换为 YYYY-MM-DD 格式
+                                  date_obj = datetime.strptime(date_str, '%Y%m%d')
+                                  formatted_date = date_obj.strftime('%Y-%m-%d')
+                                  channels_info[channel_id]['program_dates'].add(formatted_date)
+                              except ValueError:
+                                  pass
+                  
+                  # 转换日期集合为排序后的列表并计算天数
+                  result = []
+                  for channel_id, info in channels_info.items():
+                      dates = sorted(list(info['program_dates']))
+                      days_count = len(dates)
+                      
+                      # 计算日期范围（格式：2025-12-01~2025-12-03）
+                      date_range = "未知"
+                      if dates:
+                          start_date = dates[0]
+                          end_date = dates[-1]
+                          date_range = f"{start_date}~{end_date}"
+                      
+                      result.append({
+                          'channel_id': channel_id,
+                          'channel_name': info['name'],
+                          'program_count': info['program_count'],
+                          'days_count': days_count,
+                          'date_range': date_range,
+                          'dates_available': dates
+                      })
+                  
+                  # 按频道名称排序
+                  result.sort(key=lambda x: x['channel_name'])
+                  
+                  return result
+                  
+              except Exception as e:
+                  print(f"❌ 解析 {xml_file} 出错: {e}")
+                  return []
+
+          # 分析两个 XML 文件
+          print("开始分析 EPG 数据...")
+          tw_data = analyze_epg_data('twepg.xml')
+          sw_data = analyze_epg_data('swepg.xml')
+
+          # 生成繁体频道 JSON
+          tw_json = {
+              'channels': tw_data,
+              'summary': {
+                  'total_channels': len(tw_data),
+                  'total_programs': sum(ch['program_count'] for ch in tw_data),
+                  'date_generated': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
+                  'data_source': 'twepg.xml'
+              }
+          }
+
+          # 生成简体频道 JSON
+          sw_json = {
+              'channels': sw_data,
+              'summary': {
+                  'total_channels': len(sw_data),
+                  'total_programs': sum(ch['program_count'] for ch in sw_data),
+                  'date_generated': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
+                  'data_source': 'swepg.xml'
+              }
+          }
+
+          # 保存为两个独立的 JSON 文件
+          with open('traditional_channels.json', 'w', encoding='utf-8') as f:
+              json.dump(tw_json, f, ensure_ascii=False, indent=2)
+
+          with open('simplified_channels.json', 'w', encoding='utf-8') as f:
+              json.dump(sw_json, f, ensure_ascii=False, indent=2)
+
+          print(f"✅ 繁體電視台: 共分析 {len(tw_data)} 个频道")
+          print(f"✅ 简体电视台: 共分析 {len(sw_data)} 个频道")
+          print(f"✅ 繁體節目總數: {sum(ch['program_count'] for ch in tw_data)}")
+          print(f"✅ 简体節目總數: {sum(ch['program_count'] for ch in sw_data)}")
+          print("📁 已生成文件:")
+          print("   - traditional_channels.json (繁体频道)")
+          print("   - simplified_channels.json (简体频道)")
+          EOF
+
+      - name: Extract channel names (保持顺序)
+        run: |
+          python <<'EOF'
+          import xml.etree.ElementTree as ET
+
+          def extract_names(xml_file, output_file):
+              try:
+                  tree = ET.parse(xml_file)
+                  root = tree.getroot()
+                  seen = set()
+                  channels = []
+                  for c in root.findall('channel'):
+                      name = c.get('display-name') or c.findtext('display-name') or c.get('id', '')
+                      if name and name.strip() and name not in seen:
+                          seen.add(name)
+                          channels.append(name.strip())
+
+                  with open(output_file, 'w', encoding='utf-8') as f:
+                      f.write('\n'.join(channels))
+                  print(f"✅ {xml_file}: 共提取 {len(channels)} 个频道，已保存到 {output_file}")
+              except Exception as e:
+                  print(f"❌ 解析 {xml_file} 出错: {e}")
+
+          extract_names('twepg.xml', '繁體電視台目錄.txt')
+          extract_names('swepg.xml', '简体电视台目录.txt')
+          EOF
+
+      - name: Commit and push results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add "繁體電視台目錄.txt" "简体电视台目录.txt" "traditional_channels.json" "simplified_channels.json"
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update channel name lists and JSON analysis"
+            git push
+          fi
