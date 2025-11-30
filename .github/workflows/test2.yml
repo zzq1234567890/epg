@@ -123,7 +123,6 @@ jobs:
 
           for channel in tw_data:
               tw_table_data['data'].append([
-                  channel['channel_id'],
                   channel['channel_name'],
                   channel['program_count'],
                   channel['time_range'],
@@ -139,7 +138,6 @@ jobs:
 
           for channel in sw_data:
               sw_table_data['data'].append([
-                  channel['channel_id'],
                   channel['channel_name'],
                   channel['program_count'],
                   channel['time_range'],
