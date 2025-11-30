@@ -218,6 +218,225 @@ jobs:
                   return f"## {title}\\n\\n暂无数据\\n"
               
               headers = data['headers']
+              table_rows = data['data'][:max_rows]
+              
+              # 表头
+              md = f"## {title}\\n\\n"
+              md += "| " + " | ".join(headers) + " |\\n"
+              md += "|" + " | ".join(["---"] * len(headers)) + "|\\n"
+              
+              # 表格内容
+              for row in table_rows:
+                  md += "| " + " | ".join(str(cell) for cell in row) + " |\\n"
+              
+              # 如果数据被截断，显示提示
+              if len(data['data']) > max_rows:
+                  md += f"\\n*仅显示前 {max_rows} 个频道，共 {len(data['data'])} 个频道*\\n"
+              
+              return md
+
+          # 生成 README 内容
+          readme_content = f"""# 📺 EPG 频道列表
+
+最后更新: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
+
+## 统计概览
+
+### 繁体频道
+- **总频道数**: {tw_detailed['summary']['total_channels']}
+- **总节目数**: {tw_detailed['summary']['total_programs']}
+- **有EPG频道**: {tw_detailed['summary']['channels_with_epg']}
+- **更新时间**: {tw_detailed['summary']['date_generated']}
+
+### 简体频道
+- **总频道数**: {sw_detailed['summary']['total_channels']}
+- **总节目数**: {sw_detailed['summary']['total_programs']}
+- **有EPG频道**: {sw_detailed['summary']['channels_with_epg']}
+- **更新时间**: {sw_detailed['summary']['date_generated']}
+
+---
+
+{generate_markdown_table(tw_data, '繁体电视频道列表')}
+
+---
+
+{generate_markdown_table(sw_data, '简体电视频道列表')}
+
+## 说明
+
+- **频道Id**: 频道的唯一标识符
+- **频道名称**: 频道的显示名称
+- **节目数量**: 该频道包含的节目总数
+- **时间范围**: 节目时间覆盖范围
+- **EPG状态**: ■ 表示有节目数据，□ 表示无节目数据
+
+> 数据每6小时自动更新一次
+"""
+
+          # 写入 README.md
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(readme_content)
+
+          print("✅ README.md 已生成")
+          EOF
+
+      - name: Extract channel names (保持顺序)
+        run: |
+          python <<'EOF'
+          import xml.etree.ElementTree as ET
+
+          def extract_names(xml_file, output_file):
+              try:
+                  tree = ET.parse(xml_file)
+                  root = tree.getroot()
+                  seen = set()
+                  channels = []
+                  for c in root.findall('channel'):
+                      name = c.get('display-name') or c.findtext('display-name') or c.get('id', '')
+                      if name and name.strip() and name not in seen:
+                          seen.add(name)
+                          channels.append(name.strip())
+
+                  with open(output_file, 'w', encoding='utf-8') as f:
+                      f.write('\n'.join(channels))
+                  print(f"✅ {xml_file}: 共提取 {len(channels)} 个频道，已保存到 {output_file}")
+              except Exception as e:
+                  print(f"❌ 解析 {xml_file} 出错: {e}")
+
+          extract_names('twepg.xml', '繁體電視台目錄.txt')
+          extract_names('swepg.xml', '简体电视台目录.txt')
+          EOF
+
+      - name: Commit and push results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add "繁體電視台目錄.txt" "简体电视台目录.txt" "traditional_channels_table.json" "simplified_channels_table.json" "traditional_channels_detailed.json" "simplified_channels_detailed.json" "README.md"
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update channel lists, JSON analysis and README.md"
+            git push
+          fi                  
+                  # 按频道名称排序
+                  result.sort(key=lambda x: x['channel_name'])
+                  
+                  return result
+                  
+              except Exception as e:
+                  print(f"❌ 解析 {xml_file} 出错: {e}")
+                  return []
+
+          # 分析两个 XML 文件
+          print("开始分析 EPG 数据...")
+          tw_data = analyze_epg_data('twepg.xml')
+          sw_data = analyze_epg_data('swepg.xml')
+
+          # 生成繁体频道 JSON（表格格式）
+          tw_table_data = {
+              'title': '繁体电视频道列表',
+              'headers': ['频道Id', '频道名称', '节目数量', '时间范围', 'EPG状态'],
+              'data': []
+          }
+
+          for channel in tw_data:
+              tw_table_data['data'].append([
+                  channel['channel_id'],
+                  channel['channel_name'],
+                  channel['program_count'],
+                  channel['time_range'],
+                  channel['epg_status']
+              ])
+
+          # 生成简体频道 JSON（表格格式）
+          sw_table_data = {
+              'title': '简体电视频道列表',
+              'headers': ['频道Id', '频道名称', '节目数量', '时间范围', 'EPG状态'],
+              'data': []
+          }
+
+          for channel in sw_data:
+              sw_table_data['data'].append([
+                  channel['channel_id'],
+                  channel['channel_name'],
+                  channel['program_count'],
+                  channel['time_range'],
+                  channel['epg_status']
+              ])
+
+          # 保存为两个独立的 JSON 文件
+          with open('traditional_channels_table.json', 'w', encoding='utf-8') as f:
+              json.dump(tw_table_data, f, ensure_ascii=False, indent=2)
+
+          with open('simplified_channels_table.json', 'w', encoding='utf-8') as f:
+              json.dump(sw_table_data, f, ensure_ascii=False, indent=2)
+
+          # 同时生成详细版本（包含原始数据）
+          tw_detailed = {
+              'table_format': tw_table_data,
+              'channels': tw_data,
+              'summary': {
+                  'total_channels': len(tw_data),
+                  'total_programs': sum(ch['program_count'] for ch in tw_data),
+                  'channels_with_epg': len([ch for ch in tw_data if ch['epg_status'] == '■']),
+                  'date_generated': datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+              }
+          }
+
+          sw_detailed = {
+              'table_format': sw_table_data,
+              'channels': sw_data,
+              'summary': {
+                  'total_channels': len(sw_data),
+                  'total_programs': sum(ch['program_count'] for ch in sw_data),
+                  'channels_with_epg': len([ch for ch in sw_data if ch['epg_status'] == '■']),
+                  'date_generated': datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+              }
+          }
+
+          with open('traditional_channels_detailed.json', 'w', encoding='utf-8') as f:
+              json.dump(tw_detailed, f, ensure_ascii=False, indent=2)
+
+          with open('simplified_channels_detailed.json', 'w', encoding='utf-8') as f:
+              json.dump(sw_detailed, f, ensure_ascii=False, indent=2)
+
+          print(f"✅ 繁體電視台: 共分析 {len(tw_data)} 个频道")
+          print(f"✅ 简体电视台: 共分析 {len(sw_data)} 个频道")
+          print(f"✅ 繁體節目總數: {sum(ch['program_count'] for ch in tw_data)}")
+          print(f"✅ 简体節目總數: {sum(ch['program_count'] for ch in sw_data)}")
+          print("📁 已生成文件:")
+          print("   - traditional_channels_table.json (繁体频道表格格式)")
+          print("   - simplified_channels_table.json (简体频道表格格式)")
+          print("   - traditional_channels_detailed.json (繁体频道详细数据)")
+          print("   - simplified_channels_detailed.json (简体频道详细数据)")
+          EOF
+
+      - name: Generate README.md with tables
+        run: |
+          python <<'EOF'
+          import json
+          from datetime import datetime
+
+          # 读取 JSON 数据
+          with open('traditional_channels_table.json', 'r', encoding='utf-8') as f:
+              tw_data = json.load(f)
+          
+          with open('simplified_channels_table.json', 'r', encoding='utf-8') as f:
+              sw_data = json.load(f)
+
+          with open('traditional_channels_detailed.json', 'r', encoding='utf-8') as f:
+              tw_detailed = json.load(f)
+
+          with open('simplified_channels_detailed.json', 'r', encoding='utf-8') as f:
+              sw_detailed = json.load(f)
+
+          # 生成 Markdown 表格函数
+          def generate_markdown_table(data, title, max_rows=20):
+              if not data['data']:
+                  return f"## {title}\\n\\n暂无数据\\n"
+              
+              headers = data['headers']
               table_rows = data['data'][:max_rows]  # 限制显示行数
               
               # 表头
