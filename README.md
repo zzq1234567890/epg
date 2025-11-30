@@ -125,4 +125,6 @@ the epg of  tradional chinese epg,tw.epg.gz, used in hk ,marcol,taiwan  area .
 
 
 頻道epg生成統計表
+https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/traditional_channels_table.json
+
 
