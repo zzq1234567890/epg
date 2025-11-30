@@ -2,7 +2,6 @@
   "table_format": {
     "title": "繁体电视频道列表",
     "headers": [
-      "频道Id",
       "频道名称",
       "节目数量",
       "时间范围",
@@ -23817,6 +23816,6 @@
     "total_channels": 1700,
     "total_programs": 148231,
     "channels_with_epg": 1641,
-    "date_generated": "2025-11-30 06:40:11"
+    "date_generated": "2025-11-30 06:46:35"
   }
 }
