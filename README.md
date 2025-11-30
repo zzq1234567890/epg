@@ -122,3 +122,7 @@ YouTube URLs are shared in their raw format without any parsing, decoding, or te
 
 8.Adding the epg for simplied chinese ,swepg.xml.gz, used in mainland of china;
 the epg of  tradional chinese epg,tw.epg.gz, used in hk ,marcol,taiwan  area .
+
+
+頻道epg生成統計表
+
