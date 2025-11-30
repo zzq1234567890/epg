@@ -14,18 +14,10 @@ jobs:
       - name: Checkout current repository
         uses: actions/checkout@v4
 
-      - name: Create empty requirements.txt (for pip cache)
-        run: |
-          # 确保存在空的requirements.txt，避免缓存匹配失败
-          touch requirements.txt
-          echo "✅ 已创建空的requirements.txt"
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-          cache: 'pip'  # 保留缓存，此时可正常匹配
-          check-latest: false
 
       - name: Download XML files
         run: |
@@ -37,7 +29,6 @@ jobs:
       - name: Extract channel names and generate JSON analysis
         run: |
           python <<'EOF'
-          # （此处Python代码不变，同前序修复版）
           import xml.etree.ElementTree as ET
           import json
           from datetime import datetime
@@ -221,7 +212,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # 仅提交生成的文件，忽略自动创建的requirements.txt
+          # 仅提交生成的文件
           git add "繁體電視台目錄.txt" "简体电视台目录.txt" "*.json"
           
           if git diff --cached --quiet; then
