@@ -1,0 +1,350 @@
+name: Channels Table Update
+
+on:
+  schedule:
+    # 每天凌晨3点运行 (UTC时间)
+    - cron: '0 3 * * *'
+  workflow_dispatch:  # 允许手动触发
+  push:
+    paths:
+      - '.github/workflows/channels-table.yml'
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  generate-channels-table:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests pandas
+        
+    - name: Fetch and process JSON data
+      env:
+        JSON_URL: "https://raw.githubusercontent.com/zzq1234567890/epg/main/traditional_channels_table.json"
+      run: |
+        python << 'EOF'
+import json
+import requests
+import pandas as pd
+from datetime import datetime
+import re
+
+def fetch_json_data(url):
+    """获取JSON数据"""
+    try:
+        response = requests.get(url, timeout=30)
+        response.raise_for_status()
+        return response.json()
+    except Exception as e:
+        print(f"Error fetching JSON data: {e}")
+        return None
+
+def process_channels_data(json_data):
+    """处理频道数据"""
+    channels = []
+    
+    if not json_data:
+        return channels
+    
+    try:
+        # 根据实际的JSON结构进行调整
+        # 假设JSON是一个数组或对象
+        if isinstance(json_data, list):
+            # JSON是数组格式
+            for i, item in enumerate(json_data):
+                if isinstance(item, dict):
+                    channel = extract_channel_info(item, i)
+                    if channel:
+                        channels.append(channel)
+        elif isinstance(json_data, dict):
+            # JSON是对象格式，可能包含多个频道
+            for key, item in json_data.items():
+                if isinstance(item, dict):
+                    channel = extract_channel_info(item, key)
+                    if channel:
+                        channels.append(channel)
+                elif isinstance(item, list):
+                    for i, sub_item in enumerate(item):
+                        if isinstance(sub_item, dict):
+                            channel = extract_channel_info(sub_item, f"{key}_{i}")
+                            if channel:
+                                channels.append(channel)
+        
+        return channels
+    except Exception as e:
+        print(f"Error processing data: {e}")
+        import traceback
+        traceback.print_exc()
+        return []
+
+def extract_channel_info(item, identifier):
+    """从JSON对象中提取频道信息"""
+    try:
+        channel = {
+            'id': identifier,
+            'name': '',
+            'group': '',
+            'url': '',
+            'logo': '',
+            'epg_id': '',
+            'options': '',
+            'status': '未知'
+        }
+        
+        # 尝试从不同可能的字段名中获取数据
+        name_mapping = [
+            'name', 'channel', 'title', 'channel_name', 
+            'display-name', 'display_name', 'displayName'
+        ]
+        
+        for field in name_mapping:
+            if field in item and item[field]:
+                channel['name'] = str(item[field]).strip()
+                break
+        
+        # 获取分组信息
+        group_mapping = ['group', 'group-title', 'group_title', 'category', 'type']
+        for field in group_mapping:
+            if field in item and item[field]:
+                channel['group'] = str(item[field]).strip()
+                break
+        
+        # 获取URL
+        url_mapping = ['url', 'link', 'stream_url', 'source', 'address']
+        for field in url_mapping:
+            if field in item and item[field]:
+                channel['url'] = str(item[field]).strip()
+                break
+        
+        # 获取logo
+        logo_mapping = ['logo', 'icon', 'image', 'thumbnail']
+        for field in logo_mapping:
+            if field in item and item[field]:
+                channel['logo'] = str(item[field]).strip()
+                break
+        
+        # 获取EPG ID
+        epg_mapping = ['epg_id', 'epg', 'tvg-id', 'tvg_id', 'id']
+        for field in epg_mapping:
+            if field in item and item[field]:
+                channel['epg_id'] = str(item[field]).strip()
+                break
+        
+        # 获取其他选项
+        if 'options' in item:
+            channel['options'] = item['options']
+        
+        # 检查URL有效性
+        if channel['url'] and channel['url'].startswith(('http://', 'https://', 'rtmp://', 'rtsp://')):
+            channel['status'] = '可用'
+        else:
+            channel['status'] = '无效链接'
+        
+        return channel
+    except Exception as e:
+        print(f"Error extracting channel info: {e}")
+        return None
+
+def generate_markdown_table(channels):
+    """生成Markdown表格"""
+    if not channels:
+        return "## 📺 传统电视频道列表\n\n暂无数据"
+    
+    # 排序：按分组和名称排序
+    sorted_channels = sorted(channels, key=lambda x: (x['group'], x['name']))
+    
+    # 分组统计
+    df = pd.DataFrame(sorted_channels)
+    groups = df['group'].unique() if 'group' in df.columns and len(df) > 0 else []
+    
+    markdown = f"""## 📺 传统电视频道列表
+
+**最后更新:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
+**数据来源:** [traditional_channels_table.json](https://github.com/zzq1234567890/epg/blob/main/traditional_channels_table.json)
+**总频道数:** {len(channels)} 个
+
+### 📊 分组统计
+"""
+    
+    # 添加分组统计
+    if len(groups) > 0:
+        group_stats = df['group'].value_counts().reset_index()
+        group_stats.columns = ['分组', '频道数量']
+        
+        markdown += "| 分组 | 频道数量 |\n|------|----------|\n"
+        for _, row in group_stats.iterrows():
+            group_name = str(row['分组']) if pd.notna(row['分组']) else "未分组"
+            markdown += f"| {group_name} | {row['频道数量']} |\n"
+    else:
+        markdown += "*暂无分组信息*\n"
+    
+    # 详细的频道表格
+    markdown += f"""
+
+### 📋 频道详情 (共 {len(channels)} 个频道)
+
+| 序号 | 频道名称 | 分组 | EPG ID | 状态 | Logo |
+|------|----------|------|--------|------|------|
+"""
+    
+    for i, channel in enumerate(sorted_channels, 1):
+        # 处理频道名称显示
+        name = channel['name']
+        if len(name) > 20:
+            name = name[:17] + "..."
+        
+        # 处理分组显示
+        group = channel['group']
+        if len(group) > 15:
+            group = group[:12] + "..."
+        if not group:
+            group = "默认"
+        
+        # 处理EPG ID显示
+        epg_id = channel['epg_id']
+        if len(epg_id) > 12:
+            epg_id = epg_id[:9] + "..."
+        
+        # 处理Logo显示
+        logo = ""
+        if channel['logo'] and channel['logo'].startswith('http'):
+            logo = f"![Logo]({channel['logo']})"
+        elif channel['logo']:
+            logo = channel['logo'][:15] + "..." if len(channel['logo']) > 15 else channel['logo']
+        
+        # 状态颜色
+        status = channel['status']
+        status_badge = ""
+        if status == '可用':
+            status_badge = "🟢 可用"
+        elif status == '无效链接':
+            status_badge = "🔴 无效"
+        else:
+            status_badge = "🟡 未知"
+        
+        markdown += f"| {i} | {name} | {group} | `{epg_id}` | {status_badge} | {logo} |\n"
+    
+    # 添加统计和说明
+    markdown += f"""
+
+### 📈 数据统计
+- **总频道数:** {len(channels)} 个
+- **可用的频道:** {len([c for c in channels if c['status'] == '可用'])} 个
+- **分组数量:** {len(groups)} 个
+- **最后更新:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
+
+### 🔧 使用说明
+1. 数据每日自动更新
+2. 按分组和名称排序
+3. 🟢 表示链接可用
+4. 🔴 表示链接无效
+5. 点击频道名称可查看详细配置
+
+---
+*数据来源: [zzq1234567890/epg](https://github.com/zzq1234567890/epg)*
+"""
+    
+    return markdown
+
+def update_readme(markdown_content, section_title="📺 传统电视频道列表"):
+    """更新README.md文件"""
+    try:
+        # 读取现有README
+        with open('README.md', 'r', encoding='utf-8') as f:
+            content = f.read()
+        
+        # 查找频道列表部分
+        start_marker = f"## {section_title}"
+        start_index = content.find(start_marker)
+        
+        if start_index != -1:
+            # 找到下一个主要章节
+            next_section_match = re.search(r'\n## [^#]', content[start_index:])
+            
+            if next_section_match:
+                end_index = start_index + next_section_match.start()
+                # 替换指定部分
+                new_content = content[:start_index] + markdown_content + content[end_index:]
+            else:
+                # 如果是最后一部分
+                new_content = content[:start_index] + markdown_content
+        else:
+            # 如果没有找到，添加到文件末尾
+            # 先查找合适的插入位置（在最后一个##标题后）
+            last_section_match = re.search(r'\n## [^#].*(?=\n*$)', content, re.DOTALL)
+            
+            if last_section_match:
+                insert_pos = last_section_match.end()
+                new_content = content[:insert_pos] + '\n\n' + markdown_content + content[insert_pos:]
+            else:
+                # 如果没有任何##标题，直接添加到末尾
+                new_content = content.rstrip() + '\n\n' + markdown_content
+        
+        # 写入文件
+        with open('README.md', 'w', encoding='utf-8') as f:
+            f.write(new_content)
+        
+        print(f"成功更新 README.md 的 '{section_title}' 部分")
+        
+    except FileNotFoundError:
+        # 如果README不存在，创建新文件
+        with open('README.md', 'w', encoding='utf-8') as f:
+            f.write(f"# 频道列表\n\n{markdown_content}")
+        print("创建了新的 README.md 文件")
+    except Exception as e:
+        print(f"更新 README.md 时出错: {e}")
+        import traceback
+        traceback.print_exc()
+
+def main():
+    print("开始获取JSON数据...")
+    json_data = fetch_json_data('${{ env.JSON_URL }}')
+    
+    if json_data is None:
+        print("获取数据失败，使用默认数据")
+        # 可以在这里添加默认数据或退出
+        return
+    
+    print("处理频道数据...")
+    channels = process_channels_data(json_data)
+    
+    print(f"找到 {len(channels)} 个频道")
+    
+    print("生成Markdown表格...")
+    markdown_table = generate_markdown_table(channels)
+    
+    print("更新README.md...")
+    update_readme(markdown_table)
+    
+    print("完成！")
+
+if __name__ == "__main__":
+    main()
+EOF
+
+    - name: Commit and Push changes
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add README.md
+        git diff --quiet && git diff --staged --quiet || (git commit -m "📺 更新频道列表表格 $(date +'%Y-%m-%d %H:%M')" && git push)
+        
+    - name: Create Summary
+      run: |
+        echo "## 频道列表更新完成" >> $GITHUB_STEP_SUMMARY
+        echo "✅ JSON数据已成功处理并更新到README.md" >> $GITHUB_STEP_SUMMARY
+        echo "📊 表格已自动生成并插入" >> $GITHUB_STEP_SUMMARY
+        echo "⏰ 下一轮自动更新：明天 03:00 UTC" >> $GITHUB_STEP_SUMMARY
