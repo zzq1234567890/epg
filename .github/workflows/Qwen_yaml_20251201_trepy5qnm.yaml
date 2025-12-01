@@ -10,19 +10,16 @@ jobs:
     steps:
       - name: Checkout current repository
         uses: actions/checkout@v4
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
       - name: Download XML files
         run: |
           curl -L --retry 3 --max-time 10 -o twepg.xml https://raw.githubusercontent.com/zzq1234567890/epg/main/twepg.xml
           curl -L --retry 3 --max-time 10 -o swepg.xml https://raw.githubusercontent.com/zzq1234567890/epg/main/swepg.xml
           [ -s twepg.xml ] || { echo "twepg.xml 为空"; exit 1; }
           [ -s swepg.xml ] || { echo "swepg.xml 为空"; exit 1; }
-
       - name: Extract channel names and generate JSON analysis
         run: |
           python <<'EOF'
@@ -30,7 +27,6 @@ jobs:
           import json
           from datetime import datetime
           import re
-
           def analyze_epg_data(xml_file):
               try:
                   tree = ET.parse(xml_file)
@@ -39,45 +35,37 @@ jobs:
                   if root.tag.startswith('{'):
                       ns_uri = root.tag.split('}')[0][1:]
                       ns = {'ns': ns_uri}
-
                   channels_info = {}
                   channel_xpath = 'ns:channel' if ns else 'channel'
                   for channel in root.findall(channel_xpath, ns):
                       channel_id = channel.get('id')
                       if not channel_id:
                           continue
-
                       name = channel.get('display-name')
                       if not name:
                           name_elem = channel.find('ns:display-name' if ns else 'display-name', ns)
                           name = name_elem.text.strip() if name_elem is not None and name_elem.text else None
                       name = name.strip() if name else channel_id
-
                       channels_info[channel_id] = {
                           'name': name,
                           'program_count': 0,
                           'start_times': [],
                           'end_times': []
                       }
-
                   programme_xpath = 'ns:programme' if ns else 'programme'
                   for idx, programme in enumerate(root.findall(programme_xpath, ns)):
                       channel_id = programme.get('channel')
                       start_time = programme.get('start')
                       end_time = programme.get('stop')
-
                       if channel_id not in channels_info:
                           continue
-
                       channels_info[channel_id]['program_count'] += 1
-
                       if start_time:
                           clean_start = re.sub(r'\s+[+-]\d{4}$', '', start_time)
                           channels_info[channel_id]['start_times'].append(clean_start)
                       if end_time:
                           clean_end = re.sub(r'\s+[+-]\d{4}$', '', end_time)
                           channels_info[channel_id]['end_times'].append(clean_end)
-
                   result = []
                   for channel_id, info in channels_info.items():
                       time_range = "暂无节目数据"
@@ -92,7 +80,6 @@ jobs:
                               time_range = f"{start_dt.strftime('%Y-%m-%d %H:%M:%S')} 至 {end_dt.strftime('%Y-%m-%d %H:%M:%S')}"
                           except ValueError as e:
                               time_range = f"{earliest_start} 至 {latest_end}（格式异常）"
-
                       epg_status = "■" if info['program_count'] > 0 else "□"
                       result.append({
                           'channel_id': channel_id,
@@ -101,18 +88,14 @@ jobs:
                           'time_range': time_range,
                           'epg_status': epg_status
                       })
-
                   result.sort(key=lambda x: x['channel_name'].lower())
                   return result
-
               except Exception as e:
                   print(f"❌ 解析 {xml_file} 出错: {str(e)}")
                   return []
-
           print("开始分析 EPG 数据...")
           tw_data = analyze_epg_data('twepg.xml')
           sw_data = analyze_epg_data('swepg.xml')
-
           def generate_table(data, title):
               return {
                   'title': title,
@@ -125,10 +108,8 @@ jobs:
                       ch['epg_status']
                   ] for ch in data]
               }
-
           tw_table = generate_table(tw_data, '繁体电视频道列表')
           sw_table = generate_table(sw_data, '简体电视频道列表')
-
           def generate_detailed(data, table, lang):
               return {
                   'table_format': table,
@@ -140,21 +121,17 @@ jobs:
                       'date_generated': datetime.now().strftime('%Y-%m-%d %H:%M:%S')
                   }
               }
-
           tw_detailed = generate_detailed(tw_data, tw_table, '繁体')
           sw_detailed = generate_detailed(sw_data, sw_table, '简体')
-
           output_files = [
               ('traditional_channels_table.json', tw_table),
               ('simplified_channels_table.json', sw_table),
               ('traditional_channels_detailed.json', tw_detailed),
               ('simplified_channels_detailed.json', sw_detailed)
           ]
-
           for filename, content in output_files:
               with open(filename, 'w', encoding='utf-8') as f:
                   json.dump(content, f, ensure_ascii=False, indent=2)
-
           print(f"✅ 繁體電視台: 共分析 {len(tw_data)} 个频道")
           print(f"✅ 简体电视台: 共分析 {len(sw_data)} 个频道")
           print(f"✅ 繁體節目總數: {sum(ch['program_count'] for ch in tw_data)}")
@@ -163,13 +140,11 @@ jobs:
           for filename, _ in output_files:
               print(f"   - {filename}")
 EOF
-
       - name: Extract channel names (保持顺序)
         run: |
           python <<'EOF'
           import xml.etree.ElementTree as ET
           import re
-
           def extract_names(xml_file, output_file):
               try:
                   tree = ET.parse(xml_file)
@@ -178,7 +153,6 @@ EOF
                   if root.tag.startswith('{'):
                       ns_uri = root.tag.split('}')[0][1:]
                       ns = {'ns': ns_uri}
-
                   seen = set()
                   channels = []
                   channel_xpath = 'ns:channel' if ns else 'channel'
@@ -188,27 +162,22 @@ EOF
                           name_elem = c.find('ns:display-name' if ns else 'display-name', ns)
                           name = name_elem.text.strip() if name_elem is not None and name_elem.text else None
                       name = name.strip() if name else c.get('id', '')
-
                       if name and name not in seen:
                           seen.add(name)
                           channels.append(name)
-
                   with open(output_file, 'w', encoding='utf-8') as f:
                       f.write('\n'.join(channels))
-
                   print(f"✅ {xml_file}: 共提取 {len(channels)} 个频道，已保存到 {output_file}")
               except Exception as e:
                   print(f"❌ 解析 {xml_file} 出错: {str(e)}")
-
           extract_names('twepg.xml', '繁體電視台目錄.txt')
           extract_names('swepg.xml', '简体电视台目录.txt')
 EOF
-
       - name: Commit and push results
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
+          # 仅提交生成的文件
           git add "繁體電視台目錄.txt" "简体电视台目录.txt" "*.json"
           if git diff --cached --quiet; then
             echo "⚠️ 没有需要提交的变更"
