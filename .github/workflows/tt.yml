@@ -1,34 +1,10 @@
-name: Update EPG Summary
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"   # 每 6 小时执行一次，可自行调整
-  workflow_dispatch:       # 手动触发
-
-jobs:
-  update_epg:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Install dependencies
-        run: |
-          pip install lxml requests
-
-      - name: Generate EPG summary
+      - name: Generate EPG summary & HTML
         run: |
           python3 << 'EOF'
           import requests
           from lxml import etree
           from datetime import datetime
-          import os
+          import os, json
 
           url = "https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/twepg.xml"
           r = requests.get(url)
@@ -41,14 +17,11 @@ jobs:
               channel_id = channel.get("id", "")
               display_name = channel.findtext("display-name", default="未知频道")
 
-              # 该频道所有节目
               progs = root.findall(f".//programme[@channel='{channel_id}']")
               prog_count = len(progs)
 
               if prog_count > 0:
-                  # 第一个节目开始时间
                   start_time = datetime.strptime(progs[0].get("start")[:8], "%Y%m%d")
-                  # 最后一个节目结束时间
                   stop_time = datetime.strptime(progs[-1].get("stop")[:8], "%Y%m%d")
                   days = (stop_time - start_time).days + 1
               else:
@@ -56,14 +29,15 @@ jobs:
 
               rows.append((display_name, prog_count, days))
 
-          # 生成 Markdown 表格
+          # 排序（节目数多的在前）
+          rows.sort(key=lambda x: x[1], reverse=True)
+
+          # 更新 README.md
           table_md = "| 频道名称 | 节目数量 | 覆盖天数 |\n|---------|---------|---------|\n"
           for name, cnt, days in rows:
               table_md += f"| {name} | {cnt} | {days} |\n"
 
-          # 更新 README.md（使用标记区自动替换）
           readme_path = "README.md"
-
           if os.path.exists(readme_path):
               with open(readme_path, "r", encoding="utf-8") as f:
                   content = f.read()
@@ -72,31 +46,88 @@ jobs:
 
           start_tag = "<!-- EPG_TABLE_START -->"
           end_tag = "<!-- EPG_TABLE_END -->"
-
           new_block = f"{start_tag}\n{table_md}{end_tag}"
 
-          if start_tag in content and end_tag in content:
-              # 替换已有表格
+          if start_tag in content:
               old_block = content[content.index(start_tag): content.index(end_tag) + len(end_tag)]
               content = content.replace(old_block, new_block)
           else:
-              # 在末尾添加
               content += "\n\n## 📺 EPG 信息统计\n" + new_block
 
           with open(readme_path, "w", encoding="utf-8") as f:
               f.write(content)
 
-          print("README.md updated.")
-          EOF
+          # 生成 epg.html
+          template = open("epg.html.template", "r", encoding="utf-8").read() if os.path.exists("epg.html.template") else """
+          REPLACED_BY_PYTHON
+          """
 
-      - name: Commit changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-            exit 0
-          fi
-          git commit -m "Update EPG summary"
-          git push
+          # 使用内嵌模板
+          html = """<!DOCTYPE html>
+          <html lang="zh">
+          <head>
+          <meta charset="UTF-8">
+          <title>EPG 可视化统计</title>
+          <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+          <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
+          <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+          <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+          <style>
+          body { font-family: Arial; margin: 20px; }
+          h2 { margin-top:40px; }
+          </style>
+          </head>
+          <body>
+
+          <h1>📺 EPG 可视化统计</h1>
+
+          <canvas id="progChart" width="600" height="300"></canvas>
+
+          <h2>频道详情表格</h2>
+          <table id="epgTable" class="display">
+            <thead>
+              <tr><th>频道</th><th>节目数</th><th>覆盖天数</th></tr>
+            </thead>
+            <tbody>
+              <!-- DATA_ROWS -->
+            </tbody>
+          </table>
+
+          <script>
+          const channelNames = """ + json.dumps([x[0] for x in rows], ensure_ascii=False) + """;
+          const programmeCounts = """ + json.dumps([x[1] for x in rows], ensure_ascii=False) + """;
+          const daysCoverage = """ + json.dumps([x[2] for x in rows], ensure_ascii=False) + """;
+
+          new Chart(document.getElementById("progChart"), {
+            type: "bar",
+            data: {
+              labels: channelNames,
+              datasets: [{
+                label: "节目数量",
+                data: programmeCounts,
+                backgroundColor: "rgba(54, 162, 235, 0.6)"
+              }]
+            }
+          });
+
+          $(document).ready(function () {
+            $('#epgTable').DataTable();
+          });
+          </script>
+
+          </body>
+          </html>
+          """
+
+          # 插入表格行
+          rows_html = ""
+          for n, c, d in rows:
+              rows_html += f"<tr><td>{n}</td><td>{c}</td><td>{d}</td></tr>\n"
+
+          html = html.replace("<!-- DATA_ROWS -->", rows_html)
+
+          with open("epg.html", "w", encoding="utf-8") as f:
+              f.write(html)
+
+          print("Generated epg.html")
+          EOF
