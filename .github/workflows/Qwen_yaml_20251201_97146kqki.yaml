@@ -195,8 +195,7 @@ jobs:
                           channels.append(name)
 
                   with open(output_file, 'w', encoding='utf-8') as f:
-                      f.write('\n'.join(channels))  # ✅ 修复：原为 '
-'.join(...) → 导致 SyntaxError
+                      f.write('\n'.join(channels))  # ✅ 修复：原为 ''.join(...) → 导致 SyntaxError
 
                   print(f"✅ {xml_file}: 共提取 {len(channels)} 个频道，已保存到 {output_file}")
               except Exception as e:
