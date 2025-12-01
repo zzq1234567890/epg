@@ -173,10 +173,6 @@ jobs:
           print("📁 已生成文件:")
           for filename, _ in output_files:
               print(f"   - {filename}")
-          
-          return tw_detailed, sw_detailed
-
-          tw_detailed, sw_detailed = analyze_epg_data('twepg.xml'), analyze_epg_data('swepg.xml')
           EOF
 
       - name: Generate charts and images
