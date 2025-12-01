@@ -1,7 +1,7 @@
 name: 提取電視台名稱和生成分析報告統計表測試
 on:
   schedule:
-    - cron: '45 */6 * * *'
+    - cron: '4 */1 * * *'
   workflow_dispatch:
 
 jobs:
