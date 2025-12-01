@@ -1,0 +1,293 @@
+name: 提取電視台名稱和生成分析報告統計表測試終極版
+on:
+  schedule:
+    - cron: '45 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout current repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Download XML files
+        run: |
+          curl -L --retry 3 --max-time 10 -o twepg.xml https://raw.githubusercontent.com/zzq1234567890/epg/main/twepg.xml
+          curl -L --retry 3 --max-time 10 -o swepg.xml https://raw.githubusercontent.com/zzq1234567890/epg/main/swepg.xml
+          [ -s twepg.xml ] || { echo "twepg.xml 为空"; exit 1; }
+          [ -s swepg.xml ] || { echo "swepg.xml 为空"; exit 1; }
+
+      - name: Extract channel names, analyze, and update README
+        run: |
+          python <<'EOF'
+          import xml.etree.ElementTree as ET
+          import json
+          from datetime import datetime
+          import re
+          import os
+
+          def analyze_epg_data(xml_file):
+              try:
+                  tree = ET.parse(xml_file)
+                  root = tree.getroot()
+                  ns = {}
+                  if root.tag.startswith('{'):
+                      ns_uri = root.tag.split('}')[0][1:]
+                      ns = {'ns': ns_uri}
+                  
+                  channels_info = {}
+                  channel_xpath = 'ns:channel' if ns else 'channel'
+                  
+                  for channel in root.findall(channel_xpath, ns):
+                      channel_id = channel.get('id')
+                      if not channel_id: continue
+                      
+                      name = channel.get('display-name')
+                      if not name:
+                          name_elem = channel.find('ns:display-name' if ns else 'display-name', ns)
+                          name = name_elem.text.strip() if name_elem is not None and name_elem.text else None
+                      
+                      name = name.strip() if name else channel_id
+                      channels_info[channel_id] = {
+                          'name': name,
+                          'program_count': 0,
+                          'start_times': [],
+                          'end_times': []
+                      }
+
+                  programme_xpath = 'ns:programme' if ns else 'programme'
+                  for programme in root.findall(programme_xpath, ns):
+                      channel_id = programme.get('channel')
+                      if channel_id not in channels_info: continue
+                          
+                      channels_info[channel_id]['program_count'] += 1
+                      start = programme.get('start')
+                      stop = programme.get('stop')
+                      
+                      if start: channels_info[channel_id]['start_times'].append(re.sub(r'\s+[+-]\d{4}$', '', start))
+                      if stop: channels_info[channel_id]['end_times'].append(re.sub(r'\s+[+-]\d{4}$', '', stop))
+
+                  result = []
+                  for channel_id, info in channels_info.items():
+                      time_range = "無數據"
+                      duration_days = 0
+                      epg_status = "□"
+                      
+                      if info['start_times'] and info['end_times']:
+                          try:
+                              sorted_starts = sorted(info['start_times'])
+                              sorted_ends = sorted(info['end_times'])
+                              start_dt = datetime.strptime(sorted_starts[0], '%Y%m%d%H%M%S')
+                              end_dt = datetime.strptime(sorted_ends[-1], '%Y%m%d%H%M%S')
+                              
+                              delta = end_dt - start_dt
+                              duration_days = delta.days + (1 if delta.seconds > 0 else 0)
+                              
+                              time_range = f"{start_dt.strftime('%m-%d %H:%M')} ~ {end_dt.strftime('%m-%d %H:%M')}"
+                          except:
+                              time_range = "格式異常"
+
+                      if info['program_count'] > 0: epg_status = "■"
+
+                      result.append({
+                          'channel_id': channel_id,
+                          'channel_name': info['name'],
+                          'program_count': info['program_count'],
+                          'duration_days': duration_days,
+                          'time_range': time_range,
+                          'epg_status': epg_status
+                      })
+                  
+                  result.sort(key=lambda x: x['channel_name'].lower())
+                  return result
+              except Exception as e:
+                  print(f"❌ 解析 {xml_file} 出錯: {e}")
+                  return []
+
+          print("正在分析 EPG 數據...")
+          tw_data = analyze_epg_data('twepg.xml')
+          sw_data = analyze_epg_data('swepg.xml')
+
+          # --- 生成 JSON 文件 (保持原有功能) ---
+          def generate_files(data, prefix):
+              table_data = {
+                  'title': f'{prefix}列表',
+                  'headers': ['频道ID', '频道名称', '节目数量', '天数', '时间范围', '状态'],
+                  'data': [[c['channel_id'], c['channel_name'], c['program_count'], c['duration_days'], c['time_range'], c['epg_status']] for c in data]
+              }
+              with open(f'{prefix}_channels_table.json', 'w', encoding='utf-8') as f:
+                  json.dump(table_data, f, ensure_ascii=False, indent=2)
+
+          generate_files(tw_data, 'traditional')
+          generate_files(sw_data, 'simplified')
+
+          # --- 生成 README.md ---
+          def generate_readme():
+              
+              USER_CUSTOM_INTRO = """
+# 📺 EPG 電子節目表狀態報告
+
+本EPG說明:
+
+注意:
+
+1. 自娛自樂！自用，請勿用作商業用途！一般不進行維護和技術支持！
+
+推薦播放軟體 ok影視， Tivimate, ott navigator,極致播放器！epg選擇xml.gz格式。速度快，體積小。
+
+2. 不提供節目源地址！請支持訂閱正版節目源地址！
+
+3. Youtube僅僅提供地址，不帶任何解析。建議用影視(影視直播對xml支持較差)。
+
+4. 墻內建議選epgnew.xml(去掉幾個少兒不宜及對岸禁止的幾個電視台預告)，墻外無所謂了，epgziyong.xml還是epgnew.xml隨便了
+
+5. 本節目預告包括
+
+中國大陸
+
+央視頻 1905 浙江 江蘇 河北 北京 上海 重慶 福建 廣東 廣西 江蘇 江西 四川 內蒙古 新疆
+
+香港
+mytvsuper anywhere tvb anywhere usa now寬頻 hoy電視台 香港電台，
+
+澳門 澳門電視台
+
+台灣 mod bb寬頻 tbc有線 4gtv hami ofiii
+
+韓國 kbs sbs mbc ebc
+
+新加坡 mewatch
+
+馬來西亞 astro 印尼 epgmncvision
+
+6. 增加 簡體版本的epg，適合中國大陸，新加坡，马来西亚，swepg.xml.gz，(網址: https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz );
+繁體版本epg,適合香港澳門台灣，twepg.xml.gz. （網址: https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz );
+
+7. 強烈推薦xm.gz,而不是xml格式，檔案小很多
+
+具體電視台名稱參見
+
+繁體[https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/繁體電視台目錄.txt];
+
+簡體電視台目錄[ https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/简体电视台目录.txt]
+
+主要是填寫 tvg-id="电视台名称" tvg-name="电视台名称"
+
+繁體，適合港澳台 #EXTM3U url-tvg="https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
+#EXTINF:-1 tvg-id="電視台名稱" tvg-name="電視台名稱" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="你的分组",电视台名称
+
+節目地址
+
+簡體，適合東南亞及中國大陸用 具體格式
+
+#EXTM3U url-tvg="https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
+#EXTINF:-1 tvg-id="电视台名称" tvg-name="电视台名称" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="你的分组",电视台名称 節目源地址
+
+---
+## Important Notices
+
+1. For Personal Use Only – Commercial Use Strictly Prohibited This service is exclusively intended for personal entertainment and non-commercial use. Maintenance and technical support are not provided as a general policy. Recommended Playback Applications: Tivimate, OTT Navigator, Jizhi Player.
+
+2. No Program Source URLs Distributed We do not provide or share program source URLs. Please support legitimate content by subscribing to official program source URLs.
+
+3. YouTube URLs Provided “As-Is” (No Parsing Functionality) YouTube URLs are shared in their raw format without any parsing, decoding, or technical processing. For optimal compatibility, we recommend using Yingshi (Note: Yingshi Live has limited support for XML formats).
+
+4. Adding the epg of some chinese local channels from guangxi tv website.
+
+5. Adding the epg of local tv channels of hebei&guangdong province .
+
+6. Adding the epg of some HOY new channels
+
+7. Adding the epg of six channels from TVB anywhere USA .
+
+8. Adding the epg for simplied chinese ,swepg.xml.gz, used in mainland of china; the epg of tradional chinese epg,tw.epg.gz, used in hk ,marcol,taiwan area .
+
+---
+"""
+
+              current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+              
+              # 1. 插入自定義開頭文字
+              md_content = USER_CUSTOM_INTRO.strip() + "\n\n"
+              
+              # 2. 插入自動生成的報告內容
+              md_content += f"## 📊 數據分析與狀態報告\n\n"
+              md_content += f"> **最後更新時間**: **{current_time}**\n\n"
+              md_content += f"### 摘要\n"
+              md_content += f"- **繁體頻道數**: {len(tw_data)} (節目總數: {sum(x['program_count'] for x in tw_data)})\n"
+              md_content += f"- **簡體頻道數**: {len(sw_data)} (節目總數: {sum(x['program_count'] for x in sw_data)})\n\n"
+
+              for title, data in [("🇹🇼 繁體頻道列表", tw_data), ("🇨🇳 簡體頻道列表", sw_data)]:
+                  md_content += f"### {title}\n\n"
+                  md_content += "| 頻道名稱 | 節目數量 | 覆蓋天數 | 時間範圍 | 狀態 |\n"
+                  md_content += "| :--- | :---: | :---: | :--- | :---: |\n"
+                  
+                  for item in data:
+                      status_icon = "✅" if item['epg_status'] == "■" else "⚠️"
+                      count_display = item['program_count'] if item['program_count'] > 0 else "**0**"
+                      
+                      row = f"| {item['channel_name']} | {count_display} | {item['duration_days']} 天 | {item['time_range']} | {status_icon} |\n"
+                      md_content += row
+                  md_content += "\n"
+              
+              with open('README.md', 'w', encoding='utf-8') as f:
+                  f.write(md_content)
+              print("✅ README.md 已更新")
+
+          generate_readme()
+          EOF
+
+      - name: Extract channel names (保持顺序)
+        run: |
+          python <<'EOF'
+          import xml.etree.ElementTree as ET
+          def extract(xml, out):
+              try:
+                  tree = ET.parse(xml)
+                  root = tree.getroot()
+                  ns = {'ns': root.tag.split('}')[0][1:]} if root.tag.startswith('{') else {}
+                  seen = set()
+                  lines = []
+                  path = 'ns:channel' if ns else 'channel'
+                  for c in root.findall(path, ns):
+                      n = c.get('display-name')
+                      if not n:
+                          ne = c.find('ns:display-name' if ns else 'display-name', ns)
+                          n = ne.text.strip() if ne and ne.text else c.get('id')
+                      if n and n not in seen:
+                          seen.add(n); lines.append(n)
+                  with open(out, 'w', encoding='utf-8') as f: f.write('\n'.join(lines))
+              except: pass
+          extract('twepg.xml', '繁體電視台目錄.txt')
+          extract('swepg.xml', '简体电视台目录.txt')
+          EOF
+
+      - name: Commit and push results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add "繁體電視台目錄.txt" "简体电视台目录.txt" "*.json" "README.md"
+          
+          if git diff --cached --quiet; then
+            echo "⚠️ 没有需要提交的变更"
+          else
+            git commit -m "Update EPG analysis and README (auto-generated)"
+            for i in {1..3}; do
+              if git push; then
+                echo "✅ 提交并推送成功"; exit 0
+              else
+                git pull --rebase
+              fi
+            done
+            exit 1
+          fi
