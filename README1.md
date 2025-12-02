@@ -82,7 +82,7 @@ https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz );
 简体电视台目录[
 https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/简体电视台目录.txt]
 
-主要是填写 tvg-id="电视台名称" tvg-name="电视台名称"
+
 
  繁體，適合港澳台
 #EXTM3U url-tvg="https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
@@ -100,6 +100,7 @@ https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/简体电视
 #EXTM3U url-tvg="https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-id="电视台名称" tvg-name="电视台名称" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="你的分组",电视台名称
+
 节目源地址
 
 Important Notices
