@@ -41,10 +41,11 @@ anywhere
 tvb anywhere usa 
 now寬頻
 hoy電視台
-香港電台，
+香港電台
 
 澳門
 澳門電視台
+澳門有線
 
 台灣
 mod 
