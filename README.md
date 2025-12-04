@@ -70,9 +70,10 @@ astro
 epgmncvision
  
 6.增加
-簡體版本的epg，適合中國大陸，新加坡，马来西亚，swepg.xml.gz，(網址: https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz   );  
+簡體版本的epg，適合中國大陸，新加坡，马来西亚，swepg.xml.gz，(網址: https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz);  
+
 繁體版本epg,適合香港澳門台灣，twepg.xml.gz. （網址:
-https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz );
+https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz);
 
 7.強烈推薦xm.gz,而不是xml格式，檔案小很多
 
@@ -83,9 +84,10 @@ https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz );
 简体电视台目录[
 https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/简体电视台目录.txt]
 
-
+m3u格式
 
  繁體，適合港澳台
+ 
 #EXTM3U url-tvg="https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-id="電視台名稱" tvg-name="電視台名稱" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="你的分组",电视台名称
@@ -94,7 +96,6 @@ https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/简体电视
 
 
  
-  
   简体，适合东南亚及中国大陆用
 具体格式
 
@@ -103,6 +104,7 @@ https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/简体电视
 #EXTINF:-1 tvg-id="电视台名称" tvg-name="电视台名称" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="你的分组",电视台名称
 
 节目源地址
+
 
 Important Notices
 
@@ -134,7 +136,7 @@ the epg of  tradional chinese epg,tw.epg.gz, used in hk ,marcol,taiwan  area .
 
 # 📺 EPG 電子節目表狀態報告
 
-> 最後更新時間: **2025-12-04 22:43:04**
+> 最後更新時間: **2025-12-04 23:12:54**
 
 ## 📊 統計摘要
 - **繁體頻道數**: 1734 (節目總數: 149250)
