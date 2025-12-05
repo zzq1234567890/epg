@@ -142,7 +142,7 @@ the epg of  tradional chinese epg,tw.epg.gz, used in hk ,marcol,taiwan  area .
 
 # 📺 EPG 電子節目表狀態報告
 
-> 最後更新時間: **2025-12-05 08:51:33**
+> 最後更新時間: **2025-12-05 09:44:30**
 
 ## 📊 統計摘要
 - **繁體頻道數**: 1731 (節目總數: 146912)
