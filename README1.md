@@ -96,8 +96,10 @@ m3u格式
 
 #EXTINF:-1 tvg-id="電視台名稱2" tvg-name="電視台名稱2" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="你的分组",電視台名稱2
 
-節目播放地址
+節目播放地址2
 
+
+ m3u格式
  
   简体，适合东南亚及中国大陆用
 具体格式
