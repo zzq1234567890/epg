@@ -84,6 +84,8 @@ https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz);
 简体电视台目录[
 https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/简体电视台目录.txt]
 
+教程
+
 m3u格式
 
  繁體，適合港澳台
