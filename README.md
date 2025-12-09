@@ -15,41 +15,38 @@
 
 ## 三、EPG服務規格
 ### （一）推薦格式
-優先選擇**xml.gz格式**，相比XML格式，具有文件體積更小、加載速度更快的優勢（原文「xm.gz」為筆誤，已修正）。
+優先選擇**xml.gz格式**，相比XML格式，具有文件體積更小、加載速度更快的優勢。
 
-### （二）文件架構
-1. epgnewhebei.php 用於提取河北地方台；
-2. twepg.xml 繁體版本EPG，適合港澳台地區；
-3. swepg.xml 簡體版本EPG，適合內地用戶。
 
-### （三）區域适配版本
+
+### （二）區域适配版本
 | EPG版本 | 文件名 | 適用區域 | 下載鏈接 |
 | ---- | ---- | ---- | ---- |
 | 簡體中文 | swepg.xml.gz | 大陸、新加坡、馬來西亞 | https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz |
 | 繁體中文 | twepg.xml.gz | 香港、澳門、台灣 | https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz |
 
-### （四）大陸用戶特別說明
+### （三）大陸用戶特別說明
 1. 建議選用**epgnew.xml.gz**文件，該版本已剔除少量未滿十八歲不宜及區域限制類電視台的節目預告；
 2. 境外用戶可根據需求自由選擇epgziyong.xml或epgnew.xml。
 
-## 四、覆蓋頻道範圍
-### （一）大陸地區
+##( 四)、覆蓋頻道範圍
+### （1）大陸地區
 央視頻、1905電影網、浙江衛視、江蘇衛視、河北衛視、北京衛視、上海衛視、重慶衛視、福建衛視、廣東衛視、廣西衛視、江西衛視、四川衛視、內蒙古衛視、新疆衛視等。
 
-### （二）香港地區
+### （2）香港地區
 MyTV Super、Anywhere、TVB Anywhere USA、Now寬頻、HOY電視台、香港電台等。
 
-### （三）澳門地區
+### （3）澳門地區
 澳門電視台、澳門有線電視台。
 
-### （四）台灣地區
+### （4）台灣地區
 MOD、BB寬頻、TBC有線、4GTV、Hami、Ofiii等。
 
-### （五）其他國家及地區
+### （5）其他國家及地區
 1. 韓國：KBS、SBS、MBC、EBC；
 2. 新加坡：MeWatch；
 3. 馬來西亞：Astro；
-4. 印度尼西亞：EPG MNC Vision。
+4. 印度尼西亞：EPG MNC Vision+。
 
 ## 五、近期更新內容
 1. 新增廣西電視台官網部分地方頻道的EPG數據；
@@ -59,8 +56,8 @@ MOD、BB寬頻、TBC有線、4GTV、Hami、Ofiii等。
 5. 上線簡體中文版本EPG（swepg.xml.gz）及繁體中文版本EPG（twepg.xml.gz），優化區域适配性。
 
 ## 六、參考資源
-1. 繁體中文電視台目錄：https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/繁體電視台目錄.txt；
-2. 簡體中文電視台目錄：https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/简体电视台目录.txt。
+1. 繁體中文電視台目錄：https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/繁體電視台目錄.txt  ；
+2. 簡體中文電視台目錄：https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/简体电视台目录.txt 。
 
 ## 七、M3U格式規範
 ### （一）繁體中文版本（適用於香港、澳門、台灣地區）
