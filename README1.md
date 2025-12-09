@@ -1,4 +1,4 @@
-# EPG服务说明（中文商务版）
+# EPG服务说明
 ## 一、服务概述
 本电子节目指南（EPG）服务仅面向个人娱乐使用，严禁用于商业用途。服务覆盖中国大陆、中国香港、中国澳门、中国台湾、韩国、新加坡、马来西亚、印度尼西亚等地区的电视台节目预告，针对性推出简体中文与繁体中文两个版本，适配不同区域用户需求。
 
@@ -77,7 +77,7 @@ MOD、BB宽频、TBC有线、4GTV、Hami、Ofiii等。
 
 
 
-# EPG Service Instructions (Revised English Version)
+# EPG Service Instructions 
 ## 1. Service Overview
 This EPG (Electronic Program Guide) service is provided exclusively for personal entertainment and non-commercial use. It covers program previews for TV channels across Mainland China, Hong Kong, Macau, Taiwan, South Korea, Singapore, Malaysia, and Indonesia, with dedicated Simplified and Traditional Chinese versions tailored to different regional needs.
 
