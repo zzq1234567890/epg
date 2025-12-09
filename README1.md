@@ -53,8 +53,8 @@ MOD、BB宽频、TBC有线、4GTV、Hami、Ofiii等。
 5. 上线简体中文版本EPG（swepg.xml.gz）及繁体中文版本EPG（twepg.xml.gz），优化区域适配性。
 
 ## 六、参考资源
-1. 繁体中文电视台目录：https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/繁體電視台目錄.txt；
-2. 简体中文电视台目录：https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/简体电视台目录.txt。
+1. 繁体中文电视台目录：https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/繁體電視台目錄.txt   ；
+2. 简体中文电视台目录：https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/简体电视台目录.txt  。
 
 ## 七、M3U格式规范
 ### （一）繁体中文版本（适用于中国香港、中国澳门、中国台湾地区）
