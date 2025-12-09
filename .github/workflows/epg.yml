@@ -1,0 +1,61 @@
+name: epg copy
+
+on:
+  schedule:
+    - cron: '33 */1 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Install jq (for parsing JSON)
+        run: sudo apt-get install -y jq
+
+      - name: Download files from files.json
+        run: |
+          # 解析文件列表并下载
+          cat files.json | jq -r 'to_entries[] | "\(.key) \(.value)"' | while read -r filename url; do
+            echo "Downloading $filename from $url"
+            wget -O "$filename" "$url" --retry-connrefused --waitretry=5 --timeout=30 || echo "$filename 下载失败，跳过"
+          done
+
+          # 将文件名列表写入 GITHUB_ENV，供后续步骤使用
+          cat files.json | jq -r 'keys[]' | while read -r filename; do
+            echo "FILENAME_$filename=$filename" >> $GITHUB_ENV
+          done
+
+      - name: Create update timestamp file
+        run: |
+          # 创建时间记录文件
+          now_time=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
+          echo "Last update time: $now_time" > update_time.txt
+          
+          # 可选的：添加更详细的时间信息
+          echo "Timestamp: $(date +%s)" >> update_time.txt
+          echo "Time zone: Asia/Shanghai (GMT+8)" >> update_time.txt
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+
+          # 列出当前目录下的文件（调试步骤）
+          echo "Files in the current directory:"
+          ls -alh
+
+          # 添加所有下载的文件和时间记录文件
+          git add .
+
+          # 检查是否有文件更改需要提交
+          if git diff-index --quiet HEAD --; then
+            echo "没有文件可提交"
+          else
+            now_time=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
+            git commit -m "更新时间：$now_time"
+            git push origin main || echo "推送到GitHub失败"
+          fi
