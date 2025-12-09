@@ -115,29 +115,63 @@ m3u格式
 #EXTINF:-1 tvg-id="电视台名称2" tvg-name="电视台名称2" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="你的分组",电视台名称2
 
 节目源地址2
+# EPG Service Instructions (Revised English Version)
+## 1. Service Overview
+This EPG (Electronic Program Guide) service is provided exclusively for personal entertainment and non-commercial use. It covers program previews for TV channels across Mainland China, Hong Kong, Macau, Taiwan, South Korea, Singapore, Malaysia, and Indonesia, with dedicated Simplified and Traditional Chinese versions tailored to different regional needs.
 
-Important Notices
+## 2. Key Terms & Conditions
+### 2.1 Usage Restrictions
+- This service is for **personal non-commercial use only**; commercial exploitation is strictly prohibited.
+- Routine maintenance and technical support are not guaranteed.
 
-1. For Personal Use Only – Commercial Use Strictly Prohibited
-This service is exclusively intended for personal entertainment and non-commercial use. Maintenance and technical support are not provided as a general policy.
-Recommended Playback Applications: Tivimate, OTT Navigator, Jizhi Player.
- 
-2. No Program Source URLs Distributed
-We do not provide or share program source URLs. Please support legitimate content by subscribing to official program source URLs.
- 
-3. YouTube URLs Provided “As-Is” (No Parsing Functionality)
-YouTube URLs are shared in their raw format without any parsing, decoding, or technical processing. For optimal compatibility, we recommend using Yingshi (Note: Yingshi Live has limited support for XML formats).
+### 2.2 Content & Resource Notes
+- Program source URLs are not provided. Users must subscribe to official and legitimate program source services.
+- YouTube links are shared in their original form without any parsing or decoding. Yingshi is recommended for use, though Yingshi Live has poor compatibility with XML formats.
+- Recommended playback applications: Ok Video, Tivimate, OTT Navigator, Jizhi Player.
 
-4.Adding the epg of some chinese local  channels from guangxi tv  website.
-   
-5.Adding the epg of local tv channels of hebei&guangdong province .
+## 3. EPG Specifications
+### 3.1 Recommended Format
+- **xml.gz format** is preferred over XML, as it offers smaller file size and faster loading speed.
 
-6.Adding the epg of some HOY new channels
+### 3.2 Regional Adaptations
+| EPG Version       | File Name       | Applicable Regions          | Download URL                                                                 |
+|-------------------|-----------------|-----------------------------|-----------------------------------------------------------------------------|
+| Simplified Chinese | swepg.xml.gz    | Mainland China, Singapore, Malaysia | https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz       |
+| Traditional Chinese | twepg.xml.gz   | Hong Kong, Macau, Taiwan    | https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz       |
 
-7.Adding the epg of six channels from TVB anywhere USA .
+### 3.3 Special Notes for Mainland China Users
+- It is recommended to use **epgnew.xml** (excludes program previews for a few adult-oriented and regionally restricted TV channels).
+- Users outside Mainland China may choose either epgziyong.xml or epgnew.xml.
 
-8.Adding the epg for simplied chinese ,swepg.xml.gz, used in mainland of china;
-the epg of  tradional chinese epg,tw.epg.gz, used in hk ,marcol,taiwan  area .
+## 4. Recent Updates
+1. Added EPG data for selected local channels from Guangxi TV's official website.
+2. Added EPG data for local TV channels in Hebei and Guangdong provinces.
+3. Added EPG data for several new HOY TV channels.
+4. Added EPG data for six channels from TVB Anywhere USA.
+5. Launched Simplified Chinese EPG (swepg.xml.gz) and Traditional Chinese EPG (twepg.xml.gz) for regional adaptation.
+
+## 5. Reference Resources
+- Traditional Chinese TV Channel List: https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/繁體電視台目錄.txt
+- Simplified Chinese TV Channel List: https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/简体电视台目录.txt
+
+## 6. M3U Format Specifications
+### 6.1 Traditional Chinese (For Hong Kong, Macau, Taiwan)
+```
+#EXTM3U url-tvg="https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1 tvg-id="電視台名稱1" tvg-name="電視台名稱1" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="你的分组",電視台名稱1
+節目播放地址1
+#EXTINF:-1 tvg-id="電視台名稱2" tvg-name="電視台名稱2" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="你的分组",電視台名稱2
+節目播放地址2
+```
+
+### 6.2 Simplified Chinese (For Mainland China, Southeast Asia)
+```
+#EXTM3U url-tvg="https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1 tvg-id="电视台名称1" tvg-name="电视台名称1" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="你的分组",电视台名称1
+节目源地址1
+#EXTINF:-1 tvg-id="电视台名称2" tvg-name="电视台名称2" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="你的分组",电视台名称2
+节目源地址2
+
 
 
 
