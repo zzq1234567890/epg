@@ -10,7 +10,7 @@
 
 ### （二）內容與資源說明
 1. 不提供節目源地址，用戶需通過訂閱官方正版渠道獲取合法節目資源；
-2. YouTube相關鏈接僅提供原始地址，不包含任何解析、解碼服務，建議使用「影視」應用播放（備註：影視直播對XML格式相容性較差）；
+2. YouTube相關鏈接僅提供原始地址，不包含任何解析、解碼服務；
 3. 推薦播放應用：Ok影視、Tivimate、OTT Navigator、極致播放器。
 
 ## 三、EPG服務規格
@@ -27,7 +27,7 @@
 
 ### （三）大陸用戶特別說明
 1. 建議選用**epgnew.xml.gz**文件，該版本已剔除少量未滿十八歲不宜及區域限制類電視台的節目預告；
-2. 境外用戶可根據需求自由選擇epgziyong.xml或epgnew.xml。
+2. 境外用戶可根據需求自由選.
 
 ##( 四)、覆蓋頻道範圍
 ### （1）大陸地區
@@ -91,7 +91,7 @@ This EPG (Electronic Program Guide) service is provided exclusively for personal
 
 ### 2.2 Content & Resource Notes
 1. Program source URLs are not provided. Users must subscribe to official and legitimate program source services.
-2. YouTube links are shared in their original form without any parsing or decoding. Yingshi is recommended for use, though Yingshi Live has poor compatibility with XML formats.
+2. YouTube links are shared in their original form without any parsing or decoding. 
 3. Recommended playback applications: Ok Video, Tivimate, OTT Navigator, Jizhi Player.
 
 ## 3. EPG Specifications
