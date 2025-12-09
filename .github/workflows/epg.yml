@@ -48,13 +48,19 @@ jobs:
           echo "Files in the current directory:"
           ls -alh
 
-          # 添加所有下载的文件和时间记录文件
-          git add .
-
           # 检查是否有文件更改需要提交
           if git diff-index --quiet HEAD --; then
             echo "没有文件可提交"
           else
+            # 创建 time.txt 记录有变化的提交时间（格式：年月日时分）
+            commit_time=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')
+            echo "$commit_time" > time.txt
+            echo "创建 time.txt: $commit_time"
+            
+            # 添加所有下载的文件和时间记录文件
+            git add .
+            
+            # 提交信息使用完整时间
             now_time=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
             git commit -m "更新时间：$now_time"
             git push origin main || echo "推送到GitHub失败"
