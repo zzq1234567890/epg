@@ -116,13 +116,13 @@ This EPG (Electronic Program Guide) service is provided exclusively for personal
 ### 4.1 Mainland China
 CCTV Video, 1905 Movie Network, Zhejiang TV, Jiangsu TV, Hebei TV, Beijing TV, Shanghai TV, Chongqing TV, Fujian TV, Guangdong TV, Guangxi TV, Jiangxi TV, Sichuan TV, Inner Mongolia TV, Xinjiang TV, etc.
 
-### 4.2 Hong Kong, China
+### 4.2 Hong Kong
 MyTV Super, Anywhere, TVB Anywhere USA, Now TV, HOY TV, Radio Television Hong Kong (RTHK), etc.
 
-### 4.3 Macau, China
+### 4.3 Macau
 TDM - Teledifusão de Macau, Macau Cable TV.
 
-### 4.4 Taiwan, China
+### 4.4 Taiwan
 MOD, BB Broadband, TBC Cable, 4GTV, Hami, Ofiii, etc.
 
 ### 4.5 Other Countries & Regions
