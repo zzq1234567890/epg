@@ -44,7 +44,7 @@ MOD、BB寬頻、TBC有線、4GTV、Hami、Ofiii等。
 
 ### （5）其他國家及地區
  1. 韓國：KBS、SBS、MBC、EBC；
- 2. 2. 新加坡：MeWatch；
+ 2. 新加坡：MeWatch；
  3. 馬來西亞：Astro；
  4. 印度尼西亞：EPG MNC Vision+。
 
