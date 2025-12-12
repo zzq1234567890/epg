@@ -90,17 +90,17 @@ This EPG (Electronic Program Guide) service is provided exclusively for personal
 2. Routine maintenance and technical support are not guaranteed.
 
 ### 2.2 Content & Resource Notes
-#### 1. Program source URLs are not provided. Users must subscribe to official and legitimate program source services.
-##### 2. YouTube links are shared in their original form without any parsing or decoding. 
-#### 3. Recommended playback applications: Ok Video, Tivimate, OTT Navigator, Jizhi Player.
+ 1. Program source URLs are not provided. Users must subscribe to official and legitimate program source services.
+ 2. YouTube links are shared in their original form without any parsing or decoding. 
+ 3. Recommended playback applications: Ok Video, Tivimate, OTT Navigator, Jizhi Player.
 
 ## 3. EPG Specifications
 ### 3.1 Recommended Format
 **xml.gz format** is preferred over XML, as it offers smaller file size and faster loading speed.
 
 ### 3.2 File Structure
-#### 1. twepg.xml: Traditional Chinese version EPG, suitable for Hong Kong, Macau, and Taiwan.
-#### 2. swepg.xml: Simplified Chinese version EPG, suitable for Mainland China users.
+ 1. twepg.xml: Traditional Chinese version EPG, suitable for Hong Kong, Macau, and Taiwan.
+ 2. swepg.xml: Simplified Chinese version EPG, suitable for Mainland China users.
 
 ### 3.3 Regional Adaptations
 | EPG Version | File Name | Applicable Regions | Download URL |
@@ -109,8 +109,8 @@ This EPG (Electronic Program Guide) service is provided exclusively for personal
 | Traditional Chinese | twepg.xml.gz | Hong Kong, Macau, Taiwan | https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz |
 
 ### 3.4 Special Notes for Mainland China Users
-#### 1. It is recommended to use **epgnew.xml** (excludes program previews for a few adult-oriented and regionally restricted TV channels).
-#### 2. Users outside Mainland China may choose either epgziyong.xml or epgnew.xml.
+ 1. It is recommended to use epgnew.xml.gz (excludes program previews for a few adult-oriented and regionally restricted TV channels).
+2. Users outside Mainland China may choose either epgziyong.xml or epgnew.xml.
 
 ## 4. Covered Channel Scope
 ### 4.1 Mainland China
@@ -132,18 +132,18 @@ MOD, BB Broadband, TBC Cable, 4GTV, Hami, Ofiii, etc.
 4. Indonesia: EPG MNC Vision.
 
 ## 5. Recent Updates
-### 1. Added EPG data for selected local channels from Guangxi TV's official website.
-### 2. Added EPG data for local TV channels in Hebei and Guangdong provinces.
-### 3. Added EPG data for several new HOY TV channels.
-### 4. Added EPG data for six channels from TVB Anywhere USA.
-### 5. Launched Simplified Chinese EPG (swepg.xml.gz) and Traditional Chinese EPG (twepg.xml.gz) for improved regional adaptation.
+ 1. Added EPG data for selected local channels from Guangxi TV's official website.
+ 2. Added EPG data for local TV channels in Hebei and Guangdong provinces.
+ 3. Added EPG data for several new HOY TV channels.
+ 4. Added EPG data for six channels from TVB Anywhere USA.
+ 5. Launched Simplified Chinese EPG (swepg.xml.gz) and Traditional Chinese EPG (twepg.xml.gz) for improved regional adaptation.
 
 ## 6. Reference Resources
-### 1. Traditional Chinese TV Channel List: https://raw.githubusercontent.com/zzq12345/epgtest/refs/heads/main/繁體電視台目錄.txt
-### 2. Simplified Chinese TV Channel List: https://raw.githubusercontent.com/zzq12345/epgtest/refs/heads/main/简体电视台目录.txt
+ 1. Traditional Chinese TV Channel List: https://raw.githubusercontent.com/zzq12345/epgtest/refs/heads/main/繁體電視台目錄.txt
+ 2. Simplified Chinese TV Channel List: https://raw.githubusercontent.com/zzq12345/epgtest/refs/heads/main/简体电视台目录.txt
 
 ## 7. M3U Format Specifications
-### 7.1 Traditional Chinese (For Hong Kong, Macau, Taiwan)
+ 7.1 Traditional Chinese (For Hong Kong, Macau, Taiwan)
 ```
 #EXTM3U url-tvg="https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="電視台名稱1" tvg-name="電視台名稱1" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="你的分組",電視台名稱1
@@ -152,7 +152,7 @@ MOD, BB Broadband, TBC Cable, 4GTV, Hami, Ofiii, etc.
 節目播放地址2
 ```
 
-### 7.2 Simplified Chinese (For Mainland China, Southeast Asia)
+ 7.2 Simplified Chinese (For Mainland China, Southeast Asia)
 ```
 #EXTM3U url-tvg="https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="电视台名称1" tvg-name="电视台名称1" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="你的分组",电视台名称1
