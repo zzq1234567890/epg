@@ -25,7 +25,7 @@
 | 簡體中文 | swepg.xml.gz | 大陸、新加坡、馬來西亞 | https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz |
 | 繁體中文 | twepg.xml.gz | 香港、澳門、台灣 | https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz |
 
-### （3）大陸用戶特別說明
+###（3）大陸用戶特別說明
 #### 1. 建議選用**epgnew.xml.gz**文件，該版本已剔除少量未滿十八歲不宜及區域限制類電視台的節目預告；
 #### 2. 境外用戶可根據需求自由選.
 
@@ -33,7 +33,7 @@
 ### （1）大陸地區
 央視頻、1905電影網、浙江衛視、江蘇衛視、河北衛視、北京衛視、上海衛視、重慶衛視、福建衛視、廣東衛視、廣西衛視、江西衛視、四川衛視、內蒙古衛視、新疆衛視等。
 
-### （2）香港地區
+###（2）香港地區
 MyTV Super、Anywhere、TVB Anywhere USA、Now寬頻、HOY電視台、香港電台等。
 
 ### （3）澳門地區
