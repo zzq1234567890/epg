@@ -47,6 +47,7 @@ MOD、BB寬頻、TBC有線、4GTV、Hami、Ofiii等。
  2. 新加坡：MeWatch；
  3. 馬來西亞：Astro；
  4. 印度尼西亞：EPG MNC Vision+。
+ 5. 阿聯酋 mbc 系列
 
 ## 五、近期更新內容
  1. 新增廣西電視台官網部分地方頻道的EPG數據；
