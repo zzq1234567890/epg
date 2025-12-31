@@ -30,6 +30,30 @@ function replace_unicode_escape_sequence($match)
 
 $chn= "#EXTM3U  \r\n";
 
+$url18='https://www.youtube.com/playlist?list=PLd8qbe5zE33tLKb-vGy-iHc5YCNXBHwbx';//跨年直播
+$ch18=curl_init();
+curl_setopt($ch18,CURLOPT_URL,$url18);                  
+curl_setopt($ch18,CURLOPT_RETURNTRANSFER,1);
+curl_setopt($ch18, CURLOPT_SSL_VERIFYPEER, FALSE);
+curl_setopt($ch18, CURLOPT_SSL_VERIFYHOST, FALSE);
+
+$re18=curl_exec($ch18);
+curl_close($ch18);
+$re18= preg_replace_callback('/\\\\u([0-9a-f]{4})/i', 'replace_unicode_escape_sequence', $re18);// 適合php7
+preg_match_all('|"thumbnail":\{"thumbnails":\[\{"url":"(.*?)",|i',$re18,$piem18,PREG_SET_ORDER);//logo
+preg_match_all('|\{"playlistVideoRenderer":\{"videoId":"(.*?)",|i',$re18,$piec18,PREG_SET_ORDER);//vid
+preg_match_all('|"shortBylineText":\{"runs":\[\{"text":"(.*?)",|i',$re18,$piek18,PREG_SET_ORDER);//標題
+$tru18=count($piec18);
+  for ($k18 = 0; $k18 <=$tru18-1; $k18++) {
+
+
+
+$chn.= "#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" tvg-logo=\"".$piem18[$k18][1]."\" group-title=\"youtube跨年直播\",".$piek18[$k18][1]."\r\n";
+$chn.= "https://www.youtube.com/watch?v=".$piec18[$k18][1]."\r\n";
+
+}
+
+
 //$chn. "新聞,#genre#\r\n";
 $url8='https://www.youtube.com/playlist?list=PLd8qbe5zE33trmwWLpiCr7DjzsoUb0-Jj';//直播綜合
 $ch8=curl_init();
