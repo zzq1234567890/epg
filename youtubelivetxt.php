@@ -3,6 +3,28 @@
 header( 'Content-Type: text/plain; charset=UTF-8');
 $fp="youtubelive.txt";//压缩版本的扩展名后加.gz
 $chn="\n";
+
+$chn.= "跨年,#genre#\r\n";
+$url18='https://youtube.com/playlist?list=PLd8qbe5zE33tLKb-vGy-iHc5YCNXBHwbx';//跨年直播綜合
+$ch18=curl_init();
+curl_setopt($ch18,CURLOPT_URL,$url18);                  
+curl_setopt($ch18,CURLOPT_RETURNTRANSFER,1);
+curl_setopt($ch18, CURLOPT_SSL_VERIFYPEER, FALSE);
+curl_setopt($ch18, CURLOPT_SSL_VERIFYHOST, FALSE);
+
+$re18=curl_exec($ch18);
+curl_close($ch18);
+$re18= preg_replace_callback('/\\\\u([0-9a-f]{4})/i', 'replace_unicode_escape_sequence', $re18);// 適合php7
+
+preg_match_all('|\{"playlistVideoRenderer":\{"videoId":"(.*?)",|i',$re18,$piec18,PREG_SET_ORDER);//vid
+preg_match_all('|"shortBylineText":\{"runs":\[\{"text":"(.*?)",|i',$re18,$piek18,PREG_SET_ORDER);//標題
+$tru18=count($piec18);
+  for ($k18 = 0; $k18 <=$tru18-1; $k18++) {
+
+  $chn.= "".str_replace('【好劇LIVE24h爆肝直播】','',str_replace('Live!','',str_replace('LIVE:','',str_replace('正在直播:','',str_replace('【LIVE】','',str_replace('【ON AIR】','', $piek18[$k18][1])))))).",https://www.youtube.com/watch?v=".$piec18[$k18][1]."\r\n";
+}
+
+
 $chn.= "臨時直播,#genre#\r\n";
 $url12='https://www.youtube.com/playlist?list=PLd8qbe5zE33v8XouhXYxUjn954xIPaSEN';//遊戲
 $ch12=curl_init();
