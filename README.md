@@ -45,7 +45,7 @@ MOD、BB寬頻、TBC有線、4GTV、Hami、Ofiii等。
 ### （5）其他國家及地區
  1. 韓國：KBS、SBS、MBC、EBC；
  2. 新加坡：MeWatch；
- 3. 馬來西亞：Astro；
+ 3. 馬來西亞：Astro Unifi；
  4. 印度尼西亞：Vision+。
  5. 阿聯酋 mbc 系列
 
@@ -172,7 +172,7 @@ MOD, BB Broadband, TBC Cable, 4GTV, Hami, Ofiii, etc.
 
 # 📺 EPG 電子節目表狀態報告
 
-> 最後更新時間: **2026-01-08 17:49**
+> 最後更新時間: **2026-01-08 18:49**
 
 ## 📊 統計摘要
 - **繁體頻道數**: 1964 (節目總數: 192965)
