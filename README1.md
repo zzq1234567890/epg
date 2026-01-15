@@ -54,7 +54,8 @@ MOD、BB寬頻、TBC有線、4GTV、Hami、Ofiii等。
  2. 新增河北省、廣東省地方電視台的EPG數據；
  3. 新增HOY電視台多個全新頻道的EPG數據；
  4. 新增TVB Anywhere USA旗下6個頻道的EPG數據；
- 5. 上線簡體中文版本EPG（swepg.xml.gz）及繁體中文版本EPG（twepg.xml.gz），優化區域适配性。
+ 5. 增加天映頻道,天映經典,KIX頻道多個國家節目
+ 6. 上線簡體中文版本EPG（swepg.xml.gz）及繁體中文版本EPG（twepg.xml.gz），優化區域适配性。
 
 ## 六、參考資源
 1. 繁體中文電視台目錄：https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/繁體電視台目錄.txt  ；
