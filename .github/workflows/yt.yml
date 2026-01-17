@@ -1,0 +1,179 @@
+name: Generate Video Stream Source
+
+on:
+  workflow_dispatch:  # 手动触发
+  push:
+    paths:
+      - 'videos.txt'  # 当 videos.txt 文件变更时触发
+  schedule:
+    - cron: '0 */6 * * *'  # 每6小时自动运行一次
+
+jobs:
+  generate-stream:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install yt-dlp ffmpeg-python
+        sudo apt-get update
+        sudo apt-get install -y ffmpeg
+
+    - name: Parse YouTube video
+      id: parse-video
+      env:
+        VIDEO_URL: "https://m.youtube.com/watch?v=fN9uYWCjQaw"
+      run: |
+        # 创建输出目录
+        mkdir -p output
+        
+        echo "正在解析视频: $VIDEO_URL"
+        echo "开始时间: $(date)"
+        
+        # 获取视频信息（JSON格式）
+        echo "获取视频元数据..."
+        yt-dlp --dump-json "$VIDEO_URL" > output/video_metadata.json
+        
+        # 获取视频标题（用于文件名）
+        VIDEO_TITLE=$(cat output/video_metadata.json | jq -r '.title' | sed 's/[^a-zA-Z0-9]/_/g' | cut -c1-50)
+        echo "video_title=$VIDEO_TITLE" >> $GITHUB_OUTPUT
+        
+        # 方法1：生成简单的M3U播放列表
+        echo "生成播放列表..."
+        echo "#EXTM3U" > output/playlist.m3u
+        echo "#EXTINF:-1, YouTube Video" >> output/playlist.m3u
+        
+        # 尝试获取最佳视频流
+        echo "尝试获取最佳视频流..."
+        STREAMS=$(yt-dlp -g -f best "$VIDEO_URL" 2>/dev/null)
+        
+        if [ -n "$STREAMS" ]; then
+          # 如果有多个流（视频和音频分离），合并它们
+          STREAM_COUNT=$(echo "$STREAMS" | wc -l)
+          if [ "$STREAM_COUNT" -gt 1 ]; then
+            echo "# 检测到多个流，尝试合并..." > output/stream_info.txt
+            VIDEO_STREAM=$(echo "$STREAMS" | head -1)
+            AUDIO_STREAM=$(echo "$STREAMS" | tail -1)
+            echo "视频流: $VIDEO_STREAM" >> output/stream_info.txt
+            echo "音频流: $AUDIO_STREAM" >> output/stream_info.txt
+            echo "$VIDEO_STREAM" >> output/playlist.m3u
+          else
+            echo "$STREAMS" >> output/playlist.m3u
+          fi
+          echo "✓ 成功获取视频流"
+        else
+          echo "✗ 无法获取视频流，尝试备用方法..."
+          # 备用方法：获取所有可用格式
+          yt-dlp -F "$VIDEO_URL" > output/available_formats.txt
+          exit 1
+        fi
+        
+        # 方法2：生成详细格式列表
+        echo "生成格式列表..."
+        echo "# 可用格式列表" > output/formats.m3u
+        echo "# 生成时间: $(date)" >> output/formats.m3u
+        
+        # 获取并解析格式信息
+        yt-dlp -F "$VIDEO_URL" | grep -E "^(ID|^[0-9]+)" | while read line; do
+          if [[ "$line" == ID* ]]; then
+            continue  # 跳过标题行
+          fi
+          
+          FORMAT_ID=$(echo $line | awk '{print $1}')
+          EXTENSION=$(echo $line | awk '{print $2}')
+          RESOLUTION=$(echo $line | awk '{print $3}')
+          FPS=$(echo $line | awk '{print $4}')
+          FILESIZE=$(echo $line | awk '{print $5}')
+          TBR=$(echo $line | awk '{print $6}')
+          PROTOCOL=$(echo $line | awk '{print $7}')
+          VCODEC=$(echo $line | awk '{print $8}')
+          ACODEC=$(echo $line | awk '{print $9}')
+          MORE_INFO=$(echo $line | awk '{print $10,$11,$12,$13,$14,$15}')
+          
+          # 尝试获取该格式的流URL
+          echo "正在获取格式 $FORMAT_ID 的流URL..."
+          STREAM_URL=$(yt-dlp --simulate --get-url -f "$FORMAT_ID" "$VIDEO_URL" 2>/dev/null | head -1)
+          
+          if [ -n "$STREAM_URL" ] && [[ "$STREAM_URL" == http* ]]; then
+            echo "#EXTINF:-1, Format $FORMAT_ID: $EXTENSION $RESOLUTION $VCODEC/$ACODEC" >> output/formats.m3u
+            echo "$STREAM_URL" >> output/formats.m3u
+            echo "✓ 格式 $FORMAT_ID 可用"
+          fi
+        done
+        
+        # 方法3：生成JSON格式的流信息
+        echo "生成JSON格式的流信息..."
+        echo '{"streams": [], "metadata": {}}' > output/streams.json
+        
+        # 获取所有可用的直接流URL
+        echo "获取所有可用的流URL..."
+        yt-dlp --flat-playlist --get-url --format "best" "$VIDEO_URL" > output/direct_urls.txt 2>/dev/null || true
+        
+        echo "解析完成！"
+        echo "结束时间: $(date)"
+
+    - name: Create summary report
+      run: |
+        echo "# 视频流生成报告" > output/report.md
+        echo "" >> output/report.md
+        echo "## 基本信息" >> output/report.md
+        echo "- 视频URL: https://m.youtube.com/watch?v=fN9uYWCjQaw" >> output/report.md
+        echo "- 生成时间: $(date)" >> output/report.md
+        echo "- GitHub Actions Run: https://github.com/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" >> output/report.md
+        echo "" >> output/report.md
+        
+        if [ -f output/playlist.m3u ]; then
+          echo "## 生成的播放列表" >> output/report.md
+          echo "### playlist.m3u 内容:" >> output/report.md
+          echo '```m3u' >> output/report.md
+          cat output/playlist.m3u >> output/report.md
+          echo '```' >> output/report.md
+          echo "" >> output/report.md
+        fi
+        
+        if [ -f output/formats.m3u ]; then
+          FORMAT_COUNT=$(grep -c "#EXTINF" output/formats.m3u)
+          echo "### 可用格式数量: $FORMAT_COUNT" >> output/report.md
+        fi
+        
+        if [ -f output/direct_urls.txt ] && [ -s output/direct_urls.txt ]; then
+          echo "## 直接流URL" >> output/report.md
+          echo '```' >> output/report.md
+          head -5 output/direct_urls.txt >> output/report.md
+          echo '```' >> output/report.md
+        fi
+        
+        echo "## 使用方法" >> output/report.md
+        echo "1. 下载 artifacts 中的文件" >> output/report.md
+        echo "2. 使用支持 M3U 的播放器打开 playlist.m3u" >> output/report.md
+        echo "3. 或者使用 formats.m3u 选择不同质量的流" >> output/report.md
+
+    - name: Upload generated files
+      uses: actions/upload-artifact@v4
+      with:
+        name: video-stream-sources
+        path: |
+          output/
+        retention-days: 7
+        if-no-files-found: error
+
+    - name: Display completion message
+      if: always()
+      run: |
+        echo "=== 工作流执行完成 ==="
+        echo "生成的文件已上传到 Artifacts"
+        echo "名称: video-stream-sources"
+        echo ""
+        echo "包含的文件:"
+        find output/ -type f -name "*.*" | while read file; do
+          echo "- $(basename "$file")"
+        done
