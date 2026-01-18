@@ -1,4 +1,4 @@
-name: Generate Video Stream Source
+name: Generate Video Stream Source test
 
 on:
   workflow_dispatch:  # 手动触发
