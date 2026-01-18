@@ -131,10 +131,10 @@ jobs:
       run: |
         # 創建 M3U 檔案
         cat > "playlist.m3u" << EOF
-#EXTM3U
-#EXTINF:-1,${{ steps.extract.outputs.TITLE }}
-${{ steps.extract.outputs.STREAM }}
-EOF
+        #EXTM3U
+        #EXTINF:-1,${{ steps.extract.outputs.TITLE }}
+        ${{ steps.extract.outputs.STREAM }}
+        EOF
         
         # 也創建以標題命名的檔案
         cp "playlist.m3u" "${{ steps.extract.outputs.CLEAN_TITLE }}.m3u"
