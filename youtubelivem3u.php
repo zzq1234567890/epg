@@ -49,7 +49,7 @@ $tru18=count($piec18);
 
 
 $chn.= "#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" tvg-logo=\"".$piem18[$k18][1]."\" group-title=\"youtube跨年直播\",".$piek18[$k18][1]."\r\n";
-$chn.= "https://www.youtube.com/watch?v=".$piec18[$k18][1]."\r\n";
+$chn.= "http://96.44.160.246:8082/?id=".$piec18[$k18][1]."\r\n";
 
 }
 
@@ -71,10 +71,10 @@ preg_match_all('|"shortBylineText":\{"runs":\[\{"text":"(.*?)",|i',$re8,$piek8,P
 $tru8=count($piec8);
   for ($k8 = 0; $k8 <=$tru8-1; $k8++) {
 
-//$chn. "".str_replace('【好劇LIVE24h爆肝直播】','',str_replace('Live!','',str_replace('LIVE:','',str_replace('正在直播:','',str_replace('【LIVE】','',str_replace('【ON AIR】','', $piek8[$k8][1])))))).",https://www.youtube.com/watch?v=".$piec8[$k8][1]."\r\n";
+//$chn. "".str_replace('【好劇LIVE24h爆肝直播】','',str_replace('Live!','',str_replace('LIVE:','',str_replace('正在直播:','',str_replace('【LIVE】','',str_replace('【ON AIR】','', $piek8[$k8][1])))))).",http://96.44.160.246:8082/?id=".$piec8[$k8][1]."\r\n";
 
 $chn.= "#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" tvg-logo=\"".$piem8[$k8][1]."\" group-title=\"youtube中文新聞直播\",".$piek8[$k8][1]."\r\n";
-$chn.= "https://www.youtube.com/watch?v=".$piec8[$k8][1]."\r\n";
+$chn.= "http://96.44.160.246:8082/?id=".$piec8[$k8][1]."\r\n";
 
 }
 
@@ -97,10 +97,10 @@ preg_match_all('|"shortBylineText":\{"runs":\[\{"text":"(.*?)",|i',$re12,$piek12
 $tru12=count($piec12);
   for ($k12 = 0; $k12 <=$tru12-1; $k12++) {
 
-//$chn. "".str_replace('【好劇LIVE24h爆肝直播】','',str_replace('Live!','',str_replace('LIVE:','',str_replace('正在直播:','',str_replace('【LIVE】','',str_replace('【ON AIR】','', $piek12[$k12][1])))))).",https://www.youtube.com/watch?v=".$piec12[$k12][1]."\r\n";
+//$chn. "".str_replace('【好劇LIVE24h爆肝直播】','',str_replace('Live!','',str_replace('LIVE:','',str_replace('正在直播:','',str_replace('【LIVE】','',str_replace('【ON AIR】','', $piek12[$k12][1])))))).",http://96.44.160.246:8082/?id=".$piec12[$k12][1]."\r\n";
 
 $chn.= "#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" tvg-logo=\"".$piem12[$k12][1]."\" group-title=\"youtube臨時直播\",".$piek12[$k12][1]."\r\n";
-$chn.= "https://www.youtube.com/watch?v=".$piec12[$k12][1]."\r\n";
+$chn.= "http://96.44.160.246:8082/?id=".$piec12[$k12][1]."\r\n";
   }
 //$chn. "國外新聞,#genre#\r\n";
 $url4='https://www.youtube.com/playlist?list=PLd8qbe5zE33s5OSV4qzMMkCWoYItL7otl';//直播綜合
@@ -123,10 +123,10 @@ preg_match_all('|"shortBylineText":\{"runs":\[\{"text":"(.*?)",|i',$re4,$piek4,P
 $tru4=count($piec4);
   for ($k4 = 0; $k4 <=$tru4-1; $k4++) {
 
-//$chn. "".str_replace('【好劇LIVE24h爆肝直播】','',str_replace('Live!','',str_replace('LIVE:','',str_replace('正在直播:','',str_replace('【LIVE】','',str_replace('【ON AIR】','', $piek4[$k4][1])))))).",https://www.youtube.com/watch?v=".$piec4[$k4][1]."\r\n";
+//$chn. "".str_replace('【好劇LIVE24h爆肝直播】','',str_replace('Live!','',str_replace('LIVE:','',str_replace('正在直播:','',str_replace('【LIVE】','',str_replace('【ON AIR】','', $piek4[$k4][1])))))).",http://96.44.160.246:8082/?id=".$piec4[$k4][1]."\r\n";
 
 $chn.= "#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" tvg-logo=\"".$piem4[$k4][1]."\" group-title=\"youtube國外新聞\",".$piek4[$k4][1]."\r\n";
-$chn.= "https://www.youtube.com/watch?v=".$piec4[$k4][1]."\r\n";
+$chn.= "http://96.44.160.246:8082/?id=".$piec4[$k4][1]."\r\n";
 }
 
 
@@ -156,7 +156,7 @@ $tru2=count($piec2);
 //$chn. "#EXTINF:-1 tvg-id=\"".$fs4GTV_ID."\" tvg-name=\"".$fsNAME."\" tvg-logo=\"".$fsLOGO_MOBILE."\" group-title=\"4gtv\",".$fsNAME."\r\n";
 
 $chn.= "#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" tvg-logo=\"".$piem2[$k2][1]."\" group-title=\"youtube遊戲直播\",".$piek2[$k2][1]."\r\n";
-$chn.= "https://www.youtube.com/watch?v=".$piec2[$k2][1]."\r\n";
+$chn.= "http://96.44.160.246:8082/?id=".$piec2[$k2][1]."\r\n";
 }
 
 
@@ -184,11 +184,11 @@ preg_match_all('|"shortBylineText":\{"runs":\[\{"text":"(.*?)",|i',$re3,$piek3,P
 $tru3=count($piec3);
   for ($k3 = 0; $k3 <=$tru3-1; $k3++) {
 
-//$chn.= "".str_replace('【好劇LIVE24h爆肝直播】','',str_replace('Live!','',str_replace('LIVE:','',str_replace('正在直播:','',str_replace('【LIVE】','',str_replace('【ON AIR】','', $piek3[$k3][1])))))).",https://www.youtube.com/watch?v=".$piec3[$k3][1]."\r\n";
+//$chn.= "".str_replace('【好劇LIVE24h爆肝直播】','',str_replace('Live!','',str_replace('LIVE:','',str_replace('正在直播:','',str_replace('【LIVE】','',str_replace('【ON AIR】','', $piek3[$k3][1])))))).",http://96.44.160.246:8082/?id=".$piec3[$k3][1]."\r\n";
 
 
 $chn.= "#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" tvg-logo=\"".$piem3[$k3][1]."\" group-title=\"youtube運動直播\",".$piek3[$k3][1]."\r\n";
-$chn.= "https://www.youtube.com/watch?v=".$piec3[$k3][1]."\r\n";
+$chn.= "http://96.44.160.246:8082/?id=".$piec3[$k3][1]."\r\n";
 
 
 
@@ -221,10 +221,10 @@ preg_match_all('|"shortBylineText":\{"runs":\[\{"text":"(.*?)",|i',$re4,$piek4,P
 $tru4=count($piec4);
   for ($k4 = 0; $k4 <=$tru4-1; $k4++) {
 
-//$chn. "".str_replace('【好劇LIVE24h爆肝直播】','',str_replace('Live!','',str_replace('LIVE:','',str_replace('正在直播:','',str_replace('【LIVE】','',str_replace('【ON AIR】','', $piek4[$k4][1])))))).",https://www.youtube.com/watch?v=".$piec4[$k4][1]."\r\n";
+//$chn. "".str_replace('【好劇LIVE24h爆肝直播】','',str_replace('Live!','',str_replace('LIVE:','',str_replace('正在直播:','',str_replace('【LIVE】','',str_replace('【ON AIR】','', $piek4[$k4][1])))))).",http://96.44.160.246:8082/?id=".$piec4[$k4][1]."\r\n";
 
 $chn.= "#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" tvg-logo=\"".$piem4[$k4][1]."\" group-title=\"youtube正在直播\",".$piek4[$k4][1]."\r\n";
-$chn.= "https://www.youtube.com/watch?v=".$piec4[$k4][1]."\r\n";
+$chn.= "http://96.44.160.246:8082/?id=".$piec4[$k4][1]."\r\n";
 
 }
 
@@ -250,7 +250,7 @@ $tru42=count($piec42);
 
 
 $chn.= "#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" tvg-logo=\"".$piem42[$k42][1]."\" group-title=\"youtube正在直播1\",".$piek42[$k42][1]."\r\n";
-$chn.= "https://www.youtube.com/watch?v=".$piec42[$k42][1]."\r\n";
+$chn.= "http://96.44.160.246:8082/?id=".$piec42[$k42][1]."\r\n";
 
 }
 
@@ -276,11 +276,11 @@ preg_match_all('|"shortBylineText":\{"runs":\[\{"text":"(.*?)",|i',$re5,$piek5,P
 $tru5=count($piec5);
   for ($k5 = 0; $k5 <=$tru5-1; $k5++) {
 
-//$chn. "".str_replace('【好劇LIVE24h爆肝直播】','',str_replace('Live!','',str_replace('LIVE:','',str_replace('正在直播:','',str_replace('【LIVE】','',str_replace('【ON AIR】','', $piek5[$k5][1])))))).",https://www.youtube.com/watch?v=".$piec5[$k5][1]."\r\n";
+//$chn. "".str_replace('【好劇LIVE24h爆肝直播】','',str_replace('Live!','',str_replace('LIVE:','',str_replace('正在直播:','',str_replace('【LIVE】','',str_replace('【ON AIR】','', $piek5[$k5][1])))))).",http://96.44.160.246:8082/?id=".$piec5[$k5][1]."\r\n";
 
 
 $chn.= "#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" tvg-logo=\"".$piem5[$k5][1]."\" group-title=\"youtube少兒\",".$piek5[$k5][1]."\r\n";
-$chn.= "https://www.youtube.com/watch?v=".$piec5[$k5][1]."\r\n";
+$chn.= "http://96.44.160.246:8082/?id=".$piec5[$k5][1]."\r\n";
 }
 
 $url51='https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8&pretty$chn.=false';//少兒
@@ -301,11 +301,11 @@ preg_match_all('|"shortBylineText":\{"runs":\[\{"text":"(.*?)",|i',$re51,$piek51
 $tru51=count($piec51);
   for ($k51 = 0; $k51 <=$tru51-1; $k51++) {
 
-//$chn.= "".str_replace('【好劇LIVE24h爆肝直播】','',str_replace('Live!','',str_replace('LIVE:','',str_replace('正在直播:','',str_replace('【LIVE】','',str_replace('【ON AIR】','', $piek5[$k5][1])))))).",https://www.youtube.com/watch?v=".$piec5[$k5][1]."\r\n";
+//$chn.= "".str_replace('【好劇LIVE24h爆肝直播】','',str_replace('Live!','',str_replace('LIVE:','',str_replace('正在直播:','',str_replace('【LIVE】','',str_replace('【ON AIR】','', $piek5[$k5][1])))))).",http://96.44.160.246:8082/?id=".$piec5[$k5][1]."\r\n";
 
 
 $chn.= "#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" tvg-logo=\"".$piem51[$k51][1]."\" group-title=\"youtube少兒\",".$piek51[$k51][1]."\r\n";
-$chn.= "https://www.youtube.com/watch?v=".$piec51[$k51][1]."\r\n";
+$chn.= "http://96.44.160.246:8082/?id=".$piec51[$k51][1]."\r\n";
 }
 
 
@@ -331,10 +331,10 @@ preg_match_all('|"shortBylineText":\{"runs":\[\{"text":"(.*?)",|i',$re6,$piek6,P
 $tru6=count($piec6);
   for ($k6 = 0; $k6 <=$tru6-1; $k6++) {
 
-//$chn. "".str_replace('【好劇LIVE24h爆肝直播】','',str_replace('Live!','',str_replace('LIVE:','',str_replace('正在直播:','',str_replace('【LIVE】','',str_replace('【ON AIR】','', $piek6[$k6][1])))))).",https://www.youtube.com/watch?v=".$piec6[$k6][1]."\r\n";
+//$chn. "".str_replace('【好劇LIVE24h爆肝直播】','',str_replace('Live!','',str_replace('LIVE:','',str_replace('正在直播:','',str_replace('【LIVE】','',str_replace('【ON AIR】','', $piek6[$k6][1])))))).",http://96.44.160.246:8082/?id=".$piec6[$k6][1]."\r\n";
 
 $chn.= "#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" tvg-logo=\"".$piem6[$k6][1]."\" group-title=\"youtube娛樂\",".$piek6[$k6][1]."\r\n";
-$chn.= "https://www.youtube.com/watch?v=".$piec6[$k6][1]."\r\n";
+$chn.= "http://96.44.160.246:8082/?id=".$piec6[$k6][1]."\r\n";
 }
 
 
@@ -362,10 +362,10 @@ preg_match_all('|"shortBylineText":\{"runs":\[\{"text":"(.*?)",|i',$re9,$piek9,P
 $tru9=count($piec9);
   for ($k9 = 0; $k9 <=$tru9-1; $k9++) {
 
-//$chn. "".str_replace('【好劇LIVE24h爆肝直播】','',str_replace('Live!','',str_replace('LIVE:','',str_replace('正在直播:','',str_replace('【LIVE】','',str_replace('【ON AIR】','', $piek9[$k9][1])))))).",https://www.youtube.com/watch?v=".$piec9[$k9][1]."\r\n";
+//$chn. "".str_replace('【好劇LIVE24h爆肝直播】','',str_replace('Live!','',str_replace('LIVE:','',str_replace('正在直播:','',str_replace('【LIVE】','',str_replace('【ON AIR】','', $piek9[$k9][1])))))).",http://96.44.160.246:8082/?id=".$piec9[$k9][1]."\r\n";
 
 $chn.= "#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" tvg-logo=\"".$piem9[$k9][1]."\" group-title=\"youtube語言學習\",".$piek9[$k9][1]."\r\n";
-$chn.= "https://www.youtube.com/watch?v=".$piec9[$k9][1]."\r\n";
+$chn.= "http://96.44.160.246:8082/?id=".$piec9[$k9][1]."\r\n";
 }
 
 
@@ -386,10 +386,10 @@ preg_match_all('|"shortBylineText":\{"runs":\[\{"text":"(.*?)",|i',$re7,$piek7,P
 $tru7=count($piec7);
   for ($k7 = 0; $k7 <=$tru7-1; $k7++) {
 
-//$chn. "".str_replace('【好劇LIVE24h爆肝直播】','',str_replace('Live!','',str_replace('LIVE:','',str_replace('正在直播:','',str_replace('【LIVE】','',str_replace('【ON AIR】','', $piek7[$k7][1])))))).",https://www.youtube.com/watch?v=".$piec7[$k7][1]."\r\n";
+//$chn. "".str_replace('【好劇LIVE24h爆肝直播】','',str_replace('Live!','',str_replace('LIVE:','',str_replace('正在直播:','',str_replace('【LIVE】','',str_replace('【ON AIR】','', $piek7[$k7][1])))))).",http://96.44.160.246:8082/?id=".$piec7[$k7][1]."\r\n";
 
 $chn.= "#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" tvg-logo=\"".$piem7[$k7][1]."\" group-title=\"youtube街景直播\",".$piek7[$k7][1]."\r\n";
-$chn.= "https://www.youtube.com/watch?v=".$piec7[$k7][1]."\r\n";
+$chn.= "http://96.44.160.246:8082/?id=".$piec7[$k7][1]."\r\n";
 }
 
 //$chn. "廣告,#genre#\r\n";
@@ -410,9 +410,9 @@ preg_match_all('|"shortBylineText":\{"runs":\[\{"text":"(.*?)",|i',$re10,$piek10
 $tru10=count($piec10);
   for ($k10 = 0; $k10 <=$tru10-1; $k10++) {
 
-//$chn. "".str_replace('【好劇LIVE24h爆肝直播】','',str_replace('Live!','',str_replace('LIVE:','',str_replace('正在直播:','',str_replace('【LIVE】','',str_replace('【ON AIR】','', $piek10[$k10][1])))))).",https://www.youtube.com/watch?v=".$piec10[$k10][1]."\r\n";
+//$chn. "".str_replace('【好劇LIVE24h爆肝直播】','',str_replace('Live!','',str_replace('LIVE:','',str_replace('正在直播:','',str_replace('【LIVE】','',str_replace('【ON AIR】','', $piek10[$k10][1])))))).",http://96.44.160.246:8082/?id=".$piec10[$k10][1]."\r\n";
 $chn.= "#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" tvg-logo=\"".$piem10[$k10][1]."\" group-title=\"youtube廣告直播\",".$piek10[$k10][1]."\r\n";
-$chn.= "https://www.youtube.com/watch?v=".$piec10[$k10][1]."\r\n";
+$chn.= "http://96.44.160.246:8082/?id=".$piec10[$k10][1]."\r\n";
 
 }
 
