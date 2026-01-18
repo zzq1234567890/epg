@@ -1,0 +1,96 @@
+name: Extract YouTube Stream and Generate M3U
+
+on:
+  workflow_dispatch:
+    inputs:
+      youtube_url:
+        description: 'YouTube URL to extract'
+        required: true
+        default: 'https://m.youtube.com/watch?v=Ej3LQM_lTEw'
+  schedule:
+    # 每天凌晨 3 點執行
+    - cron: '0 3 * * *'
+
+jobs:
+  extract-stream:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        
+    - name: Install yt-dlp
+      run: |
+        pip install yt-dlp
+        pip install --upgrade yt-dlp
+        
+    - name: Extract stream URL
+      id: extract
+      run: |
+        # 使用 yt-dlp 獲取最佳格式的 stream URL
+        STREAM_URL=$(yt-dlp -g -f "best" "${{ github.event.inputs.youtube_url || 'https://m.youtube.com/watch?v=Ej3LQM_lTEw' }}" 2>/dev/null || echo "")
+        
+        if [ -z "$STREAM_URL" ]; then
+          # 如果獲取失敗，嘗試備用方法
+          STREAM_URL=$(yt-dlp -g --format-sort "res,codec" "${{ github.event.inputs.youtube_url || 'https://m.youtube.com/watch?v=Ej3LQM_lTEw' }}" | head -1)
+        fi
+        
+        # 獲取影片標題
+        VIDEO_TITLE=$(yt-dlp --get-title "${{ github.event.inputs.youtube_url || 'https://m.youtube.com/watch?v=Ej3LQM_lTEw' }}" 2>/dev/null || echo "YouTube Video")
+        
+        # 清理標題（移除特殊字符）
+        CLEAN_TITLE=$(echo "$VIDEO_TITLE" | tr -d '\n' | sed 's/[^a-zA-Z0-9 ]//g' | tr ' ' '_')
+        
+        echo "STREAM_URL=$STREAM_URL" >> $GITHUB_OUTPUT
+        echo "VIDEO_TITLE=$VIDEO_TITLE" >> $GITHUB_OUTPUT
+        echo "CLEAN_TITLE=$CLEAN_TITLE" >> $GITHUB_OUTPUT
+        echo "Stream URL extracted successfully"
+        
+    - name: Generate M3U file
+      run: |
+        # 創建 M3U 內容
+        M3U_CONTENT="#EXTM3U\n"
+        M3U_CONTENT+="#EXTINF:-1,${{ steps.extract.outputs.VIDEO_TITLE }}\n"
+        M3U_CONTENT+="${{ steps.extract.outputs.STREAM_URL }}\n"
+        
+        # 寫入檔案
+        echo -e "$M3U_CONTENT" > "${{ steps.extract.outputs.CLEAN_TITLE }}.m3u"
+        
+        # 同時創建一個通用名稱的檔案
+        echo -e "$M3U_CONTENT" > "youtube_stream.m3u"
+        
+        # 顯示生成的檔案內容
+        echo "Generated M3U file content:"
+        cat "${{ steps.extract.outputs.CLEAN_TITLE }}.m3u"
+        
+    - name: Save M3U file as artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: m3u-playlist
+        path: |
+          *.m3u
+        retention-days: 7
+        
+    - name: Output information
+      run: |
+        echo "======================================"
+        echo "Video Title: ${{ steps.extract.outputs.VIDEO_TITLE }}"
+        echo "Stream URL: ${{ steps.extract.outputs.STREAM_URL }}"
+        echo "M3U Files Generated:"
+        echo "- ${{ steps.extract.outputs.CLEAN_TITLE }}.m3u"
+        echo "- youtube_stream.m3u"
+        echo "======================================"
+        
+    - name: Commit and push if needed
+      if: github.event_name == 'workflow_dispatch'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add *.m3u
+        git commit -m "Update M3U playlist for ${{ steps.extract.outputs.VIDEO_TITLE }}" || echo "No changes to commit"
+        git push origin HEAD:${GITHUB_REF#refs/heads/} || echo "Nothing to push"
