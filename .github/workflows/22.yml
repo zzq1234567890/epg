@@ -1,0 +1,151 @@
+name: YouTube Stream Extractor with Advanced Cookies
+
+on:
+  workflow_dispatch:
+    inputs:
+      youtube_url:
+        description: 'YouTube URL'
+        required: true
+        default: 'https://m.youtube.com/watch?v=Ej3LQM_lTEw'
+      use_cookies:
+        description: 'Use cookies?'
+        required: true
+        default: 'true'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
+      cookies_source:
+        description: 'Cookies source'
+        required: false
+        default: 'secrets'
+        type: choice
+        options:
+          - 'secrets'
+          - 'input'
+          - 'file'
+  push:
+    paths:
+      - 'cookies.txt'
+      - '.github/workflows/**.yml'
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    env:
+      YOUTUBE_URL: ${{ github.event.inputs.youtube_url || 'https://m.youtube.com/watch?v=Ej3LQM_lTEw' }}
+      
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Setup environment
+      id: setup
+      run: |
+        # 安裝 yt-dlp
+        pip3 install --upgrade yt-dlp
+        
+        # 檢查 cookies 來源
+        COOKIES_FILE=""
+        if [ "${{ github.event.inputs.use_cookies }}" = "true" ]; then
+          case "${{ github.event.inputs.cookies_source }}" in
+            "secrets")
+              if [ -n "${{ secrets.YOUTUBE_COOKIES }}" ]; then
+                echo "${{ secrets.YOUTUBE_COOKIES }}" > cookies.txt
+                COOKIES_FILE="cookies.txt"
+                echo "Using cookies from secrets"
+              fi
+              ;;
+            "input")
+              if [ -n "${{ github.event.inputs.cookies_text }}" ]; then
+                echo "${{ github.event.inputs.cookies_text }}" > cookies.txt
+                COOKIES_FILE="cookies.txt"
+                echo "Using cookies from input"
+              fi
+              ;;
+            "file")
+              if [ -f "cookies.txt" ]; then
+                COOKIES_FILE="cookies.txt"
+                echo "Using cookies from file"
+              fi
+              ;;
+          esac
+        fi
+        
+        echo "COOKIES_FILE=$COOKIES_FILE" >> $GITHUB_OUTPUT
+        
+    - name: Extract stream
+      id: extract
+      run: |
+        # 構建 yt-dlp 命令
+        CMD="yt-dlp --no-warnings"
+        
+        if [ -n "${{ steps.setup.outputs.COOKIES_FILE }}" ] && [ -f "${{ steps.setup.outputs.COOKIES_FILE }}" ]; then
+          CMD="$CMD --cookies ${{ steps.setup.outputs.COOKIES_FILE }}"
+          
+          # 測試 cookies 是否有效
+          echo "Testing cookies..."
+          if yt-dlp --cookies "${{ steps.setup.outputs.COOKIES_FILE }}" --simulate "https://www.youtube.com" &>/dev/null; then
+            echo "✓ Cookies are valid"
+          else
+            echo "⚠ Cookies might be expired or invalid"
+          fi
+        fi
+        
+        # 提取資訊
+        echo "Extracting video info..."
+        
+        # 獲取標題
+        TITLE=$($CMD --get-title "$YOUTUBE_URL" 2>/dev/null || echo "Unknown Title")
+        
+        # 獲取最佳流地址
+        echo "Extracting best stream..."
+        STREAM=$($CMD -g -f "best" "$YOUTUBE_URL" 2>/dev/null || echo "")
+        
+        # 如果失敗，嘗試其他格式
+        if [ -z "$STREAM" ]; then
+          echo "Trying alternative format..."
+          STREAM=$($CMD -g -f "bestvideo+bestaudio" "$YOUTUBE_URL" 2>/dev/null || echo "")
+        fi
+        
+        # 清理標題用於檔案名
+        CLEAN_TITLE=$(echo "$TITLE" | 
+          tr -d '\n\r' | 
+          sed 's/[<>:"/\\|?*]//g' |
+          sed 's/^[[:space:]]*//;s/[[:space:]]*$//' |
+          tr ' ' '_' |
+          head -c 80)
+        
+        echo "TITLE=$TITLE" >> $GITHUB_OUTPUT
+        echo "CLEAN_TITLE=$CLEAN_TITLE" >> $GITHUB_OUTPUT
+        echo "STREAM=$STREAM" >> $GITHUB_OUTPUT
+        
+        if [ -n "$STREAM" ]; then
+          echo "SUCCESS=true" >> $GITHUB_OUTPUT
+        else
+          echo "SUCCESS=false" >> $GITHUB_OUTPUT
+        fi
+        
+    - name: Create M3U playlist
+      if: steps.extract.outputs.SUCCESS == 'true'
+      run: |
+        # 創建 M3U 檔案
+        cat > "playlist.m3u" << EOF
+#EXTM3U
+#EXTINF:-1,${{ steps.extract.outputs.TITLE }}
+${{ steps.extract.outputs.STREAM }}
+EOF
+        
+        # 也創建以標題命名的檔案
+        cp "playlist.m3u" "${{ steps.extract.outputs.CLEAN_TITLE }}.m3u"
+        
+        echo "Created M3U playlist"
+        
+    - name: Upload results
+      uses: actions/upload-artifact@v4
+      with:
+        name: youtube-stream-${{ github.run_id }}
+        path: |
+          *.m3u
+          cookies.txt
+        retention-days: 30
