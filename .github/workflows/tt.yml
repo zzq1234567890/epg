@@ -1,37 +1,93 @@
-name: Run Python Script for YouTube Parsing
+name: Generate M3U Stream List
 
-# 觸發事件：當推送代碼到 main 分支時，或每小時排程運行一次
 on:
   push:
-    branches:
-      - main
+    branches: [ main, master ]
+  workflow_dispatch:  # 允许手动触发
   schedule:
-    - cron: '0 * * * *'  # 每小時運行一次（UTC 時間）
+    # 每天 UTC 时间 0 点运行（北京时间 8 点）
+    - cron: '*/30 * * * *'
+
+# 需要显式授予写入权限
+permissions:
+  contents: write
 
 jobs:
-  build-and-run:
-    runs-on: ubuntu-latest  # 使用最新的 Ubuntu 虛擬機
-
+  generate-m3u:
+    runs-on: ubuntu-latest
+    
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4  # 拉取儲存庫代碼
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        # 使用令牌检出，这样才有推送权限
+        token: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+        
+    - name: Generate M3U file
+      run: |
+        # 检查脚本文件是否存在，这里假设你要运行的是 parse_youtube_live.py
+        if [ -f "parse_youtube_live.py" ]; then
+          python parse_youtube_live.py
+        elif [ -f "generate_m3u.py" ]; then
+          python generate_m3u.py
+        else
+          echo "错误: 未找到生成 M3U 的 Python 脚本"
+          exit 1
+        fi
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'  # 指定 Python 版本（匹配您的腳本）
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi  # 安裝依賴
-
-      - name: Run Python script
-        run: python parse_youtube_live.py  # 運行您的腳本（替換為實際腳本名稱）
-
-      - name: Upload artifacts (optional)
-        uses: actions/upload-artifact@v4
-        if: always()  # 如果腳本產生輸出文件，可上傳
-        with:
-          name: script-output
-          path: ts_segments/  # 假設腳本輸出到這個目錄
+    - name: Upload M3U file as artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: live-m3u
+        path: live.m3u
+        retention-days: 5
+        
+    - name: Commit and push if changed
+      run: |
+        # 检查 M3U 文件是否存在
+        if [ ! -f "live.m3u" ]; then
+          echo "错误: live.m3u 文件未生成"
+          exit 1
+        fi
+        
+        # 配置 Git
+        git config --local user.name "github-actions[bot]"
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        
+        # 添加文件
+        git add live.m3u
+        
+        # 检查是否有变化需要提交
+        if git diff --cached --quiet; then
+          echo "M3U文件无变化，无需提交"
+        else
+          # 提交
+          git commit -m "自动更新 M3U 文件 $(date +'%Y-%m-%d %H:%M:%S') [skip ci]"
+          
+          # 推送更改
+          git push
+          echo "M3U文件已更新并推送"
+        fi
+        
+    - name: Output result
+      run: |
+        echo "=== M3U 文件生成完成 ==="
+        if [ -f "live.m3u" ]; then
+          echo "文件大小: $(wc -l < live.m3u) 行"
+          echo "生成的频道数量: $(grep -c "#EXTINF" live.m3u || echo "0")"
+          echo ""
+          echo "文件内容预览:"
+          head -20 live.m3u
+        else
+          echo "错误: M3U 文件未生成"
+        fi
