@@ -248,7 +248,7 @@ $tru42=count($piec42);
 
 
 $chn.= "#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" tvg-logo=\"".$piem42[$k42][1]."\" group-title=\"youtube正在直播1\",".$piek42[$k42][1]."\r\n";
-$chn.= "https://www.youtube.com/watch?v=.$piec42[$k42][1]."\r\n";
+$chn.= "https://www.youtube.com/watch?v=".$piec42[$k42][1]."\r\n";
 
 }
 
