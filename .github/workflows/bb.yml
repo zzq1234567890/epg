@@ -19,8 +19,8 @@ jobs:
         uses: AnimMouse/setup-yt-dlp@v3  # 使用最新 yt-dlp 安裝 action
 
       - name: Prepare cookies if needed
-        if: ${{ secrets.YOUTUBE_COOKIES }}  # 只在有 Secrets 時執行
-        run: |
+       if: ${{ secrets.YOUTUBE_COOKIES }}  # 只在有 Secrets 時執行
+         run: |
           echo "${{ secrets.YOUTUBE_COOKIES }}" > cookies.txt
           # 驗證 cookie 檔案（選用）
           cat cookies.txt
