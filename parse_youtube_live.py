@@ -78,48 +78,50 @@ def get_variant_m3u8(master_m3u8_url):
     print(f"選擇的最高品質 variant M3U8 URL: {highest_variant_url}")
     return highest_variant_url
 
-# 函數：解析 variant M3U8，獲取 TS 片段並下載（示範下載前 5 個片段）
-def parse_and_download_ts(variant_m3u8_url, output_dir='ts_segments'):
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
-    
+# 函數：生成 live.m3u8 文件
+def generate_live_m3u8(variant_m3u8_url, output_dir='ts_segments'):
+    """生成用於播放的 live.m3u8 文件"""
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Referer': 'https://www.youtube.com/',
     }
     
-    # 因為直播 M3U8 會持續更新，這裡示範循環抓取幾次
-    downloaded = 0
-    max_downloads = 5  # 只下載前 5 個作為示範
+    # 獲取 variant m3u8 內容
+    response = requests.get(variant_m3u8_url, headers=headers)
+    if response.status_code != 200:
+        raise Exception(f"無法獲取 variant M3U8，狀態碼: {response.status_code}")
     
-    while downloaded < max_downloads:
-        response = requests.get(variant_m3u8_url, headers=headers)
-        if response.status_code != 200:
-            raise Exception(f"無法獲取 variant M3U8，狀態碼: {response.status_code}")
-        
-        content = response.text
-        lines = content.splitlines()
-        
-        sequence = None
-        ts_urls = []
-        for line in lines:
-            if line.startswith('#EXT-X-MEDIA-SEQUENCE:'):
-                sequence = int(line.split(':')[1])
-            elif line.startswith('#EXTINF:') or line.startswith('#EXT-X-PROGRAM-DATE-TIME:'):
-                continue
-            elif line.strip() and not line.startswith('#'):
-                ts_urls.append(line.strip())
-        
-        if not ts_urls:
-            print("暫無新 TS 片段，等待 5 秒...")
-            time.sleep(5)
-            continue
-        
-        # 下載新 TS 片段
-        for ts_url in ts_urls:
-            if downloaded >= max_downloads:
-                break
-            
+    variant_content = response.text
+    
+    # 解析 variant m3u8 獲取媒體序列號和 TS 片段
+    lines = variant_content.splitlines()
+    
+    # 準備生成 live.m3u8 的內容
+    live_m3u8_content = []
+    ts_segments = []
+    
+    for line in lines:
+        if line.startswith('#EXT-X-MEDIA-SEQUENCE:'):
+            # 保留媒體序列號
+            live_m3u8_content.append(line)
+        elif line.startswith('#EXT-X-PLAYLIST-TYPE:'):
+            # 保留播放列表類型
+            live_m3u8_content.append(line)
+        elif line.startswith('#EXT-X-TARGETDURATION:'):
+            # 保留目標時長
+            live_m3u8_content.append(line)
+        elif line.startswith('#EXT-X-VERSION:'):
+            # 保留版本
+            live_m3u8_content.append(line)
+        elif line.startswith('#EXTINF:'):
+            # 保留時長信息
+            live_m3u8_content.append(line)
+        elif line.startswith('#EXT-X-PROGRAM-DATE-TIME:'):
+            # 保留時間戳
+            live_m3u8_content.append(line)
+        elif line.strip() and not line.startswith('#'):
+            # 這是 TS 片段 URL
+            ts_url = line.strip()
             # 如果是相對 URL，轉絕對
             parsed_variant = urlparse(variant_m3u8_url)
             if not ts_url.startswith('http'):
@@ -130,37 +132,75 @@ def parse_and_download_ts(variant_m3u8_url, output_dir='ts_segments'):
             params = parse_qs(parsed_ts.query)
             sq = params.get('sq', ['unknown'])[0]
             filename = f"segment_{sq}.ts"
-            filepath = os.path.join(output_dir, filename)
             
-            # 下載 TS
+            # 下載 TS 片段
             ts_response = requests.get(ts_url, headers=headers, stream=True)
             if ts_response.status_code == 200:
+                filepath = os.path.join(output_dir, filename)
                 with open(filepath, 'wb') as f:
                     for chunk in ts_response.iter_content(chunk_size=8192):
                         f.write(chunk)
                 print(f"下載成功: {filename}")
-                downloaded += 1
+                ts_segments.append(filename)
             else:
                 print(f"下載失敗: {ts_url}，狀態碼: {ts_response.status_code}")
-        
-        # 等待下一次更新（直播通常每 5-10 秒更新一次）
-        time.sleep(5)
     
-    print(f"示範下載完成，共 {downloaded} 個 TS 片段")
+    # 生成 live.m3u8 文件
+    if ts_segments:
+        live_m3u8_content.append('#EXT-X-MEDIA-SEQUENCE:0')
+        live_m3u8_content.append('#EXT-X-PLAYLIST-TYPE:VOD')  # 或 EVENT
+        live_m3u8_content.append('#EXT-X-VERSION:3')
+        live_m3u8_content.append('#EXT-X-TARGETDURATION:10')
+        
+        for ts_file in ts_segments:
+            live_m3u8_content.append('#EXTINF:10.000,')
+            live_m3u8_content.append(ts_file)
+        
+        live_m3u8_content.append('#EXT-X-ENDLIST')
+        
+        # 寫入 live.m3u8 文件
+        live_m3u8_path = os.path.join(output_dir, 'live.m3u8')
+        with open(live_m3u8_path, 'w', encoding='utf-8') as f:
+            f.write('\n'.join(live_m3u8_content))
+        
+        print(f"live.m3u8 文件已生成: {live_m3u8_path}")
+        print(f"包含 {len(ts_segments)} 個 TS 片段")
+        
+        return live_m3u8_path, ts_segments
+    
+    return None, []
 
 # 主程式
 if __name__ == "__main__":
     video_url = "https://www.youtube.com/watch?v=fN9uYWCjQaw"
     
     try:
+        # 創建輸出目錄
+        output_dir = 'ts_segments'
+        if not os.path.exists(output_dir):
+            os.makedirs(output_dir)
+        
         # 步驟1: 提取主 HLS URL
         master_hls_url = extract_hls_url(video_url)
         
         # 步驟2: 獲取最高品質 variant M3U8
         variant_m3u8_url = get_variant_m3u8(master_hls_url)
         
-        # 步驟3: 解析 variant M3U8 並下載 TS 片段（示範）
-        parse_and_download_ts(variant_m3u8_url)
+        # 步驟3: 生成 live.m3u8 文件並下載 TS 片段
+        live_m3u8_path, downloaded_segments = generate_live_m3u8(variant_m3u8_url, output_dir)
+        
+        if live_m3u8_path:
+            print(f"\n直播 M3U8 文件已生成: {live_m3u8_path}")
+            print("您可以使用 VLC 或其他播放器打開此文件播放下載的直播內容")
+            
+            # 顯示生成的 live.m3u8 內容
+            print("\nlive.m3u8 內容前10行:")
+            with open(live_m3u8_path, 'r', encoding='utf-8') as f:
+                lines = f.readlines()
+                for i, line in enumerate(lines[:10]):
+                    print(f"  {i+1}: {line.strip()}")
+                if len(lines) > 10:
+                    print(f"  ... (共 {len(lines)} 行)")
         
     except Exception as e:
         print(f"錯誤: {str(e)}")
