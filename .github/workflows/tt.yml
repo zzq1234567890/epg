@@ -1,0 +1,37 @@
+name: Run Python Script for YouTube Parsing
+
+# 觸發事件：當推送代碼到 main 分支時，或每小時排程運行一次
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 * * * *'  # 每小時運行一次（UTC 時間）
+
+jobs:
+  build-and-run:
+    runs-on: ubuntu-latest  # 使用最新的 Ubuntu 虛擬機
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4  # 拉取儲存庫代碼
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'  # 指定 Python 版本（匹配您的腳本）
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi  # 安裝依賴
+
+      - name: Run Python script
+        run: python parse_youtube_live.py  # 運行您的腳本（替換為實際腳本名稱）
+
+      - name: Upload artifacts (optional)
+        uses: actions/upload-artifact@v4
+        if: always()  # 如果腳本產生輸出文件，可上傳
+        with:
+          name: script-output
+          path: ts_segments/  # 假設腳本輸出到這個目錄
