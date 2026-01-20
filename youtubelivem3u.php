@@ -44,7 +44,7 @@ preg_match_all('|"thumbnail":\{"thumbnails":\[\{"url":"(.*?)",|i',$re18,$piem18,
 preg_match_all('|\{"playlistVideoRenderer":\{"videoId":"(.*?)",|i',$re18,$piec18,PREG_SET_ORDER);//vid
 preg_match_all('|"shortBylineText":\{"runs":\[\{"text":"(.*?)",|i',$re18,$piek18,PREG_SET_ORDER);//標題
 $tru18=count($piec18);
-  for ($k18 = 0; $k18 <=$tru18-1; $k18++) {
+  for ($k18 = 0; $k18 <=$tru18; $k18++) {
 
 
 
@@ -69,7 +69,7 @@ preg_match_all('|"thumbnail":\{"thumbnails":\[\{"url":"(.*?)",|i',$re8,$piem8,PR
 preg_match_all('|\{"playlistVideoRenderer":\{"videoId":"(.*?)",|i',$re8,$piec8,PREG_SET_ORDER);//vid
 preg_match_all('|"shortBylineText":\{"runs":\[\{"text":"(.*?)",|i',$re8,$piek8,PREG_SET_ORDER);//標題
 $tru8=count($piec8);
-  for ($k8 = 0; $k8 <=$tru8-1; $k8++) {
+  for ($k8 = 0; $k8 <=$tru8; $k8++) {
 
 //$chn. "".str_replace('【好劇LIVE24h爆肝直播】','',str_replace('Live!','',str_replace('LIVE:','',str_replace('正在直播:','',str_replace('【LIVE】','',str_replace('【ON AIR】','', $piek8[$k8][1])))))).",https://www.youtube.com/watch?v=".$piec8[$k8][1]."\r\n";
 
@@ -95,7 +95,7 @@ preg_match_all('|"thumbnail":\{"thumbnails":\[\{"url":"(.*?)",|i',$re12,$piem12,
 preg_match_all('|\{"playlistVideoRenderer":\{"videoId":"(.*?)",|i',$re12,$piec12,PREG_SET_ORDER);//vid
 preg_match_all('|"shortBylineText":\{"runs":\[\{"text":"(.*?)",|i',$re12,$piek12,PREG_SET_ORDER);//標題
 $tru12=count($piec12);
-  for ($k12 = 0; $k12 <=$tru12-1; $k12++) {
+  for ($k12 = 0; $k12 <=$tru12; $k12++) {
 
 //$chn. "".str_replace('【好劇LIVE24h爆肝直播】','',str_replace('Live!','',str_replace('LIVE:','',str_replace('正在直播:','',str_replace('【LIVE】','',str_replace('【ON AIR】','', $piek12[$k12][1])))))).",https://www.youtube.com/watch?v=".$piec12[$k12][1]."\r\n";
 
@@ -121,7 +121,7 @@ preg_match_all('|"thumbnail":\{"thumbnails":\[\{"url":"(.*?)",|i',$re4,$piem4,PR
 preg_match_all('|\{"playlistVideoRenderer":\{"videoId":"(.*?)",|i',$re4,$piec4,PREG_SET_ORDER);//vid
 preg_match_all('|"shortBylineText":\{"runs":\[\{"text":"(.*?)",|i',$re4,$piek4,PREG_SET_ORDER);//標題
 $tru4=count($piec4);
-  for ($k4 = 0; $k4 <=$tru4-1; $k4++) {
+  for ($k4 = 0; $k4 <=$tru4; $k4++) {
 
 //$chn. "".str_replace('【好劇LIVE24h爆肝直播】','',str_replace('Live!','',str_replace('LIVE:','',str_replace('正在直播:','',str_replace('【LIVE】','',str_replace('【ON AIR】','', $piek4[$k4][1])))))).",https://www.youtube.com/watch?v=".$piec4[$k4][1]."\r\n";
 
@@ -151,7 +151,7 @@ preg_match_all('|"thumbnail":\{"thumbnails":\[\{"url":"(.*?)",|i',$re2,$piem2,PR
 //$chn._r($piem2);
 
 $tru2=count($piec2);
-  for ($k2 = 0; $k2 <=$tru2-1; $k2++) {
+  for ($k2 = 0; $k2 <=$tru2; $k2++) {
 
 //$chn. "#EXTINF:-1 tvg-id=\"".$fs4GTV_ID."\" tvg-name=\"".$fsNAME."\" tvg-logo=\"".$fsLOGO_MOBILE."\" group-title=\"4gtv\",".$fsNAME."\r\n";
 
@@ -182,7 +182,7 @@ preg_match_all('|\{"playlistVideoRenderer":\{"videoId":"(.*?)",|i',$re3,$piec3,P
 preg_match_all('|"thumbnail":\{"thumbnails":\[\{"url":"(.*?)",|i',$re3,$piem3,PREG_SET_ORDER);//logo
 preg_match_all('|"shortBylineText":\{"runs":\[\{"text":"(.*?)",|i',$re3,$piek3,PREG_SET_ORDER);//標題
 $tru3=count($piec3);
-  for ($k3 = 0; $k3 <=$tru3-1; $k3++) {
+  for ($k3 = 0; $k3 <=$tru3; $k3++) {
 
 
 
@@ -218,7 +218,7 @@ preg_match_all('|\{"playlistVideoRenderer":\{"videoId":"(.*?)",|i',$re4,$piec4,P
 preg_match_all('|"thumbnail":\{"thumbnails":\[\{"url":"(.*?)",|i',$re4,$piem4,PREG_SET_ORDER);//logo
 preg_match_all('|"shortBylineText":\{"runs":\[\{"text":"(.*?)",|i',$re4,$piek4,PREG_SET_ORDER);//標題
 $tru4=count($piec4);
-  for ($k4 = 0; $k4 <=$tru4-1; $k4++) {
+  for ($k4 = 0; $k4 <=$tru4; $k4++) {
 
 
 $chn.= "#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" tvg-logo=\"".$piem4[$k4][1]."\" group-title=\"youtube正在直播\",".$piek4[$k4][1]."\r\n";
@@ -243,7 +243,7 @@ preg_match_all('|\{"playlistVideoRenderer":\{"videoId":"(.*?)",|i',$re42,$piec42
 preg_match_all('|"thumbnail":\{"thumbnails":\[\{"url":"(.*?)",|i',$re42,$piem42,PREG_SET_ORDER);//logo
 preg_match_all('|"shortBylineText":\{"runs":\[\{"text":"(.*?)",|i',$re42,$piek42,PREG_SET_ORDER);//標題
 $tru42=count($piec42);
-  for ($k42 = 0; $k42 <=$tru42-1; $k42++) {
+  for ($k42 = 0; $k42 <=$tru42; $k42++) {
 
 
 
@@ -272,7 +272,7 @@ preg_match_all('|\{"playlistVideoRenderer":\{"videoId":"(.*?)",|i',$re5,$piec5,P
 preg_match_all('|"shortBylineText":\{"runs":\[\{"text":"(.*?)",|i',$re5,$piek5,PREG_SET_ORDER);//標題
 
 $tru5=count($piec5);
-  for ($k5 = 0; $k5 <=$tru5-1; $k5++) {
+  for ($k5 = 0; $k5 <=$tru5; $k5++) {
 
 
 
@@ -296,7 +296,7 @@ preg_match_all('|\{"playlistVideoRenderer":\{"videoId":"(.*?)",|i',$re51,$piec51
 preg_match_all('|"shortBylineText":\{"runs":\[\{"text":"(.*?)",|i',$re51,$piek51,PREG_SET_ORDER);//標題
 
 $tru51=count($piec51);
-  for ($k51 = 0; $k51 <=$tru51-1; $k51++) {
+  for ($k51 = 0; $k51 <=$tru51; $k51++) {
 
 
 
@@ -326,7 +326,7 @@ preg_match_all('|"thumbnail":\{"thumbnails":\[\{"url":"(.*?)",|i',$re6,$piem6,PR
 preg_match_all('|\{"playlistVideoRenderer":\{"videoId":"(.*?)",|i',$re6,$piec6,PREG_SET_ORDER);//vid
 preg_match_all('|"shortBylineText":\{"runs":\[\{"text":"(.*?)",|i',$re6,$piek6,PREG_SET_ORDER);//標題
 $tru6=count($piec6);
-  for ($k6 = 0; $k6 <=$tru6-1; $k6++) {
+  for ($k6 = 0; $k6 <=$tru6; $k6++) {
 
 
 
@@ -357,7 +357,7 @@ preg_match_all('|"thumbnail":\{"thumbnails":\[\{"url":"(.*?)",|i',$re9,$piem9,PR
 preg_match_all('|\{"playlistVideoRenderer":\{"videoId":"(.*?)",|i',$re9,$piec9,PREG_SET_ORDER);//vid
 preg_match_all('|"shortBylineText":\{"runs":\[\{"text":"(.*?)",|i',$re9,$piek9,PREG_SET_ORDER);//標題
 $tru9=count($piec9);
-  for ($k9 = 0; $k9 <=$tru9-1; $k9++) {
+  for ($k9 = 0; $k9 <=$tru9; $k9++) {
 
 
 $chn.= "#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" tvg-logo=\"".$piem9[$k9][1]."\" group-title=\"youtube語言學習\",".$piek9[$k9][1]."\r\n";
@@ -380,7 +380,7 @@ preg_match_all('|"thumbnail":\{"thumbnails":\[\{"url":"(.*?)",|i',$re7,$piem7,PR
 preg_match_all('|\{"playlistVideoRenderer":\{"videoId":"(.*?)",|i',$re7,$piec7,PREG_SET_ORDER);//vid
 preg_match_all('|"shortBylineText":\{"runs":\[\{"text":"(.*?)",|i',$re7,$piek7,PREG_SET_ORDER);//標題
 $tru7=count($piec7);
-  for ($k7 = 0; $k7 <=$tru7-1; $k7++) {
+  for ($k7 = 0; $k7 <=$tru7; $k7++) {
 
 //$chn. "".str_replace('【好劇LIVE24h爆肝直播】','',str_replace('Live!','',str_replace('LIVE:','',str_replace('正在直播:','',str_replace('【LIVE】','',str_replace('【ON AIR】','', $piek7[$k7][1])))))).",https://www.youtube.com/watch?v=".$piec7[$k7][1]."\r\n";
 
@@ -404,7 +404,7 @@ preg_match_all('|"thumbnail":\{"thumbnails":\[\{"url":"(.*?)",|i',$re10,$piem10,
 preg_match_all('|\{"playlistVideoRenderer":\{"videoId":"(.*?)",|i',$re10,$piec10,PREG_SET_ORDER);//vid
 preg_match_all('|"shortBylineText":\{"runs":\[\{"text":"(.*?)",|i',$re10,$piek10,PREG_SET_ORDER);//標題
 $tru10=count($piec10);
-  for ($k10 = 0; $k10 <=$tru10-1; $k10++) {
+  for ($k10 = 0; $k10 <=$tru10; $k10++) {
 
 //$chn. "".str_replace('【好劇LIVE24h爆肝直播】','',str_replace('Live!','',str_replace('LIVE:','',str_replace('正在直播:','',str_replace('【LIVE】','',str_replace('【ON AIR】','', $piek10[$k10][1])))))).",https://www.youtube.com/watch?v=".$piec10[$k10][1]."\r\n";
 $chn.= "#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" tvg-logo=\"".$piem10[$k10][1]."\" group-title=\"youtube廣告直播\",".$piek10[$k10][1]."\r\n";
