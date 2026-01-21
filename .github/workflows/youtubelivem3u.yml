@@ -36,11 +36,11 @@ jobs:
       - name: Overwrite target file
         run: |
           # 确保覆盖前文件存在
-          ls -l youtubelive.m3u
+          ls -l youtubeworld.m3u
           # 强制复制并保留权限
-          cp -f youtubelive.m3u epg/youtubelive.m3u
+          cp -f youtubeworld.m3u epg/youtubeworld.m3u
           # 验证覆盖结果
-          ls -l epg/youtubelive.m3u
+          ls -l epg/youtubeworld.m3u
 
       # 第六步：提交变更（优化路径处理）
       - name: Commit and push
