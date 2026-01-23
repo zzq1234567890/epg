@@ -33,7 +33,7 @@ if($remote_m3u === false) {
 // 修正：使用 str_replace() 而不是 replace()
 $remote_m3u = str_replace(
     'https://www.youtube.com/watch?v',
-    'http://127.0.0.1:8081/youtube.php?id', 
+    'http://127.0.0.1:8081/youtube.php?v', 
     $remote_m3u
 );
 
