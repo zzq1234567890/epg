@@ -44,13 +44,12 @@ jobs:
         
     - name: Install yt-dlp (最新版本)
       run: |
-        # 方法1：使用pip安装最新版
-        pip3 install --upgrade yt-dlp
+        
         
         # 方法2：或者从GitHub直接下载（备选）
-        # wget https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -O yt-dlp
-        # chmod a+rx yt-dlp
-        # sudo mv yt-dlp /usr/local/bin/
+         wget https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -O yt-dlp
+         chmod a+rx yt-dlp
+         sudo mv yt-dlp /usr/local/bin/
         
         # 验证安装
         echo "yt-dlp 版本:"
