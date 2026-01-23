@@ -1,4 +1,4 @@
-name: youtubelivem3u
+name: youtubelocalm3u
 
 on:
   schedule:
@@ -21,8 +21,8 @@ jobs:
           php-version: '7.4'
 
       # 第三步：生成文件
-      - name: Run youtubelivem3u.php
-        run: php youtubelivem3u.php
+      - name: Run youtubelocalm3u.php
+        run: php youtubelocalm3u.php
 
       # 第四步：检出目标仓库
       - name: Checkout target repo
@@ -36,11 +36,11 @@ jobs:
       - name: Overwrite target file
         run: |
           # 确保覆盖前文件存在
-          ls -l youtubeworld.m3u
+          ls -l youtubelocal.m3u
           # 强制复制并保留权限
-          cp -f youtubeworld.m3u epg/youtubeworld.m3u
+          cp -f youtubelocal.m3u epg/youtubeworld.m3u
           # 验证覆盖结果
-          ls -l epg/youtubeworld.m3u
+          ls -l epg/youtubelocal.m3u
 
       # 第六步：提交变更（优化路径处理）
       - name: Commit and push
