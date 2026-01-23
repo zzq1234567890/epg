@@ -2,7 +2,7 @@ name: youtubelocal
 
 on:
   schedule:
-    - cron: '18 * * * *'
+    - cron: '18 */2 * * *'
   workflow_dispatch:
 
 jobs:
