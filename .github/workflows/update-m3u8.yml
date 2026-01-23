@@ -23,55 +23,191 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        persist-credentials: false
+        fetch-depth: 0
         
     - name: Setup PHP
       uses: shivammathur/setup-php@v2
       with:
         php-version: '8.2'
+        extensions: mbstring, xml, curl, zip
         
-    - name: Install yt-dlp
+    - name: Install system dependencies
       run: |
-        # 安装 Python 和 pip
         sudo apt-get update
-        sudo apt-get install -y python3 python3-pip ffmpeg
+        sudo apt-get install -y \
+          python3 \
+          python3-pip \
+          python3-setuptools \
+          ffmpeg \
+          wget \
+          curl
         
-        # 安装 yt-dlp
-        pip3 install yt-dlp
+    - name: Install yt-dlp (最新版本)
+      run: |
+        # 方法1：使用pip安装最新版
+        pip3 install --upgrade yt-dlp
+        
+        # 方法2：或者从GitHub直接下载（备选）
+        # wget https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -O yt-dlp
+        # chmod a+rx yt-dlp
+        # sudo mv yt-dlp /usr/local/bin/
         
         # 验证安装
-        yt-dlp --version
+        echo "yt-dlp 版本:"
+        yt-dlp --version || echo "安装失败"
+        
+    - name: Verify yt-dlp installation
+      run: |
+        which yt-dlp || echo "yt-dlp 未在PATH中找到"
+        python3 -c "import sys; print('Python路径:', sys.executable)"
+        pip3 list | grep yt-dlp || pip3 show yt-dlp || echo "使用其他方式检查"
+        
+    - name: Create PHP script
+      run: |
+        # 创建或使用现有的PHP脚本
+        if [ ! -f "fetch_youtube_m3u8.php" ]; then
+          echo "创建PHP脚本..."
+          cat > fetch_youtube_m3u8.php << 'EOF'
+        <?php
+        // 简化版本的YouTube M3U8获取脚本
+        $channels = [
+            ['凤凰卫视', 'https://www.youtube.com/watch?v=fN9uYWCjQaw'],
+            ['CGTN', 'https://www.youtube.com/watch?v=_6dRRfnYJws']
+        ];
+        
+        echo "=== YouTube M3U8 生成器 ===\n";
+        echo "开始时间: " . date('Y-m-d H:i:s') . "\n\n";
+        
+        // 检查yt-dlp
+        echo "检查yt-dlp...\n";
+        $version = shell_exec('yt-dlp --version 2>&1');
+        if (strpos($version, 'yt-dlp') === false) {
+            echo "错误: yt-dlp 不可用\n";
+            echo "尝试重新安装...\n";
+            shell_exec('pip3 install yt-dlp --upgrade 2>&1');
+        }
+        
+        $output = "#EXTM3U\n";
+        $success = 0;
+        
+        foreach ($channels as $channel) {
+            list($name, $url) = $channel;
+            
+            echo "\n获取: $name\n";
+            echo "URL: $url\n";
+            
+            // 尝试多种方法获取m3u8
+            $methods = [
+                "yt-dlp -f 'best[height<=2160]' -g '$url' 2>&1",
+                "yt-dlp -f 'best' -g '$url' 2>&1",
+                "yt-dlp --format-sort 'res:2160' -g '$url' 2>&1"
+            ];
+            
+            $m3u8 = '';
+            foreach ($methods as $method) {
+                $result = trim(shell_exec($method));
+                if (!empty($result) && filter_var($result, FILTER_VALIDATE_URL)) {
+                    $m3u8 = $result;
+                    break;
+                }
+            }
+            
+            if (!empty($m3u8)) {
+                $output .= "# $name\n";
+                $output .= "$m3u8\n\n";
+                $success++;
+                echo "✓ 成功获取M3U8\n";
+                
+                // 尝试获取分辨率信息
+                $info = shell_exec("yt-dlp --dump-json '$url' 2>&1 | head -c 2000");
+                $data = json_decode($info, true);
+                if ($data && isset($data['height'])) {
+                    echo "分辨率: " . $data['height'] . "p\n";
+                }
+            } else {
+                echo "✗ 失败，尝试备用方法...\n";
+                
+                // 备用方法：列出格式
+                $formats = shell_exec("yt-dlp --list-formats '$url' 2>&1");
+                echo "可用格式:\n" . substr($formats, 0, 500) . "\n";
+            }
+            
+            sleep(2); // 避免请求过快
+        }
+        
+        // 写入文件
+        if ($success > 0) {
+            file_put_contents('yout.m3u', $output);
+            echo "\n✓ 成功生成 yout.m3u ($success 个频道)\n";
+            echo "文件内容:\n";
+            echo "==========\n";
+            echo $output;
+            echo "==========\n";
+        } else {
+            echo "\n✗ 所有频道都获取失败\n";
+            exit(1);
+        }
+        ?>
+        EOF
+        fi
         
     - name: Run M3U8 generator
       run: |
-        # 给脚本执行权限
-        chmod +x fetch_youtube_m3u8.php
+        echo "当前目录:"
+        pwd
+        ls -la
         
-        # 运行PHP脚本
+        echo "PHP版本:"
+        php --version
+        
+        echo "Python版本:"
+        python3 --version
+        
+        echo "yt-dlp位置:"
+        which yt-dlp
+        
+        echo "运行PHP脚本:"
         php fetch_youtube_m3u8.php
         
-        # 显示生成的文件
-        echo "=== 生成的 yout.m3u 内容 ==="
-        cat yout.m3u || echo "文件不存在"
+    - name: Show generated file
+      run: |
+        echo "=== 检查生成的文件 ==="
+        if [ -f "yout.m3u" ]; then
+          echo "文件存在，大小:"
+          ls -lh yout.m3u
+          echo "内容:"
+          cat yout.m3u
+        else
+          echo "文件 yout.m3u 不存在"
+          exit 1
+        fi
         
-    - name: Commit and push if changed
+    - name: Commit and push changes
+      if: success()
       run: |
         # 配置Git
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "GitHub Actions"
         
-        # 检查文件是否有变化
-        if git diff --quiet yout.m3u; then
-          echo "文件未变化，无需提交"
-        else
-          # 提交更改
-          git add yout.m3u
+        # 添加并提交文件
+        git add yout.m3u
+        git status
+        
+        if ! git diff-index --quiet HEAD --; then
           git commit -m "📺 更新YouTube M3U8列表 [$(date +'%Y-%m-%d %H:%M:%S')]"
+          
+          # 推送到仓库
           git push origin main
+          echo "✓ 已提交并推送更改"
+        else
+          echo "✓ 文件无变化，无需提交"
         fi
         
     - name: Upload artifact
       uses: actions/upload-artifact@v4
       with:
         name: youtube-m3u8-playlist
-        path: yout.m3u
+        path: |
+          yout.m3u
+          fetch_youtube_m3u8.php
+        retention-days: 7
