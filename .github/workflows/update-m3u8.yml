@@ -36,11 +36,11 @@ jobs:
         mkdir -p temp_m3u8
         
         # 讀取原始文件
-        if [ -f youtube.txt ]; then
+        if [ -f youtube.m3u8 ]; then
           echo "📋 讀取原始播放列表..."
           
           # 提取 YouTube 視頻ID
-          grep -o 'v=[a-zA-Z0-9_-]\+' youtube.txt | cut -d'=' -f2 > video_ids.txt
+          grep -o 'v=[a-zA-Z0-9_-]\+' youtube.m3u8 | cut -d'=' -f2 > video_ids.txt
           
           # 初始化新M3U8文件
           echo "#EXTM3U" > yt.m3u8
