@@ -1,0 +1,77 @@
+name: Update YouTube M3U8 Playlist
+
+on:
+  # 定时触发：每6小时运行一次
+  schedule:
+    - cron: '0 */6 * * *'
+  
+  # 手动触发
+  workflow_dispatch:
+  
+  # 推送代码时触发
+  push:
+    branches: [ main ]
+    paths:
+      - 'fetch_youtube_m3u8.php'
+      - '.github/workflows/update-m3u8.yml'
+
+jobs:
+  update-m3u8:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        persist-credentials: false
+        
+    - name: Setup PHP
+      uses: shivammathur/setup-php@v2
+      with:
+        php-version: '8.2'
+        
+    - name: Install yt-dlp
+      run: |
+        # 安装 Python 和 pip
+        sudo apt-get update
+        sudo apt-get install -y python3 python3-pip ffmpeg
+        
+        # 安装 yt-dlp
+        pip3 install yt-dlp
+        
+        # 验证安装
+        yt-dlp --version
+        
+    - name: Run M3U8 generator
+      run: |
+        # 给脚本执行权限
+        chmod +x fetch_youtube_m3u8.php
+        
+        # 运行PHP脚本
+        php fetch_youtube_m3u8.php
+        
+        # 显示生成的文件
+        echo "=== 生成的 yout.m3u 内容 ==="
+        cat yout.m3u || echo "文件不存在"
+        
+    - name: Commit and push if changed
+      run: |
+        # 配置Git
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        # 检查文件是否有变化
+        if git diff --quiet yout.m3u; then
+          echo "文件未变化，无需提交"
+        else
+          # 提交更改
+          git add yout.m3u
+          git commit -m "📺 更新YouTube M3U8列表 [$(date +'%Y-%m-%d %H:%M:%S')]"
+          git push origin main
+        fi
+        
+    - name: Upload artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: youtube-m3u8-playlist
+        path: yout.m3u
