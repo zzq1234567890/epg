@@ -34,20 +34,20 @@
 央視頻、1905電影網、電視搜部分地方頻道，浙江電視台、江蘇電視台、河北電視台、北京電視台、上海電視台、重慶電視台、福建衛電視台、廣東電視台、廣西電視台、江西電視台、四川電視台、內蒙古電視台、新疆電視台等。
 
 ### （2）香港地區
-MyTV Super、Anywhere、TVB Anywhere USA、Now寬頻、HOY電視台、香港電台等。
+Mytvsuper、TVBAnywhere東南亞、TVB Anywhere USA、Now寬頻、HOY電視台、香港電台等。
 
 ### （3）澳門地區
 澳門電視台、澳門有線電視台。
 
 ### （4）台灣地區
-MOD、BB寬頻、TBC有線、4GTV、Hami、Ofiii等。
+中華電信MOD、中嘉BB寬頻、TBC有線、4GTV、Hami、Ofiii，龍華電視台多個頻道等。
 
 ### （5）其他國家及地區
  1. 韓國：KBS、SBS、MBC、EBC；
  2. 新加坡：MeWatch；
- 3. 馬來西亞：Astro Unifi；
- 4. 印度尼西亞：Vision+。
- 5. 阿聯酋 mbc 系列
+ 3. 馬來西亞：Astro , Unifi；
+ 4. 印度尼西亞：Vision+.
+ 5. 阿聯酋 MBC電視台系列.
 
 ## 五、近期更新內容
  1. 新增廣西電視台官網部分地方頻道的EPG數據；
@@ -153,19 +153,19 @@ MOD, BB Broadband, TBC Cable, 4GTV, Hami, Ofiii, etc.
  7.1 Traditional Chinese (For Hong Kong, Macau, Taiwan)
 ```
 #EXTM3U url-tvg="https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 tvg-id="電視台名稱1" tvg-name="電視台名稱1" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="你的分組",電視台名稱1
-節目播放地址1
-#EXTINF:-1 tvg-id="電視台名稱2" tvg-name="電視台名稱2" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="你的分組",電視台名稱2
-節目播放地址2
+#EXTINF:-1 tvg-id="tv1" tvg-name="tv1" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="group name",tv1
+stream live address 1
+#EXTINF:-1 tvg-id="tv2" tvg-name="tv2" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="group name",tv2
+stream live address 2
 ```
 
  7.2 Simplified Chinese (For Mainland China, Southeast Asia)
 ```
 #EXTM3U url-tvg="https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 tvg-id="电视台名称1" tvg-name="电视台名称1" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="你的分组",电视台名称1
-节目源地址1
-#EXTINF:-1 tvg-id="电视台名称2" tvg-name="电视台名称2" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="你的分组",电视台名称2
-节目源地址2
+#EXTINF:-1 tvg-id="tv1" tvg-name="tv1" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="group namr",tv1
+stream live address1
+#EXTINF:-1 tvg-id="电视台名称2" tvg-name="电视台名称2" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="group name",tv2
+stream live address 2
 ```
 
 
@@ -173,7 +173,7 @@ MOD, BB Broadband, TBC Cable, 4GTV, Hami, Ofiii, etc.
 
 # 📺 EPG 電子節目表狀態報告
 
-> 最後更新時間: **2026-01-28 21:27**
+> 最後更新時間: **2026-01-28 22:01**
 
 ## 📊 統計摘要
 - **繁體頻道數**: 1975 (節目總數: 189332)
