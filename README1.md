@@ -164,7 +164,7 @@ stream live address 2
 #EXTM3U url-tvg="https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="tv1" tvg-name="tv1" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="group namr",tv1
 stream live address1
-#EXTINF:-1 tvg-id="电视台名称2" tvg-name="电视台名称2" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="group name",tv2
+#EXTINF:-1 tvg-id="tv2" tvg-name="tv2" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="group name",tv2
 stream live address 2
 ```
 
