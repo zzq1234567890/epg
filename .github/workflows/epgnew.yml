@@ -2,7 +2,7 @@ name: epgnew
 
 on:
   schedule:
-    - cron: '48 */1 * * *'
+    - cron: '23 */1 * * *'
   workflow_dispatch:
 
 jobs:
