@@ -2,7 +2,7 @@ name: youtubelocalm3u
 
 on:
   schedule:
-    - cron: '15 * * * *'
+    - cron: '25 */1 * * *'
   workflow_dispatch:
 
 jobs:
