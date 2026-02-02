@@ -146,8 +146,8 @@ MOD, BB Broadband, TBC Cable, 4GTV, Hami, Ofiii, etc.
  5. Launched Simplified Chinese EPG (swepg.xml.gz) and Traditional Chinese EPG (twepg.xml.gz) for improved regional adaptation.
 
 ## 6. Reference Resources
- 1. Traditional Chinese TV Channel List: https://raw.githubusercontent.com/zzq12345/epgtest/refs/heads/main/繁體電視台目錄.txt
- 2. Simplified Chinese TV Channel List: https://raw.githubusercontent.com/zzq12345/epgtest/refs/heads/main/简体电视台目录.txt
+ 1. Traditional Chinese TV Channel List: https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/繁體電視台目錄.txt
+ 2. Simplified Chinese TV Channel List: https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/简体电视台目录.txt
 
 ## 7. M3U Format Specifications
  7.1 Traditional Chinese (For Hong Kong, Macau, Taiwan)
