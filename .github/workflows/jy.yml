@@ -19,8 +19,8 @@ jobs:
 
       - name: Download XML files
         run: |
-          curl -L --retry 3 --max-time 10 -o twepg.xml https://raw.githubusercontent.com/zzq12345/epgtest/main/twepg.xml
-          curl -L --retry 3 --max-time 10 -o swepg.xml https://raw.githubusercontent.com/zzq12345/epgtest/main/swepg.xml
+          curl -L --retry 3 --max-time 10 -o twepg.xml https://raw.githubusercontent.com/zzq1234567890/epg/main/twepg.xml
+          curl -L --retry 3 --max-time 10 -o swepg.xml https://raw.githubusercontent.com/zzq1234567890/epg/main/swepg.xml
           [ -s twepg.xml ] || { echo "twepg.xml 为空"; exit 1; }
           [ -s swepg.xml ] || { echo "swepg.xml 为空"; exit 1; }
 
