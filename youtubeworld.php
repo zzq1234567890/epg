@@ -1,7 +1,7 @@
 <?php
 // 設定 HTTP 標頭，確保輸出為純文字 UTF-8
 header( 'Content-Type:text/plain ; charset=UTF-8');
-$fp="yu.m3u";//压缩版本的扩展名后加.gz
+$fp="youtubeworld.m3u";//压缩版本的扩展名后加.gz
 
 // 輔助函數：處理 JSON 中的 Unicode 轉義序列 (例如 \uXXXX)
 function decode_unicode_escape($str) {
