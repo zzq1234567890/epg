@@ -21,8 +21,8 @@ jobs:
           php-version: '7.4'
 
       # 第三步：生成文件
-      - name: Run youtubelocal.php
-        run: php youtubelocal.php
+      - name: Run youtubeworld.php
+        run: php youtubeworld.php
 
       # 第四步：检出目标仓库
       - name: Checkout target repo
