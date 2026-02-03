@@ -114,6 +114,26 @@ function extract_youtube_live($url, $cookie) {
 }
 
 $chn = "#EXTM3U  \r\n";
+// 獲取遠程 M3U 內容並合併
+$remote_m3u_url = "https://raw.githubusercontent.com/zzq12345/epgtest/refs/heads/main/yu.m3u";
+$remote_content = get_remote_m3u($remote_m3u_url);
+
+if ($remote_content) {
+    // 如果遠程內容包含 #EXTM3U 標頭，則移除
+    if (strpos($remote_content, "#EXTM3U") === 0) {
+        // 找到第一個換行符後的位置
+        $first_newline = strpos($remote_content, "\n");
+        if ($first_newline !== false) {
+            // 保留 #EXTM3U 之後的內容
+            $remote_content = substr($remote_content, $first_newline + 1);
+        }
+    }
+    // 將遠程內容追加到本地內容
+    $chn .= $remote_content;
+} else {
+    // 如果獲取失敗，可以記錄錯誤或忽略
+    // 這裡可以添加錯誤處理代碼
+}
 
 $url = "https://www.youtube.com/channel/UC4R8DWoMoI7CAwX8_LjQHig/livetab?ss=CKEK";
 $cookie = " ";
@@ -348,26 +368,7 @@ for ($k10 = 0; $k10 < $tru10 && isset($piek10[$k10][1]) && isset($piec10[$k10][1
     $chn.= "https://www.youtube.com/watch?v=".$piec10[$k10][1]."\r\n";
 }
 
-// 獲取遠程 M3U 內容並合併
-$remote_m3u_url = "https://raw.githubusercontent.com/zzq12345/epgtest/refs/heads/main/yu.m3u";
-$remote_content = get_remote_m3u($remote_m3u_url);
 
-if ($remote_content) {
-    // 如果遠程內容包含 #EXTM3U 標頭，則移除
-    if (strpos($remote_content, "#EXTM3U") === 0) {
-        // 找到第一個換行符後的位置
-        $first_newline = strpos($remote_content, "\n");
-        if ($first_newline !== false) {
-            // 保留 #EXTM3U 之後的內容
-            $remote_content = substr($remote_content, $first_newline + 1);
-        }
-    }
-    // 將遠程內容追加到本地內容
-    $chn .= $remote_content;
-} else {
-    // 如果獲取失敗，可以記錄錯誤或忽略
-    // 這裡可以添加錯誤處理代碼
-}
 
 // 輸出結果
 //echo $chn;
