@@ -1,7 +1,7 @@
 <?php
 // 設定 HTTP 標頭，確保輸出為純文字 UTF-8
-header( 'Content-Type:text/plain ; charset=UTF-8');
-$fp="youtubeworld.m3u";//压缩版本的扩展名后加.gz
+header('Content-Type:text/plain ; charset=UTF-8');
+$fp = "youtubeworld.m3u"; //压缩版本的扩展名后加.gz
 
 // 輔助函數：處理 JSON 中的 Unicode 轉義序列 (例如 \uXXXX)
 function decode_unicode_escape($str) {
@@ -10,17 +10,12 @@ function decode_unicode_escape($str) {
     }, $str);
 }
 
-
-
-
 // 輔助函數：處理 Unicode 轉碼 (適合 PHP7+)
-function replace_unicode_escape_sequence($match)
-{       
+function replace_unicode_escape_sequence($match) {       
     return mb_convert_encoding(pack('H*', $match[1]), 'UTF-8', 'UCS-2BE');     
 }          
 
-function escape($str)
-{
+function escape($str) {
     preg_match_all("/[\x80-\xff].|[\x01-\x7f]+/", $str, $r);
     $ar = $r[0];
     foreach ($ar as $k => $v) {
@@ -31,8 +26,20 @@ function escape($str)
     }
     return join("", $ar);
 }
-//適合php7以上
-         
+
+// 從 URL 獲取 M3U 內容
+function get_remote_m3u($url) {
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $url);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, FALSE);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, FALSE);
+    curl_setopt($ch, CURLOPT_TIMEOUT, 10);
+    $content = curl_exec($ch);
+    curl_close($ch);
+    return $content;
+}
+
 function extract_youtube_live($url, $cookie) {
     $ch = curl_init();
     
@@ -105,23 +112,21 @@ function extract_youtube_live($url, $cookie) {
     
     return $unique_videos;
 }
-$chn= "#EXTM3U  \r\n";
+
+$chn = "#EXTM3U  \r\n";
 
 $url = "https://www.youtube.com/channel/UC4R8DWoMoI7CAwX8_LjQHig/livetab?ss=CKEK";
 $cookie = " ";
 
 $results = extract_youtube_live($url, $cookie);
 
- {
+{
     foreach ($results as $res) {
-
-   $chn.= "#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" tvg-logo=\"\" group-title=\"youtube正在直播\"," .str_replace('#','',$res['title']). "\r\n";
-    // 修正：直接使用當前索引的網址，不使用 *4
-    $chn.= "https://www.youtube.com/watch?v=" . $res['video_id'] . "\r\n";
-        //echo "Title: " . $res['title'] . " | Video ID: " . $res['video_id'] . "\r\n";
+        $chn.= "#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" tvg-logo=\"\" group-title=\"youtube正在直播\"," .str_replace('#','',$res['title']). "\r\n";
+        // 修正：直接使用當前索引的網址，不使用 *4
+        $chn.= "https://www.youtube.com/watch?v=" . $res['video_id'] . "\r\n";
     }
 }
-
 
 //$chn. "新聞,#genre#\r\n";
 $url8='https://www.youtube.com/playlist?list=PLd8qbe5zE33trmwWLpiCr7DjzsoUb0-Jj';//中文新聞直播綜合
@@ -130,7 +135,6 @@ curl_setopt($ch8,CURLOPT_URL,$url8);
 curl_setopt($ch8,CURLOPT_RETURNTRANSFER,1);
 curl_setopt($ch8, CURLOPT_SSL_VERIFYPEER, FALSE);
 curl_setopt($ch8, CURLOPT_SSL_VERIFYHOST, FALSE);
-
 $re8=curl_exec($ch8);
 curl_close($ch8);
 $re8= preg_replace_callback('/\\\\u([0-9a-f]{4})/i', 'replace_unicode_escape_sequence', $re8);// 適合php7
@@ -171,7 +175,6 @@ curl_setopt($ch18,CURLOPT_URL,$url18);
 curl_setopt($ch18,CURLOPT_RETURNTRANSFER,1);
 curl_setopt($ch18, CURLOPT_SSL_VERIFYPEER, FALSE);
 curl_setopt($ch18, CURLOPT_SSL_VERIFYHOST, FALSE);
-
 $re18=curl_exec($ch18);
 curl_close($ch18);
 $re18= preg_replace_callback('/\\\\u([0-9a-f]{4})/i', 'replace_unicode_escape_sequence', $re18);// 適合php7
@@ -187,7 +190,6 @@ for ($k18 = 0; $k18 < $tru18 && isset($piek18[$k18][1]) && isset($piec18[$k18][1
 
 //$chn. "國外新聞,#genre#\r\n";
 $url4='https://www.youtube.com/playlist?list=PLd8qbe5zE33s5OSV4qzMMkCWoYItL7otl';//國外新聞直播
-
 $ch4=curl_init();
 curl_setopt($ch4,CURLOPT_URL,$url4);                  
 curl_setopt($ch4,CURLOPT_RETURNTRANSFER,1);
@@ -273,14 +275,12 @@ curl_setopt($ch5,CURLOPT_URL,$url5);
 curl_setopt($ch5,CURLOPT_RETURNTRANSFER,1);
 curl_setopt($ch5, CURLOPT_SSL_VERIFYPEER, FALSE);
 curl_setopt($ch5, CURLOPT_SSL_VERIFYHOST, FALSE);
-
 $re5=curl_exec($ch5);
 curl_close($ch5);
 $re5= preg_replace_callback('/\\\\u([0-9a-f]{4})/i', 'replace_unicode_escape_sequence', $re5);// 適合php7
 preg_match_all('/"thumbnail":\{"thumbnails":\[\{"url":"(.*?)",/i',$re5,$piem5,PREG_SET_ORDER);//logo
 preg_match_all('/\{"playlistVideoRenderer":\{"videoId":"(.*?)",/i',$re5,$piec5,PREG_SET_ORDER);//vid
 preg_match_all('/"shortBylineText":\{"runs":\[\{"text":"(.*?)",/i',$re5,$piek5,PREG_SET_ORDER);//標題
-
 $tru5=count($piec5);
 for ($k5 = 0; $k5 < $tru5 && isset($piek5[$k5][1]) && isset($piec5[$k5][1]); $k5++) {
     $logo = isset($piem5[$k5][1]) ? $piem5[$k5][1] : "";
@@ -295,7 +295,6 @@ curl_setopt($ch9,CURLOPT_URL,$url9);
 curl_setopt($ch9,CURLOPT_RETURNTRANSFER,1);
 curl_setopt($ch9, CURLOPT_SSL_VERIFYPEER, FALSE);
 curl_setopt($ch9, CURLOPT_SSL_VERIFYHOST, FALSE);
-
 $re9=curl_exec($ch9);
 curl_close($ch9);
 $re9= preg_replace_callback('/\\\\u([0-9a-f]{4})/i', 'replace_unicode_escape_sequence', $re9);// 適合php7
@@ -316,7 +315,6 @@ curl_setopt($ch7,CURLOPT_URL,$url7);
 curl_setopt($ch7,CURLOPT_RETURNTRANSFER,1);
 curl_setopt($ch7, CURLOPT_SSL_VERIFYPEER, FALSE);
 curl_setopt($ch7, CURLOPT_SSL_VERIFYHOST, FALSE);
-
 $re7=curl_exec($ch7);
 curl_close($ch7);
 $re7= preg_replace_callback('/\\\\u([0-9a-f]{4})/i', 'replace_unicode_escape_sequence', $re7);// 適合php7
@@ -337,7 +335,6 @@ curl_setopt($ch10,CURLOPT_URL,$url10);
 curl_setopt($ch10,CURLOPT_RETURNTRANSFER,1);
 curl_setopt($ch10, CURLOPT_SSL_VERIFYPEER, FALSE);
 curl_setopt($ch10, CURLOPT_SSL_VERIFYHOST, FALSE);
-
 $re10=curl_exec($ch10);
 curl_close($ch10);
 $re10= preg_replace_callback('/\\\\u([0-9a-f]{4})/i', 'replace_unicode_escape_sequence', $re10);// 適合php7
@@ -351,11 +348,30 @@ for ($k10 = 0; $k10 < $tru10 && isset($piek10[$k10][1]) && isset($piec10[$k10][1
     $chn.= "https://www.youtube.com/watch?v=".$piec10[$k10][1]."\r\n";
 }
 
-// 刪除有問題的部分（$url51相關代碼），因為它使用了不完整的YouTube API調用
+// 獲取遠程 M3U 內容並合併
+$remote_m3u_url = "https://raw.githubusercontent.com/zzq12345/epgtest/refs/heads/main/yu.m3u";
+$remote_content = get_remote_m3u($remote_m3u_url);
+
+if ($remote_content) {
+    // 如果遠程內容包含 #EXTM3U 標頭，則移除
+    if (strpos($remote_content, "#EXTM3U") === 0) {
+        // 找到第一個換行符後的位置
+        $first_newline = strpos($remote_content, "\n");
+        if ($first_newline !== false) {
+            // 保留 #EXTM3U 之後的內容
+            $remote_content = substr($remote_content, $first_newline + 1);
+        }
+    }
+    // 將遠程內容追加到本地內容
+    $chn .= $remote_content;
+} else {
+    // 如果獲取失敗，可以記錄錯誤或忽略
+    // 這裡可以添加錯誤處理代碼
+}
 
 // 輸出結果
 //echo $chn;
 
-// 可選：寫入文件
- file_put_contents($fp, $chn);
+// 寫入文件
+file_put_contents($fp, $chn);
 ?>
