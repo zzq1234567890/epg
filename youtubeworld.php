@@ -285,7 +285,8 @@ if (!isset($results['error'])) {
     }
 }
 
-// 處理各個播放列表
+/*
+ 處理各個播放列表
 $playlists = [
     ['url' => 'https://www.youtube.com/playlist?list=PLd8qbe5zE33trmwWLpiCr7DjzsoUb0-Jj', 'group' => '中文新聞直播', 'category' => '中文新聞直播'],
     ['url' => 'https://www.youtube.com/playlist?list=PLd8qbe5zE33v8XouhXYxUjn954xIPaSEN', 'group' => '臨時直播', 'category' => '臨時直播'],
@@ -306,14 +307,9 @@ foreach ($playlists as $playlist) {
 
 // 輸出結果
 // echo $chn;
-
+*/
 // 寫入文件
-if (file_put_contents($fp, $chn)) {
-    log_error('M3U文件生成成功，大小: ' . strlen($chn) . ' bytes');
-} else {
-    log_error('M3U文件寫入失敗');
-}
 
 // 可選：直接輸出文件
-readfile($fp);
+file_put_contents($fp, $chn);
 ?>
