@@ -156,11 +156,12 @@ curl_setopt($ch8,CURLOPT_RETURNTRANSFER,1);
 curl_setopt($ch8, CURLOPT_SSL_VERIFYPEER, FALSE);
 curl_setopt($ch8, CURLOPT_SSL_VERIFYHOST, FALSE);
 $re8=curl_exec($ch8);
+$re8=str_replace('#','',$re8);
 curl_close($ch8);
 $re8= preg_replace_callback('/\\\\u([0-9a-f]{4})/i', 'replace_unicode_escape_sequence', $re8);// 適合php7
 preg_match_all('/"thumbnail":\{"thumbnails":\[\{"url":"(.*?)",/i',$re8,$piem8,PREG_SET_ORDER);//logo
 preg_match_all('/\{"playlistVideoRenderer":\{"videoId":"(.*?)",/i',$re8,$piec8,PREG_SET_ORDER);//vid
-preg_match_all('/"shortBylineText":\{"runs":\[\{"text":"(.*?)",/i',$re8,$piek8,PREG_SET_ORDER);//標題
+preg_match_all('/width":336,"height":188\}\]\},"title":\{"runs":\[\{"text":"(.*?)"/i',$re8,$piek8,PREG_SET_ORDER);//標題
 $tru8=count($piec8);
 for ($k8 = 0; $k8 < $tru8 && isset($piek8[$k8][1]) && isset($piec8[$k8][1]); $k8++) {
     // 安全檢查：確保所有需要的元素都存在
@@ -177,11 +178,12 @@ curl_setopt($ch12,CURLOPT_RETURNTRANSFER,1);
 curl_setopt($ch12, CURLOPT_SSL_VERIFYPEER, FALSE);
 curl_setopt($ch12, CURLOPT_SSL_VERIFYHOST, FALSE);
 $re12=curl_exec($ch12);
+$re12=str_replace('#','',$re12);
 curl_close($ch12);
 $re12 = preg_replace_callback('/\\\\u([0-9a-f]{4})/i', 'replace_unicode_escape_sequence', $re12);// 適合php7
 preg_match_all('/"thumbnail":\{"thumbnails":\[\{"url":"(.*?)",/i',$re12,$piem12,PREG_SET_ORDER);//logo
 preg_match_all('/\{"playlistVideoRenderer":\{"videoId":"(.*?)",/i',$re12,$piec12,PREG_SET_ORDER);//vid
-preg_match_all('/"shortBylineText":\{"runs":\[\{"text":"(.*?)",/i',$re12,$piek12,PREG_SET_ORDER);//標題
+preg_match_all('/width":336,"height":188\}\]\},"title":\{"runs":\[\{"text":"(.*?)"/i',$re12,$piek12,PREG_SET_ORDER);//標題
 $tru12=count($piec12);
 for ($k12 = 0; $k12 < $tru12 && isset($piek12[$k12][1]) && isset($piec12[$k12][1]); $k12++) {
     $logo = isset($piem12[$k12][1]) ? $piem12[$k12][1] : "";
@@ -196,11 +198,12 @@ curl_setopt($ch18,CURLOPT_RETURNTRANSFER,1);
 curl_setopt($ch18, CURLOPT_SSL_VERIFYPEER, FALSE);
 curl_setopt($ch18, CURLOPT_SSL_VERIFYHOST, FALSE);
 $re18=curl_exec($ch18);
+$re18=str_replace('#','',$re18);
 curl_close($ch18);
 $re18= preg_replace_callback('/\\\\u([0-9a-f]{4})/i', 'replace_unicode_escape_sequence', $re18);// 適合php7
 preg_match_all('/"thumbnail":\{"thumbnails":\[\{"url":"(.*?)",/i',$re18,$piem18,PREG_SET_ORDER);//logo
 preg_match_all('/\{"playlistVideoRenderer":\{"videoId":"(.*?)",/i',$re18,$piec18,PREG_SET_ORDER);//vid
-preg_match_all('/"shortBylineText":\{"runs":\[\{"text":"(.*?)",/i',$re18,$piek18,PREG_SET_ORDER);//標題
+preg_match_all('/width":336,"height":188\}\]\},"title":\{"runs":\[\{"text":"(.*?)"/i',$re18,$piek18,PREG_SET_ORDER);//標題
 $tru18=count($piec18);
 for ($k18 = 0; $k18 < $tru18 && isset($piek18[$k18][1]) && isset($piec18[$k18][1]); $k18++) {
     $logo = isset($piem18[$k18][1]) ? $piem18[$k18][1] : "";
@@ -216,11 +219,12 @@ curl_setopt($ch4,CURLOPT_RETURNTRANSFER,1);
 curl_setopt($ch4, CURLOPT_SSL_VERIFYPEER, FALSE);
 curl_setopt($ch4, CURLOPT_SSL_VERIFYHOST, FALSE);
 $re4=curl_exec($ch4);
+$re4=str_replace('#','',$re4);
 curl_close($ch4);
 $re4 = preg_replace_callback('/\\\\u([0-9a-f]{4})/i', 'replace_unicode_escape_sequence', $re4);// 適合php7
 preg_match_all('/"thumbnail":\{"thumbnails":\[\{"url":"(.*?)",/i',$re4,$piem4,PREG_SET_ORDER);//logo
 preg_match_all('/\{"playlistVideoRenderer":\{"videoId":"(.*?)",/i',$re4,$piec4,PREG_SET_ORDER);//vid
-preg_match_all('/"shortBylineText":\{"runs":\[\{"text":"(.*?)",/i',$re4,$piek4,PREG_SET_ORDER);//標題
+preg_match_all('/width":336,"height":188\}\]\},"title":\{"runs":\[\{"text":"(.*?)"/i',$re4,$piek4,PREG_SET_ORDER);//標題
 $tru4=count($piec4);
 for ($k4 = 0; $k4 < $tru4 && isset($piek4[$k4][1]) && isset($piec4[$k4][1]); $k4++) {
     $logo = isset($piem4[$k4][1]) ? $piem4[$k4][1] : "";
@@ -236,11 +240,12 @@ curl_setopt($ch6,CURLOPT_RETURNTRANSFER,1);
 curl_setopt($ch6, CURLOPT_SSL_VERIFYPEER, FALSE);
 curl_setopt($ch6, CURLOPT_SSL_VERIFYHOST, FALSE);
 $re6=curl_exec($ch6);
+$re6=str_replace('#','',$re6);
 curl_close($ch6);
 $re6= preg_replace_callback('/\\\\u([0-9a-f]{4})/i', 'replace_unicode_escape_sequence', $re6);// 適合php7
 preg_match_all('/"thumbnail":\{"thumbnails":\[\{"url":"(.*?)",/i',$re6,$piem6,PREG_SET_ORDER);//logo
 preg_match_all('/\{"playlistVideoRenderer":\{"videoId":"(.*?)",/i',$re6,$piec6,PREG_SET_ORDER);//vid
-preg_match_all('/"shortBylineText":\{"runs":\[\{"text":"(.*?)",/i',$re6,$piek6,PREG_SET_ORDER);//標題
+preg_match_all('/width":336,"height":188\}\]\},"title":\{"runs":\[\{"text":"(.*?)"/i',$re6,$piek6,PREG_SET_ORDER);//標題
 $tru6=count($piec6);
 for ($k6 = 0; $k6 < $tru6 && isset($piek6[$k6][1]) && isset($piec6[$k6][1]); $k6++) {
     $logo = isset($piem6[$k6][1]) ? $piem6[$k6][1] : "";
@@ -256,11 +261,12 @@ curl_setopt($ch2,CURLOPT_RETURNTRANSFER,1);
 curl_setopt($ch2, CURLOPT_SSL_VERIFYPEER, FALSE);
 curl_setopt($ch2, CURLOPT_SSL_VERIFYHOST, FALSE);
 $re2=curl_exec($ch2);
+$re2=str_replace('#','',$re2);
 curl_close($ch2);
 $re2 = preg_replace_callback('/\\\\u([0-9a-f]{4})/i', 'replace_unicode_escape_sequence', $re2);// 適合php7
 preg_match_all('/\{"playlistVideoRenderer":\{"videoId":"(.*?)",/i',$re2,$piec2,PREG_SET_ORDER);//vid
 preg_match_all('/"shortBylineText":\{"runs":\[\{"text":"(.*?)",/i',$re2,$piek2,PREG_SET_ORDER);//標題
-preg_match_all('/"thumbnail":\{"thumbnails":\[\{"url":"(.*?)",/i',$re2,$piem2,PREG_SET_ORDER);//logo
+preg_match_all('/width":336,"height":188\}\]\},"title":\{"runs":\[\{"text":"(.*?)"/i',$re2,$piem2,PREG_SET_ORDER);//logo
 $tru2=count($piec2);
 for ($k2 = 0; $k2 < $tru2 && isset($piek2[$k2][1]) && isset($piec2[$k2][1]); $k2++) {
     $logo = isset($piem2[$k2][1]) ? $piem2[$k2][1] : "";
@@ -276,11 +282,12 @@ curl_setopt($ch3,CURLOPT_RETURNTRANSFER,1);
 curl_setopt($ch3, CURLOPT_SSL_VERIFYPEER, FALSE);
 curl_setopt($ch3, CURLOPT_SSL_VERIFYHOST, FALSE);
 $re3=curl_exec($ch3);
+$re3=str_replace('#','',$re3);
 curl_close($ch3);
 $re3 = preg_replace_callback('/\\\\u([0-9a-f]{4})/i', 'replace_unicode_escape_sequence', $re3);// 適合php7
 preg_match_all('/\{"playlistVideoRenderer":\{"videoId":"(.*?)",/i',$re3,$piec3,PREG_SET_ORDER);//vid
 preg_match_all('/"thumbnail":\{"thumbnails":\[\{"url":"(.*?)",/i',$re3,$piem3,PREG_SET_ORDER);//logo
-preg_match_all('/"shortBylineText":\{"runs":\[\{"text":"(.*?)",/i',$re3,$piek3,PREG_SET_ORDER);//標題
+preg_match_all('/width":336,"height":188\}\]\},"title":\{"runs":\[\{"text":"(.*?)"/i',$re3,$piek3,PREG_SET_ORDER);//標題
 $tru3=count($piec3);
 for ($k3 = 0; $k3 < $tru3 && isset($piek3[$k3][1]) && isset($piec3[$k3][1]); $k3++) {
     $logo = isset($piem3[$k3][1]) ? $piem3[$k3][1] : "";
@@ -296,11 +303,12 @@ curl_setopt($ch5,CURLOPT_RETURNTRANSFER,1);
 curl_setopt($ch5, CURLOPT_SSL_VERIFYPEER, FALSE);
 curl_setopt($ch5, CURLOPT_SSL_VERIFYHOST, FALSE);
 $re5=curl_exec($ch5);
+$re5=str_replace('#','',$re5);
 curl_close($ch5);
 $re5= preg_replace_callback('/\\\\u([0-9a-f]{4})/i', 'replace_unicode_escape_sequence', $re5);// 適合php7
 preg_match_all('/"thumbnail":\{"thumbnails":\[\{"url":"(.*?)",/i',$re5,$piem5,PREG_SET_ORDER);//logo
 preg_match_all('/\{"playlistVideoRenderer":\{"videoId":"(.*?)",/i',$re5,$piec5,PREG_SET_ORDER);//vid
-preg_match_all('/"shortBylineText":\{"runs":\[\{"text":"(.*?)",/i',$re5,$piek5,PREG_SET_ORDER);//標題
+preg_match_all('/width":336,"height":188\}\]\},"title":\{"runs":\[\{"text":"(.*?)"/i',$re5,$piek5,PREG_SET_ORDER);//標題
 $tru5=count($piec5);
 for ($k5 = 0; $k5 < $tru5 && isset($piek5[$k5][1]) && isset($piec5[$k5][1]); $k5++) {
     $logo = isset($piem5[$k5][1]) ? $piem5[$k5][1] : "";
@@ -316,11 +324,12 @@ curl_setopt($ch9,CURLOPT_RETURNTRANSFER,1);
 curl_setopt($ch9, CURLOPT_SSL_VERIFYPEER, FALSE);
 curl_setopt($ch9, CURLOPT_SSL_VERIFYHOST, FALSE);
 $re9=curl_exec($ch9);
+$re9=str_replace('#','',$re9);
 curl_close($ch9);
 $re9= preg_replace_callback('/\\\\u([0-9a-f]{4})/i', 'replace_unicode_escape_sequence', $re9);// 適合php7
 preg_match_all('/"thumbnail":\{"thumbnails":\[\{"url":"(.*?)",/i',$re9,$piem9,PREG_SET_ORDER);//logo
 preg_match_all('/\{"playlistVideoRenderer":\{"videoId":"(.*?)",/i',$re9,$piec9,PREG_SET_ORDER);//vid
-preg_match_all('/"shortBylineText":\{"runs":\[\{"text":"(.*?)",/i',$re9,$piek9,PREG_SET_ORDER);//標題
+preg_match_all('/width":336,"height":188\}\]\},"title":\{"runs":\[\{"text":"(.*?)"/i',$re9,$piek9,PREG_SET_ORDER);//標題
 $tru9=count($piec9);
 for ($k9 = 0; $k9 < $tru9 && isset($piek9[$k9][1]) && isset($piec9[$k9][1]); $k9++) {
     $logo = isset($piem9[$k9][1]) ? $piem9[$k9][1] : "";
@@ -336,11 +345,12 @@ curl_setopt($ch7,CURLOPT_RETURNTRANSFER,1);
 curl_setopt($ch7, CURLOPT_SSL_VERIFYPEER, FALSE);
 curl_setopt($ch7, CURLOPT_SSL_VERIFYHOST, FALSE);
 $re7=curl_exec($ch7);
+$re7=str_replace('#','',$re7);
 curl_close($ch7);
 $re7= preg_replace_callback('/\\\\u([0-9a-f]{4})/i', 'replace_unicode_escape_sequence', $re7);// 適合php7
 preg_match_all('/"thumbnail":\{"thumbnails":\[\{"url":"(.*?)",/i',$re7,$piem7,PREG_SET_ORDER);//logo
 preg_match_all('/\{"playlistVideoRenderer":\{"videoId":"(.*?)",/i',$re7,$piec7,PREG_SET_ORDER);//vid
-preg_match_all('/"shortBylineText":\{"runs":\[\{"text":"(.*?)",/i',$re7,$piek7,PREG_SET_ORDER);//標題
+preg_match_all('/width":336,"height":188\}\]\},"title":\{"runs":\[\{"text":"(.*?)"/i',$re7,$piek7,PREG_SET_ORDER);//標題
 $tru7=count($piec7);
 for ($k7 = 0; $k7 < $tru7 && isset($piek7[$k7][1]) && isset($piec7[$k7][1]); $k7++) {
     $logo = isset($piem7[$k7][1]) ? $piem7[$k7][1] : "";
@@ -356,11 +366,12 @@ curl_setopt($ch10,CURLOPT_RETURNTRANSFER,1);
 curl_setopt($ch10, CURLOPT_SSL_VERIFYPEER, FALSE);
 curl_setopt($ch10, CURLOPT_SSL_VERIFYHOST, FALSE);
 $re10=curl_exec($ch10);
+$re10=str_replace('#','',$re10);
 curl_close($ch10);
 $re10= preg_replace_callback('/\\\\u([0-9a-f]{4})/i', 'replace_unicode_escape_sequence', $re10);// 適合php7
 preg_match_all('/"thumbnail":\{"thumbnails":\[\{"url":"(.*?)",/i',$re10,$piem10,PREG_SET_ORDER);//logo
 preg_match_all('/\{"playlistVideoRenderer":\{"videoId":"(.*?)",/i',$re10,$piec10,PREG_SET_ORDER);//vid
-preg_match_all('/"shortBylineText":\{"runs":\[\{"text":"(.*?)",/i',$re10,$piek10,PREG_SET_ORDER);//標題
+preg_match_all('/width":336,"height":188\}\]\},"title":\{"runs":\[\{"text":"(.*?)"/i',$re10,$piek10,PREG_SET_ORDER);//標題
 $tru10=count($piec10);
 for ($k10 = 0; $k10 < $tru10 && isset($piek10[$k10][1]) && isset($piec10[$k10][1]); $k10++) {
     $logo = isset($piem10[$k10][1]) ? $piem10[$k10][1] : "";
