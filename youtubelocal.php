@@ -3,7 +3,7 @@ error_reporting(0);
 date_default_timezone_set('Asia/Shanghai');
 header('Content-Type: text/plain; charset=utf-8');
 
-$urlk = "https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/youtube.m3u";
+$urlk = "https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/youtubeworld.m3u";
 $fp = "youtubelocal.m3u";
 
 $ch = curl_init();
