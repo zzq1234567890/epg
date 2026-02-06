@@ -252,6 +252,22 @@ function process_youtube_playlist($url, $group_title, $category) {
 // 開始生成M3U
 $chn = "#EXTM3U\r\n";
 // 獲取YouTube正在直播的內容
+
+// 獲取遠程M3U內容並合併
+$remote_m3u_url = "https://raw.githubusercontent.com/zzq12345/epgtest/refs/heads/main/yu.m3u";
+$remote_content = get_remote_m3u($remote_m3u_url);
+
+if ($remote_content) {
+    // 如果遠程內容包含#EXTM3U標頭，則移除
+    if (strpos($remote_content, "#EXTM3U") === 0) {
+        $first_newline = strpos($remote_content, "\n");
+        if ($first_newline !== false) {
+            $remote_content = substr($remote_content, $first_newline + 1);
+        }
+    }
+    $chn .= $remote_content;
+}
+
 $url = "https://www.youtube.com/channel/UC4R8DWoMoI7CAwX8_LjQHig/livetab?ss=CKEK";
 $cookie = ""; // 如果需要cookie，請在這裡填寫
 
@@ -268,22 +284,6 @@ if (!isset($results['error'])) {
         }
     }
 }
-// 獲取遠程M3U內容並合併
-$remote_m3u_url = "https://raw.githubusercontent.com/zzq12345/epgtest/refs/heads/main/yu.m3u";
-$remote_content = get_remote_m3u($remote_m3u_url);
-
-if ($remote_content) {
-    // 如果遠程內容包含#EXTM3U標頭，則移除
-    if (strpos($remote_content, "#EXTM3U") === 0) {
-        $first_newline = strpos($remote_content, "\n");
-        if ($first_newline !== false) {
-            $remote_content = substr($remote_content, $first_newline + 1);
-        }
-    }
-    $chn .= $remote_content;
-}
-
-
 
 /*
  處理各個播放列表
