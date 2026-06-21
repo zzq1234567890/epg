@@ -1,7 +1,7 @@
 {
 "epgziyong.xml" : "https://github.com/zzq12345/epgtest/raw/refs/heads/main/epgziyong.xml",
 "twepg.xml" : "https://github.com/zzq12345/epgtest/raw/refs/heads/main/twepg.xml",
-":youtubelocal.m3u":"https://raw.githubusercontent.com/zzq12345/epgtest/refs/heads/main/youtubelocal.m3u",
+"youtubelocal.m3u":"https://raw.githubusercontent.com/zzq12345/epgtest/refs/heads/main/youtubelocal.m3u",
  "twepg.xml.gz" : "https://github.com/zzq12345/epgtest/raw/refs/heads/main/twepg.xml.gz",
 "swepg.xml" : "https://github.com/zzq12345/epgtest/raw/refs/heads/main/swepg.xml",
  "swepg.xml.gz" : "https://github.com/zzq12345/epgtest/raw/refs/heads/main/swepg.xml.gz"
