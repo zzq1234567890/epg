@@ -40,7 +40,7 @@ Mytvsuper、TVBAnywhere東南亞、TVB Anywhere USA、Now寬頻、HOY電視台�
 澳門電視台、澳門有線電視台。
 
 ### （4）台灣地區
-中華電信MOD、中嘉BB寬頻、TBC有線、4GTV、Hami、Ofiii，龍華電視台多個頻道等。
+中華電信MOD、中嘉BB寬頻、TBC有線、4GTV、Hami、Ofiii，catchplay,龍華電視台多個頻道等。
 
 ### （5）其他國家及地區
  1. 韓國：KBS、SBS、MBC、EBC；
@@ -57,7 +57,8 @@ Mytvsuper、TVBAnywhere東南亞、TVB Anywhere USA、Now寬頻、HOY電視台�
  5. 增加天映頻道,天映經典,KIX頻道多個國家節目EPG.
  6. 增加4gtv中的fast-live直播epg.
  7. 增加新加坡(星加坡) Singtel EPG.
- 8. 上線簡體中文版本EPG（swepg.xml.gz）及繁體中文版本EPG（twepg.xml.gz），優化區域适配性。
+ 8. 新增台灣catchplay直播點播 EPG.
+ 9. 上線簡體中文版本EPG（swepg.xml.gz）及繁體中文版本EPG（twepg.xml.gz），優化區域适配性。
 
 ## 六、參考資源
 1. 繁體中文電視台目錄：https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/繁體電視台目錄.txt  ；
@@ -131,7 +132,7 @@ TDM - Teledifusão de Macau, Macau Cable TV.
 
 ### 4.4 Taiwan
 
-MOD, BB Broadband, TBC Cable, 4GTV, Hami, Ofiii, etc.
+MOD, BB Broadband, TBC Cable, 4GTV, Hami, Catchplay, Ofiii, etc.
 
 ### 4.5 Other Countries & Regions
 
@@ -175,7 +176,7 @@ stream live address 2
 
 # 📺 EPG 電子節目表狀態報告
 
-> 最後更新時間: **2026-07-07 06:16**
+> 最後更新時間: **2026-07-07 08:11**
 
 ## 📊 統計摘要
 - **繁體頻道數**: 1927 (節目總數: 167940)
