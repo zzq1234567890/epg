@@ -41,7 +41,7 @@ Mytvsuper、TVBAnywhere東南亞、TVB Anywhere USA、Now寬頻、HOY電視台�
 澳門電視台、澳門有線電視台。
 
 ### （4）台灣地區
-中華電信MOD、中嘉BB寬頻、TBC有線、4GTV、Hami、Ofiii，catchplay,龍華電視台多個頻道等。
+中華電信MOD、中嘉BB寬頻、TBC有線、4GTV、Hami、Ofiii，catchplay,龍華電視台，Myvidoe,愛爾達TV多個頻道等。
 
 ### （5）其他國家及地區
  1. 韓國：KBS、SBS、MBC、EBC；
