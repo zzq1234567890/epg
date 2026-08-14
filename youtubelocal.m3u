@@ -1,128 +1,122 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",Live
-http://127.0.0.1:8081/youtube.php?v=m6XZvqsVrek
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",🔴LIVE：TVBS NEWS網路獨家新聞24小時直播 Taiwan News 24hr 台湾世界中のニュースを24時間配信中 대만24시간뉴스채널 55台
 http://127.0.0.1:8081/youtube.php?v=m_dhMSvUCIc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",🔴LIVE 三立新聞 54 頻道 24 小時直播｜陳幸妤證實離婚！留言「前妻」控趙建銘亂搞2護理師：本人所寫｜Taiwan SET News 24h Live｜@setnews-ch54​
-http://127.0.0.1:8081/youtube.php?v=yeYC0mbSIOo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",🔴東森新聞 51 頻道 24 小時直播｜Taiwan EBC 24h live news｜台湾 EBC ニュース24 時間オンライン放送｜대만 뉴스 생방송
 http://127.0.0.1:8081/youtube.php?v=V1p33hqPrUk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",【中天新聞不斷電直播Live】 CTI中天新聞24小時HD新聞直播 │ CTITV Taiwan News HD Live｜台湾のHDニュース放送｜ 대만 HD 뉴스 방송@中天電視CtiTv
-http://127.0.0.1:8081/youtube.php?v=vr3XyVCR4T0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",天堂經典版｜南條｜半人馬 Lv 56 蕭峯｜滅戒出了，古卷不遠了 天堂 天堂經典服 lineage lineageclassic 리니지 리니지클래식
-http://127.0.0.1:8081/youtube.php?v=h1t83n1bLZA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",【Wayne】8/13 聯盟盃：主賽事 - EP10！今晚TAG再戰VIT！兄弟們大夥進攻啦！Hosted by ‪@danielaaoe ‬
-http://127.0.0.1:8081/youtube.php?v=WrKAvHG0QRc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",8/13美國股市淘金，台股持續走強，祝大家買到超強股賺大錢!富人思維 財富自由 被動收入
-http://127.0.0.1:8081/youtube.php?v=l5r-a0qgmu4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",Restream hôm qua.......................
-http://127.0.0.1:8081/youtube.php?v=lalSY3jj-HA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",LIVE! | T3 | Day 4 | Europe Smash - Sweden 2026 | Session 2
-http://127.0.0.1:8081/youtube.php?v=aAnMwB8UXvU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",【看盤不中斷】EBC東森財經股市24小時直播｜Taiwan EBC Financial News 24hr Live｜台湾 EBC 金融ニュース24 時間オンライン放送｜대만 뉴스 생방송
+http://127.0.0.1:8081/youtube.php?v=AEBeWMM1atA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",🟢LIVE 民視新聞24小時直播  FTV 新聞直播｜Taiwan News Live｜台湾ニュース Live｜대만 뉴스 방송 Live @FTV_News
 http://127.0.0.1:8081/youtube.php?v=ylYJSBUgaMA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",《琅琊榜》24小時馬拉松直播｜胡歌 劉濤 王凱 靳東 黃維德 吳磊｜GTV DRAMA 八大劇樂部
-http://127.0.0.1:8081/youtube.php?v=18ypxNBbMYY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",台視新聞台HD 24 小時線上直播｜TAIWAN TTV NEWS HD (Live)｜台湾のTTV ニュースHD (生放送)｜대만 뉴스 라이브
+http://127.0.0.1:8081/youtube.php?v=9iRAqBMakXY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",🔴LIVE 三立新聞 54 頻道 24 小時直播｜日本千葉破紀錄豪雨釀災！交通全面癱瘓　成田機場被旅客擠爆｜Taiwan SET News 24h Live｜@setnews-ch54​
+http://127.0.0.1:8081/youtube.php?v=yeYC0mbSIOo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",EBC 東森財經新聞24小時線上直播｜Taiwan EBC Financial News｜台湾 EBC 金融ニュース｜대만 뉴스 생방송
+http://127.0.0.1:8081/youtube.php?v=1I2iq41Akmo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",【@投資看非凡 】 非凡財經節目新聞24小時直播｜台股盤中即時分析｜股市現場｜全球財經世界報導 @ustvbiz
+http://127.0.0.1:8081/youtube.php?v=eA6Aczd3FZM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",【中天新聞不斷電直播Live】 CTI中天新聞24小時HD新聞直播 │ CTITV Taiwan News HD Live｜台湾のHDニュース放送｜ 대만 HD 뉴스 방송@中天電視CtiTv
+http://127.0.0.1:8081/youtube.php?v=vr3XyVCR4T0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",「思詩cc乐」正在直播！
+http://127.0.0.1:8081/youtube.php?v=AAMLoRnYueg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",晚起的鳥兒有直播看
+http://127.0.0.1:8081/youtube.php?v=6_joUX4u2V8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",LIVE: 華視新聞直播 CH52 | Taiwan CTS News | 台湾のニュースを24時間配信 | 대만 24시간 뉴스채널 | 24小時 線上看 LIVE新聞【On Air】
+http://127.0.0.1:8081/youtube.php?v=wM0g8EoUZ_E
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",[中文] KRX vs BFX | GEN vs HLE | 2026 LCK
 http://127.0.0.1:8081/youtube.php?v=HArELo9661M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",2026/08/14(五)張震  股市盤中家教班
+http://127.0.0.1:8081/youtube.php?v=Qzry8vT86GI
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",LIVE【新台派上線】韓國瑜真的很氣傅崐萁?綠士葆.青鳥戰情室.綠慧珠接力參戰? 縣長之路絆腳石?吳秀華家族事業爭議不斷 影響藍營選情?｜李正皓 主持｜20260813
 http://127.0.0.1:8081/youtube.php?v=M55BPwUElxk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",20260813 | 2026年第12屆BFA U12亞洲盃少棒錦標賽 | G16 | 中華 TPE vs 日本 JPN |
 http://127.0.0.1:8081/youtube.php?v=5l7w4_UCsBo
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",2026/08/13(四)張震  股市盤中家教班
-http://127.0.0.1:8081/youtube.php?v=u2QnCsRSJYs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",[中文] DNS vs NS | KT vs DK | 2026 LCK
 http://127.0.0.1:8081/youtube.php?v=wRtI93J7BpI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",2026/08/13(四)張震  股市盤中家教班
+http://127.0.0.1:8081/youtube.php?v=u2QnCsRSJYs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",【狠狠抖內幕】首都之戰！藍網軍訕笑 沈伯洋「捷運站洗澡」！蔣萬安 卻說可參考！誰無知？運動驛站中日韓城市都有！韓國瑜、傅崐萁 樑子結大了！賴清德、蔡英文 連線搶攻2026！
 http://127.0.0.1:8081/youtube.php?v=fgpkPSJhiO8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",台股衝4萬6 MSCI、挪威主權大資金來了 持股滿血復活？ 台股 股市 理財 投資
 http://127.0.0.1:8081/youtube.php?v=DYI9mDBGdHU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",「204檔案」鬼門開 今年號稱最陰鬼月？
-http://127.0.0.1:8081/youtube.php?v=O7zPQXYjz0c
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",CS2 at EWC 26 - Day 2 - Group Stage - Stream A
 http://127.0.0.1:8081/youtube.php?v=l2guF-9uA5E
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",「204檔案」鬼門開 今年號稱最陰鬼月？
+http://127.0.0.1:8081/youtube.php?v=O7zPQXYjz0c
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",LIVE【台灣ON AIR】傅崐萁犯眾怒? 韓國瑜開第一槍.賴士葆補槍 黨內砲火四起! 藍營狂黑運動驛站 網嗆:蔣萬安深蹲免費搭公車有實行?｜許貴雅 主持｜20260813
 http://127.0.0.1:8081/youtube.php?v=K5dTpuaZxL0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",【水着新衣装お披露目!!】宝鐘マリン7周年3DLIVE【ホロライブ/宝鐘マリン】
 http://127.0.0.1:8081/youtube.php?v=qp1bA1A5bTQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",2026/08/12『紫宸天衡-白軒凌赫御極帝君』降駕開示😍🤍✨
-http://127.0.0.1:8081/youtube.php?v=k-GPhgBP9Fc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",👉AHORRA MÁS DEL 50% de DESCUENTO EN PRODUCTOS! 🔥😱
-http://127.0.0.1:8081/youtube.php?v=QXJgC7U5Aqc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",G Music Klub is live!
-http://127.0.0.1:8081/youtube.php?v=UvLYxQotVIw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",Savita123 is live!
-http://127.0.0.1:8081/youtube.php?v=q_xSU02fUw4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",Satyam Yadav9336 is live!
-http://127.0.0.1:8081/youtube.php?v=P8a7m6PvOFY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",Galaxia стримује уживо!
-http://127.0.0.1:8081/youtube.php?v=v5oZYxcxZ50
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",Gyan devi music official  is live🙏🌿💖🌿💖🌿💋💋🫂💞🌲💞🌲💞🌲💞
-http://127.0.0.1:8081/youtube.php?v=yE7jJUpeR2o
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",The Storm Family is live!
-http://127.0.0.1:8081/youtube.php?v=YaZ4jfrrpSw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",Séptimo día de la novena en honor a Nuestra Señora de Torcoroma
-http://127.0.0.1:8081/youtube.php?v=o-lfFtTvXe0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",KONA SA SELA prenosi uživo!
-http://127.0.0.1:8081/youtube.php?v=s4X4qDoCeZw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",Mohani varma is live !
-http://127.0.0.1:8081/youtube.php?v=pQaANXWeGuc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",😻☔️👍🏻 Sydney Cat’s Rainy Day Livestream: Sky Is Leaking Again!
-http://127.0.0.1:8081/youtube.php?v=-EyFMvgMU98
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",台視新聞台HD 24 小時線上直播｜TAIWAN TTV NEWS HD (Live)｜台湾のTTV ニュースHD (生放送)｜대만 뉴스 라이브
-http://127.0.0.1:8081/youtube.php?v=9iRAqBMakXY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",🔴LIVE 三立財經 iNEWS ｜台灣財經新聞直播｜SET Finance News |ニュースオンライン生放送   @三立財經iNEWS
-http://127.0.0.1:8081/youtube.php?v=pF507BLtbqU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",🔴 【LIVE】 TVBS財經 網路新聞24小時直播 Taiwan News 24hr 台湾世界中のニュースを24時間配信中 대만24시간뉴스채널 TVBS財經 財經鈔能力 金臨天下
-http://127.0.0.1:8081/youtube.php?v=0an9taQ7OYM
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",【LIVE】TVBS政經說　政論24小時互動直播／陳幸妤婚變開撕！趙建銘診所「無預警休診」引網友熱議／朱鎔基病逝享壽98歲！一代經濟沙皇鐵血反貪　新聞大白話 少康戰情室 國民大會 國民開小會
-http://127.0.0.1:8081/youtube.php?v=Cb5MRzy0aiQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",【中天直播LIVE】美伊談判毫無進展 伊朗放話拖到下任美國總統｜川普稱將續控荷莫茲 嗆伊朗根本無力改變 20260814 @全球大視野Global_Vision
-http://127.0.0.1:8081/youtube.php?v=74opoHf5_Ng
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",EBC 東森財經新聞24小時線上直播｜Taiwan EBC Financial News｜台湾 EBC 金融ニュース｜대만 뉴스 생방송
-http://127.0.0.1:8081/youtube.php?v=1I2iq41Akmo
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",LIVE: 華視新聞直播 CH52 | Taiwan CTS News | 台湾のニュースを24時間配信 | 대만 24시간 뉴스채널 | 24小時 線上看 LIVE新聞【On Air】
-http://127.0.0.1:8081/youtube.php?v=wM0g8EoUZ_E
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",MINECRAFT TNT CHALLENGE
-http://127.0.0.1:8081/youtube.php?v=YzwPiGieuIg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",VCT EMEA 2026 Stage 2 - Play-Ins
-http://127.0.0.1:8081/youtube.php?v=ufl9ufzyc8A
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",Spider - Man 2 NEW UPDATE BND MAX SETTING viral spiderman2ps5
-http://127.0.0.1:8081/youtube.php?v=lF6QLTrLpMY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",8/13   頂獵牌位w/ 小魚干/songyou 加入YT會員!! !每週日抽獎 !周邊 !gearup
-http://127.0.0.1:8081/youtube.php?v=T4WEC4xO4ME
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",1Dad on SKATE 4 on My Street this is insane shorts
-http://127.0.0.1:8081/youtube.php?v=9GwU5qkRgdE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",天堂經典版 水蛇伺服器 49等 堅持體騎 慢慢掛升
-http://127.0.0.1:8081/youtube.php?v=ON8NhTkaS9U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",【DAVE THE DIVER】睡眠導入🪼深夜の海でアレしちゃうぞっ【海月雲ろあ/ ろあるーむ】
-http://127.0.0.1:8081/youtube.php?v=Mebe51aJIME
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",GTA 5 Game live off roading gaming shorts gta5 games shortsfeed
-http://127.0.0.1:8081/youtube.php?v=0sjimWFSOPE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",Gaming Nostalgic liveshortsgaming livestream feedshorts
-http://127.0.0.1:8081/youtube.php?v=aZNYl2ReFbE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",BRONX SIN FILTRO / YANKEES EN VIVO
-http://127.0.0.1:8081/youtube.php?v=erFCVetXc4M
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",Ronaldo vs Messi: Warrior Paint: Cultural Battle ⚔️🔥 football shorts
-http://127.0.0.1:8081/youtube.php?v=Uo1_DFIOekc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",LIVE | WTT EUROPE SMASH - SWEDEN 2026 | SCOREBOARD | DAY 4 | Session 2
-http://127.0.0.1:8081/youtube.php?v=k0n341SmL7o
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",【這是去年的瓊斯盃】【2025威廉瓊斯盃國際籃球邀請賽】中華男籃_馬拉松直播｜2026/8/14起鎖定緯來電視網APP場場直播！｜今年YT不會播！YT不會播！YT不會播！只在APP跟電視
-http://127.0.0.1:8081/youtube.php?v=GtcWocEuOYE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",🔴EN VIVO: NEW YORK YANKEES 🆚 SEATLE MARINERS / MLB EN VIVO
-http://127.0.0.1:8081/youtube.php?v=s3X-ZIUTW7I
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",🔴 LIVE | WTT Europe Smash SWEDEN 2026 - Results and Discussions (Watchalong)
-http://127.0.0.1:8081/youtube.php?v=-ucsEswXI3k
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",8,14(돈키호테 TV)원정경기 라이브 드르와 구독 좋아요 알림설정 
-http://127.0.0.1:8081/youtube.php?v=X4b9z1VTIw4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",Lakers Schedule Release LIVE
-http://127.0.0.1:8081/youtube.php?v=ukjNzmdC07o
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",🚨 YANKEES vs SEATTLE MARINERS EN VIVO EN YANKEE STADIUM😱 JUEGO 3/ MLB 2026
-http://127.0.0.1:8081/youtube.php?v=2InTx_71oWY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",🔴LIVE - Seattle Mariners vs New York Yankees - Play-By-Play & Reactions (8/13/26)
-http://127.0.0.1:8081/youtube.php?v=uS4_6Fdatik
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",LIVE: YANKEES VS MARINERS | August 13th, 2026 Watch Party
-http://127.0.0.1:8081/youtube.php?v=mJG2g-mYMB8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",71 CHANDOGYA UPANISHAD ENGLISH TALK WITH SRI ADI SHANKARA BHASHYAM CHAPTER 1 KHANDA 2
+http://127.0.0.1:8081/youtube.php?v=2qTkRQy_YzQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",유세이 yusei 라이브 스트리밍 중
+http://127.0.0.1:8081/youtube.php?v=hO8VZk-NQn0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",wahida rahaman is live
+http://127.0.0.1:8081/youtube.php?v=xOcvQYJOw20
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",Free Fire Live Teemcode Giveaway 🔥 Free Fire Live Bundle Giveaway 🔥 Free Fire Live Mega Giveaway 🔥
+http://127.0.0.1:8081/youtube.php?v=YAF2l4tLDg4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",मेहनत करनासीखो
+http://127.0.0.1:8081/youtube.php?v=vFHpqlfoP1I
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",Stl Batangas Laguna results today August 14, 2026 1st draw live update
+http://127.0.0.1:8081/youtube.php?v=HDpJpD9PyXg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",🔥 WATCH GOD WORK—IT’S SHOWTIME! What You’ve Been Praying For Is About to Manifest! 👑✨
+http://127.0.0.1:8081/youtube.php?v=XcjAMn96B18
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",Santo Rosario Misterios Luminosos 10pm
+http://127.0.0.1:8081/youtube.php?v=rLGH3u5ycH0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",Swadhyaya-Day 11||Brihdaranykopanishad||Krishnanand Saraswatiji||स्वाध्याय दिन ११ बृहदारण्यक उपनिषद्
+http://127.0.0.1:8081/youtube.php?v=DVxoFcdeFnw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",G .S. L.5
+http://127.0.0.1:8081/youtube.php?v=vaIrX5tsYSg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",【中天直播 LIVE】總預算終於表決 韓罵傅後面對面溝通? 20260814@中天新聞CtiNews
+http://127.0.0.1:8081/youtube.php?v=oeCNRZdgo6g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",【🔴LIVE直播中】陳幸妤負評補充還不夠，再爆趙建銘下週做一事！總預算案表決大戰關鍵卡在這？破紀錄暴雨狂炸日本千葉縣！｜劉又嘉/張雅婷 報新聞 20260814 @中天新聞CtiNews
+http://127.0.0.1:8081/youtube.php?v=ZBVBATQ9cAw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",【新楓之谷 經典服】🔴狂戰士力拚80等，無限石頭地獄啟動！！ 有疑難雜症都可以問看到會回 初吻Kiss｜MapleStory World
+http://127.0.0.1:8081/youtube.php?v=R36IIe5wBAU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",【武吉-Nick】天堂經典版火神哲哲爸Lv55終於化生常山趙子吉(古老的劍(揮舞)
+http://127.0.0.1:8081/youtube.php?v=5NeEfnzRhaA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",訂閱=飛起來 minecraft
+http://127.0.0.1:8081/youtube.php?v=Tme2cMRjdeA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",🔴從0開始學習麥塊速通技巧！3 | 偏頭
+http://127.0.0.1:8081/youtube.php?v=uH5T3lH3tPo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",[天堂經典版] 一直噴一直噴 早起惡魔拉鋸戰  超頂高梁醬蟹開團  [令狐沖爺爺] Lineage
+http://127.0.0.1:8081/youtube.php?v=5SEXldJhwqs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",還需要第二隻腳？｜ !送禮 !律師｜台積電 ic設計 台股 美股 期貨 記憶體 面板 abf載板 矽光子 載板 封測 玻纖布 銅箔基板 低軌衛星 荷姆茲海峽
+http://127.0.0.1:8081/youtube.php?v=MnQSorWCXgA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",天堂經典服 半人馬 林北極度囂張 防-98騎士 古劍 +9日本 +9抗頭 +9剛靴 +7火甲 +7力套
+http://127.0.0.1:8081/youtube.php?v=B7Fjdpo8h2s
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",【Stack】左右から流れてくるブロックをタップして積み上げるパズルゲーム！【VTuber/縦型配信】
+http://127.0.0.1:8081/youtube.php?v=6zmWnGzd1nA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",🔴 GTA 5 LIVE – DON’T BLINK! SECRET MOD ACTIVATED 🤯 gtalive gtaonline
+http://127.0.0.1:8081/youtube.php?v=7h6AB8EoPk0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",Syifa sahil  sedang live Games Ball Run sekarang! games gaming gameplay
+http://127.0.0.1:8081/youtube.php?v=v9EHL7N11vU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",{EN/中文} Dunk City Dynasty 全明星街球派對 | 早安阿 跟AT陽光打球 Ranked with @AT-qs9jj Sunshine
+http://127.0.0.1:8081/youtube.php?v=_X1i002s664
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",第七場地 | 2026年第二次全國羽球排名賽 甲組會內賽、乙組會外賽 2026/8/14(五)
+http://127.0.0.1:8081/youtube.php?v=hBkf-oNRfK0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",第四場地 | 2026年第二次全國羽球排名賽 甲組會內賽、乙組會外賽 2026/8/14(五)
+http://127.0.0.1:8081/youtube.php?v=RlyA9niMPoQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",第八場地 | 2026年第二次全國羽球排名賽 甲組會內賽、乙組會外賽 2026/8/14(五)
+http://127.0.0.1:8081/youtube.php?v=9oq6Y1r5U_A
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",第九場地 | 2026年第二次全國羽球排名賽 甲組會內賽、乙組會外賽 2026/8/14(五)
+http://127.0.0.1:8081/youtube.php?v=RYqArUcfo5k
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",🔴 DODGERS 🆚 BREWERS EN VIVO 🔴 Narración y Comentarios | MLB HOY 13/08/2026
+http://127.0.0.1:8081/youtube.php?v=mW8W2HerMQ8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",🔴BREWERS vs DODGERS EN VIVO ⚾ MLB 2026🔥OHTANI en Acción | Narración en Español
+http://127.0.0.1:8081/youtube.php?v=l8ga-hnuXpQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",第二場地 | 2026年第二次全國羽球排名賽 甲組會內賽、乙組會外賽 2026/8/14(五)
+http://127.0.0.1:8081/youtube.php?v=U2KO7ajier0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",WATCH LIVE | 2026 Arizona Open Pool Championship | Table Four
+http://127.0.0.1:8081/youtube.php?v=wHL6jbEkx3g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",第十場地 | 2026年第二次全國羽球排名賽 甲組會內賽、乙組會外賽 2026/8/14(五)
+http://127.0.0.1:8081/youtube.php?v=8vr5Fhyh6CA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",⚾ Los Angeles Dodgers vs Milwaukee Brewers LIVE | MLB Watch Party, Play-by-Play & Reactions
+http://127.0.0.1:8081/youtube.php?v=uPIV2Jownd8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",第六場地 | 2026年第二次全國羽球排名賽 甲組會內賽、乙組會外賽 2026/8/14(五)
+http://127.0.0.1:8081/youtube.php?v=Q5qtuh2y9_k
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",第三場地 | 2026年第二次全國羽球排名賽 甲組會內賽、乙組會外賽 2026/8/14(五)
+http://127.0.0.1:8081/youtube.php?v=CWYdCm-fuzU
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube中文新聞直播",直播
 http://127.0.0.1:8081/youtube.php?v=oV_i3Hsl_zg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube中文新聞直播",直播
@@ -445,7 +439,7 @@ http://127.0.0.1:8081/youtube.php?v=vOTiJkg1voo
 http://127.0.0.1:8081/youtube.php?v=6QZ_qc75ihU
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube國外新聞",如要使用語音搜尋，請前往瀏覽器設定並授予麥克風存取權
 http://127.0.0.1:8081/youtube.php?v=8D5QY5gw_Xk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube國外新聞", 天前更新
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube國外新聞",2026年8月5日
 http://127.0.0.1:8081/youtube.php?v=t9Ilev-uk4w
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube國外新聞",Unknown Title
 http://127.0.0.1:8081/youtube.php?v=DFYaNjzI1aI
@@ -658,385 +652,397 @@ http://127.0.0.1:8081/youtube.php?v=0n82RLOhKEQ
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube娛樂",Unknown Title
 http://127.0.0.1:8081/youtube.php?v=2UUWWRuVMco
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",直播
-http://127.0.0.1:8081/youtube.php?v=WrKAvHG0QRc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",5:49:35
-http://127.0.0.1:8081/youtube.php?v=h1t83n1bLZA
+http://127.0.0.1:8081/youtube.php?v=NgucQeBbYio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",直播
-http://127.0.0.1:8081/youtube.php?v=ufl9ufzyc8A
+http://127.0.0.1:8081/youtube.php?v=p01AHtGCZAA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",直播
-http://127.0.0.1:8081/youtube.php?v=R0HYWcNkWrM
+http://127.0.0.1:8081/youtube.php?v=6_joUX4u2V8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",直播
-http://127.0.0.1:8081/youtube.php?v=Mebe51aJIME
+http://127.0.0.1:8081/youtube.php?v=MnQSorWCXgA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",直播
-http://127.0.0.1:8081/youtube.php?v=rtLQXK6x288
+http://127.0.0.1:8081/youtube.php?v=5SEXldJhwqs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",直播
-http://127.0.0.1:8081/youtube.php?v=zAhxnatI680
+http://127.0.0.1:8081/youtube.php?v=R36IIe5wBAU
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",直播
-http://127.0.0.1:8081/youtube.php?v=KEodErHoifE
+http://127.0.0.1:8081/youtube.php?v=5NeEfnzRhaA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",直播
-http://127.0.0.1:8081/youtube.php?v=ON8NhTkaS9U
+http://127.0.0.1:8081/youtube.php?v=uH5T3lH3tPo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",直播
-http://127.0.0.1:8081/youtube.php?v=9-scTWzK9rI
+http://127.0.0.1:8081/youtube.php?v=KSvBr-KPbbc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",直播
-http://127.0.0.1:8081/youtube.php?v=LMoYpUSQLBw
+http://127.0.0.1:8081/youtube.php?v=uLAC0qzLeJY
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",直播
-http://127.0.0.1:8081/youtube.php?v=lalSY3jj-HA
+http://127.0.0.1:8081/youtube.php?v=B7Fjdpo8h2s
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",直播
-http://127.0.0.1:8081/youtube.php?v=KbS_d0RNAk8
+http://127.0.0.1:8081/youtube.php?v=Bwy0Ew38rr4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",直播
-http://127.0.0.1:8081/youtube.php?v=ZRTXS6U1vSY
+http://127.0.0.1:8081/youtube.php?v=1n-OlAPwTgY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",首播
+http://127.0.0.1:8081/youtube.php?v=_X1i002s664
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",直播
-http://127.0.0.1:8081/youtube.php?v=hXxAc3HksMs
+http://127.0.0.1:8081/youtube.php?v=bRxVTy3bQlU
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",切換播放/暫停
-http://127.0.0.1:8081/youtube.php?v=T4WEC4xO4ME
+http://127.0.0.1:8081/youtube.php?v=hok8dHWID-M
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",調慢播放速度
-http://127.0.0.1:8081/youtube.php?v=Z-be7QvkI6c
+http://127.0.0.1:8081/youtube.php?v=UovfdKXyZ58
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",切換劇院模式
-http://127.0.0.1:8081/youtube.php?v=y8WKzLDqEPo
+http://127.0.0.1:8081/youtube.php?v=Lv7z9CV_u_0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",輪流切換字型大小 (縮小)
-http://127.0.0.1:8081/youtube.php?v=lTCYNLRHBoc
+http://127.0.0.1:8081/youtube.php?v=3gjkX9OQh9E
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",縮小
-http://127.0.0.1:8081/youtube.php?v=iPYV8e91MZA
+http://127.0.0.1:8081/youtube.php?v=vp5YdbFHjTM
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",輕觸麥克風圖示再試一次
-http://127.0.0.1:8081/youtube.php?v=xtvasUaeT8A
+http://127.0.0.1:8081/youtube.php?v=BBjDeP34kiE
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",如要使用語音搜尋，請前往瀏覽器設定並授予麥克風存取權
-http://127.0.0.1:8081/youtube.php?v=-ieBE15wHZg
+http://127.0.0.1:8081/youtube.php?v=bxP_KFxnwuU
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",登入
-http://127.0.0.1:8081/youtube.php?v=HnwfsVkv_XU
+http://127.0.0.1:8081/youtube.php?v=u8vSjz5Wwh4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=JVo2tLPe6IE
+http://127.0.0.1:8081/youtube.php?v=3q772u9-rNk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=SrDOjjm63CA
+http://127.0.0.1:8081/youtube.php?v=mnwMod6c7IY
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=gUIrCPQZ29E
+http://127.0.0.1:8081/youtube.php?v=jdz8ZE20G_M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=LWjQ0BVrb0g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=PEv1_XQlq-I
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=VhhC943qE1Y
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=Tme2cMRjdeA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=YKgQQhWF_Wg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=Ld503BtDKzc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=lSCPV--V5F0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=1JeuyUc0bOA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=6AJ9_waVaz0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=iUjkNHPmhlY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=LBBuPHBT4SY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=PSentz826RQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=hEQ9yTp1_g8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=WpAvw57PJjA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=bXb5uwC4LX8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=ygtbyi1T-T0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=Y7Yf1HMD-08
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=cctLLbQJIfw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=rX2DtKbbiIM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=um6xdp9f1wM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=27BYi-I5pJY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=TeKFN1UfMas
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=y9-cGofc4X4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=glLwwFEtpbk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=79GfE3-nc0o
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
 http://127.0.0.1:8081/youtube.php?v=E6GsKCz1jIo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=XRi9Jmftst0
+http://127.0.0.1:8081/youtube.php?v=EbzRZJor0_0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=FUlqQSXDOnc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=u1Zo0uVS-xk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=JGfsaLhBYu0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=VZo3A3kpArQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=ypB62OBJSBw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=869vc4N7H_0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=NRYQZ4sAHh8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=4PHqTQ8kKcQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=9YtnnBVsNN4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=lF6QLTrLpMY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=Y1LUYre6NZ4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=wA9F6BYEHhs
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=rQV8hYP5-B8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=LOeL059j6LU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=dr4hUScaeU8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=krbTfpFPfzk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=PGNKOeHSWcI
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=aZNYl2ReFbE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=dcSR_40d_lM
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=Z-vbomkmLUs
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=0jvn5IwK0tg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=A0K1hLau8kY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=I7OOeB1QUjc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=7JX20L1cx6Q
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=9GwU5qkRgdE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=cRhA1npYi9Q
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=FgrxxBHZoBw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=p1Un-EXhgVo
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=5LKub3ISwFk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=zGGg1FN-XkU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=d2L93NVNHnQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=vzJuEjawdek
+http://127.0.0.1:8081/youtube.php?v=SjOXFSWJD9s
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
 http://127.0.0.1:8081/youtube.php?v=dhU7t21Jbxo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=M2LS6dM9olE
+http://127.0.0.1:8081/youtube.php?v=YiBLXpGffMU
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=Tiyt9JoRHwU
+http://127.0.0.1:8081/youtube.php?v=QJh_ukR5_oI
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=d47fqgLSHVA
+http://127.0.0.1:8081/youtube.php?v=wliAxLiegUA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=wczpIf5G0O8
+http://127.0.0.1:8081/youtube.php?v=Rxtnzb4QYGQ
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=jwxcO-xLH14
+http://127.0.0.1:8081/youtube.php?v=MWm0oYmHV7E
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=DnGswNoXk5s
+http://127.0.0.1:8081/youtube.php?v=yvLoYwEFOy4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=WjNFtvMlLZ8
+http://127.0.0.1:8081/youtube.php?v=cPwq3L-8OoI
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=PYKziqSIDxI
+http://127.0.0.1:8081/youtube.php?v=CGjgS5pjVgQ
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=bqSKg5kxXlc
+http://127.0.0.1:8081/youtube.php?v=dLYQUzN13ok
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=t0bXBSUxjvs
+http://127.0.0.1:8081/youtube.php?v=3a_xOkpd72s
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=4CXgLHcgMFQ
+http://127.0.0.1:8081/youtube.php?v=3Yr3eN0Dp7g
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=rFwPHj1js5Y
+http://127.0.0.1:8081/youtube.php?v=XofWVZXy_u4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=m58L2FjlIHo
+http://127.0.0.1:8081/youtube.php?v=D3OlIKgsOVg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=V7Vxzdz_eRk
+http://127.0.0.1:8081/youtube.php?v=YOPl7TC2o9g
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=TrT4sP_w0Jc
+http://127.0.0.1:8081/youtube.php?v=EOekOsTZscU
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=UrL6sxpLpR4
+http://127.0.0.1:8081/youtube.php?v=OUw9MQAPZbw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=FwJC-gs6a8o
+http://127.0.0.1:8081/youtube.php?v=4PHqTQ8kKcQ
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=sr0thB84Xi0
+http://127.0.0.1:8081/youtube.php?v=Dlfp0TGfU7Y
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=M-JLyaMc3LM
+http://127.0.0.1:8081/youtube.php?v=fyu8pWeI44M
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=4G5-PWjzWiY
+http://127.0.0.1:8081/youtube.php?v=8w4aJEJcxAE
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=XmXHOVgX-Wg
+http://127.0.0.1:8081/youtube.php?v=M98uybMZKno
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=9vlVBf19hhw
+http://127.0.0.1:8081/youtube.php?v=88KfOG3SKkg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=iOe9XhN95S0
+http://127.0.0.1:8081/youtube.php?v=wCBlbyrj_aU
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=kUuMDCJuhzI
+http://127.0.0.1:8081/youtube.php?v=sclRsN4s0_I
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=1jfHfpnqXPo
+http://127.0.0.1:8081/youtube.php?v=WWLgw8T2dDo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=1JUq_RtrmMY
+http://127.0.0.1:8081/youtube.php?v=knLZlaI0bEw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=zEUExEmrD10
+http://127.0.0.1:8081/youtube.php?v=K2JE6yEusJo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=6NhZorpetX8
+http://127.0.0.1:8081/youtube.php?v=6XkAKcX_woI
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=kC7NKB35lHE
+http://127.0.0.1:8081/youtube.php?v=BXzUAAvLLeE
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=h2apG7ay3Yw
+http://127.0.0.1:8081/youtube.php?v=RwCvk2LcJrw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=yVaLK2wEAoA
+http://127.0.0.1:8081/youtube.php?v=3szAEOkcvnQ
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=IMzhG5Ys6FQ
+http://127.0.0.1:8081/youtube.php?v=wbINIxIz5b0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=iX-d0hFfGJM
+http://127.0.0.1:8081/youtube.php?v=MHea5-Khrzo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=fas0Mh86JIE
+http://127.0.0.1:8081/youtube.php?v=FkV84WGQt-Y
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=ZPA5AuMjGIE
+http://127.0.0.1:8081/youtube.php?v=yEokwssBppY
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=yyqnCb4KYT4
+http://127.0.0.1:8081/youtube.php?v=6EuAZFnm2dc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=zsdIqqBxalo
+http://127.0.0.1:8081/youtube.php?v=eD8P390jRdw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=Fd13PiHVHOo
+http://127.0.0.1:8081/youtube.php?v=rpyOlLiiMCk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=x7jbsfYlwho
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",3:28:34
-http://127.0.0.1:8081/youtube.php?v=aAnMwB8UXvU
+http://127.0.0.1:8081/youtube.php?v=CLfpBNydJfs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=UzBJalYExhE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=YO3QLYivSqQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=RA00q5LjunA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=HLrwmhKeKN0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=_IwgEYD3Aec
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube遊戲直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=TTXOloWpmDc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",直播
-http://127.0.0.1:8081/youtube.php?v=GtcWocEuOYE
+http://127.0.0.1:8081/youtube.php?v=hBkf-oNRfK0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",直播
-http://127.0.0.1:8081/youtube.php?v=erFCVetXc4M
+http://127.0.0.1:8081/youtube.php?v=CWYdCm-fuzU
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",直播
-http://127.0.0.1:8081/youtube.php?v=c_X-zljOh4w
+http://127.0.0.1:8081/youtube.php?v=wHL6jbEkx3g
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",直播
-http://127.0.0.1:8081/youtube.php?v=Uo1_DFIOekc
+http://127.0.0.1:8081/youtube.php?v=RlyA9niMPoQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",1:43:09
+http://127.0.0.1:8081/youtube.php?v=RYqArUcfo5k
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",直播
-http://127.0.0.1:8081/youtube.php?v=_w3l8EUVt7U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",1:06:46
-http://127.0.0.1:8081/youtube.php?v=0V09l2XdQbE
+http://127.0.0.1:8081/youtube.php?v=9oq6Y1r5U_A
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",直播
-http://127.0.0.1:8081/youtube.php?v=82ws9DTCblo
+http://127.0.0.1:8081/youtube.php?v=U2KO7ajier0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",2:01:21
+http://127.0.0.1:8081/youtube.php?v=D_KxSfgrxPE
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",直播
-http://127.0.0.1:8081/youtube.php?v=uS4_6Fdatik
+http://127.0.0.1:8081/youtube.php?v=uPIV2Jownd8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",直播
-http://127.0.0.1:8081/youtube.php?v=s3X-ZIUTW7I
+http://127.0.0.1:8081/youtube.php?v=8vr5Fhyh6CA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",直播
-http://127.0.0.1:8081/youtube.php?v=5e7R1w9lt3A
+http://127.0.0.1:8081/youtube.php?v=Q5qtuh2y9_k
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",直播
-http://127.0.0.1:8081/youtube.php?v=UTJYlri9Ocg
+http://127.0.0.1:8081/youtube.php?v=efxGfeLS9qg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",直播
-http://127.0.0.1:8081/youtube.php?v=B5oq0g6Argw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",搜尋
-http://127.0.0.1:8081/youtube.php?v=U0dH52nw8uI
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",上一部影片
-http://127.0.0.1:8081/youtube.php?v=uLWEssCrXYc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",跳轉至前一個章節
-http://127.0.0.1:8081/youtube.php?v=7osLG6oKbGg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",切換靜音
-http://127.0.0.1:8081/youtube.php?v=hBmG962VqYg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",向左平移
-http://127.0.0.1:8081/youtube.php?v=uyWzlZLD70s
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",聽取中…
-http://127.0.0.1:8081/youtube.php?v=rCYZjUUlLis
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",請檢查你的連線狀態，然後再試一次
-http://127.0.0.1:8081/youtube.php?v=TsxaEMzSF2Q
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",直播中
-http://127.0.0.1:8081/youtube.php?v=mJG2g-mYMB8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",訂閱
+http://127.0.0.1:8081/youtube.php?v=gnvTsGVRErQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",直播
+http://127.0.0.1:8081/youtube.php?v=OlxrgKlfpcI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",登入
+http://127.0.0.1:8081/youtube.php?v=RMqsNlCrsOo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",下一部影片
+http://127.0.0.1:8081/youtube.php?v=mW8W2HerMQ8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",跳轉至下一個章節
+http://127.0.0.1:8081/youtube.php?v=VuTxuoS6HPI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",字幕
+http://127.0.0.1:8081/youtube.php?v=l8ga-hnuXpQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",向下平移
+http://127.0.0.1:8081/youtube.php?v=I7iAweRcn38
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",無法辨識你的語音指令，請再試一次。
+http://127.0.0.1:8081/youtube.php?v=xeImjWl63xE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",正在等待許可
+http://127.0.0.1:8081/youtube.php?v=AL97UQ7wW9s
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",100
+http://127.0.0.1:8081/youtube.php?v=FUVVcjZc6k8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=VYIWwiI-DPg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=QEWzzJGBPkM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=Bhz5h5JOPtI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=-P0kY6M3XAY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=3tzeYeVezCY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=2WAsfl8TLgE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=Ly7DjLeUuTE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=R-Lf4gernLM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=2qJLa3R2UW4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=5f_McABunN0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=sj1lSlghYOM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=DsXyQ2aSTSI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=0HNFf8Vp9UI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=_llKBORqZ8w
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=Uq8HHipj9d4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=j-gl5CV5eXE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
 http://127.0.0.1:8081/youtube.php?v=0Pdv6iMt0Wg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=-ucsEswXI3k
+http://127.0.0.1:8081/youtube.php?v=w_6JR4i2neQ
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=k0n341SmL7o
+http://127.0.0.1:8081/youtube.php?v=8-CS12nGjUo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=8jpwgthb6UU
+http://127.0.0.1:8081/youtube.php?v=Kk9VrCM5mRo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=2InTx_71oWY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=KK3mPTC1TE8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=XFZq_brucZY
+http://127.0.0.1:8081/youtube.php?v=81wiDi69aKs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
 http://127.0.0.1:8081/youtube.php?v=UXpso0fw8KI
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=NOCiUxLwS-0
+http://127.0.0.1:8081/youtube.php?v=8q-2yVrpZWM
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=LwhuCYsV5iA
+http://127.0.0.1:8081/youtube.php?v=OWXxmF17MXg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=ukjNzmdC07o
+http://127.0.0.1:8081/youtube.php?v=aQzmWnEUQU8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=ikaYNA9tpu4
+http://127.0.0.1:8081/youtube.php?v=1Xg-GTV7NEw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=X4b9z1VTIw4
+http://127.0.0.1:8081/youtube.php?v=SNVe7nB3sN8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=7szgzRFUNPg
+http://127.0.0.1:8081/youtube.php?v=FCNSqDjo4mI
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=XOej0MIi28k
+http://127.0.0.1:8081/youtube.php?v=Bzh8OoeUTi4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=De0pzxTMavE
+http://127.0.0.1:8081/youtube.php?v=OnX5AGfAtYY
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=i_4o8ZDWQhA
+http://127.0.0.1:8081/youtube.php?v=nVxbz6Ek2CA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=9vN5msbkkD0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=aURXBrBuUY4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=X-6rbZgb1UY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=OAMl_p9QKmY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=n86jahjSexM
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=vC8zkugNHJc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=u23hk4g0e-M
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=ex11DzJ-rxc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=hM9B9OunSJ0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=nLcNCNVxINk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=GTIaqaPCqdc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=totqSN3aYNw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=mnSlM4MysYw
+http://127.0.0.1:8081/youtube.php?v=kI48aZk7bq0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
 http://127.0.0.1:8081/youtube.php?v=-zSaswVrQ_M
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=B6HNh8Z6Kro
+http://127.0.0.1:8081/youtube.php?v=SbTSkUW8vHU
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=Bcm0as-bMnI
+http://127.0.0.1:8081/youtube.php?v=TTbnJvpPmDA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=1Ix_8uiFxnE
+http://127.0.0.1:8081/youtube.php?v=kEW-KJNW8cA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=CBybaF9vvBU
+http://127.0.0.1:8081/youtube.php?v=C-GZ9QlANa8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=XvF2ARC6fNo
+http://127.0.0.1:8081/youtube.php?v=TikuNlNn5EA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=z5JEdFYklN8
+http://127.0.0.1:8081/youtube.php?v=zwAiptUhGdw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=x4uJpJVXcFI
+http://127.0.0.1:8081/youtube.php?v=OAMl_p9QKmY
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=5SF--6ctCcE
+http://127.0.0.1:8081/youtube.php?v=6IwIVnmqs-I
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=dIpFEjHBIkY
+http://127.0.0.1:8081/youtube.php?v=Ost0NSrTUdk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=7JE7WPCxJ_M
+http://127.0.0.1:8081/youtube.php?v=IAXgdILudMg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=Fg-NXqkCYSE
+http://127.0.0.1:8081/youtube.php?v=HGsCcNuSI3s
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=TSYjOPTUKEU
+http://127.0.0.1:8081/youtube.php?v=xgiB0QU5FHs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=6DLrlY7bVLA
+http://127.0.0.1:8081/youtube.php?v=7iFwlbaYkBc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=E_yeAS_HXEg
+http://127.0.0.1:8081/youtube.php?v=M7cH3ZCjQGs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=_ZVliEQsF6k
+http://127.0.0.1:8081/youtube.php?v=zFugEaJoRpk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=mrj2SHDJibM
+http://127.0.0.1:8081/youtube.php?v=_bPUCKcWMZk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=zrGs0w3VAbo
+http://127.0.0.1:8081/youtube.php?v=45m0Da-d-Rw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=JIVo8dBTXgA
+http://127.0.0.1:8081/youtube.php?v=TaYKa4OYbbc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=E4OieterS8M
+http://127.0.0.1:8081/youtube.php?v=ex11DzJ-rxc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=jq9niR81gYo
+http://127.0.0.1:8081/youtube.php?v=FtvOC5hXjJU
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=dP4pV2hU8Rk
+http://127.0.0.1:8081/youtube.php?v=Oe6wy_ltI9s
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=cp2HBHokqqM
+http://127.0.0.1:8081/youtube.php?v=fmFNmkKnvlU
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=21MKww_RdOs
+http://127.0.0.1:8081/youtube.php?v=J8psZsUOIuw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=l6C1KqdNJhg
+http://127.0.0.1:8081/youtube.php?v=YRT4E4gIqQI
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=48T9bVllQgk
+http://127.0.0.1:8081/youtube.php?v=B_KJvEDZKXE
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=Ld6IFu1IwUM
+http://127.0.0.1:8081/youtube.php?v=6m5qZMd2gnI
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=RwMj7crxdB0
+http://127.0.0.1:8081/youtube.php?v=iG2G8o7w728
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=h2nZy5msUnI
+http://127.0.0.1:8081/youtube.php?v=AAX4XmxA9DQ
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=QwhYd34K7v0
+http://127.0.0.1:8081/youtube.php?v=8LwHDs0vV1c
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=smcQvzsh5Qo
+http://127.0.0.1:8081/youtube.php?v=khLy2fk7hWY
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=2WiVLGcUQ_U
+http://127.0.0.1:8081/youtube.php?v=b9bmSCX6cU0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=IZl1S22N0fY
+http://127.0.0.1:8081/youtube.php?v=WtvyI_bkO4U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=5H18pjCzEQE
+http://127.0.0.1:8081/youtube.php?v=xF0hOSoMrQE
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=ZJkhmkMCMBk
+http://127.0.0.1:8081/youtube.php?v=Z9hY27S6ieI
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=8C89zcqmJsE
+http://127.0.0.1:8081/youtube.php?v=QxJA_5E9t24
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=q3zqzzMktAw
+http://127.0.0.1:8081/youtube.php?v=kZ0wb934F3M
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=-N5RkQ83SNE
+http://127.0.0.1:8081/youtube.php?v=trog0fQMPGk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
-http://127.0.0.1:8081/youtube.php?v=DZtIWx96vDE
+http://127.0.0.1:8081/youtube.php?v=SiZlid3chDo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=EjFjRbPp8J0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=Bjezx1o0qcg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube運動直播",Unknown Title
+http://127.0.0.1:8081/youtube.php?v=mOJmbAas_Ps
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube少兒",直播
 http://127.0.0.1:8081/youtube.php?v=TZ3mxF4U__k
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube少兒",直播
