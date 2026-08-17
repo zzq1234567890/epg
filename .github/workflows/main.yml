@@ -257,11 +257,16 @@ jobs:
           # 删除临时 .gz 文件，避免被 git 提交
           rm -f twepg.xml.gz swepg.xml.gz
 
-      # -------- 统一提交所有变更 --------
+      # -------- 统一提交所有变更（修复冲突） --------
       - name: Commit and push all changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          # 获取远程最新提交
+          git fetch origin
+          # 将本地分支重置到远程最新，保留工作区变更（未暂存）
+          git reset --soft origin/main
+          # 添加所有变更（包括新增、修改、删除）
           git add .
           if git diff --cached --quiet; then
             echo "⚠️ 没有需要提交的变更"
@@ -269,7 +274,7 @@ jobs:
             commit_time=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
             git commit -m "综合更新 EPG 数据，时间：$commit_time"
             for i in {1..3}; do
-              git pull --rebase && git push && exit 0 || sleep 5
+              git push && exit 0 || sleep 5
             done
             exit 1
           fi
