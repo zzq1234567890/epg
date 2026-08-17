@@ -235,7 +235,7 @@ jobs:
           extract('swepg.xml', '简体电视台目录.txt')
           EOF
 
-      # -------- 新增：上传 gz 文件到远程服务器（敏感信息通过 Secrets 隐藏） --------
+      # -------- 新增：上传 gz 文件到远程服务器（增强日志与验证） --------
       - name: Upload gz files to remote server
         env:
           SERVER_HOST: ${{ secrets.SERVER_HOST }}
@@ -243,19 +243,33 @@ jobs:
           SERVER_USER: ${{ secrets.SERVER_USER }}
           SERVER_PASSWORD: ${{ secrets.SERVER_PASSWORD }}
         run: |
-          # 压缩 XML 文件（若已有 .gz 则覆盖）
+          set -e  # 任何错误立即终止
+          
+          # 1. 检查文件是否存在
+          ls -l twepg.xml swepg.xml
+          
+          # 2. 压缩 XML 文件（若已有 .gz 则覆盖）
+          echo "📦 压缩 twepg.xml -> twepg.xml.gz"
           gzip -c twepg.xml > twepg.xml.gz
+          echo "📦 压缩 swepg.xml -> swepg.xml.gz"
           gzip -c swepg.xml > swepg.xml.gz
-
-          # 安装 sshpass（用于密码认证）
+          
+          # 3. 安装 sshpass（用于密码认证）
           sudo apt-get update && sudo apt-get install -y sshpass
-
-          # 通过 scp 上传（跳过主机密钥检查，端口指定）
-          sshpass -p "$SERVER_PASSWORD" scp -o StrictHostKeyChecking=no -P "$SERVER_PORT" \
+          
+          # 4. 执行 scp 上传（显示详细进度，便于调试）
+          echo "🚀 开始上传到 $SERVER_USER@$SERVER_HOST:$SERVER_PORT ..."
+          sshpass -p "$SERVER_PASSWORD" scp -v -o StrictHostKeyChecking=no -P "$SERVER_PORT" \
             twepg.xml.gz swepg.xml.gz "$SERVER_USER@$SERVER_HOST":~
-
-          # 删除临时 .gz 文件，避免被 git 提交
+          
+          # 5. 验证上传：列出远程目录文件
+          echo "✅ 验证远程文件列表："
+          sshpass -p "$SERVER_PASSWORD" ssh -p "$SERVER_PORT" -o StrictHostKeyChecking=no "$SERVER_USER@$SERVER_HOST" \
+            "ls -lh ~/twepg.xml.gz ~/swepg.xml.gz"
+          
+          # 6. 删除本地临时 .gz 文件，避免被 git 提交
           rm -f twepg.xml.gz swepg.xml.gz
+          echo "🎉 上传完成并清理本地 .gz 文件"
 
       # -------- 统一提交所有变更（修复冲突） --------
       - name: Commit and push all changes
