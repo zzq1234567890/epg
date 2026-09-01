@@ -1,135 +1,138 @@
 #!/usr/bin/env python3
-"""
-从 YouTube 直播 M3U 列表中提取 m3u8 流地址，生成新的 M3U 文件
-"""
+# -*- coding: utf-8 -*-
 
 import re
-import os
 import sys
-from urllib.parse import urlparse
+import time
+from pathlib import Path
+from urllib.request import urlopen, Request
 
-import yt_dlp
+try:
+    import yt_dlp
+except ImportError:
+    print("請先安裝 yt-dlp: pip install -U yt-dlp")
+    sys.exit(1)
 
-# ========== 配置 ==========
-INPUT_M3U_URL = "https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/youtubeworld.m3u"
-OUTPUT_M3U_PATH = "output.m3u"  # 生成的文件名，可自行修改
+SOURCE_URL = "https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/youtubeworld.m3u"
+OUTPUT_DIR = Path("output")
+OUTPUT_FILE = OUTPUT_DIR / "youtubeworld_m3u8.m3u"
 
-# yt-dlp 提取选项
+# yt-dlp 選項：只取 HLS，優先最高畫質，不要下載
 YDL_OPTS = {
     "quiet": True,
     "no_warnings": True,
-    "extract_flat": True,          # 只获取元数据，不下载
-    "force_generic_extractor": False,
+    "skip_download": True,
+    "extract_flat": False,
+    "format": "best[protocol^=m3u8]/bestaudio[protocol^=m3u8]/best",
+    "youtube_include_dash_manifest": False,
+    "nocheckcertificate": True,
+    "geo_bypass": True,
+    # 可選：如果需要 cookies 可取消註解
+    # "cookiefile": "cookies.txt",
 }
 
+def fetch_source_m3u(url: str) -> str:
+    req = Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    with urlopen(req, timeout=30) as resp:
+        return resp.read().decode("utf-8", errors="ignore")
 
-def parse_m3u(content):
-    """
-    解析 M3U 内容，提取频道名和 YouTube URL
-    返回: [(channel_name, youtube_url), ...]
-    """
+def parse_m3u(content: str):
+    """解析 m3u，回傳 list of dict: {extinf, url}"""
     entries = []
     lines = content.splitlines()
     i = 0
     while i < len(lines):
         line = lines[i].strip()
-        # 匹配 #EXTINF 行，提取频道名（最后一个逗号后面的内容）
         if line.startswith("#EXTINF"):
-            # 提取频道名：取最后一个逗号之后的部分
-            if "," in line:
-                channel_name = line.split(",")[-1].strip()
-            else:
-                channel_name = "Unknown"
-            # 下一行应该是 URL
+            extinf = line
+            # 下一行應該是 url
             if i + 1 < len(lines):
-                url_line = lines[i + 1].strip()
-                # 检查是否是 YouTube 链接
-                if "youtube.com/watch" in url_line or "youtu.be/" in url_line:
-                    entries.append((channel_name, url_line))
-            i += 2
-        else:
-            i += 1
+                url = lines[i + 1].strip()
+                if url and not url.startswith("#"):
+                    entries.append({"extinf": extinf, "url": url})
+                    i += 2
+                    continue
+        i += 1
     return entries
 
-
-def get_m3u8_url(youtube_url):
-    """
-    使用 yt-dlp 提取直播流的 m3u8 地址
-    返回: m3u8_url 或 None
-    """
+def get_m3u8_url(youtube_url: str) -> str | None:
+    """用 yt-dlp 提取 m3u8 直鏈"""
     try:
         with yt_dlp.YoutubeDL(YDL_OPTS) as ydl:
             info = ydl.extract_info(youtube_url, download=False)
-            if info is None:
+            if not info:
                 return None
 
-            # 优先从 formats 中找 m3u8 格式
-            if "formats" in info and info["formats"]:
-                for fmt in info["formats"]:
-                    # m3u8 通常以 .m3u8 结尾或 protocol 为 m3u8
-                    url = fmt.get("url", "")
-                    if url and (".m3u8" in url or fmt.get("protocol") == "m3u8"):
-                        return url
-                # 如果没找到 m3u8，返回第一个可用的格式 URL
-                return info["formats"][0].get("url")
+            # 優先找 hls / m3u8 格式
+            formats = info.get("formats") or []
+            # 過濾出真正的 m3u8
+            hls_formats = [
+                f for f in formats
+                if f.get("protocol") in ("m3u8", "m3u8_native", "http_dash_segments")
+                or (f.get("url") and ".m3u8" in f.get("url", ""))
+            ]
 
-            # 备用：直接取 url 字段
-            if "url" in info and info["url"]:
+            if hls_formats:
+                # 取最高畫質
+                hls_formats.sort(
+                    key=lambda x: (x.get("height") or 0, x.get("tbr") or 0),
+                    reverse=True
+                )
+                return hls_formats[0].get("url")
+
+            # 退而求其次：直接用 url 或 manifest
+            if info.get("url") and ".m3u8" in info.get("url", ""):
                 return info["url"]
+            if info.get("manifest_url"):
+                return info["manifest_url"]
 
+            # 最後嘗試用 -g 邏輯（有些情況 format 選不到）
             return None
     except Exception as e:
-        print(f"  [错误] {youtube_url}: {e}", file=sys.stderr)
+        print(f"  [失敗] {youtube_url} -> {e}", file=sys.stderr)
         return None
 
-
 def main():
-    print("📥 正在下载源 M3U 文件...")
-    import urllib.request
-    try:
-        with urllib.request.urlopen(INPUT_M3U_URL, timeout=30) as resp:
-            content = resp.read().decode("utf-8")
-    except Exception as e:
-        print(f"❌ 下载失败: {e}", file=sys.stderr)
-        sys.exit(1)
+    print("正在下載來源 m3u...")
+    source = fetch_source_m3u(SOURCE_URL)
+    entries = parse_m3u(source)
+    print(f"共解析到 {len(entries)} 個節目")
 
-    print("📋 正在解析频道列表...")
-    entries = parse_m3u(content)
-    print(f"✅ 找到 {len(entries)} 个频道")
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-    if not entries:
-        print("⚠️ 未找到任何频道，退出")
-        sys.exit(0)
+    success = 0
+    failed = 0
+    results = []
 
-    print("🔄 正在提取 m3u8 流地址（可能需要一些时间）...")
-    new_lines = []
-    success_count = 0
+    for idx, entry in enumerate(entries, 1):
+        yt_url = entry["url"]
+        print(f"[{idx}/{len(entries)}] 處理: {yt_url}")
 
-    for idx, (name, url) in enumerate(entries, 1):
-        print(f"  [{idx}/{len(entries)}] {name}")
-        m3u8_url = get_m3u8_url(url)
-
-        if m3u8_url:
-            # 保留原始 #EXTINF 行风格，只替换 URL
-            # 构造新条目：保持原 #EXTINF 信息 + 新的 m3u8 地址
-            # 这里简化处理：直接生成新的 #EXTINF + m3u8 地址
-            new_lines.append(f'#EXTINF:-1 tvg-logo="" group-title="yt-dlp",{name}')
-            new_lines.append(m3u8_url)
-            success_count += 1
+        m3u8 = get_m3u8_url(yt_url)
+        if m3u8:
+            results.append({"extinf": entry["extinf"], "url": m3u8})
+            success += 1
+            print(f"  → 成功")
         else:
-            print(f"    ⚠️ 无法提取 m3u8，跳过")
-            # 保留原始条目作为备用
-            new_lines.append(f'#EXTINF:-1 tvg-logo="" group-title="yt-dlp (fallback)",{name}')
-            new_lines.append(url)
+            # 保留原始 YouTube 連結作為 fallback（可選）
+            # results.append(entry)
+            failed += 1
+            print(f"  → 跳過（無法取得 m3u8）")
 
-    # 写入新 M3U
-    with open(OUTPUT_M3U_PATH, "w", encoding="utf-8") as f:
+        # 避免被 YouTube 限速，稍微延遲
+        time.sleep(0.8)
+
+    # 寫入新 m3u
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
-        f.write("\n".join(new_lines))
+        f.write("# 由 yt-dlp 自動提取 m3u8，來源: youtubeworld.m3u\n")
+        f.write(f"# 更新時間: {time.strftime('%Y-%m-%d %H:%M:%S')}\n")
+        for item in results:
+            f.write(item["extinf"] + "\n")
+            f.write(item["url"] + "\n")
 
-    print(f"✅ 完成！成功提取 {success_count}/{len(entries)} 个 m3u8 地址")
-    print(f"📁 输出文件: {OUTPUT_M3U_PATH}")
-
+    print(f"\n完成！成功: {success}，失敗: {failed}")
+    print(f"輸出檔案: {OUTPUT_FILE}")
 
 if __name__ == "__main__":
     main()
