@@ -1,0 +1,44 @@
+name: Update YouTube m3u8 Playlist
+
+on:
+  schedule:
+    # 每 3 小時執行一次（可自行調整）
+    - cron: '0 */3 * * *'
+  workflow_dispatch:   # 允許手動觸發
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # 需要寫入權限才能 commit
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install yt-dlp
+        run: |
+          pip install -U yt-dlp
+
+      - name: Run conversion script
+        run: |
+          python scripts/convert_youtube_m3u.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # 如果 output 目錄有變更就提交
+          if [ -n "$(git status --porcelain output/)" ]; then
+            git add output/
+            git commit -m "chore: update youtubeworld_m3u8.m3u $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          else
+            echo "沒有變更，跳過 commit"
+          fi
