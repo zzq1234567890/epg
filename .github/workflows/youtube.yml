@@ -27,7 +27,7 @@ jobs:
 
       - name: Run conversion script
         run: |
-          python scripts/convert_youtube_m3u.py
+          python generate_m3u.py
 
       - name: Commit and push
         run: |
