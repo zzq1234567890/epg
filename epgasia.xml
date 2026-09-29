@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "http://api.torrent-tv.ru/xmltv.dtd">
+<tv generator-info-name="亞洲衛視" generator-info-url="https://www.asiasatv.com/zb">
+  <channel id="亞洲衛視">
+    <display-name>亞洲衛視</display-name>
+  </channel>
+  <programme start="20260928000000 +0800" stop="20260928040000 +0800" channel="亞洲衛視">
+    <title>美丽中华行——梦幻边城</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>1</episode-num>
+  </programme>
+  <programme start="20260928040000 +0800" stop="20260928060000 +0800" channel="亞洲衛視">
+    <title>脚尖上的中国——九里溪</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>2</episode-num>
+  </programme>
+  <programme start="20260928060000 +0800" stop="20260928070000 +0800" channel="亞洲衛視">
+    <title>《外国留学生讲述中国故事》飞扬红旗</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>3</episode-num>
+  </programme>
+  <programme start="20260928070000 +0800" stop="20260928080000 +0800" channel="亞洲衛視">
+    <title>美丽中华行——张家界</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>4</episode-num>
+  </programme>
+  <programme start="20260928080000 +0800" stop="20260928090000 +0800" channel="亞洲衛視">
+    <title>东方之声</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>5</episode-num>
+  </programme>
+  <programme start="20260928090000 +0800" stop="20260928110000 +0800" channel="亞洲衛視">
+    <title>脚尖上的中国——封开县</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>6</episode-num>
+  </programme>
+  <programme start="20260928110000 +0800" stop="20260928120000 +0800" channel="亞洲衛視">
+    <title>寿乡密码——梅县篇</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>7</episode-num>
+  </programme>
+  <programme start="20260928120000 +0800" stop="20260928123000 +0800" channel="亞洲衛視">
+    <title>《艺魂》—墨学泰斗姜宝昌</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>8</episode-num>
+  </programme>
+  <programme start="20260928123000 +0800" stop="20260928143000 +0800" channel="亞洲衛視">
+    <title>世界华语原创音乐金曲榜（首播）</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>9</episode-num>
+  </programme>
+  <programme start="20260928143000 +0800" stop="20260928163000 +0800" channel="亞洲衛視">
+    <title>脚尖上的中国——浯溪碑林</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>10</episode-num>
+  </programme>
+  <programme start="20260928163000 +0800" stop="20260928173000 +0800" channel="亞洲衛視">
+    <title>《外国留学生讲述中国故事》美食篇</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>11</episode-num>
+  </programme>
+  <programme start="20260928173000 +0800" stop="20260928183000 +0800" channel="亞洲衛視">
+    <title>美丽中华行——丁村华夏开启的地方</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>12</episode-num>
+  </programme>
+  <programme start="20260928183000 +0800" stop="20260928193000 +0800" channel="亞洲衛視">
+    <title>东方之声（重播）</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>13</episode-num>
+  </programme>
+  <programme start="20260928193000 +0800" stop="20260928200000 +0800" channel="亞洲衛視">
+    <title>寿乡密码——贺州平桂篇</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>14</episode-num>
+  </programme>
+  <programme start="20260928200000 +0800" stop="20260928213000 +0800" channel="亞洲衛視">
+    <title>《老总驾到》—栗彬</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>15</episode-num>
+  </programme>
+  <programme start="20260928213000 +0800" stop="20260928220000 +0800" channel="亞洲衛視">
+    <title>寿乡密码——梅州梅县篇</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>16</episode-num>
+  </programme>
+  <programme start="20260928220000 +0800" stop="20260929000000 +0800" channel="亞洲衛視">
+    <title>世界华语原创音乐金曲榜（重播）</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>17</episode-num>
+  </programme>
+  <programme start="20260929000000 +0800" stop="20260929040000 +0800" channel="亞洲衛視">
+    <title>美丽中华行——华夏之“柚”遇见你</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>25</episode-num>
+  </programme>
+  <programme start="20260929040000 +0800" stop="20260929060000 +0800" channel="亞洲衛視">
+    <title>脚尖上的中国——红宫红场</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>26</episode-num>
+  </programme>
+  <programme start="20260929060000 +0800" stop="20260929070000 +0800" channel="亞洲衛視">
+    <title>《外国留学生讲述中国故事》不朽慧能</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>27</episode-num>
+  </programme>
+  <programme start="20260929070000 +0800" stop="20260929080000 +0800" channel="亞洲衛視">
+    <title>美丽中华行——新涉县</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>28</episode-num>
+  </programme>
+  <programme start="20260929080000 +0800" stop="20260929090000 +0800" channel="亞洲衛視">
+    <title>东方之声</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>29</episode-num>
+  </programme>
+  <programme start="20260929090000 +0800" stop="20260929110000 +0800" channel="亞洲衛視">
+    <title>脚尖上的中国——炊烟里</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>30</episode-num>
+  </programme>
+  <programme start="20260929110000 +0800" stop="20260929120000 +0800" channel="亞洲衛視">
+    <title>寿乡密码——崇明篇</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>31</episode-num>
+  </programme>
+  <programme start="20260929120000 +0800" stop="20260929123000 +0800" channel="亞洲衛視">
+    <title>《艺魂》—师道长青尹世瑛</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>32</episode-num>
+  </programme>
+  <programme start="20260929123000 +0800" stop="20260929143000 +0800" channel="亞洲衛視">
+    <title>世界华语原创音乐金曲榜（首播）</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>33</episode-num>
+  </programme>
+  <programme start="20260929143000 +0800" stop="20260929163000 +0800" channel="亞洲衛視">
+    <title>脚尖上的中国——安陵书院</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>34</episode-num>
+  </programme>
+  <programme start="20260929163000 +0800" stop="20260929173000 +0800" channel="亞洲衛視">
+    <title>《外国留学生讲述中国故事》美食篇</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>35</episode-num>
+  </programme>
+  <programme start="20260929173000 +0800" stop="20260929183000 +0800" channel="亞洲衛視">
+    <title>美丽中华行——异域风情梦幻边城</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>36</episode-num>
+  </programme>
+  <programme start="20260929183000 +0800" stop="20260929193000 +0800" channel="亞洲衛視">
+    <title>东方之声（重播）</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>37</episode-num>
+  </programme>
+  <programme start="20260929193000 +0800" stop="20260929200000 +0800" channel="亞洲衛視">
+    <title>寿乡密码—梅州丰顺篇</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>38</episode-num>
+  </programme>
+  <programme start="20260929200000 +0800" stop="20260929213000 +0800" channel="亞洲衛視">
+    <title>《老总驾到》—牛林凤</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>39</episode-num>
+  </programme>
+  <programme start="20260929213000 +0800" stop="20260929220000 +0800" channel="亞洲衛視">
+    <title>寿乡密码——梅州梅县篇</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>40</episode-num>
+  </programme>
+  <programme start="20260929220000 +0800" stop="20260930000000 +0800" channel="亞洲衛視">
+    <title>世界华语原创音乐金曲榜（重播）</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>41</episode-num>
+  </programme>
+  <programme start="20260930000000 +0800" stop="20260930040000 +0800" channel="亞洲衛視">
+    <title>美丽中华行——逐梦晋阳</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>49</episode-num>
+  </programme>
+  <programme start="20260930040000 +0800" stop="20260930060000 +0800" channel="亞洲衛視">
+    <title>脚尖上的中国——灌阳红色之旅</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>50</episode-num>
+  </programme>
+  <programme start="20260930060000 +0800" stop="20260930070000 +0800" channel="亞洲衛視">
+    <title>《外国留学生讲述中国故事》之天堂镇</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>51</episode-num>
+  </programme>
+  <programme start="20260930070000 +0800" stop="20260930080000 +0800" channel="亞洲衛視">
+    <title>美丽中华行——羊绒之都清河</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>52</episode-num>
+  </programme>
+  <programme start="20260930080000 +0800" stop="20260930090000 +0800" channel="亞洲衛視">
+    <title>东方之声</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>53</episode-num>
+  </programme>
+  <programme start="20260930090000 +0800" stop="20260930110000 +0800" channel="亞洲衛視">
+    <title>脚尖上的中国——白云山</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>54</episode-num>
+  </programme>
+  <programme start="20260930110000 +0800" stop="20260930120000 +0800" channel="亞洲衛視">
+    <title>寿乡密码——八步篇</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>55</episode-num>
+  </programme>
+  <programme start="20260930120000 +0800" stop="20260930123000 +0800" channel="亞洲衛視">
+    <title>《艺魂》—墨学泰斗姜宝昌</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>56</episode-num>
+  </programme>
+  <programme start="20260930123000 +0800" stop="20260930143000 +0800" channel="亞洲衛視">
+    <title>世界华语原创音乐金曲榜（首播）</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>57</episode-num>
+  </programme>
+  <programme start="20260930143000 +0800" stop="20260930163000 +0800" channel="亞洲衛視">
+    <title>脚尖上的中国——潮州美食</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>58</episode-num>
+  </programme>
+  <programme start="20260930163000 +0800" stop="20260930173000 +0800" channel="亞洲衛視">
+    <title>《外国留学生讲述中国故事》之hi,饶平</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>59</episode-num>
+  </programme>
+  <programme start="20260930173000 +0800" stop="20260930183000 +0800" channel="亞洲衛視">
+    <title>美丽中华行——世代音韵戏舞关中</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>60</episode-num>
+  </programme>
+  <programme start="20260930183000 +0800" stop="20260930193000 +0800" channel="亞洲衛視">
+    <title>东方之声（重播）</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>61</episode-num>
+  </programme>
+  <programme start="20260930193000 +0800" stop="20260930200000 +0800" channel="亞洲衛視">
+    <title>寿乡密码——福建泉港篇</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>62</episode-num>
+  </programme>
+  <programme start="20260930200000 +0800" stop="20260930213000 +0800" channel="亞洲衛視">
+    <title>《老总驾到》—钱钧</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>63</episode-num>
+  </programme>
+  <programme start="20260930213000 +0800" stop="20260930220000 +0800" channel="亞洲衛視">
+    <title>寿乡密码——梅州梅县篇</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>64</episode-num>
+  </programme>
+  <programme start="20260930220000 +0800" stop="20261001000000 +0800" channel="亞洲衛視">
+    <title>世界华语原创音乐金曲榜（重播）</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>65</episode-num>
+  </programme>
+  <programme start="20261001000000 +0800" stop="20261001040000 +0800" channel="亞洲衛視">
+    <title>美丽中华行——锦绣太原</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>73</episode-num>
+  </programme>
+  <programme start="20261001040000 +0800" stop="20261001060000 +0800" channel="亞洲衛視">
+    <title>脚尖上的中国——九鲤溪</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>74</episode-num>
+  </programme>
+  <programme start="20261001060000 +0800" stop="20261001070000 +0800" channel="亞洲衛視">
+    <title>《外国留学生讲述中国故事》之教育篇</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>75</episode-num>
+  </programme>
+  <programme start="20261001070000 +0800" stop="20261001080000 +0800" channel="亞洲衛視">
+    <title>美丽中华行——仙境张家界</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>76</episode-num>
+  </programme>
+  <programme start="20261001080000 +0800" stop="20261001090000 +0800" channel="亞洲衛視">
+    <title>东方之声</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>77</episode-num>
+  </programme>
+  <programme start="20261001090000 +0800" stop="20261001110000 +0800" channel="亞洲衛視">
+    <title>脚尖上的中国——安陵书院</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>78</episode-num>
+  </programme>
+  <programme start="20261001110000 +0800" stop="20261001120000 +0800" channel="亞洲衛視">
+    <title>寿乡密码——丰顺篇</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>79</episode-num>
+  </programme>
+  <programme start="20261001120000 +0800" stop="20261001123000 +0800" channel="亞洲衛視">
+    <title>《艺魂》—师道长青尹世瑛</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>80</episode-num>
+  </programme>
+  <programme start="20261001123000 +0800" stop="20261001143000 +0800" channel="亞洲衛視">
+    <title>世界华语原创音乐金曲榜（首播）</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>81</episode-num>
+  </programme>
+  <programme start="20261001143000 +0800" stop="20261001163000 +0800" channel="亞洲衛視">
+    <title>脚尖上的中国——华门</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>82</episode-num>
+  </programme>
+  <programme start="20261001163000 +0800" stop="20261001173000 +0800" channel="亞洲衛視">
+    <title>《外国留学生讲述中国故事》之种植篇</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>83</episode-num>
+  </programme>
+  <programme start="20261001173000 +0800" stop="20261001183000 +0800" channel="亞洲衛視">
+    <title>美丽中华行——山水江夏绿色新城</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>84</episode-num>
+  </programme>
+  <programme start="20261001183000 +0800" stop="20261001193000 +0800" channel="亞洲衛視">
+    <title>东方之声（重播）</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>85</episode-num>
+  </programme>
+  <programme start="20261001193000 +0800" stop="20261001193200 +0800" channel="亞洲衛視">
+    <title>珠乡橄榄食品</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>86</episode-num>
+  </programme>
+  <programme start="20261001193200 +0800" stop="20261001200000 +0800" channel="亞洲衛視">
+    <title>寿乡密码——上海崇明篇</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>87</episode-num>
+  </programme>
+  <programme start="20261001200000 +0800" stop="20261001213000 +0800" channel="亞洲衛視">
+    <title>《老总驾到》—邬怡</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>88</episode-num>
+  </programme>
+  <programme start="20261001213000 +0800" stop="20261001220000 +0800" channel="亞洲衛視">
+    <title>寿乡密码——梅州梅县篇</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>89</episode-num>
+  </programme>
+  <programme start="20261001220000 +0800" stop="20261002000000 +0800" channel="亞洲衛視">
+    <title>世界华语原创音乐金曲榜（重播）</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>90</episode-num>
+  </programme>
+  <programme start="20261002000000 +0800" stop="20261002040000 +0800" channel="亞洲衛視">
+    <title>美丽中华行——地球第三极聆听西藏</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>97</episode-num>
+  </programme>
+  <programme start="20261002040000 +0800" stop="20261002060000 +0800" channel="亞洲衛視">
+    <title>脚尖上的中国——龙脊梯田</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>98</episode-num>
+  </programme>
+  <programme start="20261002060000 +0800" stop="20261002070000 +0800" channel="亞洲衛視">
+    <title>《外国留学生讲述中国故事》天堂稻浪</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>99</episode-num>
+  </programme>
+  <programme start="20261002070000 +0800" stop="20261002080000 +0800" channel="亞洲衛視">
+    <title>美丽中华行——神农草堂铸华章</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>100</episode-num>
+  </programme>
+  <programme start="20261002080000 +0800" stop="20261002090000 +0800" channel="亞洲衛視">
+    <title>东方之声</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>101</episode-num>
+  </programme>
+  <programme start="20261002090000 +0800" stop="20261002110000 +0800" channel="亞洲衛視">
+    <title>脚尖上的中国——百寿镇</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>102</episode-num>
+  </programme>
+  <programme start="20261002110000 +0800" stop="20261002120000 +0800" channel="亞洲衛視">
+    <title>寿乡密码——芦苞篇</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>103</episode-num>
+  </programme>
+  <programme start="20261002120000 +0800" stop="20261002123000 +0800" channel="亞洲衛視">
+    <title>珠乡橄榄食品</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>104</episode-num>
+  </programme>
+  <programme start="20261002123000 +0800" stop="20261002143000 +0800" channel="亞洲衛視">
+    <title>世界华语原创音乐金曲榜（首播）</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>105</episode-num>
+  </programme>
+  <programme start="20261002143000 +0800" stop="20261002163000 +0800" channel="亞洲衛視">
+    <title>脚尖上的中国——竹山祁剧</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>106</episode-num>
+  </programme>
+  <programme start="20261002163000 +0800" stop="20261002173000 +0800" channel="亞洲衛視">
+    <title>《外国留学生讲述中国故事》之文化教育篇</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>107</episode-num>
+  </programme>
+  <programme start="20261002173000 +0800" stop="20261002173200 +0800" channel="亞洲衛視">
+    <title>珠乡橄榄食品</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>108</episode-num>
+  </programme>
+  <programme start="20261002173200 +0800" stop="20261002183000 +0800" channel="亞洲衛視">
+    <title>美丽中华行——守护羌塘</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>109</episode-num>
+  </programme>
+  <programme start="20261002183000 +0800" stop="20261002193000 +0800" channel="亞洲衛視">
+    <title>东方之声（重播）</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>110</episode-num>
+  </programme>
+  <programme start="20261002193000 +0800" stop="20261002193200 +0800" channel="亞洲衛視">
+    <title>珠乡橄榄食品</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>111</episode-num>
+  </programme>
+  <programme start="20261002193200 +0800" stop="20261002200000 +0800" channel="亞洲衛視">
+    <title>寿乡密码——梅州蕉岭篇</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>112</episode-num>
+  </programme>
+  <programme start="20261002200000 +0800" stop="20261002213000 +0800" channel="亞洲衛視">
+    <title>《老总驾到》—赵丽丽</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>113</episode-num>
+  </programme>
+  <programme start="20261002213000 +0800" stop="20261002220000 +0800" channel="亞洲衛視">
+    <title>寿乡密码——梅州梅县篇</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>114</episode-num>
+  </programme>
+  <programme start="20261002220000 +0800" stop="20261003000000 +0800" channel="亞洲衛視">
+    <title>世界华语原创音乐金曲榜（重播）</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>115</episode-num>
+  </programme>
+  <programme start="20261003000000 +0800" stop="20261003040000 +0800" channel="亞洲衛視">
+    <title>美丽中华行——世代音韵戏舞观众</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>121</episode-num>
+  </programme>
+  <programme start="20261003040000 +0800" stop="20261003060000 +0800" channel="亞洲衛視">
+    <title>脚尖上的中国——竹山祁剧</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>122</episode-num>
+  </programme>
+  <programme start="20261003060000 +0800" stop="20261003070000 +0800" channel="亞洲衛視">
+    <title>《外国留学生讲述中国故事》之种植篇</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>123</episode-num>
+  </programme>
+  <programme start="20261003070000 +0800" stop="20261003080000 +0800" channel="亞洲衛視">
+    <title>美丽中华行——神农草堂铸华章</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>124</episode-num>
+  </programme>
+  <programme start="20261003080000 +0800" stop="20261003090000 +0800" channel="亞洲衛視">
+    <title>东方之声</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>125</episode-num>
+  </programme>
+  <programme start="20261003090000 +0800" stop="20261003110000 +0800" channel="亞洲衛視">
+    <title>脚尖上的中国——炊烟里</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>126</episode-num>
+  </programme>
+  <programme start="20261003110000 +0800" stop="20261003120000 +0800" channel="亞洲衛視">
+    <title>寿乡密码——大埔篇</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>127</episode-num>
+  </programme>
+  <programme start="20261003120000 +0800" stop="20261003123000 +0800" channel="亞洲衛視">
+    <title>珠乡橄榄食品</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>128</episode-num>
+  </programme>
+  <programme start="20261003123000 +0800" stop="20261003143000 +0800" channel="亞洲衛視">
+    <title>世界华语原创音乐金曲榜（首播）</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>129</episode-num>
+  </programme>
+  <programme start="20261003143000 +0800" stop="20261003163000 +0800" channel="亞洲衛視">
+    <title>脚尖上的中国——鸟岛</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>130</episode-num>
+  </programme>
+  <programme start="20261003163000 +0800" stop="20261003173000 +0800" channel="亞洲衛視">
+    <title>《外国留学生讲述中国故事》之旅游工业篇</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>131</episode-num>
+  </programme>
+  <programme start="20261003173000 +0800" stop="20261003173200 +0800" channel="亞洲衛視">
+    <title>珠乡橄榄食品</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>132</episode-num>
+  </programme>
+  <programme start="20261003173200 +0800" stop="20261003183000 +0800" channel="亞洲衛視">
+    <title>美丽中华行——荒漠绿宝石生态阿克苏</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>133</episode-num>
+  </programme>
+  <programme start="20261003183000 +0800" stop="20261003193000 +0800" channel="亞洲衛視">
+    <title>东方之声（重播）</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>134</episode-num>
+  </programme>
+  <programme start="20261003193000 +0800" stop="20261003193200 +0800" channel="亞洲衛視">
+    <title>珠乡橄榄食品</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>135</episode-num>
+  </programme>
+  <programme start="20261003193200 +0800" stop="20261003200000 +0800" channel="亞洲衛視">
+    <title>寿乡密码——梅州梅县篇</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>136</episode-num>
+  </programme>
+  <programme start="20261003200000 +0800" stop="20261003213000 +0800" channel="亞洲衛視">
+    <title>《老总驾到》—栗彬</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>137</episode-num>
+  </programme>
+  <programme start="20261003213000 +0800" stop="20261003220000 +0800" channel="亞洲衛視">
+    <title>寿乡密码——梅州梅县篇</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>138</episode-num>
+  </programme>
+  <programme start="20261003220000 +0800" stop="20261004000000 +0800" channel="亞洲衛視">
+    <title>世界华语原创音乐金曲榜（重播）</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>139</episode-num>
+  </programme>
+  <programme start="20261004000000 +0800" stop="20261004040000 +0800" channel="亞洲衛視">
+    <title>美丽中华行——异域风情梦幻边城</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>145</episode-num>
+  </programme>
+  <programme start="20261004040000 +0800" stop="20261004060000 +0800" channel="亞洲衛視">
+    <title>脚尖上的中国——九鲤溪</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>146</episode-num>
+  </programme>
+  <programme start="20261004060000 +0800" stop="20261004070000 +0800" channel="亞洲衛視">
+    <title>《外国留学生讲述中国故事》之种植篇</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>147</episode-num>
+  </programme>
+  <programme start="20261004070000 +0800" stop="20261004080000 +0800" channel="亞洲衛視">
+    <title>美丽中华行——仙境张家界</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>148</episode-num>
+  </programme>
+  <programme start="20261004080000 +0800" stop="20261004090000 +0800" channel="亞洲衛視">
+    <title>东方之声</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>149</episode-num>
+  </programme>
+  <programme start="20261004090000 +0800" stop="20261004110000 +0800" channel="亞洲衛視">
+    <title>脚尖上的中国——广西苗寨</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>150</episode-num>
+  </programme>
+  <programme start="20261004110000 +0800" stop="20261004120000 +0800" channel="亞洲衛視">
+    <title>寿乡密码——平桂篇</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>151</episode-num>
+  </programme>
+  <programme start="20261004120000 +0800" stop="20261004123000 +0800" channel="亞洲衛視">
+    <title>珠乡橄榄食品</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>152</episode-num>
+  </programme>
+  <programme start="20261004123000 +0800" stop="20261004143000 +0800" channel="亞洲衛視">
+    <title>世界华语原创音乐金曲榜（首播）</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>153</episode-num>
+  </programme>
+  <programme start="20261004143000 +0800" stop="20261004163000 +0800" channel="亞洲衛視">
+    <title>脚尖上的中国——紫霞岩</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>154</episode-num>
+  </programme>
+  <programme start="20261004163000 +0800" stop="20261004173000 +0800" channel="亞洲衛視">
+    <title>《外国留学生讲述中国故事》之天堂镇</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>155</episode-num>
+  </programme>
+  <programme start="20261004173000 +0800" stop="20261004173200 +0800" channel="亞洲衛視">
+    <title>珠乡橄榄食品</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>156</episode-num>
+  </programme>
+  <programme start="20261004173200 +0800" stop="20261004183000 +0800" channel="亞洲衛視">
+    <title>美丽中华行——仙境张家界</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>157</episode-num>
+  </programme>
+  <programme start="20261004183000 +0800" stop="20261004193000 +0800" channel="亞洲衛視">
+    <title>东方之声（重播）</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>158</episode-num>
+  </programme>
+  <programme start="20261004193000 +0800" stop="20261004193200 +0800" channel="亞洲衛視">
+    <title>珠乡橄榄食品</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>159</episode-num>
+  </programme>
+  <programme start="20261004193200 +0800" stop="20261004200000 +0800" channel="亞洲衛視">
+    <title>寿乡密码——三水芦苞篇</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>160</episode-num>
+  </programme>
+  <programme start="20261004200000 +0800" stop="20261004213000 +0800" channel="亞洲衛視">
+    <title>《老总驾到》—牛林凤</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>161</episode-num>
+  </programme>
+  <programme start="20261004213000 +0800" stop="20261004220000 +0800" channel="亞洲衛視">
+    <title>寿乡密码——梅州梅县篇</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>162</episode-num>
+  </programme>
+  <programme start="20261004220000 +0800" stop="20261005000000 +0800" channel="亞洲衛視">
+    <title>世界华语原创音乐金曲榜（重播）</title>
+    <desc>节目描述</desc>
+    <category>综艺</category>
+    <episode-num>163</episode-num>
+  </programme>
+</tv>
