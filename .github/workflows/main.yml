@@ -240,7 +240,7 @@ jobs:
         run: |
           sudo apt-get update && sudo apt-get install -y sshpass
           
-          # 檢查並上傳 swepg.xml.gz、twepgs.xml.gz 以及 twepg.xml.gz
+          # 檢查並上傳 swepg.xml.gz、twepg.xml.gz 以及 twepg.xml.gz
           for file in swepg.xml.gz twepgs.xml.gz twepg.xml.gz; do
             if [ -f "$file" ]; then
               echo "正在上傳 $file 到遠端伺服器..."
