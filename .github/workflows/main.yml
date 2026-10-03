@@ -240,8 +240,8 @@ jobs:
         run: |
           sudo apt-get update && sudo apt-get install -y sshpass
           
-          # 檢查並上傳 swepg.xml.gz、twepg.xml.gz 以及 twepg.xml.gz
-          for file in swepg.xml.gz twepgs.xml.gz twepg.xml.gz; do
+          # 檢查並上傳 swepg.xml.gz、twepg.xml.gz
+          for file in swepg.xml.gz  twepg.xml.gz; do
             if [ -f "$file" ]; then
               echo "正在上傳 $file 到遠端伺服器..."
               sshpass -p "${{ secrets.SERVER_PASS }}" scp -P ${{ secrets.SERVER_PORT }} -o StrictHostKeyChecking=no "$file" ${{ secrets.SERVER_USER }}@${{ secrets.SERVER_HOST }}:/root/ || echo "$file 上傳失敗，跳過"
