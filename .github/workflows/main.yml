@@ -235,18 +235,20 @@ jobs:
           extract('swepg.xml', '简体电视台目录.txt')
           EOF
 
-      # -------- 階段四：上傳檔案到遠端伺服器 OpenWrt (/www/) --------
-      - name: Upload EPG files to OpenWrt /www/
-        uses: appleboy/scp-action@v0.1.7
-        with:
-          host: ${{ secrets.SERVER_HOST }}
-          username: ${{ secrets.SERVER_USER }}
-          password: ${{ secrets.SERVER_PASSWORD }}
-          port: ${{ secrets.SERVER_PORT }}
-          target: "/www"
-          source: "swepg.xml.gz,twepg.xml.gz"
-          overwrite: true
-          rm_parent: false
+      # -------- 階段四：使用 curl 進行 SFTP 上傳到 OpenWrt (/www/) --------
+      - name: Upload EPG files via Curl SFTP
+        run: |
+          for file in swepg.xml.gz twepg.xml.gz; do
+            if [ -f "$file" ]; then
+              echo "正在透過 curl SFTP 上傳 $file 到遠端伺服器..."
+              curl --insecure --user "${{ secrets.SERVER_USER }}:${{ secrets.SERVER_PASS }}" \
+                   -T "$file" \
+                   "sftp://${{ secrets.SERVER_HOST }}:${{ secrets.SERVER_PORT }}/www/$file" \
+                   || echo "$file 上傳失敗，跳過"
+            else
+              echo "未找到 $file 檔案，跳過上傳"
+            fi
+          done
 
       # -------- 統一提交所有變更 --------
       - name: Commit and push all changes
