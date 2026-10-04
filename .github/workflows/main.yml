@@ -235,16 +235,15 @@ jobs:
           extract('swepg.xml', '简体电视台目录.txt')
           EOF
 
-      # -------- 階段四：上傳檔案到遠端伺服器 (全 Secrets 隱藏) --------
-      - name: Install sshpass and upload EPG files
+      # -------- 階段四：透過 SFTP 上傳檔案到 OpenWrt 伺服器 (/www/) --------
+      - name: Install sshpass and upload EPG files via SFTP
         run: |
           sudo apt-get update && sudo apt-get install -y sshpass
           
-          # 檢查並上傳 swepg.xml.gz、twepg.xml.gz
           for file in swepg.xml.gz twepg.xml.gz; do
             if [ -f "$file" ]; then
-              echo "正在上傳 $file 到遠端伺服器..."
-              sshpass -p "${{ secrets.SERVER_PASS }}" scp -P ${{ secrets.SERVER_PORT }} -o StrictHostKeyChecking=no "$file" ${{ secrets.SERVER_USER }}@${{ secrets.SERVER_HOST }}:/www/ || echo "$file 上傳失敗，跳過"
+              echo "正在透過 SFTP 上傳 $file 到遠端伺服器的 /www/..."
+              echo "put $file /www/$file" | sshpass -p "${{ secrets.SERVER_PASS }}" sftp -P ${{ secrets.SERVER_PORT }} -o StrictHostKeyChecking=no ${{ secrets.SERVER_USER }}@${{ secrets.SERVER_HOST }} || echo "$file 上傳失敗，跳過"
             else
               echo "未找到 $file 檔案，跳過上傳"
             fi
