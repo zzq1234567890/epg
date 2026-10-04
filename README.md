@@ -41,8 +41,8 @@ Mytvsuper、TVBAnywhere東南亞、TVB Anywhere USA、Now寬頻、HOY電視台�
 澳門電視台、澳門有線電視台。
 
 ### （4）台灣地區
-中華電信MOD、中嘉BB寬頻、TBC有線，
-由於ip要求台灣ip,故刪除(4GTV、Hami、Ofiii，catchplay,龍華電視台，Myvidoe),愛爾達TV多個頻道等待路由器恢復好再更新。
+中華電信MOD、中嘉BB寬頻、TBC有線，Hami,Ofiii,愛爾達TV
+由於ip要求台灣ip,故刪除4GTV，catchplay,龍華電視台，Myvideo,多個頻道等待路由器恢復好再更新。
 
 ### （5）其他國家及地區
  1. 韓國：KBS、SBS、MBC、EBC；
@@ -178,7 +178,7 @@ stream live address 2
 
 # 📺 EPG 電子節目表狀態報告
 
-> 最後更新時間: **2026-10-04 17:36**
+> 最後更新時間: **2026-10-04 22:59**
 
 ## 📊 統計摘要
 - **繁體頻道數**: 1663 (節目總數: 133708)
