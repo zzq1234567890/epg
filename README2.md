@@ -71,3 +71,11 @@ MyTV Super、TVB Anywhere 東南亞、TVB Anywhere USA、Now 寬頻、HOY 電視
 節目播放地址1
 #EXTINF:-1 tvg-id="電視台名稱2" tvg-name="電視台名稱2" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="你的分組",電視台名稱2
 節目播放地址2
+### 2. 簡體中文版本（適用於大陸及東南亞地區）
+#EXTM3U url-tvg="[https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz](https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz)" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1 tvg-id="電視台名稱1" tvg-name="電視台名稱1" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="你的分組",電視台名稱1
+節目源地址1
+#EXTINF:-1 tvg-id="電視台名稱2" tvg-name="電視台名稱2" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="你的分組",電視台名稱2
+節目源地址2
+
+
