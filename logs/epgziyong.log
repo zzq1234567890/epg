@@ -23,7 +23,7 @@ XML解析失败: ./epgshanghai23.xml -
 跳过不存在的文件: ./epgcctv.xml
 处理文件: ./epgdiyicaijing.xml
 跳过不存在的文件: ./epgnewshanghai.xml
-跳过不存在的文件: ./epgfujian.xml
+处理文件: ./epgfujian.xml
 处理文件: ./epgkankanlive.xml
 处理文件: ./epgcatchplay.xml
 处理文件: ./epganywhere.xml
@@ -52,6 +52,7 @@ XML解析失败: ./epgshanghai23.xml -
 处理节目表: ./epgmbcae.xml
 处理节目表: ./epgasia.xml
 处理节目表: ./epgdiyicaijing.xml
+处理节目表: ./epgfujian.xml
 处理节目表: ./epgkankanlive.xml
 处理节目表: ./epgcatchplay.xml
 处理节目表: ./epganywhere.xml
@@ -62,5 +63,5 @@ XML文件合并完成，已保存为 epgziyong.xml
 压缩文件已保存为 epgziyong.xml.gz
 
 合并统计:
-- 频道数量: 1381
-- 节目数量: 102243
+- 频道数量: 1386
+- 节目数量: 102684
