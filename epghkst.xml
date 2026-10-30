@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "https://raw.githubusercontent.com/XMLTV/xmltv/master/xmltv.dtd">
+<tv generator-info-name="RTHK TV EPG PHP" generator-info-url="https://www.rthk.hk/timetable/tv31">
+  <channel id="香港電台31">
+    <display-name>香港電台31</display-name>
+  </channel>
+  <channel id="香港電台32">
+    <display-name>香港電台32</display-name>
+  </channel>
+  <channel id="香港電台33">
+    <display-name>香港電台33</display-name>
+  </channel>
+  <channel id="香港電台34">
+    <display-name>香港電台34</display-name>
+  </channel>
+  <channel id="香港電台35">
+    <display-name>香港電台35</display-name>
+  </channel>
+  <programme channel="香港電台32" start="20261031000000 +0800" stop="20261031001000 +0800">
+    <title>時事脈動</title>
+    <sub-title>時事脈動 (英語)</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031001000 +0800" stop="20261031010000 +0800">
+    <title>非凡香港</title>
+    <sub-title>金融科技週 | 世界三項鐵人盃香港站 | 國際環保博覽 2026 | 風土之味</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031010000 +0800" stop="20261031013000 +0800">
+    <title>廣播道會客室</title>
+    <sub-title>廣播道會客室｜陳子達 (1)</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031013000 +0800" stop="20261031020000 +0800">
+    <title>凝聚香港</title>
+    <sub-title>第一千一百四十集</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031020000 +0800" stop="20261031060000 +0800">
+    <title>生活．健康．資訊</title>
+    <sub-title>生活．健康．資訊</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031060000 +0800" stop="20261031071300 +0800">
+    <title>寰宇直播</title>
+    <sub-title>寰宇直播</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031071300 +0800" stop="20261031073500 +0800">
+    <title>生活．健康．資訊</title>
+    <sub-title>生活．健康．資訊</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031073500 +0800" stop="20261031074000 +0800">
+    <title>政正關你事 - 官員講話摘要</title>
+    <sub-title>政正關你事 - 官員講話摘要 #67 (楊何蓓茵、陳國基、林定國、李家超)</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031074000 +0800" stop="20261031080500 +0800">
+    <title>生活．健康．資訊</title>
+    <sub-title>生活．健康．資訊</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031080500 +0800" stop="20261031090000 +0800">
+    <title>星期六問責</title>
+  </programme>
+  <programme channel="香港電台32" start="20261031090000 +0800" stop="20261031093000 +0800">
+    <title>時事摘錄</title>
+    <sub-title>時事摘錄</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031093000 +0800" stop="20261031093500 +0800">
+    <title>生活．健康．資訊</title>
+    <sub-title>生活．健康．資訊</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031093500 +0800" stop="20261031103000 +0800">
+    <title>理財新世代</title>
+  </programme>
+  <programme channel="香港電台32" start="20261031103000 +0800" stop="20261031103500 +0800">
+    <title>生活．健康．資訊</title>
+    <sub-title>生活．健康．資訊</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031103500 +0800" stop="20261031110000 +0800">
+    <title>凝聚香港</title>
+    <sub-title>第一千一百四十集</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031110000 +0800" stop="20261031111000 +0800">
+    <title>新聞簡報</title>
+  </programme>
+  <programme channel="香港電台32" start="20261031111000 +0800" stop="20261031112000 +0800">
+    <title>生活．健康．資訊</title>
+    <sub-title>生活．健康．資訊</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031112000 +0800" stop="20261031113000 +0800">
+    <title>國寶時刻</title>
+    <sub-title>四神雲氣圖壁畫</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031113000 +0800" stop="20261031114000 +0800">
+    <title>新聞簡報</title>
+  </programme>
+  <programme channel="香港電台32" start="20261031114000 +0800" stop="20261031120000 +0800">
+    <title>生活．健康．資訊</title>
+    <sub-title>生活．健康．資訊</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031120000 +0800" stop="20261031121000 +0800">
+    <title>新聞簡報</title>
+  </programme>
+  <programme channel="香港電台32" start="20261031121000 +0800" stop="20261031122000 +0800">
+    <title>生活．健康．資訊</title>
+    <sub-title>生活．健康．資訊</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031122000 +0800" stop="20261031123000 +0800">
+    <title>國寶時刻</title>
+    <sub-title>銅車馬</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031123000 +0800" stop="20261031124000 +0800">
+    <title>新聞簡報</title>
+  </programme>
+  <programme channel="香港電台32" start="20261031124000 +0800" stop="20261031130000 +0800">
+    <title>生活．健康．資訊</title>
+    <sub-title>生活．健康．資訊</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031130000 +0800" stop="20261031130700 +0800">
+    <title>新聞簡報</title>
+  </programme>
+  <programme channel="香港電台32" start="20261031130700 +0800" stop="20261031132000 +0800">
+    <title>生活．健康．資訊</title>
+    <sub-title>生活．健康．資訊</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031132000 +0800" stop="20261031133000 +0800">
+    <title>國寶時刻</title>
+    <sub-title>乾隆款外粉彩內青花鏤空花果紋六方套瓶</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031133000 +0800" stop="20261031133700 +0800">
+    <title>新聞簡報</title>
+  </programme>
+  <programme channel="香港電台32" start="20261031133700 +0800" stop="20261031140000 +0800">
+    <title>生活．健康．資訊</title>
+    <sub-title>生活．健康．資訊</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031140000 +0800" stop="20261031141000 +0800">
+    <title>新聞簡報</title>
+  </programme>
+  <programme channel="香港電台32" start="20261031141000 +0800" stop="20261031142000 +0800">
+    <title>生活．健康．資訊</title>
+    <sub-title>生活．健康．資訊</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031142000 +0800" stop="20261031143000 +0800">
+    <title>國寶時刻</title>
+    <sub-title>「祭山圖」玉璋</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031143000 +0800" stop="20261031144000 +0800">
+    <title>新聞簡報</title>
+  </programme>
+  <programme channel="香港電台32" start="20261031144000 +0800" stop="20261031150000 +0800">
+    <title>生活．健康．資訊</title>
+    <sub-title>生活．健康．資訊</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031150000 +0800" stop="20261031151000 +0800">
+    <title>新聞簡報</title>
+  </programme>
+  <programme channel="香港電台32" start="20261031151000 +0800" stop="20261031152000 +0800">
+    <title>生活．健康．資訊</title>
+    <sub-title>生活．健康．資訊</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031152000 +0800" stop="20261031153000 +0800">
+    <title>國寶時刻</title>
+    <sub-title>孫位《高逸圖》卷</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031153000 +0800" stop="20261031154000 +0800">
+    <title>新聞簡報</title>
+  </programme>
+  <programme channel="香港電台32" start="20261031154000 +0800" stop="20261031160000 +0800">
+    <title>生活．健康．資訊</title>
+    <sub-title>生活．健康．資訊</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031160000 +0800" stop="20261031161000 +0800">
+    <title>新聞簡報</title>
+  </programme>
+  <programme channel="香港電台32" start="20261031161000 +0800" stop="20261031162000 +0800">
+    <title>生活．健康．資訊</title>
+    <sub-title>生活．健康．資訊</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031162000 +0800" stop="20261031163000 +0800">
+    <title>國寶時刻</title>
+    <sub-title>白釉綠彩三系罐</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031163000 +0800" stop="20261031164000 +0800">
+    <title>新聞簡報</title>
+  </programme>
+  <programme channel="香港電台32" start="20261031164000 +0800" stop="20261031170000 +0800">
+    <title>生活．健康．資訊</title>
+    <sub-title>生活．健康．資訊</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031170000 +0800" stop="20261031171000 +0800">
+    <title>新聞簡報</title>
+  </programme>
+  <programme channel="香港電台32" start="20261031171000 +0800" stop="20261031172000 +0800">
+    <title>生活．健康．資訊</title>
+    <sub-title>生活．健康．資訊</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031172000 +0800" stop="20261031173000 +0800">
+    <title>國寶時刻</title>
+    <sub-title>《文姬歸漢圖》卷</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031173000 +0800" stop="20261031174000 +0800">
+    <title>新聞簡報</title>
+  </programme>
+  <programme channel="香港電台32" start="20261031174000 +0800" stop="20261031180000 +0800">
+    <title>生活．健康．資訊</title>
+    <sub-title>生活．健康．資訊</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031180000 +0800" stop="20261031181000 +0800">
+    <title>新聞簡報</title>
+  </programme>
+  <programme channel="香港電台32" start="20261031181000 +0800" stop="20261031182000 +0800">
+    <title>生活．健康．資訊</title>
+    <sub-title>生活．健康．資訊</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031182000 +0800" stop="20261031183000 +0800">
+    <title>國寶時刻</title>
+    <sub-title>玉琮王</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031183000 +0800" stop="20261031184000 +0800">
+    <title>新聞簡報</title>
+  </programme>
+  <programme channel="香港電台32" start="20261031184000 +0800" stop="20261031190000 +0800">
+    <title>生活．健康．資訊</title>
+    <sub-title>生活．健康．資訊</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031190000 +0800" stop="20261031191500 +0800">
+    <title>新聞天地</title>
+    <sub-title>20261031</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031191500 +0800" stop="20261031193000 +0800">
+    <title>生活．健康．資訊</title>
+    <sub-title>生活．健康．資訊</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031193000 +0800" stop="20261031200000 +0800">
+    <title>雙城聯動</title>
+    <sub-title>雙城聯動 ︰美國人工智能巨擘上市能否延續熱潮</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031200000 +0800" stop="20261031201000 +0800">
+    <title>晚間新聞</title>
+  </programme>
+  <programme channel="香港電台32" start="20261031201000 +0800" stop="20261031203000 +0800">
+    <title>生活．健康．資訊</title>
+    <sub-title>生活．健康．資訊</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031203000 +0800" stop="20261031210000 +0800">
+    <title>時事摘錄</title>
+    <sub-title>時事摘錄</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031210000 +0800" stop="20261031220000 +0800">
+    <title>星期六問責</title>
+  </programme>
+  <programme channel="香港電台32" start="20261031220000 +0800" stop="20261031220500 +0800">
+    <title>政正關你事</title>
+    <sub-title>政正關你事 - 活化歷史建築伙伴計劃</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031220500 +0800" stop="20261031230000 +0800">
+    <title>理財新世代</title>
+  </programme>
+  <programme channel="香港電台32" start="20261031230000 +0800" stop="20261031233000 +0800">
+    <title>雙城聯動</title>
+    <sub-title>雙城聯動 ︰美國人工智能巨擘上市能否延續熱潮</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261031233000 +0800" stop="20261101000000 +0800">
+    <title>生活．健康．資訊</title>
+    <sub-title>生活．健康．資訊</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261101000000 +0800" stop="20261101010000 +0800">
+    <title>生活．健康．資訊</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101010000 +0800" stop="20261101013000 +0800">
+    <title>雙城聯動</title>
+    <sub-title>雙城聯動 ︰美國人工智能巨擘上市能否延續熱潮</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261101013000 +0800" stop="20261101073500 +0800">
+    <title>生活．健康．資訊</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101073500 +0800" stop="20261101074000 +0800">
+    <title>政正關你事</title>
+    <sub-title>政正關你事 - 活化歷史建築伙伴計劃</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261101074000 +0800" stop="20261101110000 +0800">
+    <title>生活．健康．資訊</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101110000 +0800" stop="20261101111000 +0800">
+    <title>新聞簡報</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101111000 +0800" stop="20261101113000 +0800">
+    <title>生活．健康．資訊</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101113000 +0800" stop="20261101114000 +0800">
+    <title>新聞簡報</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101114000 +0800" stop="20261101120000 +0800">
+    <title>生活．健康．資訊</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101120000 +0800" stop="20261101121000 +0800">
+    <title>新聞簡報</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101121000 +0800" stop="20261101123000 +0800">
+    <title>生活．健康．資訊</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101123000 +0800" stop="20261101124000 +0800">
+    <title>新聞簡報</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101124000 +0800" stop="20261101130000 +0800">
+    <title>生活．健康．資訊</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101130000 +0800" stop="20261101130700 +0800">
+    <title>新聞簡報</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101130700 +0800" stop="20261101133000 +0800">
+    <title>生活．健康．資訊</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101133000 +0800" stop="20261101133700 +0800">
+    <title>新聞簡報</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101133700 +0800" stop="20261101140000 +0800">
+    <title>生活．健康．資訊</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101140000 +0800" stop="20261101141000 +0800">
+    <title>新聞簡報</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101141000 +0800" stop="20261101143000 +0800">
+    <title>生活．健康．資訊</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101143000 +0800" stop="20261101144000 +0800">
+    <title>新聞簡報</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101144000 +0800" stop="20261101150000 +0800">
+    <title>生活．健康．資訊</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101150000 +0800" stop="20261101151000 +0800">
+    <title>新聞簡報</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101151000 +0800" stop="20261101153000 +0800">
+    <title>生活．健康．資訊</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101153000 +0800" stop="20261101154000 +0800">
+    <title>新聞簡報</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101154000 +0800" stop="20261101160000 +0800">
+    <title>生活．健康．資訊</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101160000 +0800" stop="20261101161000 +0800">
+    <title>新聞簡報</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101161000 +0800" stop="20261101163000 +0800">
+    <title>生活．健康．資訊</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101163000 +0800" stop="20261101164000 +0800">
+    <title>新聞簡報</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101164000 +0800" stop="20261101170000 +0800">
+    <title>生活．健康．資訊</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101170000 +0800" stop="20261101171000 +0800">
+    <title>新聞簡報</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101171000 +0800" stop="20261101173000 +0800">
+    <title>生活．健康．資訊</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101173000 +0800" stop="20261101174000 +0800">
+    <title>新聞簡報</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101174000 +0800" stop="20261101180000 +0800">
+    <title>生活．健康．資訊</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101180000 +0800" stop="20261101181000 +0800">
+    <title>新聞簡報</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101181000 +0800" stop="20261101183000 +0800">
+    <title>生活．健康．資訊</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101183000 +0800" stop="20261101184000 +0800">
+    <title>新聞簡報</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101184000 +0800" stop="20261101190000 +0800">
+    <title>生活．健康．資訊</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101190000 +0800" stop="20261101191500 +0800">
+    <title>新聞天地</title>
+    <sub-title>20261101</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261101191500 +0800" stop="20261101193000 +0800">
+    <title>生活．健康．資訊</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101193000 +0800" stop="20261101200000 +0800">
+    <title>鏗鏘集</title>
+    <sub-title>非遺誰接班</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261101200000 +0800" stop="20261101201000 +0800">
+    <title>晚間新聞</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101201000 +0800" stop="20261101202000 +0800">
+    <title>生活．健康．資訊</title>
+  </programme>
+  <programme channel="香港電台32" start="20261101202000 +0800" stop="20261101203000 +0800">
+    <title>2026 一帶一路"港"你知</title>
+    <sub-title>一帶一路．「港」你知: 連繫文化與商業實踐</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261101203000 +0800" stop="20261101210000 +0800">
+    <title>雙城聯動</title>
+    <sub-title>雙城聯動 ︰美國人工智能巨擘上市能否延續熱潮</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261101210000 +0800" stop="20261101213000 +0800">
+    <title>看神州</title>
+    <sub-title>北京老牌百貨店面對傳統與創新掙扎 內地輿情敲詐惹關注</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261101213000 +0800" stop="20261101220000 +0800">
+    <title>縱橫天下事</title>
+    <sub-title>縱橫天下事:︰人工智能安全風險及放緩開發建議</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261101220000 +0800" stop="20261101220500 +0800">
+    <title>政正關你事 - 為人民服務</title>
+    <sub-title>為人民服務 - 建築署 - 黃大仙環保公園美學</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261101220500 +0800" stop="20261101223000 +0800">
+    <title>十八好時光</title>
+    <sub-title>十八好時光 10月29日</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261101223000 +0800" stop="20261101230000 +0800">
+    <title>廣播道會客室</title>
+    <sub-title>廣播道會客室｜陳子達 (1)</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261101230000 +0800" stop="20261101233000 +0800">
+    <title>走進東盟 III</title>
+    <sub-title>走進東盟III：文萊</sub-title>
+  </programme>
+  <programme channel="香港電台32" start="20261101233000 +0800" stop="20261102000000 +0800">
+    <title>生活．健康．資訊</title>
+  </programme>
+</tv>
