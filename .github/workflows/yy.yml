@@ -2,7 +2,7 @@ name: EPG Comprehensive Processing
 
 on:
   schedule:
-    - cron: '12 17,0 * * *'        # UTC 21:00 → 北京时间 次日05:00；UTC 4:00 → 北京时间 12:00
+    - cron: '12 19 * * *'        # UTC 21:00 → 北京时间 次日05:00；UTC 4:00 → 北京时间 12:00
   workflow_dispatch:              # 支持手动触发
 
 jobs:
