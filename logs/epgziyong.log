@@ -1,8 +1,14 @@
 处理文件: ./epgkankanlive.xml
 跳过不存在的文件: ./epglifetv.xml
 跳过不存在的文件: ./epglotus.xml
-跳过不存在的文件: ./epghkst.xml
-跳过不存在的文件: ./epgkai1.xml
+处理文件: ./epghkst.xml
+XML解析失败: ./epghkst.xml - 
+重试解析也失败: ./epghkst.xml
+加载失败: ./epghkst.xml
+处理文件: ./epgkai1.xml
+XML解析失败: ./epgkai1.xml - 
+重试解析也失败: ./epgkai1.xml
+加载失败: ./epgkai1.xml
 处理文件: ./epgfenghuangxiu.xml
 处理文件: ./epgtianying.xml
 处理文件: ./epgjiangsu.xml
@@ -21,7 +27,10 @@ XML解析失败: ./epgshanghai23.xml -
 跳过不存在的文件: ./epgkbsworld.xml
 处理文件: ./epgasia.xml
 跳过不存在的文件: ./epgcctv.xml
-跳过不存在的文件: ./epgdiyicaijing.xml
+处理文件: ./epgdiyicaijing.xml
+XML解析失败: ./epgdiyicaijing.xml - 
+重试解析也失败: ./epgdiyicaijing.xml
+加载失败: ./epgdiyicaijing.xml
 跳过不存在的文件: ./epgnewshanghai.xml
 跳过不存在的文件: ./epgfujian.xml
 处理文件: ./epgkankanlive.xml
@@ -38,6 +47,12 @@ XML解析失败: ./epgshanghai23.xml -
 处理文件: ./epgastrogo.xml
 跳过不存在的文件: ./epgmncvision.xml
 处理节目表: ./epgkankanlive.xml
+处理节目表: ./epghkst.xml
+XML解析失败: ./epghkst.xml - 
+重试解析也失败: ./epghkst.xml
+处理节目表: ./epgkai1.xml
+XML解析失败: ./epgkai1.xml - 
+重试解析也失败: ./epgkai1.xml
 处理节目表: ./epgfenghuangxiu.xml
 处理节目表: ./epgtianying.xml
 处理节目表: ./epgjiangsu.xml
@@ -49,6 +64,9 @@ XML解析失败: ./epgshanghai23.xml -
 处理节目表: ./epgmyvideo.xml
 处理节目表: ./epgmbcae.xml
 处理节目表: ./epgasia.xml
+处理节目表: ./epgdiyicaijing.xml
+XML解析失败: ./epgdiyicaijing.xml - 
+重试解析也失败: ./epgdiyicaijing.xml
 处理节目表: ./epgkankanlive.xml
 处理节目表: ./epgcatchplay.xml
 处理节目表: ./epganywhere.xml
