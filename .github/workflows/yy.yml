@@ -490,6 +490,23 @@ jobs:
           rm -rf temp_myepgtest
           echo "✅ 成功同步到 https://github.com/zzq12345/myepgtest/"
 
+      
+      
+       # -------- 階段四：使用 curl 進行 SFTP 上傳到 OpenWrt (/www/) --------
+      - name: Upload EPG files via Curl SFTP
+        run: |
+          for file in swepg.xml.gz twepg.xml.gz; do
+            if [ -f "$file" ]; then
+              echo "正在透過 curl SFTP 上傳 $file 到遠端伺服器..."
+              curl --insecure --user "${{ secrets.SERVER_USER }}:${{ secrets.SERVER_PASS }}" \
+                   -T "$file" \
+                   "sftp://${{ secrets.SERVER_HOST }}:${{ secrets.SERVER_PORT }}/www/$file" \
+                   || echo "$file 上傳失敗，跳過"
+            else
+              echo "未找到 $file 檔案，跳過上傳"
+            fi
+          done
+
       # ---------- 11. 提交所有更改到当前 epgtest 仓库 ----------
       - name: Commit and push all changes to current repo
         run: |
