@@ -1,0 +1,1672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "http://api.torrent-tv.ru/xmltv.dtd">
+<tv generator-info-name="秋哥綜合" generator-info-url="https://www.rthk.hk/tv">
+  <channel id="香港電台32">
+    <display-name lang="zh">香港電台32</display-name>
+  </channel>
+  <channel id="香港電台33">
+    <display-name lang="zh">香港電台33</display-name>
+  </channel>
+  <channel id="香港電台34">
+    <display-name lang="zh">香港電台34</display-name>
+  </channel>
+  <channel id="香港電台35">
+    <display-name lang="zh">香港電台35</display-name>
+  </channel>
+  <programme start="20261030000000 +0800" stop="20261030001000 +0800" channel="香港電台32">
+    <title lang="zh">時事脈動</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030001000 +0800" stop="20261030003500 +0800" channel="香港電台32">
+    <title lang="zh">睇得見。聽得到（英文版）</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030003500 +0800" stop="20261030010000 +0800" channel="香港電台32">
+    <title lang="zh">綠惜見未來</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030010000 +0800" stop="20261030013000 +0800" channel="香港電台32">
+    <title lang="zh">十八好時光</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030013000 +0800" stop="20261030020000 +0800" channel="香港電台32">
+    <title lang="zh">凝聚香港</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030020000 +0800" stop="20261030073500 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030073500 +0800" stop="20261030074000 +0800" channel="香港電台32">
+    <title lang="zh">政正關你事</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030074000 +0800" stop="20261030080500 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030080500 +0800" stop="20261030100000 +0800" channel="香港電台32">
+    <title lang="zh">千禧年代</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030100000 +0800" stop="20261030100500 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030100500 +0800" stop="20261030103000 +0800" channel="香港電台32">
+    <title lang="zh">灣區全媒睇</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030103000 +0800" stop="20261030103500 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030103500 +0800" stop="20261030110000 +0800" channel="香港電台32">
+    <title lang="zh">凝聚香港</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030110000 +0800" stop="20261030111000 +0800" channel="香港電台32">
+    <title lang="zh">新聞簡報</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030111000 +0800" stop="20261030112000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030112000 +0800" stop="20261030113000 +0800" channel="香港電台32">
+    <title lang="zh">國寶時刻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030113000 +0800" stop="20261030114000 +0800" channel="香港電台32">
+    <title lang="zh">新聞簡報</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030114000 +0800" stop="20261030120000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030120000 +0800" stop="20261030121000 +0800" channel="香港電台32">
+    <title lang="zh">新聞簡報</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030121000 +0800" stop="20261030122000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030122000 +0800" stop="20261030123000 +0800" channel="香港電台32">
+    <title lang="zh">國寶時刻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030123000 +0800" stop="20261030124000 +0800" channel="香港電台32">
+    <title lang="zh">新聞簡報</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030124000 +0800" stop="20261030130000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030130000 +0800" stop="20261030130700 +0800" channel="香港電台32">
+    <title lang="zh">新聞簡報</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030130700 +0800" stop="20261030132000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030132000 +0800" stop="20261030133000 +0800" channel="香港電台32">
+    <title lang="zh">國寶時刻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030133000 +0800" stop="20261030133700 +0800" channel="香港電台32">
+    <title lang="zh">新聞簡報</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030133700 +0800" stop="20261030140000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030140000 +0800" stop="20261030141000 +0800" channel="香港電台32">
+    <title lang="zh">新聞簡報</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030141000 +0800" stop="20261030142000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030142000 +0800" stop="20261030143000 +0800" channel="香港電台32">
+    <title lang="zh">國寶時刻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030143000 +0800" stop="20261030144000 +0800" channel="香港電台32">
+    <title lang="zh">新聞簡報</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030144000 +0800" stop="20261030150000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030150000 +0800" stop="20261030151000 +0800" channel="香港電台32">
+    <title lang="zh">新聞簡報</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030151000 +0800" stop="20261030152000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030152000 +0800" stop="20261030153000 +0800" channel="香港電台32">
+    <title lang="zh">國寶時刻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030153000 +0800" stop="20261030154000 +0800" channel="香港電台32">
+    <title lang="zh">新聞簡報</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030154000 +0800" stop="20261030160000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030160000 +0800" stop="20261030161000 +0800" channel="香港電台32">
+    <title lang="zh">新聞簡報</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030161000 +0800" stop="20261030162000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030162000 +0800" stop="20261030163000 +0800" channel="香港電台32">
+    <title lang="zh">國寶時刻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030163000 +0800" stop="20261030164000 +0800" channel="香港電台32">
+    <title lang="zh">新聞簡報</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030164000 +0800" stop="20261030170000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030170000 +0800" stop="20261030171000 +0800" channel="香港電台32">
+    <title lang="zh">新聞簡報</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030171000 +0800" stop="20261030172000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030172000 +0800" stop="20261030173000 +0800" channel="香港電台32">
+    <title lang="zh">國寶時刻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030173000 +0800" stop="20261030174000 +0800" channel="香港電台32">
+    <title lang="zh">新聞簡報</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030174000 +0800" stop="20261030180000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030180000 +0800" stop="20261030181000 +0800" channel="香港電台32">
+    <title lang="zh">新聞簡報</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030181000 +0800" stop="20261030182000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030182000 +0800" stop="20261030183000 +0800" channel="香港電台32">
+    <title lang="zh">國寶時刻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030183000 +0800" stop="20261030184000 +0800" channel="香港電台32">
+    <title lang="zh">新聞簡報</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030184000 +0800" stop="20261030190000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030190000 +0800" stop="20261030193000 +0800" channel="香港電台32">
+    <title lang="zh">新聞天地</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030193000 +0800" stop="20261030200000 +0800" channel="香港電台32">
+    <title lang="zh">廣播道會客室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030200000 +0800" stop="20261030201500 +0800" channel="香港電台32">
+    <title lang="zh">晚間新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030201500 +0800" stop="20261030210000 +0800" channel="香港電台32">
+    <title lang="zh">時事脈動</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030210000 +0800" stop="20261030220000 +0800" channel="香港電台32">
+    <title lang="zh">非凡香港</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030220000 +0800" stop="20261030220500 +0800" channel="香港電台32">
+    <title lang="zh">政正關你事 - 官員講話摘要</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030220500 +0800" stop="20261030223000 +0800" channel="香港電台32">
+    <title lang="zh">凝聚香港</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030223000 +0800" stop="20261030230000 +0800" channel="香港電台32">
+    <title lang="zh">時事摘錄</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030230000 +0800" stop="20261030233000 +0800" channel="香港電台32">
+    <title lang="zh">廣播道會客室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030233000 +0800" stop="20261031000000 +0800" channel="香港電台32">
+    <title lang="zh">時事脈動</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031000000 +0800" stop="20261031001000 +0800" channel="香港電台32">
+    <title lang="zh">時事脈動</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031001000 +0800" stop="20261031010000 +0800" channel="香港電台32">
+    <title lang="zh">非凡香港</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031010000 +0800" stop="20261031013000 +0800" channel="香港電台32">
+    <title lang="zh">廣播道會客室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031013000 +0800" stop="20261031020000 +0800" channel="香港電台32">
+    <title lang="zh">凝聚香港</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031020000 +0800" stop="20261031073500 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031073500 +0800" stop="20261031074000 +0800" channel="香港電台32">
+    <title lang="zh">政正關你事 - 官員講話摘要</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031074000 +0800" stop="20261031080500 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031080500 +0800" stop="20261031090000 +0800" channel="香港電台32">
+    <title lang="zh">星期六問責</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031090000 +0800" stop="20261031093000 +0800" channel="香港電台32">
+    <title lang="zh">時事摘錄</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031093000 +0800" stop="20261031093500 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031093500 +0800" stop="20261031103000 +0800" channel="香港電台32">
+    <title lang="zh">理財新世代</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031103000 +0800" stop="20261031103500 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031103500 +0800" stop="20261031110000 +0800" channel="香港電台32">
+    <title lang="zh">凝聚香港</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031110000 +0800" stop="20261031111000 +0800" channel="香港電台32">
+    <title lang="zh">新聞簡報</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031111000 +0800" stop="20261031113000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031113000 +0800" stop="20261031114000 +0800" channel="香港電台32">
+    <title lang="zh">新聞簡報</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031114000 +0800" stop="20261031120000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031120000 +0800" stop="20261031121000 +0800" channel="香港電台32">
+    <title lang="zh">新聞簡報</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031121000 +0800" stop="20261031123000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031123000 +0800" stop="20261031124000 +0800" channel="香港電台32">
+    <title lang="zh">新聞簡報</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031124000 +0800" stop="20261031130000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031130000 +0800" stop="20261031130700 +0800" channel="香港電台32">
+    <title lang="zh">新聞簡報</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031130700 +0800" stop="20261031133000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031133000 +0800" stop="20261031133700 +0800" channel="香港電台32">
+    <title lang="zh">新聞簡報</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031133700 +0800" stop="20261031140000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031140000 +0800" stop="20261031141000 +0800" channel="香港電台32">
+    <title lang="zh">新聞簡報</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031141000 +0800" stop="20261031143000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031143000 +0800" stop="20261031144000 +0800" channel="香港電台32">
+    <title lang="zh">新聞簡報</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031144000 +0800" stop="20261031150000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031150000 +0800" stop="20261031151000 +0800" channel="香港電台32">
+    <title lang="zh">新聞簡報</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031151000 +0800" stop="20261031153000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031153000 +0800" stop="20261031154000 +0800" channel="香港電台32">
+    <title lang="zh">新聞簡報</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031154000 +0800" stop="20261031160000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031160000 +0800" stop="20261031161000 +0800" channel="香港電台32">
+    <title lang="zh">新聞簡報</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031161000 +0800" stop="20261031163000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031163000 +0800" stop="20261031164000 +0800" channel="香港電台32">
+    <title lang="zh">新聞簡報</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031164000 +0800" stop="20261031170000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031170000 +0800" stop="20261031171000 +0800" channel="香港電台32">
+    <title lang="zh">新聞簡報</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031171000 +0800" stop="20261031173000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031173000 +0800" stop="20261031174000 +0800" channel="香港電台32">
+    <title lang="zh">新聞簡報</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031174000 +0800" stop="20261031180000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031180000 +0800" stop="20261031181000 +0800" channel="香港電台32">
+    <title lang="zh">新聞簡報</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031181000 +0800" stop="20261031183000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031183000 +0800" stop="20261031184000 +0800" channel="香港電台32">
+    <title lang="zh">新聞簡報</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031184000 +0800" stop="20261031190000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031190000 +0800" stop="20261031191500 +0800" channel="香港電台32">
+    <title lang="zh">新聞天地</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031191500 +0800" stop="20261031193000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031193000 +0800" stop="20261031200000 +0800" channel="香港電台32">
+    <title lang="zh">雙城聯動</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031200000 +0800" stop="20261031201000 +0800" channel="香港電台32">
+    <title lang="zh">晚間新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031201000 +0800" stop="20261031203000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031203000 +0800" stop="20261031210000 +0800" channel="香港電台32">
+    <title lang="zh">時事摘錄</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031210000 +0800" stop="20261031220000 +0800" channel="香港電台32">
+    <title lang="zh">星期六問責</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031220000 +0800" stop="20261031220500 +0800" channel="香港電台32">
+    <title lang="zh">政正關你事</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031220500 +0800" stop="20261031230000 +0800" channel="香港電台32">
+    <title lang="zh">理財新世代</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031230000 +0800" stop="20261031233000 +0800" channel="香港電台32">
+    <title lang="zh">雙城聯動</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031233000 +0800" stop="20261101000000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030000000 +0800" stop="20261030000100 +0800" channel="香港電台33">
+    <title lang="zh">青山是故鄉 16</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030000100 +0800" stop="20261030004900 +0800" channel="香港電台33">
+    <title lang="zh">青山是故鄉 17</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030004900 +0800" stop="20261030022400 +0800" channel="香港電台33">
+    <title lang="zh">山水間的家</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030022400 +0800" stop="20261030025900 +0800" channel="香港電台33">
+    <title lang="zh">自然中國</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030025900 +0800" stop="20261030034600 +0800" channel="香港電台33">
+    <title lang="zh">潛行者 16</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030034600 +0800" stop="20261030043200 +0800" channel="香港電台33">
+    <title lang="zh">潛行者 17</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030043200 +0800" stop="20261030050000 +0800" channel="香港電台33">
+    <title lang="zh">今日說法</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030050000 +0800" stop="20261030053000 +0800" channel="香港電台33">
+    <title lang="zh">新聞聯播</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030053000 +0800" stop="20261030060000 +0800" channel="香港電台33">
+    <title lang="zh">國家記憶</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030060000 +0800" stop="20261030083000 +0800" channel="香港電台33">
+    <title lang="zh">朝聞天下</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030083000 +0800" stop="20261030091200 +0800" channel="香港電台33">
+    <title lang="zh">生活圈</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030091200 +0800" stop="20261030095800 +0800" channel="香港電台33">
+    <title lang="zh">太行謠 12</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030095800 +0800" stop="20261030104400 +0800" channel="香港電台33">
+    <title lang="zh">太行謠 13</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030104400 +0800" stop="20261030113000 +0800" channel="香港電台33">
+    <title lang="zh">太行謠 14</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030113000 +0800" stop="20261030120000 +0800" channel="香港電台33">
+    <title lang="zh">自然中國</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030120000 +0800" stop="20261030125900 +0800" channel="香港電台33">
+    <title lang="zh">新聞30分</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030125900 +0800" stop="20261030132800 +0800" channel="香港電台33">
+    <title lang="zh">今日說法</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030132800 +0800" stop="20261030141400 +0800" channel="香港電台33">
+    <title lang="zh">星月征途 17</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030141400 +0800" stop="20261030150000 +0800" channel="香港電台33">
+    <title lang="zh">星月征途 18</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030150000 +0800" stop="20261030154600 +0800" channel="香港電台33">
+    <title lang="zh">星月征途 19</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030154600 +0800" stop="20261030163200 +0800" channel="香港電台33">
+    <title lang="zh">星月征途 20</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030163200 +0800" stop="20261030172600 +0800" channel="香港電台33">
+    <title lang="zh">家業 1</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030172600 +0800" stop="20261030190000 +0800" channel="香港電台33">
+    <title lang="zh">山水間的家</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030190000 +0800" stop="20261030193500 +0800" channel="香港電台33">
+    <title lang="zh">新聞聯播</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030193500 +0800" stop="20261030194100 +0800" channel="香港電台33">
+    <title lang="zh">天氣預報</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030194100 +0800" stop="20261030200600 +0800" channel="香港電台33">
+    <title lang="zh">丹青繪千年</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030200600 +0800" stop="20261030205200 +0800" channel="香港電台33">
+    <title lang="zh">偉大的長征 34</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030205200 +0800" stop="20261030214300 +0800" channel="香港電台33">
+    <title lang="zh">偉大的長征 35</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030214300 +0800" stop="20261030220000 +0800" channel="香港電台33">
+    <title lang="zh">焦點訪談</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030220000 +0800" stop="20261030223700 +0800" channel="香港電台33">
+    <title lang="zh">晚間新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030223700 +0800" stop="20261030232900 +0800" channel="香港電台33">
+    <title lang="zh">詩行萬里長征路</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030232900 +0800" stop="20261031001500 +0800" channel="香港電台33">
+    <title lang="zh">青山是故鄉 18</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031000000 +0800" stop="20261031001500 +0800" channel="香港電台33">
+    <title lang="zh">青山是故鄉 18</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031001500 +0800" stop="20261031010300 +0800" channel="香港電台33">
+    <title lang="zh">青山是故鄉 19</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031010300 +0800" stop="20261031025900 +0800" channel="香港電台33">
+    <title lang="zh">山水間的家</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031025900 +0800" stop="20261031034600 +0800" channel="香港電台33">
+    <title lang="zh">潛行者 18</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031034600 +0800" stop="20261031043200 +0800" channel="香港電台33">
+    <title lang="zh">潛行者 19</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031043200 +0800" stop="20261031050000 +0800" channel="香港電台33">
+    <title lang="zh">今日說法</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031050000 +0800" stop="20261031053000 +0800" channel="香港電台33">
+    <title lang="zh">新聞聯播</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031053000 +0800" stop="20261031060000 +0800" channel="香港電台33">
+    <title lang="zh">國家記憶</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031060000 +0800" stop="20261031083000 +0800" channel="香港電台33">
+    <title lang="zh">朝聞天下</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031083000 +0800" stop="20261031091600 +0800" channel="香港電台33">
+    <title lang="zh">太行謠 15</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031091600 +0800" stop="20261031100200 +0800" channel="香港電台33">
+    <title lang="zh">太行謠 16</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031100200 +0800" stop="20261031104800 +0800" channel="香港電台33">
+    <title lang="zh">太行謠 17</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031104800 +0800" stop="20261031113400 +0800" channel="香港電台33">
+    <title lang="zh">太行謠 18</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031113400 +0800" stop="20261031120000 +0800" channel="香港電台33">
+    <title lang="zh">海邊有片紅樹林</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031120000 +0800" stop="20261031123200 +0800" channel="香港電台33">
+    <title lang="zh">新聞30分</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031123200 +0800" stop="20261031130300 +0800" channel="香港電台33">
+    <title lang="zh">本草流芳</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031130300 +0800" stop="20261031134900 +0800" channel="香港電台33">
+    <title lang="zh">家業 2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031134900 +0800" stop="20261031143500 +0800" channel="香港電台33">
+    <title lang="zh">家業 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031143500 +0800" stop="20261031152100 +0800" channel="香港電台33">
+    <title lang="zh">家業 4</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031152100 +0800" stop="20261031160700 +0800" channel="香港電台33">
+    <title lang="zh">家業 5</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031160700 +0800" stop="20261031165400 +0800" channel="香港電台33">
+    <title lang="zh">家業 6</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031165400 +0800" stop="20261031172600 +0800" channel="香港電台33">
+    <title lang="zh">農耕探文明</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031172600 +0800" stop="20261031190000 +0800" channel="香港電台33">
+    <title lang="zh">山水間的家</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031190000 +0800" stop="20261031193500 +0800" channel="香港電台33">
+    <title lang="zh">新聞聯播</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031193500 +0800" stop="20261031194100 +0800" channel="香港電台33">
+    <title lang="zh">天氣預報</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031194100 +0800" stop="20261031200600 +0800" channel="香港電台33">
+    <title lang="zh">丹青繪千年</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031200600 +0800" stop="20261031205200 +0800" channel="香港電台33">
+    <title lang="zh">偉大的長征 36</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031205200 +0800" stop="20261031214300 +0800" channel="香港電台33">
+    <title lang="zh">偉大的長征 37</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031214300 +0800" stop="20261031220000 +0800" channel="香港電台33">
+    <title lang="zh">焦點訪談</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031220000 +0800" stop="20261031223200 +0800" channel="香港電台33">
+    <title lang="zh">晚間新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031223200 +0800" stop="20261031231800 +0800" channel="香港電台33">
+    <title lang="zh">開講啦</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031231800 +0800" stop="20261101000400 +0800" channel="香港電台33">
+    <title lang="zh">青山是故鄉 20</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030000000 +0800" stop="20261030005600 +0800" channel="香港電台34">
+    <title lang="zh">樣式雷2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030005600 +0800" stop="20261030010000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030010000 +0800" stop="20261030012700 +0800" channel="香港電台34">
+    <title lang="zh">荒野至上6</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030012700 +0800" stop="20261030013000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030013000 +0800" stop="20261030015700 +0800" channel="香港電台34">
+    <title lang="zh">大汶口1</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030015700 +0800" stop="20261030020000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030020000 +0800" stop="20261030025600 +0800" channel="香港電台34">
+    <title lang="zh">有滋有味內蒙古1/2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030025600 +0800" stop="20261030030000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030030000 +0800" stop="20261030032700 +0800" channel="香港電台34">
+    <title lang="zh">綻放的花兒4</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030032700 +0800" stop="20261030033000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030033000 +0800" stop="20261030035700 +0800" channel="香港電台34">
+    <title lang="zh">喜事4</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030035700 +0800" stop="20261030040000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030040000 +0800" stop="20261030045600 +0800" channel="香港電台34">
+    <title lang="zh">長城邊的寶藏1</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030045600 +0800" stop="20261030050000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030050000 +0800" stop="20261030052700 +0800" channel="香港電台34">
+    <title lang="zh">免籤遊中國：重慶</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030052700 +0800" stop="20261030053000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030053000 +0800" stop="20261030055700 +0800" channel="香港電台34">
+    <title lang="zh">丟失的睡眠5</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030055700 +0800" stop="20261030060000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030060000 +0800" stop="20261030065600 +0800" channel="香港電台34">
+    <title lang="zh">樣式雷3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030065600 +0800" stop="20261030070000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030070000 +0800" stop="20261030072700 +0800" channel="香港電台34">
+    <title lang="zh">慢慢到達1</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030072700 +0800" stop="20261030073000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030073000 +0800" stop="20261030075700 +0800" channel="香港電台34">
+    <title lang="zh">大汶口2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030075700 +0800" stop="20261030080000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030080000 +0800" stop="20261030085600 +0800" channel="香港電台34">
+    <title lang="zh">有滋有味內蒙古3/4</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030085600 +0800" stop="20261030090000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030090000 +0800" stop="20261030092700 +0800" channel="香港電台34">
+    <title lang="zh">我的青春我做主1-5</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030092700 +0800" stop="20261030093000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030093000 +0800" stop="20261030095700 +0800" channel="香港電台34">
+    <title lang="zh">考古隊長1/山水中國·秋2/哈爾濱—爾濱—濱子3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030095700 +0800" stop="20261030100000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030100000 +0800" stop="20261030105600 +0800" channel="香港電台34">
+    <title lang="zh">長城邊的寶藏1</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030105600 +0800" stop="20261030110000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030110000 +0800" stop="20261030112700 +0800" channel="香港電台34">
+    <title lang="zh">免籤遊中國：重慶</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030112700 +0800" stop="20261030113000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030113000 +0800" stop="20261030115700 +0800" channel="香港電台34">
+    <title lang="zh">丟失的睡眠5</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030115700 +0800" stop="20261030120000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030120000 +0800" stop="20261030125600 +0800" channel="香港電台34">
+    <title lang="zh">樣式雷3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030125600 +0800" stop="20261030130000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030130000 +0800" stop="20261030132700 +0800" channel="香港電台34">
+    <title lang="zh">慢慢到達1</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030132700 +0800" stop="20261030133000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030133000 +0800" stop="20261030135700 +0800" channel="香港電台34">
+    <title lang="zh">大汶口2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030135700 +0800" stop="20261030140000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030140000 +0800" stop="20261030145600 +0800" channel="香港電台34">
+    <title lang="zh">有滋有味內蒙古3/4</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030145600 +0800" stop="20261030150000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030150000 +0800" stop="20261030152700 +0800" channel="香港電台34">
+    <title lang="zh">我的青春我做主1-5</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030152700 +0800" stop="20261030153000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030153000 +0800" stop="20261030155700 +0800" channel="香港電台34">
+    <title lang="zh">考古隊長1/山水中國·秋2/哈爾濱—爾濱—濱子3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030155700 +0800" stop="20261030160000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030160000 +0800" stop="20261030165600 +0800" channel="香港電台34">
+    <title lang="zh">長城邊的寶藏1</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030165600 +0800" stop="20261030170000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030170000 +0800" stop="20261030172700 +0800" channel="香港電台34">
+    <title lang="zh">免籤遊中國：重慶</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030172700 +0800" stop="20261030173000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030173000 +0800" stop="20261030175700 +0800" channel="香港電台34">
+    <title lang="zh">丟失的睡眠5</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030175700 +0800" stop="20261030180000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030180000 +0800" stop="20261030185600 +0800" channel="香港電台34">
+    <title lang="zh">樣式雷3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030185600 +0800" stop="20261030190000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030190000 +0800" stop="20261030192700 +0800" channel="香港電台34">
+    <title lang="zh">慢慢到達1</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030192700 +0800" stop="20261030193000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030193000 +0800" stop="20261030195700 +0800" channel="香港電台34">
+    <title lang="zh">大汶口2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030195700 +0800" stop="20261030200000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030200000 +0800" stop="20261030205600 +0800" channel="香港電台34">
+    <title lang="zh">有滋有味內蒙古3/4</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030205600 +0800" stop="20261030210000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030210000 +0800" stop="20261030212700 +0800" channel="香港電台34">
+    <title lang="zh">我的青春我做主1-5</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030212700 +0800" stop="20261030213000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030213000 +0800" stop="20261030215700 +0800" channel="香港電台34">
+    <title lang="zh">考古隊長1/山水中國·秋2/哈爾濱—爾濱—濱子3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030215700 +0800" stop="20261030220000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030220000 +0800" stop="20261030225600 +0800" channel="香港電台34">
+    <title lang="zh">長城邊的寶藏1</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030225600 +0800" stop="20261030230000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030230000 +0800" stop="20261030232700 +0800" channel="香港電台34">
+    <title lang="zh">免籤遊中國：重慶</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030232700 +0800" stop="20261030233000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030233000 +0800" stop="20261030235700 +0800" channel="香港電台34">
+    <title lang="zh">丟失的睡眠5</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030235700 +0800" stop="20261031000000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031000000 +0800" stop="20261031005600 +0800" channel="香港電台34">
+    <title lang="zh">樣式雷3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031005600 +0800" stop="20261031010000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031010000 +0800" stop="20261031012700 +0800" channel="香港電台34">
+    <title lang="zh">慢慢到達1</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031012700 +0800" stop="20261031013000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031013000 +0800" stop="20261031015700 +0800" channel="香港電台34">
+    <title lang="zh">大汶口2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031015700 +0800" stop="20261031020000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031020000 +0800" stop="20261031025600 +0800" channel="香港電台34">
+    <title lang="zh">有滋有味內蒙古3/4</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031025600 +0800" stop="20261031030000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031030000 +0800" stop="20261031032700 +0800" channel="香港電台34">
+    <title lang="zh">我的青春我做主1-5</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031032700 +0800" stop="20261031033000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031033000 +0800" stop="20261031035700 +0800" channel="香港電台34">
+    <title lang="zh">考古隊長1/山水中國·秋2/哈爾濱—爾濱—濱子3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031035700 +0800" stop="20261031040000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031040000 +0800" stop="20261031045600 +0800" channel="香港電台34">
+    <title lang="zh">長城邊的寶藏2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031045600 +0800" stop="20261031050000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031050000 +0800" stop="20261031052700 +0800" channel="香港電台34">
+    <title lang="zh">免籤遊中國：蘇州</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031052700 +0800" stop="20261031053000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031053000 +0800" stop="20261031055700 +0800" channel="香港電台34">
+    <title lang="zh">丟失的睡眠6</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031055700 +0800" stop="20261031060000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031060000 +0800" stop="20261031065600 +0800" channel="香港電台34">
+    <title lang="zh">樣式雷4</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031065600 +0800" stop="20261031070000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031070000 +0800" stop="20261031072700 +0800" channel="香港電台34">
+    <title lang="zh">節氣：四季的迴響1</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031072700 +0800" stop="20261031073000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031073000 +0800" stop="20261031075700 +0800" channel="香港電台34">
+    <title lang="zh">大汶口3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031075700 +0800" stop="20261031080000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031080000 +0800" stop="20261031085600 +0800" channel="香港電台34">
+    <title lang="zh">香港之味1-10</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031085600 +0800" stop="20261031090000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031090000 +0800" stop="20261031092700 +0800" channel="香港電台34">
+    <title lang="zh">我的青春我做主6-10</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031092700 +0800" stop="20261031093000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031093000 +0800" stop="20261031095700 +0800" channel="香港電台34">
+    <title lang="zh">《祕境吉林1-4》（4集*2分鐘）/重生技 第二季1</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031095700 +0800" stop="20261031100000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031100000 +0800" stop="20261031105600 +0800" channel="香港電台34">
+    <title lang="zh">長城邊的寶藏2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031105600 +0800" stop="20261031110000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031110000 +0800" stop="20261031112700 +0800" channel="香港電台34">
+    <title lang="zh">免籤遊中國：蘇州</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031112700 +0800" stop="20261031113000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031113000 +0800" stop="20261031115700 +0800" channel="香港電台34">
+    <title lang="zh">丟失的睡眠6</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031115700 +0800" stop="20261031120000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031120000 +0800" stop="20261031125600 +0800" channel="香港電台34">
+    <title lang="zh">樣式雷4</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031125600 +0800" stop="20261031130000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031130000 +0800" stop="20261031132700 +0800" channel="香港電台34">
+    <title lang="zh">節氣：四季的迴響1</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031132700 +0800" stop="20261031133000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031133000 +0800" stop="20261031135700 +0800" channel="香港電台34">
+    <title lang="zh">大汶口3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031135700 +0800" stop="20261031140000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031140000 +0800" stop="20261031145600 +0800" channel="香港電台34">
+    <title lang="zh">香港之味1-10</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031145600 +0800" stop="20261031150000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031150000 +0800" stop="20261031152700 +0800" channel="香港電台34">
+    <title lang="zh">我的青春我做主6-10</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031152700 +0800" stop="20261031153000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031153000 +0800" stop="20261031155700 +0800" channel="香港電台34">
+    <title lang="zh">《祕境吉林1-4》（4集*2分鐘）/重生技 第二季1</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031155700 +0800" stop="20261031160000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031160000 +0800" stop="20261031165600 +0800" channel="香港電台34">
+    <title lang="zh">長城邊的寶藏2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031165600 +0800" stop="20261031170000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031170000 +0800" stop="20261031172700 +0800" channel="香港電台34">
+    <title lang="zh">免籤遊中國：蘇州</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031172700 +0800" stop="20261031173000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031173000 +0800" stop="20261031175700 +0800" channel="香港電台34">
+    <title lang="zh">丟失的睡眠6</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031175700 +0800" stop="20261031180000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031180000 +0800" stop="20261031185600 +0800" channel="香港電台34">
+    <title lang="zh">樣式雷4</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031185600 +0800" stop="20261031190000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031190000 +0800" stop="20261031192700 +0800" channel="香港電台34">
+    <title lang="zh">節氣：四季的迴響1</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031192700 +0800" stop="20261031193000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031193000 +0800" stop="20261031195700 +0800" channel="香港電台34">
+    <title lang="zh">大汶口3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031195700 +0800" stop="20261031200000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031200000 +0800" stop="20261031205600 +0800" channel="香港電台34">
+    <title lang="zh">香港之味1-10</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031205600 +0800" stop="20261031210000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031210000 +0800" stop="20261031212700 +0800" channel="香港電台34">
+    <title lang="zh">我的青春我做主6-10</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031212700 +0800" stop="20261031213000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031213000 +0800" stop="20261031215700 +0800" channel="香港電台34">
+    <title lang="zh">《祕境吉林1-4》（4集*2分鐘）/重生技 第二季1</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031215700 +0800" stop="20261031220000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031220000 +0800" stop="20261031225600 +0800" channel="香港電台34">
+    <title lang="zh">長城邊的寶藏2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031225600 +0800" stop="20261031230000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031230000 +0800" stop="20261031232700 +0800" channel="香港電台34">
+    <title lang="zh">免籤遊中國：蘇州</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031232700 +0800" stop="20261031233000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031233000 +0800" stop="20261031235700 +0800" channel="香港電台34">
+    <title lang="zh">丟失的睡眠6</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031235700 +0800" stop="20261101000000 +0800" channel="香港電台34">
+    <title lang="zh">頻道導視(英)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030000000 +0800" stop="20261030010000 +0800" channel="香港電台35">
+    <title lang="zh">Global Business</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030010000 +0800" stop="20261030020000 +0800" channel="香港電台35">
+    <title lang="zh">Africa Live</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030020000 +0800" stop="20261030030000 +0800" channel="香港電台35">
+    <title lang="zh">Global Business</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030030000 +0800" stop="20261030033000 +0800" channel="香港電台35">
+    <title lang="zh">The World Today</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030033000 +0800" stop="20261030040000 +0800" channel="香港電台35">
+    <title lang="zh">World Insight with Tian Wei</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030040000 +0800" stop="20261030043000 +0800" channel="香港電台35">
+    <title lang="zh">The World Today</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030043000 +0800" stop="20261030050000 +0800" channel="香港電台35">
+    <title lang="zh">Dialogue</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030050000 +0800" stop="20261030053000 +0800" channel="香港電台35">
+    <title lang="zh">Global Business</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030053000 +0800" stop="20261030060000 +0800" channel="香港電台35">
+    <title lang="zh">The Hub With Wang Guan</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030060000 +0800" stop="20261030063000 +0800" channel="香港電台35">
+    <title lang="zh">The World Today</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030063000 +0800" stop="20261030070000 +0800" channel="香港電台35">
+    <title lang="zh">Rediscovering China</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030070000 +0800" stop="20261030073000 +0800" channel="香港電台35">
+    <title lang="zh">The Heat</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030073000 +0800" stop="20261030080000 +0800" channel="香港電台35">
+    <title lang="zh">The World Today</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030080000 +0800" stop="20261030090000 +0800" channel="香港電台35">
+    <title lang="zh">Global Business</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030090000 +0800" stop="20261030093000 +0800" channel="香港電台35">
+    <title lang="zh">The World Today</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030093000 +0800" stop="20261030100000 +0800" channel="香港電台35">
+    <title lang="zh">China 24</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030100000 +0800" stop="20261030103000 +0800" channel="香港電台35">
+    <title lang="zh">The World Today</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030103000 +0800" stop="20261030110000 +0800" channel="香港電台35">
+    <title lang="zh">World Insight with Tian Wei</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030110000 +0800" stop="20261030111500 +0800" channel="香港電台35">
+    <title lang="zh">The World Today</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030111500 +0800" stop="20261030113000 +0800" channel="香港電台35">
+    <title lang="zh">Sports Scene</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030113000 +0800" stop="20261030120000 +0800" channel="香港電台35">
+    <title lang="zh">The Point with Liu Xin</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030120000 +0800" stop="20261030130000 +0800" channel="香港電台35">
+    <title lang="zh">Global Watch</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030130000 +0800" stop="20261030131500 +0800" channel="香港電台35">
+    <title lang="zh">The World Today</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030131500 +0800" stop="20261030133000 +0800" channel="香港電台35">
+    <title lang="zh">Sports Scene</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030133000 +0800" stop="20261030140000 +0800" channel="香港電台35">
+    <title lang="zh">Assignment Asia</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030140000 +0800" stop="20261030143000 +0800" channel="香港電台35">
+    <title lang="zh">The World Today</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030143000 +0800" stop="20261030150000 +0800" channel="香港電台35">
+    <title lang="zh">The Heat</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030150000 +0800" stop="20261030153000 +0800" channel="香港電台35">
+    <title lang="zh">The World Today</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030153000 +0800" stop="20261030160000 +0800" channel="香港電台35">
+    <title lang="zh">Sports Scene</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030160000 +0800" stop="20261030161500 +0800" channel="香港電台35">
+    <title lang="zh">The World Today</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030161500 +0800" stop="20261030170000 +0800" channel="香港電台35">
+    <title lang="zh">Global Business</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030170000 +0800" stop="20261030173000 +0800" channel="香港電台35">
+    <title lang="zh">The World Today</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030173000 +0800" stop="20261030180000 +0800" channel="香港電台35">
+    <title lang="zh">The Vibe</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030180000 +0800" stop="20261030181500 +0800" channel="香港電台35">
+    <title lang="zh">The World Today</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030181500 +0800" stop="20261030190000 +0800" channel="香港電台35">
+    <title lang="zh">Africa Live</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030190000 +0800" stop="20261030193000 +0800" channel="香港電台35">
+    <title lang="zh">Asia Today</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030193000 +0800" stop="20261030200000 +0800" channel="香港電台35">
+    <title lang="zh">Dialogue</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030200000 +0800" stop="20261030201500 +0800" channel="香港電台35">
+    <title lang="zh">The World Today</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030201500 +0800" stop="20261030210000 +0800" channel="香港電台35">
+    <title lang="zh">China 24</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030210000 +0800" stop="20261030213000 +0800" channel="香港電台35">
+    <title lang="zh">Global Business</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030213000 +0800" stop="20261030220000 +0800" channel="香港電台35">
+    <title lang="zh">The Point with Liu Xin</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030220000 +0800" stop="20261030223000 +0800" channel="香港電台35">
+    <title lang="zh">The World Today</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030223000 +0800" stop="20261030230000 +0800" channel="香港電台35">
+    <title lang="zh">World Insight with Tian Wei</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030230000 +0800" stop="20261030233000 +0800" channel="香港電台35">
+    <title lang="zh">The World Today</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261030233000 +0800" stop="20261031000000 +0800" channel="香港電台35">
+    <title lang="zh">The Vibe</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031000000 +0800" stop="20261031010000 +0800" channel="香港電台35">
+    <title lang="zh">Global Business</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031010000 +0800" stop="20261031020000 +0800" channel="香港電台35">
+    <title lang="zh">Africa Live</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031020000 +0800" stop="20261031030000 +0800" channel="香港電台35">
+    <title lang="zh">Global Business</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031030000 +0800" stop="20261031033000 +0800" channel="香港電台35">
+    <title lang="zh">The World Today</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031033000 +0800" stop="20261031040000 +0800" channel="香港電台35">
+    <title lang="zh">World Insight with Tian Wei</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031040000 +0800" stop="20261031043000 +0800" channel="香港電台35">
+    <title lang="zh">The World Today</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031043000 +0800" stop="20261031050000 +0800" channel="香港電台35">
+    <title lang="zh">Dialogue</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031050000 +0800" stop="20261031053000 +0800" channel="香港電台35">
+    <title lang="zh">Global Business</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031053000 +0800" stop="20261031060000 +0800" channel="香港電台35">
+    <title lang="zh">The Point with Liu Xin</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031060000 +0800" stop="20261031070000 +0800" channel="香港電台35">
+    <title lang="zh">Americas Now</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031070000 +0800" stop="20261031073000 +0800" channel="香港電台35">
+    <title lang="zh">The Heat</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031073000 +0800" stop="20261031080000 +0800" channel="香港電台35">
+    <title lang="zh">The World Today</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031080000 +0800" stop="20261031090000 +0800" channel="香港電台35">
+    <title lang="zh">Global Business</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031090000 +0800" stop="20261031093000 +0800" channel="香港電台35">
+    <title lang="zh">The World Today</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031093000 +0800" stop="20261031100000 +0800" channel="香港電台35">
+    <title lang="zh">China 24</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031100000 +0800" stop="20261031103000 +0800" channel="香港電台35">
+    <title lang="zh">The World Today</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031103000 +0800" stop="20261031110000 +0800" channel="香港電台35">
+    <title lang="zh">World Insight with Tian Wei</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031110000 +0800" stop="20261031111500 +0800" channel="香港電台35">
+    <title lang="zh">The World Today</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031111500 +0800" stop="20261031113000 +0800" channel="香港電台35">
+    <title lang="zh">Sports Scene</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031113000 +0800" stop="20261031120000 +0800" channel="香港電台35">
+    <title lang="zh">Travelogue</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031120000 +0800" stop="20261031130000 +0800" channel="香港電台35">
+    <title lang="zh">Global Watch</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031130000 +0800" stop="20261031140000 +0800" channel="香港電台35">
+    <title lang="zh">Big Story</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031140000 +0800" stop="20261031143000 +0800" channel="香港電台35">
+    <title lang="zh">The World Today</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031143000 +0800" stop="20261031150000 +0800" channel="香港電台35">
+    <title lang="zh">The Heat</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031150000 +0800" stop="20261031153000 +0800" channel="香港電台35">
+    <title lang="zh">The World Today</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031153000 +0800" stop="20261031160000 +0800" channel="香港電台35">
+    <title lang="zh">Sports Scene</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031160000 +0800" stop="20261031163000 +0800" channel="香港電台35">
+    <title lang="zh">The World Today</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031163000 +0800" stop="20261031170000 +0800" channel="香港電台35">
+    <title lang="zh">Biz Talk</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031170000 +0800" stop="20261031173000 +0800" channel="香港電台35">
+    <title lang="zh">The World Today</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031173000 +0800" stop="20261031180000 +0800" channel="香港電台35">
+    <title lang="zh">Inheritors</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031180000 +0800" stop="20261031181500 +0800" channel="香港電台35">
+    <title lang="zh">The World Today</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031181500 +0800" stop="20261031190000 +0800" channel="香港電台35">
+    <title lang="zh">Africa Live</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031190000 +0800" stop="20261031193000 +0800" channel="香港電台35">
+    <title lang="zh">Asia Today</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031193000 +0800" stop="20261031200000 +0800" channel="香港電台35">
+    <title lang="zh">Leaders Talk</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031200000 +0800" stop="20261031201500 +0800" channel="香港電台35">
+    <title lang="zh">The World Today</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031201500 +0800" stop="20261031210000 +0800" channel="香港電台35">
+    <title lang="zh">China 24</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031210000 +0800" stop="20261031213000 +0800" channel="香港電台35">
+    <title lang="zh">The World Today</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031213000 +0800" stop="20261031220000 +0800" channel="香港電台35">
+    <title lang="zh">Biz Talk</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031220000 +0800" stop="20261031223000 +0800" channel="香港電台35">
+    <title lang="zh">The World Today</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031223000 +0800" stop="20261031230000 +0800" channel="香港電台35">
+    <title lang="zh">Assignment Asia</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031230000 +0800" stop="20261031233000 +0800" channel="香港電台35">
+    <title lang="zh">The World Today</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20261031233000 +0800" stop="20261101000000 +0800" channel="香港電台35">
+    <title lang="zh">Inheritors</title>
+    <desc lang="zh"> </desc>
+  </programme>
+</tv>
