@@ -38,8 +38,7 @@ myTV SUPER、TVB Anywhere 東南亞、TVB Anywhere USA、Now 寬頻、HOY 電視
 澳門電視台、澳門有線電視台。
 
 ### （4）台灣地區
-中華電信 MOD、中嘉 BB 寬頻、TBC 有線、Hami、Ofiii、愛爾達 TV、4GTV。
-由於 IP 要求台灣 IP，故刪除 Catchplay、龍華電視台、MyVideo 等多個頻道，等待路由器恢復好再更新。
+中華電信 MOD、中嘉 BB 寬頻、TBC 有線、Hami、Ofiii、愛爾達 TV、4GTV,Catchplay、龍華電視台、MyVideo 等多個頻道。
 
 ### （5）其他國家及地區
 1. 韓國：KBS、SBS、MBC、EBC；
