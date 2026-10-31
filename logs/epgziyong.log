@@ -1,4 +1,5 @@
 处理文件: ./epgkankanlive.xml
+跳过不存在的文件: ./epgkankantv.xml
 跳过不存在的文件: ./epglifetv.xml
 跳过不存在的文件: ./epglotus.xml
 处理文件: ./epghkst.xml
@@ -31,7 +32,7 @@ XML解析失败: ./epgshanghai23.xml -
 处理文件: ./epgmytvsuper.xml
 处理文件: ./epg4gtv2.xml
 跳过不存在的文件: ./epgmacocable.xml
-跳过不存在的文件: ./epgofiii.xml
+处理文件: ./epgofiii.xml
 跳过不存在的文件: ./epgnewhebei.xml
 跳过不存在的文件: ./epgnewguangdong.xml
 跳过不存在的文件: ./epgdifang.xml
@@ -58,10 +59,11 @@ XML解析失败: ./epgshanghai23.xml -
 处理节目表: ./epganywhere.xml
 处理节目表: ./epgmytvsuper.xml
 处理节目表: ./epg4gtv2.xml
+处理节目表: ./epgofiii.xml
 处理节目表: ./epgastrogo.xml
 XML文件合并完成，已保存为 epgziyong.xml
 压缩文件已保存为 epgziyong.xml.gz
 
 合并统计:
-- 频道数量: 1386
-- 节目数量: 100448
+- 频道数量: 1520
+- 节目数量: 114694
