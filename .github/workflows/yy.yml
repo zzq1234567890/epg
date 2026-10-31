@@ -111,7 +111,7 @@ jobs:
         id: check_scripts
         run: |
           echo "检查 PHP 脚本文件..."
-          declare -a scripts=("epglotus.php" "epgbaidu.php" "epgkankanlive.php" "epgfenghuangxiu.php" "epgtianying.php" "epgcatchplay.php"  "epghkst.php" "epgjiangsu.php" "epganywhere.php" "epgmytvsuper.php" "epg4gtv2.php" "epgmbcae.php" "epgeltatv.php" "epgsingtel.php" "epgdifang.php" "epgofiii.php" "epgcctv.php" "epgzhongtianam.php" "youtubelivem3u.php" "youtubelivetxt.php" "epgdiyicaijing.php" "epgunifi.php" "epglifetv.php" "epgkbsworld.php" "epgmacocable.php" "epgdubaione.php" "epgasia.php" "epgastrogo.php"  "epgkai1.php" "epggen2.php" "epgnewshanghai.php" "epgnewhebei.php" "epgnewguangdong.php" "youtubelocal.php" "youtubeworld.php" "epgziyong.php")
+          declare -a scripts=("epglotus.php" "epgtdm.php" "epgbaidu.php" "epgkankanlive.php" "epgfenghuangxiu.php" "epgtianying.php" "epgcatchplay.php"  "epghkst.php" "epgjiangsu.php" "epganywhere.php" "epgmytvsuper.php" "epg4gtv2.php" "epgmbcae.php" "epgeltatv.php" "epgsingtel.php" "epgdifang.php" "epgofiii.php" "epgcctv.php" "epgzhongtianam.php" "youtubelivem3u.php" "youtubelivetxt.php" "epgdiyicaijing.php" "epgunifi.php" "epglifetv.php" "epgkbsworld.php" "epgmacocable.php" "epgdubaione.php" "epgasia.php" "epgastrogo.php"  "epgkai1.php" "epggen2.php" "epgnewshanghai.php" "epgnewhebei.php" "epgnewguangdong.php" "youtubelocal.php" "youtubeworld.php" "epgziyong.php")
           existing_scripts=()
           for script in "${scripts[@]}"; do
             if [ -f "$script" ]; then
@@ -201,7 +201,7 @@ jobs:
       - name: Check generated XML files
         id: check_xml
         run: |
-          declare -a expected_xml=("epglotus.xml" "epgkankanlive.xml" "epgbaidu.xml" "epghkst.xml" "epgtianying.xml" "epgfenghuangxiu.xml" "epgcatchplay.xml" "epgjiangsu.xml" "epganywhere.xml" "epg4gtv2.xml" "epgmytvsuper.xml" "epgrthk.xml" "epgeltatv.xml" "epgfujian.xml" "epgmbcae.xml" "epgcatchplay.xml" "epgofiii.xml" "epgtianying.xml" "epgcctv.xml" "epgdifang.xml" "epgzhongtianam.xml" "epgsingtel.xml" "epgguangdong.xml.gz" "epgunifi.xml" "epgkbsworld.xml" "epglifetv.xml" "epgguangdong.xml" "epgmacocable.xml" "epgdubaione.xml" "epgasia.xml" "epgdiyicaijing.xml" "epgastrogo.xml" "epgyidong.xml" "epgfenghuangxiu.xml" "epgshanghai.xml" "epgkai1.xml" "epgnewshanghai.xml" "epghebeiiptv1.xml" "epgnewhebei.xml" "epgnewguangdong.xml" "epgziyong.xml")
+          declare -a expected_xml=("epgtdm.xml" "epglotus.xml" "epgkankanlive.xml" "epgbaidu.xml" "epghkst.xml" "epgtianying.xml" "epgfenghuangxiu.xml" "epgcatchplay.xml" "epgjiangsu.xml" "epganywhere.xml" "epg4gtv2.xml" "epgmytvsuper.xml" "epgrthk.xml" "epgeltatv.xml" "epgfujian.xml" "epgmbcae.xml" "epgcatchplay.xml" "epgofiii.xml" "epgtianying.xml" "epgcctv.xml" "epgdifang.xml" "epgzhongtianam.xml" "epgsingtel.xml" "epgguangdong.xml.gz" "epgunifi.xml" "epgkbsworld.xml" "epglifetv.xml" "epgguangdong.xml" "epgmacocable.xml" "epgdubaione.xml" "epgasia.xml" "epgdiyicaijing.xml" "epgastrogo.xml" "epgyidong.xml" "epgfenghuangxiu.xml" "epgshanghai.xml" "epgkai1.xml" "epgnewshanghai.xml" "epghebeiiptv1.xml" "epgnewhebei.xml" "epgnewguangdong.xml" "epgziyong.xml")
           generated_files=()
           echo "检查生成的 XML 文件..."
           for xml_file in "${expected_xml[@]}"; do
