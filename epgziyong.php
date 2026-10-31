@@ -2,6 +2,7 @@
 // 定义要合并的XML文件列表
 $xmlFiles = [
    './epgkankanlive.xml',
+   './epgkankantv.xml',
    './epglifetv.xml',
     './epglotus.xml',
     './epghkst.xml',
