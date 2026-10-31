@@ -1,6 +1,7 @@
 处理文件: ./epgkankanlive.xml
 跳过不存在的文件: ./epgkankantv.xml
 跳过不存在的文件: ./epglifetv.xml
+跳过不存在的文件: ./epgtdm.xml
 跳过不存在的文件: ./epglotus.xml
 处理文件: ./epghkst.xml
 处理文件: ./epgkai1.xml
@@ -66,4 +67,4 @@ XML文件合并完成，已保存为 epgziyong.xml
 
 合并统计:
 - 频道数量: 1520
-- 节目数量: 114694
+- 节目数量: 114872
