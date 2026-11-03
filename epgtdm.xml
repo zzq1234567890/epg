@@ -38,10 +38,10 @@
   </programme>
   <programme start="20261103092500 +0800" stop="20261103100000 +0800" channel="澳視澳門 91台">
     <title lang="zh">大開眼界</title>
-    <live/>
   </programme>
   <programme start="20261103100000 +0800" stop="20261103103000 +0800" channel="澳視澳門 91台">
     <title lang="zh">新聞報道</title>
+    <live/>
   </programme>
   <programme start="20261103103000 +0800" stop="20261103110000 +0800" channel="澳視澳門 91台">
     <title lang="zh">重播風火台</title>
@@ -411,10 +411,10 @@
   </programme>
   <programme start="20261103093000 +0800" stop="20261103100000 +0800" channel="澳門資訊 94台">
     <title lang="zh">灣區全媒睇</title>
-    <live/>
   </programme>
   <programme start="20261103100000 +0800" stop="20261103103000 +0800" channel="澳門資訊 94台">
     <title lang="zh">新聞報道</title>
+    <live/>
   </programme>
   <programme start="20261103103000 +0800" stop="20261103110000 +0800" channel="澳門資訊 94台">
     <title lang="zh">新聞報道</title>
@@ -694,6 +694,7 @@
   </programme>
   <programme start="20261103100000 +0800" stop="20261103123000 +0800" channel="澳門體育 93台">
     <title lang="zh">2026温布頓網球錦標賽：男單4強</title>
+    <live/>
   </programme>
   <programme start="20261103123000 +0800" stop="20261103130000 +0800" channel="澳門體育 93台">
     <title lang="zh">2026勒芒盃雜誌：第二集 拿卡斯迪站</title>
@@ -823,6 +824,7 @@
   </programme>
   <programme start="20261103100000 +0800" stop="20261103130100 +0800" channel="澳門綜藝 95台">
     <title lang="zh">好劇連場: 偽鈔者之末路</title>
+    <live/>
   </programme>
   <programme start="20261103130100 +0800" stop="20261103160500 +0800" channel="澳門綜藝 95台">
     <title lang="zh">好劇連場: 深潛</title>
@@ -1003,13 +1005,13 @@
   </programme>
   <programme start="20261103092000 +0800" stop="20261103095000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">風火台</title>
-    <live/>
   </programme>
   <programme start="20261103095000 +0800" stop="20261103100000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">鈷彩凝珍</title>
   </programme>
   <programme start="20261103100000 +0800" stop="20261103103000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">粵語新聞</title>
+    <live/>
   </programme>
   <programme start="20261103103000 +0800" stop="20261103112000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">機器人變變變</title>
