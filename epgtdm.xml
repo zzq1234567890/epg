@@ -41,7 +41,6 @@
   </programme>
   <programme start="20261103100000 +0800" stop="20261103103000 +0800" channel="澳視澳門 91台">
     <title lang="zh">新聞報道</title>
-    <live/>
   </programme>
   <programme start="20261103103000 +0800" stop="20261103110000 +0800" channel="澳視澳門 91台">
     <title lang="zh">重播風火台</title>
@@ -90,6 +89,7 @@
   </programme>
   <programme start="20261103170000 +0800" stop="20261103180000 +0800" channel="澳視澳門 91台">
     <title lang="zh">兒童節目︰冰雪守護者第1季</title>
+    <live/>
   </programme>
   <programme start="20261103180000 +0800" stop="20261103184300 +0800" channel="澳視澳門 91台">
     <title lang="zh">重播動感教菁</title>
@@ -312,6 +312,7 @@
   </programme>
   <programme start="20261103170000 +0800" stop="20261103172500 +0800" channel="澳視葡文 92台">
     <title lang="zh">Nutri Ventures - Em busca dos 7 Reinos</title>
+    <live/>
   </programme>
   <programme start="20261103172500 +0800" stop="20261103175000 +0800" channel="澳視葡文 92台">
     <title lang="zh">Legend Quest</title>
@@ -414,7 +415,6 @@
   </programme>
   <programme start="20261103100000 +0800" stop="20261103103000 +0800" channel="澳門資訊 94台">
     <title lang="zh">新聞報道</title>
-    <live/>
   </programme>
   <programme start="20261103103000 +0800" stop="20261103110000 +0800" channel="澳門資訊 94台">
     <title lang="zh">新聞報道</title>
@@ -478,6 +478,7 @@
   </programme>
   <programme start="20261103170000 +0800" stop="20261103173000 +0800" channel="澳門資訊 94台">
     <title lang="zh">新聞報道</title>
+    <live/>
   </programme>
   <programme start="20261103173000 +0800" stop="20261103175000 +0800" channel="澳門資訊 94台">
     <title lang="zh">新聞報道</title>
@@ -694,7 +695,6 @@
   </programme>
   <programme start="20261103100000 +0800" stop="20261103123000 +0800" channel="澳門體育 93台">
     <title lang="zh">2026温布頓網球錦標賽：男單4強</title>
-    <live/>
   </programme>
   <programme start="20261103123000 +0800" stop="20261103130000 +0800" channel="澳門體育 93台">
     <title lang="zh">2026勒芒盃雜誌：第二集 拿卡斯迪站</title>
@@ -713,6 +713,7 @@
   </programme>
   <programme start="20261103154000 +0800" stop="20261103174500 +0800" channel="澳門體育 93台">
     <title lang="zh">直播亞洲冠軍精英聯賽：紐卡素噴射機  對 上海海港</title>
+    <live/>
   </programme>
   <programme start="20261103174500 +0800" stop="20261103175500 +0800" channel="澳門體育 93台">
     <title lang="zh">澳門經典車小百科</title>
@@ -824,7 +825,6 @@
   </programme>
   <programme start="20261103100000 +0800" stop="20261103130100 +0800" channel="澳門綜藝 95台">
     <title lang="zh">好劇連場: 偽鈔者之末路</title>
-    <live/>
   </programme>
   <programme start="20261103130100 +0800" stop="20261103160500 +0800" channel="澳門綜藝 95台">
     <title lang="zh">好劇連場: 深潛</title>
@@ -834,6 +834,7 @@
   </programme>
   <programme start="20261103163500 +0800" stop="20261103173000 +0800" channel="澳門綜藝 95台">
     <title lang="zh">分界線</title>
+    <live/>
   </programme>
   <programme start="20261103173000 +0800" stop="20261103175800 +0800" channel="澳門綜藝 95台">
     <title lang="zh">澳門早晨精華錄</title>
@@ -1011,7 +1012,6 @@
   </programme>
   <programme start="20261103100000 +0800" stop="20261103103000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">粵語新聞</title>
-    <live/>
   </programme>
   <programme start="20261103103000 +0800" stop="20261103112000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">機器人變變變</title>
@@ -1054,6 +1054,7 @@
   </programme>
   <programme start="20261103165500 +0800" stop="20261103173000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">葡文節目重溫 - 這片土地的人們</title>
+    <live/>
   </programme>
   <programme start="20261103173000 +0800" stop="20261103180000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">馬交遊﹕澳門Chill 好玩</title>

@@ -1,6 +1,6 @@
 RTHK tv31 20261103: 40 programmes
 RTHK tv31 20261104: 46 programmes
-RTHK tv32 20261103: 64 programmes
+RTHK tv32 20261103: 68 programmes
 RTHK tv32 20261104: 56 programmes
 RTHK tv33 20261103: 32 programmes
 RTHK tv33 20261104: 32 programmes
@@ -149,6 +149,7 @@ RTHK tv35 20261104: 45 programmes
 </programme>
 <programme channel="香港電台31" start="20261103202500 +0800" stop="20261103203000 +0800">
 <title lang="zh">政正關你事 - 官員講話摘要</title>
+<desc lang="zh">政正關你事 - 官員講話摘要 #68 (李家超、陳茂波、周一鳴)</desc>
 </programme>
 <programme channel="香港電台31" start="20261103203000 +0800" stop="20261103212500 +0800">
 <title lang="zh">太平年</title>
@@ -156,6 +157,7 @@ RTHK tv35 20261104: 45 programmes
 </programme>
 <programme channel="香港電台31" start="20261103212500 +0800" stop="20261103213000 +0800">
 <title lang="zh">政正關你事 - 官員講話摘要</title>
+<desc lang="zh">政正關你事 - 官員講話摘要 #68 (李家超、陳茂波、周一鳴)</desc>
 </programme>
 <programme channel="香港電台31" start="20261103213000 +0800" stop="20261103220000 +0800">
 <title lang="zh">陪我講-傾心診所</title>
@@ -259,9 +261,11 @@ RTHK tv35 20261104: 45 programmes
 </programme>
 <programme channel="香港電台31" start="20261104131000 +0800" stop="20261104140000 +0800">
 <title lang="zh">精靈一點</title>
+<desc lang="zh">精靈一點 11月4日</desc>
 </programme>
 <programme channel="香港電台31" start="20261104140000 +0800" stop="20261104140500 +0800">
 <title lang="zh">政正關你事 - 官員講話摘要</title>
+<desc lang="zh">政正關你事 - 官員講話摘要 #68 (李家超、陳茂波、周一鳴)</desc>
 </programme>
 <programme channel="香港電台31" start="20261104140500 +0800" stop="20261104153000 +0800">
 <title lang="zh">2026年選舉委員會界別分組一般選舉候選人簡介會</title>
@@ -316,12 +320,14 @@ RTHK tv35 20261104: 45 programmes
 </programme>
 <programme channel="香港電台31" start="20261104202500 +0800" stop="20261104203000 +0800">
 <title lang="zh">政正關你事</title>
+<desc lang="zh">NSmarties 童心護港 AI 互動平台啟動禮</desc>
 </programme>
 <programme channel="香港電台31" start="20261104203000 +0800" stop="20261104212500 +0800">
 <title lang="zh">太平年</title>
 </programme>
 <programme channel="香港電台31" start="20261104212500 +0800" stop="20261104213000 +0800">
 <title lang="zh">政正關你事</title>
+<desc lang="zh">NSmarties 童心護港 AI 互動平台啟動禮</desc>
 </programme>
 <programme channel="香港電台31" start="20261104213000 +0800" stop="20261104220000 +0800">
 <title lang="zh">醫生與你</title>
@@ -369,7 +375,15 @@ RTHK tv35 20261104: 45 programmes
 <title lang="zh">生活．健康．資訊</title>
 <desc lang="zh">生活．健康．資訊</desc>
 </programme>
-<programme channel="香港電台32" start="20261103080500 +0800" stop="20261103100000 +0800">
+<programme channel="香港電台32" start="20261103080500 +0800" stop="20261103093300 +0800">
+<title lang="zh">千禧年代</title>
+<desc lang="zh">千禧年代 11月3日</desc>
+</programme>
+<programme channel="香港電台32" start="20261103093300 +0800" stop="20261103094200 +0800">
+<title lang="zh">本地新聞</title>
+<desc lang="zh">本地新聞</desc>
+</programme>
+<programme channel="香港電台32" start="20261103094200 +0800" stop="20261103100000 +0800">
 <title lang="zh">千禧年代</title>
 <desc lang="zh">千禧年代 11月3日</desc>
 </programme>
@@ -392,7 +406,11 @@ RTHK tv35 20261104: 45 programmes
 <programme channel="香港電台32" start="20261103110000 +0800" stop="20261103111000 +0800">
 <title lang="zh">新聞簡報</title>
 </programme>
-<programme channel="香港電台32" start="20261103111000 +0800" stop="20261103112000 +0800">
+<programme channel="香港電台32" start="20261103111000 +0800" stop="20261103111400 +0800">
+<title lang="zh">本地新聞</title>
+<desc lang="zh">本地新聞</desc>
+</programme>
+<programme channel="香港電台32" start="20261103111400 +0800" stop="20261103112000 +0800">
 <title lang="zh">生活．健康．資訊</title>
 <desc lang="zh">生活．健康．資訊</desc>
 </programme>
@@ -457,9 +475,13 @@ RTHK tv35 20261104: 45 programmes
 <programme channel="香港電台32" start="20261103143000 +0800" stop="20261103144000 +0800">
 <title lang="zh">新聞簡報</title>
 </programme>
-<programme channel="香港電台32" start="20261103144000 +0800" stop="20261103150000 +0800">
+<programme channel="香港電台32" start="20261103144000 +0800" stop="20261103144700 +0800">
 <title lang="zh">生活．健康．資訊</title>
 <desc lang="zh">生活．健康．資訊</desc>
+</programme>
+<programme channel="香港電台32" start="20261103144700 +0800" stop="20261103150000 +0800">
+<title lang="zh">本地新聞</title>
+<desc lang="zh">本地新聞</desc>
 </programme>
 <programme channel="香港電台32" start="20261103150000 +0800" stop="20261103151000 +0800">
 <title lang="zh">新聞簡報</title>
@@ -556,6 +578,7 @@ RTHK tv35 20261104: 45 programmes
 </programme>
 <programme channel="香港電台32" start="20261103220000 +0800" stop="20261103220500 +0800">
 <title lang="zh">政正關你事 - 官員講話摘要</title>
+<desc lang="zh">政正關你事 - 官員講話摘要 #68 (李家超、陳茂波、周一鳴)</desc>
 </programme>
 <programme channel="香港電台32" start="20261103220500 +0800" stop="20261103223000 +0800">
 <title lang="zh">凝聚香港</title>
@@ -594,6 +617,7 @@ RTHK tv35 20261104: 45 programmes
 </programme>
 <programme channel="香港電台32" start="20261104073500 +0800" stop="20261104074000 +0800">
 <title lang="zh">政正關你事 - 官員講話摘要</title>
+<desc lang="zh">政正關你事 - 官員講話摘要 #68 (李家超、陳茂波、周一鳴)</desc>
 </programme>
 <programme channel="香港電台32" start="20261104074000 +0800" stop="20261104080500 +0800">
 <title lang="zh">生活．健康．資訊</title>
@@ -737,6 +761,7 @@ RTHK tv35 20261104: 45 programmes
 </programme>
 <programme channel="香港電台32" start="20261104220000 +0800" stop="20261104220500 +0800">
 <title lang="zh">政正關你事</title>
+<desc lang="zh">NSmarties 童心護港 AI 互動平台啟動禮</desc>
 </programme>
 <programme channel="香港電台32" start="20261104220500 +0800" stop="20261104223000 +0800">
 <title lang="zh">凝聚香港</title>
