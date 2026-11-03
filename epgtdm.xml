@@ -29,7 +29,6 @@
   </programme>
   <programme start="20261103080000 +0800" stop="20261103090000 +0800" channel="澳視澳門 91台">
     <title lang="zh">澳門早晨</title>
-    <live/>
   </programme>
   <programme start="20261103090000 +0800" stop="20261103090200 +0800" channel="澳視澳門 91台">
     <title lang="zh">TDM 新視點</title>
@@ -39,6 +38,7 @@
   </programme>
   <programme start="20261103092500 +0800" stop="20261103100000 +0800" channel="澳視澳門 91台">
     <title lang="zh">大開眼界</title>
+    <live/>
   </programme>
   <programme start="20261103100000 +0800" stop="20261103103000 +0800" channel="澳視澳門 91台">
     <title lang="zh">新聞報道</title>
@@ -405,13 +405,13 @@
   </programme>
   <programme start="20261103080000 +0800" stop="20261103090000 +0800" channel="澳門資訊 94台">
     <title lang="zh">澳門早晨</title>
-    <live/>
   </programme>
   <programme start="20261103090000 +0800" stop="20261103093000 +0800" channel="澳門資訊 94台">
     <title lang="zh">重播早晨新聞</title>
   </programme>
   <programme start="20261103093000 +0800" stop="20261103100000 +0800" channel="澳門資訊 94台">
     <title lang="zh">灣區全媒睇</title>
+    <live/>
   </programme>
   <programme start="20261103100000 +0800" stop="20261103103000 +0800" channel="澳門資訊 94台">
     <title lang="zh">新聞報道</title>
@@ -994,7 +994,6 @@
   </programme>
   <programme start="20261103080000 +0800" stop="20261103083000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">馬交遊﹕澳門Chill 好玩</title>
-    <live/>
   </programme>
   <programme start="20261103083000 +0800" stop="20261103085200 +0800" channel="澳門-Macau 96台">
     <title lang="zh">教煮CHILL 好玩</title>
@@ -1004,6 +1003,7 @@
   </programme>
   <programme start="20261103092000 +0800" stop="20261103095000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">風火台</title>
+    <live/>
   </programme>
   <programme start="20261103095000 +0800" stop="20261103100000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">鈷彩凝珍</title>
