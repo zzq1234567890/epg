@@ -6988,7 +6988,14 @@
     <title lang="zh">政正關你事</title>
     <desc lang="zh">醫管局—動物探訪活動</desc>
   </programme>
-  <programme start="20261108074000 +0800" stop="20261108110000 +0800" channel="香港電台32">
+  <programme start="20261108074000 +0800" stop="20261108080000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+  </programme>
+  <programme start="20261108080000 +0800" stop="20261108092000 +0800" channel="香港電台32">
+    <title lang="zh">寰宇直播</title>
+    <desc lang="zh">寰宇直播</desc>
+  </programme>
+  <programme start="20261108092000 +0800" stop="20261108110000 +0800" channel="香港電台32">
     <title lang="zh">生活．健康．資訊</title>
   </programme>
   <programme start="20261108110000 +0800" stop="20261108111000 +0800" channel="香港電台32">

@@ -1,6 +1,6 @@
 RTHK tv31 20261108: 47 programmes
 RTHK tv31 20261109: 43 programmes
-RTHK tv32 20261108: 59 programmes
+RTHK tv32 20261108: 61 programmes
 RTHK tv32 20261109: 51 programmes
 RTHK tv33 20261108: 32 programmes
 RTHK tv33 20261109: 33 programmes
@@ -380,7 +380,14 @@ RTHK tv35 20261109: 48 programmes
 <title lang="zh">政正關你事</title>
 <desc lang="zh">醫管局—動物探訪活動</desc>
 </programme>
-<programme channel="香港電台32" start="20261108074000 +0800" stop="20261108110000 +0800">
+<programme channel="香港電台32" start="20261108074000 +0800" stop="20261108080000 +0800">
+<title lang="zh">生活．健康．資訊</title>
+</programme>
+<programme channel="香港電台32" start="20261108080000 +0800" stop="20261108092000 +0800">
+<title lang="zh">寰宇直播</title>
+<desc lang="zh">寰宇直播</desc>
+</programme>
+<programme channel="香港電台32" start="20261108092000 +0800" stop="20261108110000 +0800">
 <title lang="zh">生活．健康．資訊</title>
 </programme>
 <programme channel="香港電台32" start="20261108110000 +0800" stop="20261108111000 +0800">
