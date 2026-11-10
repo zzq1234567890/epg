@@ -26,7 +26,6 @@
   </channel>
   <programme start="20261110070000 +0800" stop="20261110080000 +0800" channel="澳視澳門 91台">
     <title lang="zh">早晨新聞</title>
-    <live/>
   </programme>
   <programme start="20261110080000 +0800" stop="20261110090000 +0800" channel="澳視澳門 91台">
     <title lang="zh">澳門早晨</title>
@@ -42,6 +41,7 @@
   </programme>
   <programme start="20261110100000 +0800" stop="20261110103000 +0800" channel="澳視澳門 91台">
     <title lang="zh">新聞報道</title>
+    <live/>
   </programme>
   <programme start="20261110103000 +0800" stop="20261110110000 +0800" channel="澳視澳門 91台">
     <title lang="zh">重播風火台</title>
@@ -402,7 +402,6 @@
   </programme>
   <programme start="20261110070000 +0800" stop="20261110080000 +0800" channel="澳門資訊 94台">
     <title lang="zh">早晨新聞</title>
-    <live/>
   </programme>
   <programme start="20261110080000 +0800" stop="20261110090000 +0800" channel="澳門資訊 94台">
     <title lang="zh">澳門早晨</title>
@@ -415,6 +414,7 @@
   </programme>
   <programme start="20261110100000 +0800" stop="20261110103000 +0800" channel="澳門資訊 94台">
     <title lang="zh">新聞報道</title>
+    <live/>
   </programme>
   <programme start="20261110103000 +0800" stop="20261110110000 +0800" channel="澳門資訊 94台">
     <title lang="zh">新聞報道</title>
@@ -652,6 +652,7 @@
   </programme>
   <programme start="20261110100000 +0800" stop="20261110110000 +0800" channel="澳門體育 93台">
     <title lang="zh">2026世界羽毛球錦標賽：女單決賽</title>
+    <live/>
   </programme>
   <programme start="20261110110000 +0800" stop="20261110115000 +0800" channel="澳門體育 93台">
     <title lang="zh">2026世界羽毛球錦標賽：男雙決賽</title>
@@ -760,6 +761,7 @@
   </programme>
   <programme start="20261110100000 +0800" stop="20261110130300 +0800" channel="澳門綜藝 95台">
     <title lang="zh">好劇連場: 點心之路</title>
+    <live/>
   </programme>
   <programme start="20261110130300 +0800" stop="20261110155800 +0800" channel="澳門綜藝 95台">
     <title lang="zh">好劇連場: 心靈法醫</title>
@@ -892,7 +894,6 @@
   </programme>
   <programme start="20261110070000 +0800" stop="20261110073000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">“葡”出個味蕾</title>
-    <live/>
   </programme>
   <programme start="20261110073000 +0800" stop="20261110080000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">英語新聞</title>
@@ -914,6 +915,7 @@
   </programme>
   <programme start="20261110100000 +0800" stop="20261110103000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">粵語新聞</title>
+    <live/>
   </programme>
   <programme start="20261110103000 +0800" stop="20261110110000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">天下徽商</title>
