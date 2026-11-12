@@ -4,20 +4,16 @@
   <channel id="看看新聞直播">
     <display-name lang="zh">看看新聞直播</display-name>
   </channel>
-  <programme start="20261111095000 +0800" stop="20261111100000 +0800" channel="看看新聞直播">
-    <title lang="zh">2026上海全球资产管理论坛</title>
-    <desc lang="zh">2026上海全球资产管理论坛</desc>
-  </programme>
-  <programme start="20261111100000 +0800" stop="20261111120000 +0800" channel="看看新聞直播">
-    <title lang="zh">国家发展改革委奋进“十五五”系列新闻发布会 介绍共建“一带一路”有关情况</title>
-    <desc lang="zh">国家发展改革委奋进“十五五”系列新闻发布会 介绍共建“一带一路”有关情况</desc>
-  </programme>
-  <programme start="20261111140000 +0800" stop="20261111180000 +0800" channel="看看新聞直播">
-    <title lang="zh">2026上海全球资产管理论坛·国际化专场</title>
-    <desc lang="zh">2026上海全球资产管理论坛·国际化专场</desc>
-  </programme>
   <programme start="20261112100000 +0800" stop="20261112120000 +0800" channel="看看新聞直播">
     <title lang="zh">上海市公安局新闻发布会｜通报上海警方严厉打击民生领域制假售假犯罪的总体情况和典型案例</title>
     <desc lang="zh">上海市公安局新闻发布会｜通报上海警方严厉打击民生领域制假售假犯罪的总体情况和典型案例</desc>
+  </programme>
+  <programme start="20261112140000 +0800" stop="20261112150000 +0800" channel="看看新聞直播">
+    <title lang="zh">国门向新行｜霍尔果斯：丝绸之路经济带核心区的“新疆样本”</title>
+    <desc lang="zh">国门向新行｜霍尔果斯：丝绸之路经济带核心区的“新疆样本”</desc>
+  </programme>
+  <programme start="20261112150000 +0800" stop="20261112170000 +0800" channel="看看新聞直播">
+    <title lang="zh">商务部新闻发布会｜介绍近期商务领域重点工作有关情况</title>
+    <desc lang="zh">商务部新闻发布会｜介绍近期商务领域重点工作有关情况</desc>
   </programme>
 </tv>

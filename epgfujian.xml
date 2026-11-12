@@ -3,117 +3,112 @@
   <channel id="福建綜合">
     <display-name lang="zh">福建綜合</display-name>
   </channel>
-  <programme start="20261111000100 +0800" stop="20261111002500 +0800" channel="福建綜合">
-    <title lang="zh">热播剧场 :八千里路云和月</title>
-    <desc lang="zh">福建綜合 - 热播剧场 :八千里路云和月</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111002500 +0800" stop="20261111005200 +0800" channel="福建綜合">
+  <programme start="20261112002500 +0800" stop="20261112005000 +0800" channel="福建綜合">
     <title lang="zh">重播：福建新闻联播</title>
     <desc lang="zh">福建綜合 - 重播：福建新闻联播</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111005200 +0800" stop="20261111022200 +0800" channel="福建綜合">
+  <programme start="20261112005000 +0800" stop="20261112021500 +0800" channel="福建綜合">
     <title lang="zh">重播：帮帮团</title>
     <desc lang="zh">福建綜合 - 重播：帮帮团</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111022200 +0800" stop="20261111062500 +0800" channel="福建綜合">
-    <title lang="zh">凌晨剧场：信仰</title>
-    <desc lang="zh">福建綜合 - 凌晨剧场：信仰</desc>
+  <programme start="20261112021500 +0800" stop="20261112053500 +0800" channel="福建綜合">
+    <title lang="zh">设备检修</title>
+    <desc lang="zh">福建綜合 - 设备检修</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111062500 +0800" stop="20261111063500 +0800" channel="福建綜合">
+  <programme start="20261112053500 +0800" stop="20261112062500 +0800" channel="福建綜合">
+    <title lang="zh">精选剧场：唐朝诡事录</title>
+    <desc lang="zh">福建綜合 - 精选剧场：唐朝诡事录</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112062500 +0800" stop="20261112063500 +0800" channel="福建綜合">
     <title lang="zh">重播：新闻启示录</title>
     <desc lang="zh">福建綜合 - 重播：新闻启示录</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111063500 +0800" stop="20261111070100 +0800" channel="福建綜合">
+  <programme start="20261112063500 +0800" stop="20261112070200 +0800" channel="福建綜合">
     <title lang="zh">重播：福建新闻联播</title>
     <desc lang="zh">福建綜合 - 重播：福建新闻联播</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111070100 +0800" stop="20261111073000 +0800" channel="福建綜合">
-    <title lang="zh">记住乡愁 第十季</title>
-    <desc lang="zh">福建綜合 - 记住乡愁 第十季</desc>
+  <programme start="20261112070200 +0800" stop="20261112071900 +0800" channel="福建綜合">
+    <title lang="zh">武夷五宴</title>
+    <desc lang="zh">福建綜合 - 武夷五宴</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111073000 +0800" stop="20261111104300 +0800" channel="福建綜合">
-    <title lang="zh">流金剧场：绝境铸剑</title>
-    <desc lang="zh">福建綜合 - 流金剧场：绝境铸剑</desc>
+  <programme start="20261112071900 +0800" stop="20261112104200 +0800" channel="福建綜合">
+    <title lang="zh">流金剧场：彭德怀元帅</title>
+    <desc lang="zh">福建綜合 - 流金剧场：彭德怀元帅</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111104300 +0800" stop="20261111120000 +0800" channel="福建綜合">
+  <programme start="20261112104200 +0800" stop="20261112120000 +0800" channel="福建綜合">
     <title lang="zh">2026海峡两岸WE短剧大赛成果发布仪式</title>
     <desc lang="zh">福建綜合 - 2026海峡两岸WE短剧大赛成果发布仪式</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111120000 +0800" stop="20261111123000 +0800" channel="福建綜合">
+  <programme start="20261112120000 +0800" stop="20261112123000 +0800" channel="福建綜合">
     <title lang="zh">午间新时空</title>
     <desc lang="zh">福建綜合 - 午间新时空</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111123000 +0800" stop="20261111124700 +0800" channel="福建綜合">
+  <programme start="20261112123000 +0800" stop="20261112124300 +0800" channel="福建綜合">
     <title lang="zh">午间全省天气预报</title>
     <desc lang="zh">福建綜合 - 午间全省天气预报</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111124700 +0800" stop="20261111142700 +0800" channel="福建綜合">
+  <programme start="20261112124300 +0800" stop="20261112142000 +0800" channel="福建綜合">
     <title lang="zh">重播：帮帮团</title>
     <desc lang="zh">福建綜合 - 重播：帮帮团</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111142700 +0800" stop="20261111174800 +0800" channel="福建綜合">
-    <title lang="zh">流金剧场：绝境铸剑；彭德怀元帅</title>
-    <desc lang="zh">福建綜合 - 流金剧场：绝境铸剑；彭德怀元帅</desc>
+  <programme start="20261112142000 +0800" stop="20261112180000 +0800" channel="福建綜合">
+    <title lang="zh">流金剧场：彭德怀元帅</title>
+    <desc lang="zh">福建綜合 - 流金剧场：彭德怀元帅</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111174800 +0800" stop="20261111180000 +0800" channel="福建綜合">
-    <title lang="zh">出彩</title>
-    <desc lang="zh">福建綜合 - 出彩</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111180000 +0800" stop="20261111192800 +0800" channel="福建綜合">
+  <programme start="20261112180000 +0800" stop="20261112192800 +0800" channel="福建綜合">
     <title lang="zh">帮帮团</title>
     <desc lang="zh">福建綜合 - 帮帮团</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111192800 +0800" stop="20261111193200 +0800" channel="福建綜合">
+  <programme start="20261112192800 +0800" stop="20261112193200 +0800" channel="福建綜合">
     <title lang="zh">全省天气预报</title>
     <desc lang="zh">福建綜合 - 全省天气预报</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111193200 +0800" stop="20261111193500 +0800" channel="福建綜合">
+  <programme start="20261112193200 +0800" stop="20261112193500 +0800" channel="福建綜合">
     <title lang="zh">全省海洋环境预报</title>
     <desc lang="zh">福建綜合 - 全省海洋环境预报</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111193500 +0800" stop="20261111200500 +0800" channel="福建綜合">
+  <programme start="20261112193500 +0800" stop="20261112200500 +0800" channel="福建綜合">
     <title lang="zh">福建新闻联播</title>
     <desc lang="zh">福建綜合 - 福建新闻联播</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111200500 +0800" stop="20261111202100 +0800" channel="福建綜合">
+  <programme start="20261112200500 +0800" stop="20261112202100 +0800" channel="福建綜合">
     <title lang="zh">新闻启示录</title>
     <desc lang="zh">福建綜合 - 新闻启示录</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111202100 +0800" stop="20261111211000 +0800" channel="福建綜合">
-    <title lang="zh">第一剧场：唐朝诡事录之长安（37）</title>
-    <desc lang="zh">福建綜合 - 第一剧场：唐朝诡事录之长安（37）</desc>
+  <programme start="20261112202100 +0800" stop="20261112211000 +0800" channel="福建綜合">
+    <title lang="zh">第一剧场：唐朝诡事录之长安（39）</title>
+    <desc lang="zh">福建綜合 - 第一剧场：唐朝诡事录之长安（39）</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111211000 +0800" stop="20261111215700 +0800" channel="福建綜合">
-    <title lang="zh">第一剧场：唐朝诡事录之长安（38）</title>
-    <desc lang="zh">福建綜合 - 第一剧场：唐朝诡事录之长安（38）</desc>
+  <programme start="20261112211000 +0800" stop="20261112215700 +0800" channel="福建綜合">
+    <title lang="zh">第一剧场：唐朝诡事录之长安（40）</title>
+    <desc lang="zh">福建綜合 - 第一剧场：唐朝诡事录之长安（40）</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111215700 +0800" stop="20261111223000 +0800" channel="福建綜合">
+  <programme start="20261112215700 +0800" stop="20261112223000 +0800" channel="福建綜合">
     <title lang="zh">记住乡愁 第十季</title>
     <desc lang="zh">福建綜合 - 记住乡愁 第十季</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111223000 +0800" stop="20261111223500 +0800" channel="福建綜合">
+  <programme start="20261112223000 +0800" stop="20261112223500 +0800" channel="福建綜合">
     <title lang="zh">精选剧场：唐朝诡事录</title>
     <desc lang="zh">福建綜合 - 精选剧场：唐朝诡事录</desc>
     <category lang="zh">綜合</category>
@@ -121,277 +116,282 @@
   <channel id="福建新聞">
     <display-name lang="zh">福建新聞</display-name>
   </channel>
-  <programme start="20261111000000 +0800" stop="20261111002500 +0800" channel="福建新聞">
+  <programme start="20261112000000 +0800" stop="20261112002500 +0800" channel="福建新聞">
     <title lang="zh">《福建卫视新闻》</title>
     <desc lang="zh">福建新聞 - 《福建卫视新闻》</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111002500 +0800" stop="20261111003000 +0800" channel="福建新聞">
+  <programme start="20261112002500 +0800" stop="20261112003000 +0800" channel="福建新聞">
     <title lang="zh">《风物福建-短视频》</title>
     <desc lang="zh">福建新聞 - 《风物福建-短视频》</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111003000 +0800" stop="20261111012500 +0800" channel="福建新聞">
+  <programme start="20261112003000 +0800" stop="20261112012500 +0800" channel="福建新聞">
     <title lang="zh">《现场》（精华版）</title>
     <desc lang="zh">福建新聞 - 《现场》（精华版）</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111012500 +0800" stop="20261111015000 +0800" channel="福建新聞">
+  <programme start="20261112012500 +0800" stop="20261112015000 +0800" channel="福建新聞">
     <title lang="zh">《福建新闻联播》</title>
     <desc lang="zh">福建新聞 - 《福建新闻联播》</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111015000 +0800" stop="20261111020000 +0800" channel="福建新聞">
+  <programme start="20261112015000 +0800" stop="20261112020000 +0800" channel="福建新聞">
     <title lang="zh">《新闻启示录》</title>
     <desc lang="zh">福建新聞 - 《新闻启示录》</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111020000 +0800" stop="20261111020500 +0800" channel="福建新聞">
+  <programme start="20261112020000 +0800" stop="20261112020500 +0800" channel="福建新聞">
     <title lang="zh">《风物福建-短视频》</title>
     <desc lang="zh">福建新聞 - 《风物福建-短视频》</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111020500 +0800" stop="20261111023000 +0800" channel="福建新聞">
+  <programme start="20261112020500 +0800" stop="20261112023000 +0800" channel="福建新聞">
     <title lang="zh">《福建卫视新闻》</title>
     <desc lang="zh">福建新聞 - 《福建卫视新闻》</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111023000 +0800" stop="20261111032500 +0800" channel="福建新聞">
+  <programme start="20261112023000 +0800" stop="20261112032500 +0800" channel="福建新聞">
     <title lang="zh">《现场》（精华版）</title>
     <desc lang="zh">福建新聞 - 《现场》（精华版）</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111032500 +0800" stop="20261111035000 +0800" channel="福建新聞">
+  <programme start="20261112032500 +0800" stop="20261112035000 +0800" channel="福建新聞">
     <title lang="zh">《福建新闻联播》</title>
     <desc lang="zh">福建新聞 - 《福建新闻联播》</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111035000 +0800" stop="20261111040000 +0800" channel="福建新聞">
+  <programme start="20261112035000 +0800" stop="20261112040200 +0800" channel="福建新聞">
     <title lang="zh">《新闻启示录》</title>
     <desc lang="zh">福建新聞 - 《新闻启示录》</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111040000 +0800" stop="20261111040500 +0800" channel="福建新聞">
+  <programme start="20261112040200 +0800" stop="20261112040500 +0800" channel="福建新聞">
     <title lang="zh">《风物福建-短视频》</title>
     <desc lang="zh">福建新聞 - 《风物福建-短视频》</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111040500 +0800" stop="20261111043000 +0800" channel="福建新聞">
+  <programme start="20261112040500 +0800" stop="20261112043000 +0800" channel="福建新聞">
     <title lang="zh">《福建卫视新闻》</title>
     <desc lang="zh">福建新聞 - 《福建卫视新闻》</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111043000 +0800" stop="20261111052500 +0800" channel="福建新聞">
+  <programme start="20261112043000 +0800" stop="20261112052500 +0800" channel="福建新聞">
     <title lang="zh">《现场》（精华版）</title>
     <desc lang="zh">福建新聞 - 《现场》（精华版）</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111052500 +0800" stop="20261111053500 +0800" channel="福建新聞">
+  <programme start="20261112052500 +0800" stop="20261112054000 +0800" channel="福建新聞">
     <title lang="zh">《新闻启示录》</title>
     <desc lang="zh">福建新聞 - 《新闻启示录》</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111053500 +0800" stop="20261111054000 +0800" channel="福建新聞">
-    <title lang="zh">《风物福建-短视频》</title>
-    <desc lang="zh">福建新聞 - 《风物福建-短视频》</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111054000 +0800" stop="20261111060500 +0800" channel="福建新聞">
+  <programme start="20261112054000 +0800" stop="20261112060500 +0800" channel="福建新聞">
     <title lang="zh">《福建卫视新闻》</title>
     <desc lang="zh">福建新聞 - 《福建卫视新闻》</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111060500 +0800" stop="20261111070000 +0800" channel="福建新聞">
+  <programme start="20261112060500 +0800" stop="20261112070000 +0800" channel="福建新聞">
     <title lang="zh">《现场》（精华版）</title>
     <desc lang="zh">福建新聞 - 《现场》（精华版）</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111070000 +0800" stop="20261111072500 +0800" channel="福建新聞">
+  <programme start="20261112070000 +0800" stop="20261112072500 +0800" channel="福建新聞">
     <title lang="zh">《福建新闻联播》</title>
     <desc lang="zh">福建新聞 - 《福建新闻联播》</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111072500 +0800" stop="20261111073000 +0800" channel="福建新聞">
+  <programme start="20261112072500 +0800" stop="20261112072800 +0800" channel="福建新聞">
     <title lang="zh">《午间天气快报》</title>
     <desc lang="zh">福建新聞 - 《午间天气快报》</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111073000 +0800" stop="20261111073500 +0800" channel="福建新聞">
+  <programme start="20261112072800 +0800" stop="20261112073500 +0800" channel="福建新聞">
     <title lang="zh">《风物福建-短视频》</title>
     <desc lang="zh">福建新聞 - 《风物福建-短视频》</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111073500 +0800" stop="20261111075500 +0800" channel="福建新聞">
+  <programme start="20261112073500 +0800" stop="20261112075000 +0800" channel="福建新聞">
     <title lang="zh">《新闻启示录》</title>
     <desc lang="zh">福建新聞 - 《新闻启示录》</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111075500 +0800" stop="20261111082100 +0800" channel="福建新聞">
+  <programme start="20261112075000 +0800" stop="20261112081700 +0800" channel="福建新聞">
     <title lang="zh">《福建卫视新闻》</title>
     <desc lang="zh">福建新聞 - 《福建卫视新闻》</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111082100 +0800" stop="20261111082500 +0800" channel="福建新聞">
+  <programme start="20261112081700 +0800" stop="20261112082000 +0800" channel="福建新聞">
     <title lang="zh">《风物福建-短视频》</title>
     <desc lang="zh">福建新聞 - 《风物福建-短视频》</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111082500 +0800" stop="20261111085500 +0800" channel="福建新聞">
-    <title lang="zh">《律师在现场》</title>
-    <desc lang="zh">福建新聞 - 《律师在现场》</desc>
+  <programme start="20261112082000 +0800" stop="20261112085500 +0800" channel="福建新聞">
+    <title lang="zh">兴农讲堂之田园公开课（30分）</title>
+    <desc lang="zh">福建新聞 - 兴农讲堂之田园公开课（30分）</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111085500 +0800" stop="20261111095500 +0800" channel="福建新聞">
+  <programme start="20261112085500 +0800" stop="20261112095500 +0800" channel="福建新聞">
     <title lang="zh">《现场》（精华版）</title>
     <desc lang="zh">福建新聞 - 《现场》（精华版）</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111095500 +0800" stop="20261111102130 +0800" channel="福建新聞">
+  <programme start="20261112095500 +0800" stop="20261112102130 +0800" channel="福建新聞">
     <title lang="zh">《福建新闻联播》</title>
     <desc lang="zh">福建新聞 - 《福建新闻联播》</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111102130 +0800" stop="20261111104800 +0800" channel="福建新聞">
+  <programme start="20261112102130 +0800" stop="20261112104800 +0800" channel="福建新聞">
     <title lang="zh">《律师在现场》</title>
     <desc lang="zh">福建新聞 - 《律师在现场》</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111104800 +0800" stop="20261111114300 +0800" channel="福建新聞">
+  <programme start="20261112104800 +0800" stop="20261112114300 +0800" channel="福建新聞">
     <title lang="zh">《现场》（精华版）</title>
     <desc lang="zh">福建新聞 - 《现场》（精华版）</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111114300 +0800" stop="20261111115300 +0800" channel="福建新聞">
+  <programme start="20261112114300 +0800" stop="20261112115300 +0800" channel="福建新聞">
     <title lang="zh">《新闻启示录》</title>
     <desc lang="zh">福建新聞 - 《新闻启示录》</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111115300 +0800" stop="20261111120000 +0800" channel="福建新聞">
+  <programme start="20261112115300 +0800" stop="20261112120000 +0800" channel="福建新聞">
     <title lang="zh">《风物福建-短视频》</title>
     <desc lang="zh">福建新聞 - 《风物福建-短视频》</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111120000 +0800" stop="20261111123000 +0800" channel="福建新聞">
+  <programme start="20261112120000 +0800" stop="20261112123000 +0800" channel="福建新聞">
     <title lang="zh">午间新时空</title>
     <desc lang="zh">福建新聞 - 午间新时空</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111123000 +0800" stop="20261111123300 +0800" channel="福建新聞">
+  <programme start="20261112123000 +0800" stop="20261112123500 +0800" channel="福建新聞">
     <title lang="zh">《午间天气快报》</title>
     <desc lang="zh">福建新聞 - 《午间天气快报》</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111123300 +0800" stop="20261111133500 +0800" channel="福建新聞">
-    <title lang="zh">福建农村实用技术远程培训</title>
-    <desc lang="zh">福建新聞 - 福建农村实用技术远程培训</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111133500 +0800" stop="20261111143200 +0800" channel="福建新聞">
-    <title lang="zh">《现场》（精华版）</title>
-    <desc lang="zh">福建新聞 - 《现场》（精华版）</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111143200 +0800" stop="20261111144400 +0800" channel="福建新聞">
-    <title lang="zh">《新闻启示录》</title>
-    <desc lang="zh">福建新聞 - 《新闻启示录》</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111144400 +0800" stop="20261111151100 +0800" channel="福建新聞">
-    <title lang="zh">《律师在现场》</title>
-    <desc lang="zh">福建新聞 - 《律师在现场》</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111151100 +0800" stop="20261111154300 +0800" channel="福建新聞">
-    <title lang="zh">午间新时空</title>
-    <desc lang="zh">福建新聞 - 午间新时空</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111154300 +0800" stop="20261111164000 +0800" channel="福建新聞">
-    <title lang="zh">《现场》（精华版）</title>
-    <desc lang="zh">福建新聞 - 《现场》（精华版）</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111164000 +0800" stop="20261111170000 +0800" channel="福建新聞">
-    <title lang="zh">八闽正春风</title>
-    <desc lang="zh">福建新聞 - 八闽正春风</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111170000 +0800" stop="20261111180200 +0800" channel="福建新聞">
-    <title lang="zh">福建农村实用技术远程培训</title>
-    <desc lang="zh">福建新聞 - 福建农村实用技术远程培训</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111180200 +0800" stop="20261111190000 +0800" channel="福建新聞">
-    <title lang="zh">《现场》（精华版）</title>
-    <desc lang="zh">福建新聞 - 《现场》（精华版）</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111190000 +0800" stop="20261111200000 +0800" channel="福建新聞">
-    <title lang="zh">《现场》</title>
-    <desc lang="zh">福建新聞 - 《现场》</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111200000 +0800" stop="20261111203000 +0800" channel="福建新聞">
-    <title lang="zh">《律师在现场》</title>
-    <desc lang="zh">福建新聞 - 《律师在现场》</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111203000 +0800" stop="20261111204500 +0800" channel="福建新聞">
-    <title lang="zh">《福建好味道》</title>
-    <desc lang="zh">福建新聞 - 《福建好味道》</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111204500 +0800" stop="20261111210300 +0800" channel="福建新聞">
-    <title lang="zh">海洋季风-《心中有片海》（150）</title>
-    <desc lang="zh">福建新聞 - 海洋季风-《心中有片海》（150）</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111210300 +0800" stop="20261111210700 +0800" channel="福建新聞">
-    <title lang="zh">《福建海洋预报》</title>
-    <desc lang="zh">福建新聞 - 《福建海洋预报》</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111210700 +0800" stop="20261111220000 +0800" channel="福建新聞">
+  <programme start="20261112123500 +0800" stop="20261112132700 +0800" channel="福建新聞">
     <title lang="zh">《共享大医生》</title>
     <desc lang="zh">福建新聞 - 《共享大医生》</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111220000 +0800" stop="20261111222700 +0800" channel="福建新聞">
-    <title lang="zh">《福建卫视新闻》</title>
-    <desc lang="zh">福建新聞 - 《福建卫视新闻》</desc>
+  <programme start="20261112132700 +0800" stop="20261112142400 +0800" channel="福建新聞">
+    <title lang="zh">《现场》（精华版）</title>
+    <desc lang="zh">福建新聞 - 《现场》（精华版）</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111222700 +0800" stop="20261111224700 +0800" channel="福建新聞">
-    <title lang="zh">八闽正春风</title>
-    <desc lang="zh">福建新聞 - 八闽正春风</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111224700 +0800" stop="20261111230000 +0800" channel="福建新聞">
-    <title lang="zh">《风物福建-短视频》</title>
-    <desc lang="zh">福建新聞 - 《风物福建-短视频》</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111230000 +0800" stop="20261111232500 +0800" channel="福建新聞">
-    <title lang="zh">《福建新闻联播》</title>
-    <desc lang="zh">福建新聞 - 《福建新闻联播》</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111232500 +0800" stop="20261111233000 +0800" channel="福建新聞">
-    <title lang="zh">《午间天气快报》</title>
-    <desc lang="zh">福建新聞 - 《午间天气快报》</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111233000 +0800" stop="20261111234200 +0800" channel="福建新聞">
+  <programme start="20261112142400 +0800" stop="20261112143600 +0800" channel="福建新聞">
     <title lang="zh">《新闻启示录》</title>
     <desc lang="zh">福建新聞 - 《新闻启示录》</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111234200 +0800" stop="20261111234500 +0800" channel="福建新聞">
+  <programme start="20261112143600 +0800" stop="20261112144100 +0800" channel="福建新聞">
     <title lang="zh">《风物福建-短视频》</title>
     <desc lang="zh">福建新聞 - 《风物福建-短视频》</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111234500 +0800" stop="20261111235000 +0800" channel="福建新聞">
+  <programme start="20261112144100 +0800" stop="20261112154300 +0800" channel="福建新聞">
+    <title lang="zh">福建农村实用技术远程培训</title>
+    <desc lang="zh">福建新聞 - 福建农村实用技术远程培训</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112154300 +0800" stop="20261112161500 +0800" channel="福建新聞">
+    <title lang="zh">午间新时空</title>
+    <desc lang="zh">福建新聞 - 午间新时空</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112161500 +0800" stop="20261112171200 +0800" channel="福建新聞">
+    <title lang="zh">《现场》（精华版）</title>
+    <desc lang="zh">福建新聞 - 《现场》（精华版）</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112171200 +0800" stop="20261112172400 +0800" channel="福建新聞">
+    <title lang="zh">《新闻启示录》</title>
+    <desc lang="zh">福建新聞 - 《新闻启示录》</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112172400 +0800" stop="20261112173000 +0800" channel="福建新聞">
+    <title lang="zh">《风物福建-短视频》</title>
+    <desc lang="zh">福建新聞 - 《风物福建-短视频》</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112173000 +0800" stop="20261112180200 +0800" channel="福建新聞">
+    <title lang="zh">午间新时空</title>
+    <desc lang="zh">福建新聞 - 午间新时空</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112180200 +0800" stop="20261112190000 +0800" channel="福建新聞">
+    <title lang="zh">《现场》（精华版）</title>
+    <desc lang="zh">福建新聞 - 《现场》（精华版）</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112190000 +0800" stop="20261112200000 +0800" channel="福建新聞">
+    <title lang="zh">《现场》</title>
+    <desc lang="zh">福建新聞 - 《现场》</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112200000 +0800" stop="20261112203000 +0800" channel="福建新聞">
+    <title lang="zh">《律师在现场》</title>
+    <desc lang="zh">福建新聞 - 《律师在现场》</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112203000 +0800" stop="20261112204500 +0800" channel="福建新聞">
+    <title lang="zh">《福建好味道》</title>
+    <desc lang="zh">福建新聞 - 《福建好味道》</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112204500 +0800" stop="20261112210300 +0800" channel="福建新聞">
+    <title lang="zh">海洋季风-向海图强</title>
+    <desc lang="zh">福建新聞 - 海洋季风-向海图强</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112210300 +0800" stop="20261112210700 +0800" channel="福建新聞">
+    <title lang="zh">《福建海洋预报》</title>
+    <desc lang="zh">福建新聞 - 《福建海洋预报》</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112210700 +0800" stop="20261112220000 +0800" channel="福建新聞">
+    <title lang="zh">《共享大医生》</title>
+    <desc lang="zh">福建新聞 - 《共享大医生》</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112220000 +0800" stop="20261112222700 +0800" channel="福建新聞">
+    <title lang="zh">《福建卫视新闻》</title>
+    <desc lang="zh">福建新聞 - 《福建卫视新闻》</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112222700 +0800" stop="20261112224700 +0800" channel="福建新聞">
+    <title lang="zh">八闽正春风</title>
+    <desc lang="zh">福建新聞 - 八闽正春风</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112224700 +0800" stop="20261112230000 +0800" channel="福建新聞">
+    <title lang="zh">《风物福建-短视频》</title>
+    <desc lang="zh">福建新聞 - 《风物福建-短视频》</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112230000 +0800" stop="20261112232500 +0800" channel="福建新聞">
+    <title lang="zh">《福建新闻联播》</title>
+    <desc lang="zh">福建新聞 - 《福建新闻联播》</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112232500 +0800" stop="20261112233000 +0800" channel="福建新聞">
+    <title lang="zh">《午间天气快报》</title>
+    <desc lang="zh">福建新聞 - 《午间天气快报》</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112233000 +0800" stop="20261112234000 +0800" channel="福建新聞">
+    <title lang="zh">《新闻启示录》</title>
+    <desc lang="zh">福建新聞 - 《新闻启示录》</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112234000 +0800" stop="20261112234500 +0800" channel="福建新聞">
+    <title lang="zh">《风物福建-短视频》</title>
+    <desc lang="zh">福建新聞 - 《风物福建-短视频》</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112234500 +0800" stop="20261112235000 +0800" channel="福建新聞">
     <title lang="zh">多彩福茶</title>
     <desc lang="zh">福建新聞 - 多彩福茶</desc>
     <category lang="zh">綜合</category>
@@ -399,515 +399,540 @@
   <channel id="福建文旅體育">
     <display-name lang="zh">福建文旅體育</display-name>
   </channel>
-  <programme start="20261111000300 +0800" stop="20261111001300 +0800" channel="福建文旅體育">
-    <title lang="zh">福建文旅发布</title>
-    <desc lang="zh">福建文旅體育 - 福建文旅发布</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111001300 +0800" stop="20261111001900 +0800" channel="福建文旅體育">
-    <title lang="zh">2026《清新福建》 15</title>
-    <desc lang="zh">福建文旅體育 - 2026《清新福建》 15</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111001900 +0800" stop="20261111011900 +0800" channel="福建文旅體育">
-    <title lang="zh">《2026周末戏相逢戏曲展播》 21</title>
-    <desc lang="zh">福建文旅體育 - 《2026周末戏相逢戏曲展播》 21</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111011900 +0800" stop="20261111021900 +0800" channel="福建文旅體育">
-    <title lang="zh">《2026周末戏相逢戏曲展播》 22</title>
-    <desc lang="zh">福建文旅體育 - 《2026周末戏相逢戏曲展播》 22</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111021900 +0800" stop="20261111022900 +0800" channel="福建文旅體育">
-    <title lang="zh">《映像福建之福鼎非遗》 5</title>
-    <desc lang="zh">福建文旅體育 - 《映像福建之福鼎非遗》 5</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111022900 +0800" stop="20261111023900 +0800" channel="福建文旅體育">
-    <title lang="zh">福建文旅发布</title>
-    <desc lang="zh">福建文旅體育 - 福建文旅发布</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111023900 +0800" stop="20261111030900 +0800" channel="福建文旅體育">
-    <title lang="zh">《世界多美丽》 10</title>
-    <desc lang="zh">福建文旅體育 - 《世界多美丽》 10</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111030900 +0800" stop="20261111031900 +0800" channel="福建文旅體育">
-    <title lang="zh">音乐任我行</title>
-    <desc lang="zh">福建文旅體育 - 音乐任我行</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111031900 +0800" stop="20261111033400 +0800" channel="福建文旅體育">
-    <title lang="zh">《2026向往的大海》(文旅) 29</title>
-    <desc lang="zh">福建文旅體育 - 《2026向往的大海》(文旅) 29</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111033400 +0800" stop="20261111033900 +0800" channel="福建文旅體育">
-    <title lang="zh">《2026福建非遗档案》 34</title>
-    <desc lang="zh">福建文旅體育 - 《2026福建非遗档案》 34</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111033900 +0800" stop="20261111034500 +0800" channel="福建文旅體育">
-    <title lang="zh">2026《清新福建》 16</title>
-    <desc lang="zh">福建文旅體育 - 2026《清新福建》 16</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111034500 +0800" stop="20261111040000 +0800" channel="福建文旅體育">
-    <title lang="zh">《2026老单走福州》 3</title>
-    <desc lang="zh">福建文旅體育 - 《2026老单走福州》 3</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111040000 +0800" stop="20261111041000 +0800" channel="福建文旅體育">
-    <title lang="zh">《映像福建之福鼎非遗》 5</title>
-    <desc lang="zh">福建文旅體育 - 《映像福建之福鼎非遗》 5</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111041000 +0800" stop="20261111051000 +0800" channel="福建文旅體育">
-    <title lang="zh">《2026周末戏相逢戏曲展播》 21</title>
-    <desc lang="zh">福建文旅體育 - 《2026周末戏相逢戏曲展播》 21</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111051000 +0800" stop="20261111061000 +0800" channel="福建文旅體育">
-    <title lang="zh">《2026周末戏相逢戏曲展播》 22</title>
-    <desc lang="zh">福建文旅體育 - 《2026周末戏相逢戏曲展播》 22</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111061000 +0800" stop="20261111061700 +0800" channel="福建文旅體育">
-    <title lang="zh">《2026福建非遗档案》 34</title>
-    <desc lang="zh">福建文旅體育 - 《2026福建非遗档案》 34</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111061700 +0800" stop="20261111062700 +0800" channel="福建文旅體育">
-    <title lang="zh">福建文旅发布</title>
-    <desc lang="zh">福建文旅體育 - 福建文旅发布</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111062700 +0800" stop="20261111063900 +0800" channel="福建文旅體育">
-    <title lang="zh">《映像福建之福鼎非遗》 5</title>
-    <desc lang="zh">福建文旅體育 - 《映像福建之福鼎非遗》 5</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111063900 +0800" stop="20261111071100 +0800" channel="福建文旅體育">
-    <title lang="zh">《世界多美丽》 10</title>
-    <desc lang="zh">福建文旅體育 - 《世界多美丽》 10</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111071100 +0800" stop="20261111072600 +0800" channel="福建文旅體育">
-    <title lang="zh">《2026老单走福州》 3</title>
-    <desc lang="zh">福建文旅體育 - 《2026老单走福州》 3</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111072600 +0800" stop="20261111073300 +0800" channel="福建文旅體育">
-    <title lang="zh">《2026福建非遗档案》 34</title>
-    <desc lang="zh">福建文旅體育 - 《2026福建非遗档案》 34</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111073300 +0800" stop="20261111073900 +0800" channel="福建文旅體育">
-    <title lang="zh">晚间旅游气象站</title>
-    <desc lang="zh">福建文旅體育 - 晚间旅游气象站</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111073900 +0800" stop="20261111075100 +0800" channel="福建文旅體育">
-    <title lang="zh">音乐任我行</title>
-    <desc lang="zh">福建文旅體育 - 音乐任我行</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111075100 +0800" stop="20261111080600 +0800" channel="福建文旅體育">
-    <title lang="zh">《2026向往的大海》(文旅) 29</title>
-    <desc lang="zh">福建文旅體育 - 《2026向往的大海》(文旅) 29</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111080600 +0800" stop="20261111081500 +0800" channel="福建文旅體育">
-    <title lang="zh">2026《清新福建》 15</title>
-    <desc lang="zh">福建文旅體育 - 2026《清新福建》 15</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111081500 +0800" stop="20261111090200 +0800" channel="福建文旅體育">
-    <title lang="zh">《ONE冠军赛》（体育）</title>
-    <desc lang="zh">福建文旅體育 - 《ONE冠军赛》（体育）</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111090200 +0800" stop="20261111091200 +0800" channel="福建文旅體育">
-    <title lang="zh">福建文旅发布</title>
-    <desc lang="zh">福建文旅體育 - 福建文旅发布</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111091200 +0800" stop="20261111092000 +0800" channel="福建文旅體育">
-    <title lang="zh">2026《清新福建》 16</title>
-    <desc lang="zh">福建文旅體育 - 2026《清新福建》 16</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111092000 +0800" stop="20261111092700 +0800" channel="福建文旅體育">
-    <title lang="zh">《2026福建非遗档案》 34</title>
-    <desc lang="zh">福建文旅體育 - 《2026福建非遗档案》 34</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111092700 +0800" stop="20261111093900 +0800" channel="福建文旅體育">
-    <title lang="zh">《映像福建之福鼎非遗》 6</title>
-    <desc lang="zh">福建文旅體育 - 《映像福建之福鼎非遗》 6</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111093900 +0800" stop="20261111095600 +0800" channel="福建文旅體育">
-    <title lang="zh">《2026向往的大海》(文旅) 29</title>
-    <desc lang="zh">福建文旅體育 - 《2026向往的大海》(文旅) 29</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111095600 +0800" stop="20261111100800 +0800" channel="福建文旅體育">
-    <title lang="zh">福建文旅发布</title>
-    <desc lang="zh">福建文旅體育 - 福建文旅发布</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111100800 +0800" stop="20261111111000 +0800" channel="福建文旅體育">
-    <title lang="zh">《2026周末戏相逢戏曲展播》 21</title>
-    <desc lang="zh">福建文旅體育 - 《2026周末戏相逢戏曲展播》 21</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111111000 +0800" stop="20261111121200 +0800" channel="福建文旅體育">
-    <title lang="zh">《2026周末戏相逢戏曲展播》 22</title>
-    <desc lang="zh">福建文旅體育 - 《2026周末戏相逢戏曲展播》 22</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111121200 +0800" stop="20261111122200 +0800" channel="福建文旅體育">
-    <title lang="zh">福建文旅发布</title>
-    <desc lang="zh">福建文旅體育 - 福建文旅发布</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111122200 +0800" stop="20261111122900 +0800" channel="福建文旅體育">
-    <title lang="zh">《2026福建非遗档案》 34</title>
-    <desc lang="zh">福建文旅體育 - 《2026福建非遗档案》 34</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111122900 +0800" stop="20261111124100 +0800" channel="福建文旅體育">
-    <title lang="zh">音乐任我行</title>
-    <desc lang="zh">福建文旅體育 - 音乐任我行</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111124100 +0800" stop="20261111125600 +0800" channel="福建文旅體育">
-    <title lang="zh">《2026原来是这样》(文旅) 3</title>
-    <desc lang="zh">福建文旅體育 - 《2026原来是这样》(文旅) 3</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111125600 +0800" stop="20261111130200 +0800" channel="福建文旅體育">
-    <title lang="zh">午间旅游气象站</title>
-    <desc lang="zh">福建文旅體育 - 午间旅游气象站</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111130200 +0800" stop="20261111131400 +0800" channel="福建文旅體育">
-    <title lang="zh">福建文旅发布</title>
-    <desc lang="zh">福建文旅體育 - 福建文旅发布</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111131400 +0800" stop="20261111132400 +0800" channel="福建文旅體育">
-    <title lang="zh">《映像福建之福鼎非遗》 6</title>
-    <desc lang="zh">福建文旅體育 - 《映像福建之福鼎非遗》 6</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111132400 +0800" stop="20261111134100 +0800" channel="福建文旅體育">
-    <title lang="zh">《2026老单走福州》 3</title>
-    <desc lang="zh">福建文旅體育 - 《2026老单走福州》 3</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111134100 +0800" stop="20261111135400 +0800" channel="福建文旅體育">
-    <title lang="zh">音乐任我行</title>
-    <desc lang="zh">福建文旅體育 - 音乐任我行</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111135400 +0800" stop="20261111140100 +0800" channel="福建文旅體育">
-    <title lang="zh">2026《清新福建》 15</title>
-    <desc lang="zh">福建文旅體育 - 2026《清新福建》 15</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111140100 +0800" stop="20261111141200 +0800" channel="福建文旅體育">
-    <title lang="zh">福建文旅发布</title>
-    <desc lang="zh">福建文旅體育 - 福建文旅发布</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111141200 +0800" stop="20261111142900 +0800" channel="福建文旅體育">
-    <title lang="zh">《2026原来是这样》(文旅) 3</title>
-    <desc lang="zh">福建文旅體育 - 《2026原来是这样》(文旅) 3</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111142900 +0800" stop="20261111144600 +0800" channel="福建文旅體育">
-    <title lang="zh">《2026老单走福州》 3</title>
-    <desc lang="zh">福建文旅體育 - 《2026老单走福州》 3</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111144600 +0800" stop="20261111145800 +0800" channel="福建文旅體育">
-    <title lang="zh">音乐任我行</title>
-    <desc lang="zh">福建文旅體育 - 音乐任我行</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111145800 +0800" stop="20261111160000 +0800" channel="福建文旅體育">
-    <title lang="zh">《2026周末戏相逢戏曲展播》 21</title>
-    <desc lang="zh">福建文旅體育 - 《2026周末戏相逢戏曲展播》 21</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111160000 +0800" stop="20261111170200 +0800" channel="福建文旅體育">
-    <title lang="zh">《2026周末戏相逢戏曲展播》 22</title>
-    <desc lang="zh">福建文旅體育 - 《2026周末戏相逢戏曲展播》 22</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111170200 +0800" stop="20261111171400 +0800" channel="福建文旅體育">
-    <title lang="zh">福建文旅发布</title>
-    <desc lang="zh">福建文旅體育 - 福建文旅发布</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111171400 +0800" stop="20261111172400 +0800" channel="福建文旅體育">
-    <title lang="zh">《映像福建之福鼎非遗》 6</title>
-    <desc lang="zh">福建文旅體育 - 《映像福建之福鼎非遗》 6</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111172400 +0800" stop="20261111172900 +0800" channel="福建文旅體育">
-    <title lang="zh">《2026福建非遗档案》 34</title>
-    <desc lang="zh">福建文旅體育 - 《2026福建非遗档案》 34</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111172900 +0800" stop="20261111180100 +0800" channel="福建文旅體育">
-    <title lang="zh">《世界多美丽》 11</title>
-    <desc lang="zh">福建文旅體育 - 《世界多美丽》 11</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111180100 +0800" stop="20261111184800 +0800" channel="福建文旅體育">
-    <title lang="zh">文旅-《沉默的荣耀》 22</title>
-    <desc lang="zh">福建文旅體育 - 文旅-《沉默的荣耀》 22</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111184800 +0800" stop="20261111193500 +0800" channel="福建文旅體育">
-    <title lang="zh">文旅-《沉默的荣耀》 23</title>
-    <desc lang="zh">福建文旅體育 - 文旅-《沉默的荣耀》 23</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111193500 +0800" stop="20261111194700 +0800" channel="福建文旅體育">
-    <title lang="zh">福建文旅发布</title>
-    <desc lang="zh">福建文旅體育 - 福建文旅发布</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111194700 +0800" stop="20261111200200 +0800" channel="福建文旅體育">
-    <title lang="zh">《2026原来是这样》(文旅) 3</title>
-    <desc lang="zh">福建文旅體育 - 《2026原来是这样》(文旅) 3</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111200200 +0800" stop="20261111200800 +0800" channel="福建文旅體育">
-    <title lang="zh">晚间旅游气象站</title>
-    <desc lang="zh">福建文旅體育 - 晚间旅游气象站</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111200800 +0800" stop="20261111202000 +0800" channel="福建文旅體育">
-    <title lang="zh">《映像福建之福鼎非遗》 6</title>
-    <desc lang="zh">福建文旅體育 - 《映像福建之福鼎非遗》 6</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111202000 +0800" stop="20261111203200 +0800" channel="福建文旅體育">
-    <title lang="zh">音乐任我行</title>
-    <desc lang="zh">福建文旅體育 - 音乐任我行</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111203200 +0800" stop="20261111204400 +0800" channel="福建文旅體育">
-    <title lang="zh">福建文旅发布</title>
-    <desc lang="zh">福建文旅體育 - 福建文旅发布</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111204400 +0800" stop="20261111205900 +0800" channel="福建文旅體育">
-    <title lang="zh">《金秋》(体育)</title>
-    <desc lang="zh">福建文旅體育 - 《金秋》(体育)</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111205900 +0800" stop="20261111210900 +0800" channel="福建文旅體育">
-    <title lang="zh">《我为车狂》(体育)</title>
-    <desc lang="zh">福建文旅體育 - 《我为车狂》(体育)</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111210900 +0800" stop="20261111211400 +0800" channel="福建文旅體育">
-    <title lang="zh">《福文化》(体育) 282</title>
-    <desc lang="zh">福建文旅體育 - 《福文化》(体育) 282</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111211400 +0800" stop="20261111213100 +0800" channel="福建文旅體育">
-    <title lang="zh">《心中有片海》（体育）</title>
-    <desc lang="zh">福建文旅體育 - 《心中有片海》（体育）</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111213100 +0800" stop="20261111214300 +0800" channel="福建文旅體育">
-    <title lang="zh">福建文旅发布</title>
-    <desc lang="zh">福建文旅體育 - 福建文旅发布</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111214300 +0800" stop="20261111221500 +0800" channel="福建文旅體育">
-    <title lang="zh">《世界多美丽》 11</title>
-    <desc lang="zh">福建文旅體育 - 《世界多美丽》 11</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111221500 +0800" stop="20261111222700 +0800" channel="福建文旅體育">
-    <title lang="zh">音乐任我行</title>
-    <desc lang="zh">福建文旅體育 - 音乐任我行</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111222700 +0800" stop="20261111223000 +0800" channel="福建文旅體育">
+  <programme start="20261112000000 +0800" stop="20261112000300 +0800" channel="福建文旅體育">
     <title lang="zh">2024垫播带</title>
     <desc lang="zh">福建文旅體育 - 2024垫播带</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111223000 +0800" stop="20261111224500 +0800" channel="福建文旅體育">
-    <title lang="zh">《天天体彩》(体育)</title>
-    <desc lang="zh">福建文旅體育 - 《天天体彩》(体育)</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111224500 +0800" stop="20261111230200 +0800" channel="福建文旅體育">
-    <title lang="zh">《心中有片海》（体育）</title>
-    <desc lang="zh">福建文旅體育 - 《心中有片海》（体育）</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111230200 +0800" stop="20261111230800 +0800" channel="福建文旅體育">
-    <title lang="zh">晚间旅游气象站</title>
-    <desc lang="zh">福建文旅體育 - 晚间旅游气象站</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111230800 +0800" stop="20261111232000 +0800" channel="福建文旅體育">
+  <programme start="20261112000300 +0800" stop="20261112001300 +0800" channel="福建文旅體育">
     <title lang="zh">福建文旅发布</title>
     <desc lang="zh">福建文旅體育 - 福建文旅发布</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111232000 +0800" stop="20261111233700 +0800" channel="福建文旅體育">
+  <programme start="20261112001300 +0800" stop="20261112001900 +0800" channel="福建文旅體育">
+    <title lang="zh">2026《清新福建》 17</title>
+    <desc lang="zh">福建文旅體育 - 2026《清新福建》 17</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112001900 +0800" stop="20261112011900 +0800" channel="福建文旅體育">
+    <title lang="zh">《2026周末戏相逢戏曲展播》 23</title>
+    <desc lang="zh">福建文旅體育 - 《2026周末戏相逢戏曲展播》 23</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112011900 +0800" stop="20261112021900 +0800" channel="福建文旅體育">
+    <title lang="zh">《2026周末戏相逢戏曲展播》 24</title>
+    <desc lang="zh">福建文旅體育 - 《2026周末戏相逢戏曲展播》 24</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112021900 +0800" stop="20261112022900 +0800" channel="福建文旅體育">
+    <title lang="zh">《映像福建之福鼎非遗》 6</title>
+    <desc lang="zh">福建文旅體育 - 《映像福建之福鼎非遗》 6</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112022900 +0800" stop="20261112023900 +0800" channel="福建文旅體育">
+    <title lang="zh">福建文旅发布</title>
+    <desc lang="zh">福建文旅體育 - 福建文旅发布</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112023900 +0800" stop="20261112030900 +0800" channel="福建文旅體育">
+    <title lang="zh">《世界多美丽》 11</title>
+    <desc lang="zh">福建文旅體育 - 《世界多美丽》 11</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112030900 +0800" stop="20261112031900 +0800" channel="福建文旅體育">
+    <title lang="zh">音乐任我行</title>
+    <desc lang="zh">福建文旅體育 - 音乐任我行</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112031900 +0800" stop="20261112033400 +0800" channel="福建文旅體育">
     <title lang="zh">《2026原来是这样》(文旅) 3</title>
     <desc lang="zh">福建文旅體育 - 《2026原来是这样》(文旅) 3</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111233700 +0800" stop="20261111235200 +0800" channel="福建文旅體育">
-    <title lang="zh">《2026老单走福州》 3</title>
-    <desc lang="zh">福建文旅體育 - 《2026老单走福州》 3</desc>
+  <programme start="20261112033400 +0800" stop="20261112033900 +0800" channel="福建文旅體育">
+    <title lang="zh">《2026福建非遗档案》 35</title>
+    <desc lang="zh">福建文旅體育 - 《2026福建非遗档案》 35</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111235200 +0800" stop="20261111235700 +0800" channel="福建文旅體育">
-    <title lang="zh">《2026福建非遗档案》 34</title>
-    <desc lang="zh">福建文旅體育 - 《2026福建非遗档案》 34</desc>
+  <programme start="20261112033900 +0800" stop="20261112034500 +0800" channel="福建文旅體育">
+    <title lang="zh">2026《清新福建》 18</title>
+    <desc lang="zh">福建文旅體育 - 2026《清新福建》 18</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111235700 +0800" stop="20261112000200 +0800" channel="福建文旅體育">
-    <title lang="zh">2026《清新福建》 16</title>
-    <desc lang="zh">福建文旅體育 - 2026《清新福建》 16</desc>
+  <programme start="20261112034500 +0800" stop="20261112040000 +0800" channel="福建文旅體育">
+    <title lang="zh">《2026老单走福州》 4</title>
+    <desc lang="zh">福建文旅體育 - 《2026老单走福州》 4</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112040000 +0800" stop="20261112041000 +0800" channel="福建文旅體育">
+    <title lang="zh">《映像福建之福鼎非遗》 6</title>
+    <desc lang="zh">福建文旅體育 - 《映像福建之福鼎非遗》 6</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112041000 +0800" stop="20261112051000 +0800" channel="福建文旅體育">
+    <title lang="zh">《2026周末戏相逢戏曲展播》 23</title>
+    <desc lang="zh">福建文旅體育 - 《2026周末戏相逢戏曲展播》 23</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112051000 +0800" stop="20261112061000 +0800" channel="福建文旅體育">
+    <title lang="zh">《2026周末戏相逢戏曲展播》 24</title>
+    <desc lang="zh">福建文旅體育 - 《2026周末戏相逢戏曲展播》 24</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112061000 +0800" stop="20261112061700 +0800" channel="福建文旅體育">
+    <title lang="zh">《2026福建非遗档案》 35</title>
+    <desc lang="zh">福建文旅體育 - 《2026福建非遗档案》 35</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112061700 +0800" stop="20261112062700 +0800" channel="福建文旅體育">
+    <title lang="zh">福建文旅发布</title>
+    <desc lang="zh">福建文旅體育 - 福建文旅发布</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112062700 +0800" stop="20261112063900 +0800" channel="福建文旅體育">
+    <title lang="zh">《映像福建之福鼎非遗》 6</title>
+    <desc lang="zh">福建文旅體育 - 《映像福建之福鼎非遗》 6</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112063900 +0800" stop="20261112071100 +0800" channel="福建文旅體育">
+    <title lang="zh">《世界多美丽》 11</title>
+    <desc lang="zh">福建文旅體育 - 《世界多美丽》 11</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112071100 +0800" stop="20261112072600 +0800" channel="福建文旅體育">
+    <title lang="zh">《2026老单走福州》 4</title>
+    <desc lang="zh">福建文旅體育 - 《2026老单走福州》 4</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112072600 +0800" stop="20261112073300 +0800" channel="福建文旅體育">
+    <title lang="zh">《2026福建非遗档案》 35</title>
+    <desc lang="zh">福建文旅體育 - 《2026福建非遗档案》 35</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112073300 +0800" stop="20261112073900 +0800" channel="福建文旅體育">
+    <title lang="zh">晚间旅游气象站</title>
+    <desc lang="zh">福建文旅體育 - 晚间旅游气象站</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112073900 +0800" stop="20261112075100 +0800" channel="福建文旅體育">
+    <title lang="zh">音乐任我行</title>
+    <desc lang="zh">福建文旅體育 - 音乐任我行</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112075100 +0800" stop="20261112080600 +0800" channel="福建文旅體育">
+    <title lang="zh">《2026原来是这样》(文旅) 3</title>
+    <desc lang="zh">福建文旅體育 - 《2026原来是这样》(文旅) 3</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112080600 +0800" stop="20261112081500 +0800" channel="福建文旅體育">
+    <title lang="zh">2026《清新福建》 17</title>
+    <desc lang="zh">福建文旅體育 - 2026《清新福建》 17</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112081500 +0800" stop="20261112083000 +0800" channel="福建文旅體育">
+    <title lang="zh">《心中有片海》（体育）</title>
+    <desc lang="zh">福建文旅體育 - 《心中有片海》（体育）</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112083000 +0800" stop="20261112083500 +0800" channel="福建文旅體育">
+    <title lang="zh">《福文化》(体育) 282</title>
+    <desc lang="zh">福建文旅體育 - 《福文化》(体育) 282</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112083500 +0800" stop="20261112084500 +0800" channel="福建文旅體育">
+    <title lang="zh">《我为车狂》(体育)</title>
+    <desc lang="zh">福建文旅體育 - 《我为车狂》(体育)</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112084500 +0800" stop="20261112090200 +0800" channel="福建文旅體育">
+    <title lang="zh">《金秋》(体育)</title>
+    <desc lang="zh">福建文旅體育 - 《金秋》(体育)</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112090200 +0800" stop="20261112091200 +0800" channel="福建文旅體育">
+    <title lang="zh">福建文旅发布</title>
+    <desc lang="zh">福建文旅體育 - 福建文旅发布</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112091200 +0800" stop="20261112092000 +0800" channel="福建文旅體育">
+    <title lang="zh">2026《清新福建》 18</title>
+    <desc lang="zh">福建文旅體育 - 2026《清新福建》 18</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112092000 +0800" stop="20261112092700 +0800" channel="福建文旅體育">
+    <title lang="zh">《2026福建非遗档案》 35</title>
+    <desc lang="zh">福建文旅體育 - 《2026福建非遗档案》 35</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112092700 +0800" stop="20261112093900 +0800" channel="福建文旅體育">
+    <title lang="zh">《映像福建之福鼎非遗》 7</title>
+    <desc lang="zh">福建文旅體育 - 《映像福建之福鼎非遗》 7</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112093900 +0800" stop="20261112095600 +0800" channel="福建文旅體育">
+    <title lang="zh">《2026原来是这样》(文旅) 3</title>
+    <desc lang="zh">福建文旅體育 - 《2026原来是这样》(文旅) 3</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112095600 +0800" stop="20261112100800 +0800" channel="福建文旅體育">
+    <title lang="zh">福建文旅发布</title>
+    <desc lang="zh">福建文旅體育 - 福建文旅发布</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112100800 +0800" stop="20261112111000 +0800" channel="福建文旅體育">
+    <title lang="zh">《2026周末戏相逢戏曲展播》 23</title>
+    <desc lang="zh">福建文旅體育 - 《2026周末戏相逢戏曲展播》 23</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112111000 +0800" stop="20261112121200 +0800" channel="福建文旅體育">
+    <title lang="zh">《2026周末戏相逢戏曲展播》 24</title>
+    <desc lang="zh">福建文旅體育 - 《2026周末戏相逢戏曲展播》 24</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112121200 +0800" stop="20261112122200 +0800" channel="福建文旅體育">
+    <title lang="zh">福建文旅发布</title>
+    <desc lang="zh">福建文旅體育 - 福建文旅发布</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112122200 +0800" stop="20261112122900 +0800" channel="福建文旅體育">
+    <title lang="zh">《2026福建非遗档案》 35</title>
+    <desc lang="zh">福建文旅體育 - 《2026福建非遗档案》 35</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112122900 +0800" stop="20261112124100 +0800" channel="福建文旅體育">
+    <title lang="zh">音乐任我行</title>
+    <desc lang="zh">福建文旅體育 - 音乐任我行</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112124100 +0800" stop="20261112125600 +0800" channel="福建文旅體育">
+    <title lang="zh">《2026我与海洋那些事》(文旅) 4</title>
+    <desc lang="zh">福建文旅體育 - 《2026我与海洋那些事》(文旅) 4</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112125600 +0800" stop="20261112130200 +0800" channel="福建文旅體育">
+    <title lang="zh">午间旅游气象站</title>
+    <desc lang="zh">福建文旅體育 - 午间旅游气象站</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112130200 +0800" stop="20261112131400 +0800" channel="福建文旅體育">
+    <title lang="zh">福建文旅发布</title>
+    <desc lang="zh">福建文旅體育 - 福建文旅发布</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112131400 +0800" stop="20261112132400 +0800" channel="福建文旅體育">
+    <title lang="zh">《映像福建之福鼎非遗》 7</title>
+    <desc lang="zh">福建文旅體育 - 《映像福建之福鼎非遗》 7</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112132400 +0800" stop="20261112134100 +0800" channel="福建文旅體育">
+    <title lang="zh">《2026老单走福州》 4</title>
+    <desc lang="zh">福建文旅體育 - 《2026老单走福州》 4</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112134100 +0800" stop="20261112135400 +0800" channel="福建文旅體育">
+    <title lang="zh">音乐任我行</title>
+    <desc lang="zh">福建文旅體育 - 音乐任我行</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112135400 +0800" stop="20261112140100 +0800" channel="福建文旅體育">
+    <title lang="zh">2026《清新福建》 17</title>
+    <desc lang="zh">福建文旅體育 - 2026《清新福建》 17</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112140100 +0800" stop="20261112141200 +0800" channel="福建文旅體育">
+    <title lang="zh">福建文旅发布</title>
+    <desc lang="zh">福建文旅體育 - 福建文旅发布</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112141200 +0800" stop="20261112142900 +0800" channel="福建文旅體育">
+    <title lang="zh">《2026我与海洋那些事》(文旅) 4</title>
+    <desc lang="zh">福建文旅體育 - 《2026我与海洋那些事》(文旅) 4</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112142900 +0800" stop="20261112144600 +0800" channel="福建文旅體育">
+    <title lang="zh">《2026老单走福州》 4</title>
+    <desc lang="zh">福建文旅體育 - 《2026老单走福州》 4</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112144600 +0800" stop="20261112145800 +0800" channel="福建文旅體育">
+    <title lang="zh">音乐任我行</title>
+    <desc lang="zh">福建文旅體育 - 音乐任我行</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112145800 +0800" stop="20261112160000 +0800" channel="福建文旅體育">
+    <title lang="zh">《2026周末戏相逢戏曲展播》 23</title>
+    <desc lang="zh">福建文旅體育 - 《2026周末戏相逢戏曲展播》 23</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112160000 +0800" stop="20261112170200 +0800" channel="福建文旅體育">
+    <title lang="zh">《2026周末戏相逢戏曲展播》 24</title>
+    <desc lang="zh">福建文旅體育 - 《2026周末戏相逢戏曲展播》 24</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112170200 +0800" stop="20261112171400 +0800" channel="福建文旅體育">
+    <title lang="zh">福建文旅发布</title>
+    <desc lang="zh">福建文旅體育 - 福建文旅发布</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112171400 +0800" stop="20261112172400 +0800" channel="福建文旅體育">
+    <title lang="zh">《映像福建之福鼎非遗》 7</title>
+    <desc lang="zh">福建文旅體育 - 《映像福建之福鼎非遗》 7</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112172400 +0800" stop="20261112172900 +0800" channel="福建文旅體育">
+    <title lang="zh">《2026福建非遗档案》 35</title>
+    <desc lang="zh">福建文旅體育 - 《2026福建非遗档案》 35</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112172900 +0800" stop="20261112180100 +0800" channel="福建文旅體育">
+    <title lang="zh">《世界多美丽》 12</title>
+    <desc lang="zh">福建文旅體育 - 《世界多美丽》 12</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112180100 +0800" stop="20261112184800 +0800" channel="福建文旅體育">
+    <title lang="zh">文旅-《沉默的荣耀》 24</title>
+    <desc lang="zh">福建文旅體育 - 文旅-《沉默的荣耀》 24</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112184800 +0800" stop="20261112193500 +0800" channel="福建文旅體育">
+    <title lang="zh">文旅-《沉默的荣耀》 25</title>
+    <desc lang="zh">福建文旅體育 - 文旅-《沉默的荣耀》 25</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112193500 +0800" stop="20261112194700 +0800" channel="福建文旅體育">
+    <title lang="zh">福建文旅发布</title>
+    <desc lang="zh">福建文旅體育 - 福建文旅发布</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112194700 +0800" stop="20261112200200 +0800" channel="福建文旅體育">
+    <title lang="zh">《2026我与海洋那些事》(文旅) 4</title>
+    <desc lang="zh">福建文旅體育 - 《2026我与海洋那些事》(文旅) 4</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112200200 +0800" stop="20261112200800 +0800" channel="福建文旅體育">
+    <title lang="zh">晚间旅游气象站</title>
+    <desc lang="zh">福建文旅體育 - 晚间旅游气象站</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112200800 +0800" stop="20261112202000 +0800" channel="福建文旅體育">
+    <title lang="zh">《映像福建之福鼎非遗》 7</title>
+    <desc lang="zh">福建文旅體育 - 《映像福建之福鼎非遗》 7</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112202000 +0800" stop="20261112203200 +0800" channel="福建文旅體育">
+    <title lang="zh">音乐任我行</title>
+    <desc lang="zh">福建文旅體育 - 音乐任我行</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112203200 +0800" stop="20261112204400 +0800" channel="福建文旅體育">
+    <title lang="zh">福建文旅发布</title>
+    <desc lang="zh">福建文旅體育 - 福建文旅发布</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112204400 +0800" stop="20261112205100 +0800" channel="福建文旅體育">
+    <title lang="zh">《大闽热点》（体育）</title>
+    <desc lang="zh">福建文旅體育 - 《大闽热点》（体育）</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112205100 +0800" stop="20261112205200 +0800" channel="福建文旅體育">
+    <title lang="zh">宣传片1段（体育）</title>
+    <desc lang="zh">福建文旅體育 - 宣传片1段（体育）</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112205200 +0800" stop="20261112205900 +0800" channel="福建文旅體育">
+    <title lang="zh">福文化 上杭全集（体育）</title>
+    <desc lang="zh">福建文旅體育 - 福文化 上杭全集（体育）</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112205900 +0800" stop="20261112213100 +0800" channel="福建文旅體育">
+    <title lang="zh">《青春赛场》(体育)</title>
+    <desc lang="zh">福建文旅體育 - 《青春赛场》(体育)</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112213100 +0800" stop="20261112214300 +0800" channel="福建文旅體育">
+    <title lang="zh">福建文旅发布</title>
+    <desc lang="zh">福建文旅體育 - 福建文旅发布</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112214300 +0800" stop="20261112221500 +0800" channel="福建文旅體育">
+    <title lang="zh">《世界多美丽》 12</title>
+    <desc lang="zh">福建文旅體育 - 《世界多美丽》 12</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112221500 +0800" stop="20261112222700 +0800" channel="福建文旅體育">
+    <title lang="zh">音乐任我行</title>
+    <desc lang="zh">福建文旅體育 - 音乐任我行</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112222700 +0800" stop="20261112223000 +0800" channel="福建文旅體育">
+    <title lang="zh">2024垫播带</title>
+    <desc lang="zh">福建文旅體育 - 2024垫播带</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112223000 +0800" stop="20261112224100 +0800" channel="福建文旅體育">
+    <title lang="zh">《天天体彩》(体育)</title>
+    <desc lang="zh">福建文旅體育 - 《天天体彩》(体育)</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112224100 +0800" stop="20261112224500 +0800" channel="福建文旅體育">
+    <title lang="zh">《福文化》(体育) 277</title>
+    <desc lang="zh">福建文旅體育 - 《福文化》(体育) 277</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112224500 +0800" stop="20261112230200 +0800" channel="福建文旅體育">
+    <title lang="zh">《心中有片海》（体育）</title>
+    <desc lang="zh">福建文旅體育 - 《心中有片海》（体育）</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112230200 +0800" stop="20261112230800 +0800" channel="福建文旅體育">
+    <title lang="zh">晚间旅游气象站</title>
+    <desc lang="zh">福建文旅體育 - 晚间旅游气象站</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112230800 +0800" stop="20261112232000 +0800" channel="福建文旅體育">
+    <title lang="zh">福建文旅发布</title>
+    <desc lang="zh">福建文旅體育 - 福建文旅发布</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112232000 +0800" stop="20261112233700 +0800" channel="福建文旅體育">
+    <title lang="zh">《2026我与海洋那些事》(文旅) 4</title>
+    <desc lang="zh">福建文旅體育 - 《2026我与海洋那些事》(文旅) 4</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112233700 +0800" stop="20261112235200 +0800" channel="福建文旅體育">
+    <title lang="zh">《2026老单走福州》 4</title>
+    <desc lang="zh">福建文旅體育 - 《2026老单走福州》 4</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112235200 +0800" stop="20261112235700 +0800" channel="福建文旅體育">
+    <title lang="zh">《2026福建非遗档案》 35</title>
+    <desc lang="zh">福建文旅體育 - 《2026福建非遗档案》 35</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112235700 +0800" stop="20261113000200 +0800" channel="福建文旅體育">
+    <title lang="zh">2026《清新福建》 18</title>
+    <desc lang="zh">福建文旅體育 - 2026《清新福建》 18</desc>
     <category lang="zh">綜合</category>
   </programme>
   <channel id="福建少兒頻道">
     <display-name lang="zh">福建少兒頻道</display-name>
   </channel>
-  <programme start="20261111000000 +0800" stop="20261111010000 +0800" channel="福建少兒頻道">
+  <programme start="20261112000000 +0800" stop="20261112010000 +0800" channel="福建少兒頻道">
     <title lang="zh">精彩节目</title>
     <desc lang="zh">福建少兒頻道 - 精彩节目</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111010000 +0800" stop="20261111020000 +0800" channel="福建少兒頻道">
+  <programme start="20261112010000 +0800" stop="20261112020000 +0800" channel="福建少兒頻道">
     <title lang="zh">精彩节目</title>
     <desc lang="zh">福建少兒頻道 - 精彩节目</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111020000 +0800" stop="20261111030000 +0800" channel="福建少兒頻道">
+  <programme start="20261112020000 +0800" stop="20261112030000 +0800" channel="福建少兒頻道">
     <title lang="zh">精彩节目</title>
     <desc lang="zh">福建少兒頻道 - 精彩节目</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111030000 +0800" stop="20261111040000 +0800" channel="福建少兒頻道">
+  <programme start="20261112030000 +0800" stop="20261112040000 +0800" channel="福建少兒頻道">
     <title lang="zh">精彩节目</title>
     <desc lang="zh">福建少兒頻道 - 精彩节目</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111040000 +0800" stop="20261111050000 +0800" channel="福建少兒頻道">
+  <programme start="20261112040000 +0800" stop="20261112050000 +0800" channel="福建少兒頻道">
     <title lang="zh">精彩节目</title>
     <desc lang="zh">福建少兒頻道 - 精彩节目</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111050000 +0800" stop="20261111060000 +0800" channel="福建少兒頻道">
+  <programme start="20261112050000 +0800" stop="20261112060000 +0800" channel="福建少兒頻道">
     <title lang="zh">精彩节目</title>
     <desc lang="zh">福建少兒頻道 - 精彩节目</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111060000 +0800" stop="20261111070000 +0800" channel="福建少兒頻道">
+  <programme start="20261112060000 +0800" stop="20261112070000 +0800" channel="福建少兒頻道">
     <title lang="zh">精彩节目</title>
     <desc lang="zh">福建少兒頻道 - 精彩节目</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111070000 +0800" stop="20261111080000 +0800" channel="福建少兒頻道">
+  <programme start="20261112070000 +0800" stop="20261112080000 +0800" channel="福建少兒頻道">
     <title lang="zh">精彩节目</title>
     <desc lang="zh">福建少兒頻道 - 精彩节目</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111080000 +0800" stop="20261111090000 +0800" channel="福建少兒頻道">
+  <programme start="20261112080000 +0800" stop="20261112090000 +0800" channel="福建少兒頻道">
     <title lang="zh">精彩节目</title>
     <desc lang="zh">福建少兒頻道 - 精彩节目</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111090000 +0800" stop="20261111100000 +0800" channel="福建少兒頻道">
+  <programme start="20261112090000 +0800" stop="20261112100000 +0800" channel="福建少兒頻道">
     <title lang="zh">精彩节目</title>
     <desc lang="zh">福建少兒頻道 - 精彩节目</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111100000 +0800" stop="20261111110000 +0800" channel="福建少兒頻道">
+  <programme start="20261112100000 +0800" stop="20261112110000 +0800" channel="福建少兒頻道">
     <title lang="zh">精彩节目</title>
     <desc lang="zh">福建少兒頻道 - 精彩节目</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111110000 +0800" stop="20261111120000 +0800" channel="福建少兒頻道">
+  <programme start="20261112110000 +0800" stop="20261112120000 +0800" channel="福建少兒頻道">
     <title lang="zh">精彩节目</title>
     <desc lang="zh">福建少兒頻道 - 精彩节目</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111120000 +0800" stop="20261111130000 +0800" channel="福建少兒頻道">
+  <programme start="20261112120000 +0800" stop="20261112130000 +0800" channel="福建少兒頻道">
     <title lang="zh">精彩节目</title>
     <desc lang="zh">福建少兒頻道 - 精彩节目</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111130000 +0800" stop="20261111140000 +0800" channel="福建少兒頻道">
+  <programme start="20261112130000 +0800" stop="20261112140000 +0800" channel="福建少兒頻道">
     <title lang="zh">精彩节目</title>
     <desc lang="zh">福建少兒頻道 - 精彩节目</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111140000 +0800" stop="20261111150000 +0800" channel="福建少兒頻道">
+  <programme start="20261112140000 +0800" stop="20261112150000 +0800" channel="福建少兒頻道">
     <title lang="zh">精彩节目</title>
     <desc lang="zh">福建少兒頻道 - 精彩节目</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111150000 +0800" stop="20261111160000 +0800" channel="福建少兒頻道">
+  <programme start="20261112150000 +0800" stop="20261112160000 +0800" channel="福建少兒頻道">
     <title lang="zh">精彩节目</title>
     <desc lang="zh">福建少兒頻道 - 精彩节目</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111160000 +0800" stop="20261111170000 +0800" channel="福建少兒頻道">
+  <programme start="20261112160000 +0800" stop="20261112170000 +0800" channel="福建少兒頻道">
     <title lang="zh">精彩节目</title>
     <desc lang="zh">福建少兒頻道 - 精彩节目</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111170000 +0800" stop="20261111180000 +0800" channel="福建少兒頻道">
+  <programme start="20261112170000 +0800" stop="20261112180000 +0800" channel="福建少兒頻道">
     <title lang="zh">精彩节目</title>
     <desc lang="zh">福建少兒頻道 - 精彩节目</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111180000 +0800" stop="20261111190000 +0800" channel="福建少兒頻道">
+  <programme start="20261112180000 +0800" stop="20261112190000 +0800" channel="福建少兒頻道">
     <title lang="zh">精彩节目</title>
     <desc lang="zh">福建少兒頻道 - 精彩节目</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111190000 +0800" stop="20261111200000 +0800" channel="福建少兒頻道">
+  <programme start="20261112190000 +0800" stop="20261112200000 +0800" channel="福建少兒頻道">
     <title lang="zh">精彩节目</title>
     <desc lang="zh">福建少兒頻道 - 精彩节目</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111200000 +0800" stop="20261111210000 +0800" channel="福建少兒頻道">
+  <programme start="20261112200000 +0800" stop="20261112210000 +0800" channel="福建少兒頻道">
     <title lang="zh">精彩节目</title>
     <desc lang="zh">福建少兒頻道 - 精彩节目</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111210000 +0800" stop="20261111220000 +0800" channel="福建少兒頻道">
+  <programme start="20261112210000 +0800" stop="20261112220000 +0800" channel="福建少兒頻道">
     <title lang="zh">精彩节目</title>
     <desc lang="zh">福建少兒頻道 - 精彩节目</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111220000 +0800" stop="20261111230000 +0800" channel="福建少兒頻道">
+  <programme start="20261112220000 +0800" stop="20261112230000 +0800" channel="福建少兒頻道">
     <title lang="zh">精彩节目</title>
     <desc lang="zh">福建少兒頻道 - 精彩节目</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111230000 +0800" stop="20261111230500 +0800" channel="福建少兒頻道">
+  <programme start="20261112230000 +0800" stop="20261112230500 +0800" channel="福建少兒頻道">
     <title lang="zh">精彩节目</title>
     <desc lang="zh">福建少兒頻道 - 精彩节目</desc>
     <category lang="zh">綜合</category>
@@ -915,229 +940,284 @@
   <channel id="海峽衛視">
     <display-name lang="zh">海峽衛視</display-name>
   </channel>
-  <programme start="20261111000000 +0800" stop="20261111004200 +0800" channel="海峽衛視">
+  <programme start="20261112000000 +0800" stop="20261112004200 +0800" channel="海峽衛視">
     <title lang="zh">重播今日海峡</title>
     <desc lang="zh">海峽衛視 - 重播今日海峡</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111004200 +0800" stop="20261111012400 +0800" channel="海峽衛視">
-    <title lang="zh">重播台湾新闻脸</title>
-    <desc lang="zh">海峽衛視 - 重播台湾新闻脸</desc>
+  <programme start="20261112004200 +0800" stop="20261112005200 +0800" channel="海峽衛視">
+    <title lang="zh">重播青山有我:1</title>
+    <desc lang="zh">海峽衛視 - 重播青山有我:1</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111012400 +0800" stop="20261111014900 +0800" channel="海峽衛視">
+  <programme start="20261112005200 +0800" stop="20261112010200 +0800" channel="海峽衛視">
+    <title lang="zh">重播青山有我:2</title>
+    <desc lang="zh">海峽衛視 - 重播青山有我:2</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112010200 +0800" stop="20261112011200 +0800" channel="海峽衛視">
+    <title lang="zh">重播青山有我:3</title>
+    <desc lang="zh">海峽衛視 - 重播青山有我:3</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112011200 +0800" stop="20261112012400 +0800" channel="海峽衛視">
+    <title lang="zh">重播青山有我:4</title>
+    <desc lang="zh">海峽衛視 - 重播青山有我:4</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112012400 +0800" stop="20261112014900 +0800" channel="海峽衛視">
     <title lang="zh">重播精品纪录片</title>
     <desc lang="zh">海峽衛視 - 重播精品纪录片</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111014900 +0800" stop="20261111021500 +0800" channel="海峽衛視">
+  <programme start="20261112014900 +0800" stop="20261112021500 +0800" channel="海峽衛視">
     <title lang="zh">重播精品纪录片</title>
     <desc lang="zh">海峽衛視 - 重播精品纪录片</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111021500 +0800" stop="20261111030000 +0800" channel="海峽衛視">
-    <title lang="zh">重播青春剧场:女神蒙上眼 第26集</title>
-    <desc lang="zh">海峽衛視 - 重播青春剧场:女神蒙上眼 第26集</desc>
+  <programme start="20261112021500 +0800" stop="20261112030000 +0800" channel="海峽衛視">
+    <title lang="zh">重播青春剧场:女神蒙上眼 第29集</title>
+    <desc lang="zh">海峽衛視 - 重播青春剧场:女神蒙上眼 第29集</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111030000 +0800" stop="20261111034500 +0800" channel="海峽衛視">
-    <title lang="zh">重播青春剧场:女神蒙上眼 第27集</title>
-    <desc lang="zh">海峽衛視 - 重播青春剧场:女神蒙上眼 第27集</desc>
+  <programme start="20261112030000 +0800" stop="20261112034500 +0800" channel="海峽衛視">
+    <title lang="zh">重播青春剧场:女神蒙上眼 第30集</title>
+    <desc lang="zh">海峽衛視 - 重播青春剧场:女神蒙上眼 第30集</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111034500 +0800" stop="20261111043000 +0800" channel="海峽衛視">
-    <title lang="zh">重播青春剧场:女神蒙上眼 第28集</title>
-    <desc lang="zh">海峽衛視 - 重播青春剧场:女神蒙上眼 第28集</desc>
+  <programme start="20261112034500 +0800" stop="20261112043000 +0800" channel="海峽衛視">
+    <title lang="zh">重播青春剧场:无忧渡 第1集</title>
+    <desc lang="zh">海峽衛視 - 重播青春剧场:无忧渡 第1集</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111043000 +0800" stop="20261111045500 +0800" channel="海峽衛視">
+  <programme start="20261112043000 +0800" stop="20261112045500 +0800" channel="海峽衛視">
     <title lang="zh">重播精品纪录片</title>
     <desc lang="zh">海峽衛視 - 重播精品纪录片</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111045500 +0800" stop="20261111053700 +0800" channel="海峽衛視">
+  <programme start="20261112045500 +0800" stop="20261112053700 +0800" channel="海峽衛視">
     <title lang="zh">重播今日海峡</title>
     <desc lang="zh">海峽衛視 - 重播今日海峡</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111053700 +0800" stop="20261111062000 +0800" channel="海峽衛視">
-    <title lang="zh">重播台湾新闻脸</title>
-    <desc lang="zh">海峽衛視 - 重播台湾新闻脸</desc>
+  <programme start="20261112053700 +0800" stop="20261112054700 +0800" channel="海峽衛視">
+    <title lang="zh">重播青山有我:1</title>
+    <desc lang="zh">海峽衛視 - 重播青山有我:1</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111062000 +0800" stop="20261111064500 +0800" channel="海峽衛視">
+  <programme start="20261112054700 +0800" stop="20261112055700 +0800" channel="海峽衛視">
+    <title lang="zh">重播青山有我:2</title>
+    <desc lang="zh">海峽衛視 - 重播青山有我:2</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112055700 +0800" stop="20261112060700 +0800" channel="海峽衛視">
+    <title lang="zh">重播青山有我:3</title>
+    <desc lang="zh">海峽衛視 - 重播青山有我:3</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112060700 +0800" stop="20261112061900 +0800" channel="海峽衛視">
+    <title lang="zh">重播青山有我:4</title>
+    <desc lang="zh">海峽衛視 - 重播青山有我:4</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112061900 +0800" stop="20261112064400 +0800" channel="海峽衛視">
     <title lang="zh">重播精品纪录片</title>
     <desc lang="zh">海峽衛視 - 重播精品纪录片</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111064500 +0800" stop="20261111071000 +0800" channel="海峽衛視">
+  <programme start="20261112064400 +0800" stop="20261112070900 +0800" channel="海峽衛視">
     <title lang="zh">重播精品纪录片</title>
     <desc lang="zh">海峽衛視 - 重播精品纪录片</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111071000 +0800" stop="20261111075400 +0800" channel="海峽衛視">
+  <programme start="20261112070900 +0800" stop="20261112075300 +0800" channel="海峽衛視">
     <title lang="zh">重播今日海峡</title>
     <desc lang="zh">海峽衛視 - 重播今日海峡</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111075400 +0800" stop="20261111081900 +0800" channel="海峽衛視">
+  <programme start="20261112075300 +0800" stop="20261112081800 +0800" channel="海峽衛視">
     <title lang="zh">重播精品纪录片</title>
     <desc lang="zh">海峽衛視 - 重播精品纪录片</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111081900 +0800" stop="20261111085900 +0800" channel="海峽衛視">
-    <title lang="zh">重播台湾新闻脸</title>
-    <desc lang="zh">海峽衛視 - 重播台湾新闻脸</desc>
+  <programme start="20261112081800 +0800" stop="20261112082800 +0800" channel="海峽衛視">
+    <title lang="zh">重播青山有我:1</title>
+    <desc lang="zh">海峽衛視 - 重播青山有我:1</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111085900 +0800" stop="20261111090800 +0800" channel="海峽衛視">
+  <programme start="20261112082800 +0800" stop="20261112083800 +0800" channel="海峽衛視">
+    <title lang="zh">重播青山有我:2</title>
+    <desc lang="zh">海峽衛視 - 重播青山有我:2</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112083800 +0800" stop="20261112084800 +0800" channel="海峽衛視">
+    <title lang="zh">重播青山有我:3</title>
+    <desc lang="zh">海峽衛視 - 重播青山有我:3</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112084800 +0800" stop="20261112085800 +0800" channel="海峽衛視">
+    <title lang="zh">重播青山有我:4</title>
+    <desc lang="zh">海峽衛視 - 重播青山有我:4</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112085800 +0800" stop="20261112090800 +0800" channel="海峽衛視">
     <title lang="zh">重播早餐中国第五季</title>
     <desc lang="zh">海峽衛視 - 重播早餐中国第五季</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111090800 +0800" stop="20261111095200 +0800" channel="海峽衛視">
-    <title lang="zh">时代剧场:白色城堡 第22集</title>
-    <desc lang="zh">海峽衛視 - 时代剧场:白色城堡 第22集</desc>
+  <programme start="20261112090800 +0800" stop="20261112095200 +0800" channel="海峽衛視">
+    <title lang="zh">时代剧场:白色城堡 第25集</title>
+    <desc lang="zh">海峽衛視 - 时代剧场:白色城堡 第25集</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111095200 +0800" stop="20261111103600 +0800" channel="海峽衛視">
-    <title lang="zh">时代剧场:白色城堡 第23集</title>
-    <desc lang="zh">海峽衛視 - 时代剧场:白色城堡 第23集</desc>
+  <programme start="20261112095200 +0800" stop="20261112103600 +0800" channel="海峽衛視">
+    <title lang="zh">时代剧场:白色城堡 第26集</title>
+    <desc lang="zh">海峽衛視 - 时代剧场:白色城堡 第26集</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111103600 +0800" stop="20261111112000 +0800" channel="海峽衛視">
-    <title lang="zh">时代剧场:白色城堡 第24集</title>
-    <desc lang="zh">海峽衛視 - 时代剧场:白色城堡 第24集</desc>
+  <programme start="20261112103600 +0800" stop="20261112112000 +0800" channel="海峽衛視">
+    <title lang="zh">时代剧场:白色城堡 第27集</title>
+    <desc lang="zh">海峽衛視 - 时代剧场:白色城堡 第27集</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111112000 +0800" stop="20261111113500 +0800" channel="海峽衛視">
-    <title lang="zh">重播潜行天下</title>
-    <desc lang="zh">海峽衛視 - 重播潜行天下</desc>
+  <programme start="20261112112000 +0800" stop="20261112113500 +0800" channel="海峽衛視">
+    <title lang="zh">重播海好遇见你</title>
+    <desc lang="zh">海峽衛視 - 重播海好遇见你</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111113500 +0800" stop="20261111120000 +0800" channel="海峽衛視">
+  <programme start="20261112113500 +0800" stop="20261112120000 +0800" channel="海峽衛視">
     <title lang="zh">重播精品纪录片</title>
     <desc lang="zh">海峽衛視 - 重播精品纪录片</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111120000 +0800" stop="20261111123000 +0800" channel="海峽衛視">
+  <programme start="20261112120000 +0800" stop="20261112123000 +0800" channel="海峽衛視">
     <title lang="zh">海峡午报</title>
     <desc lang="zh">海峽衛視 - 海峡午报</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111123000 +0800" stop="20261111131000 +0800" channel="海峽衛視">
-    <title lang="zh">重播台湾新闻脸</title>
-    <desc lang="zh">海峽衛視 - 重播台湾新闻脸</desc>
+  <programme start="20261112123000 +0800" stop="20261112124000 +0800" channel="海峽衛視">
+    <title lang="zh">重播青山有我:1</title>
+    <desc lang="zh">海峽衛視 - 重播青山有我:1</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111131000 +0800" stop="20261111132600 +0800" channel="海峽衛視">
-    <title lang="zh">重播潜行天下</title>
-    <desc lang="zh">海峽衛視 - 重播潜行天下</desc>
+  <programme start="20261112124000 +0800" stop="20261112125000 +0800" channel="海峽衛視">
+    <title lang="zh">重播青山有我:2</title>
+    <desc lang="zh">海峽衛視 - 重播青山有我:2</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111132600 +0800" stop="20261111141000 +0800" channel="海峽衛視">
-    <title lang="zh">家庭剧场:小巷人家 第26集</title>
-    <desc lang="zh">海峽衛視 - 家庭剧场:小巷人家 第26集</desc>
+  <programme start="20261112125000 +0800" stop="20261112130700 +0800" channel="海峽衛視">
+    <title lang="zh">重播海好遇见你</title>
+    <desc lang="zh">海峽衛視 - 重播海好遇见你</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111141000 +0800" stop="20261111145400 +0800" channel="海峽衛視">
-    <title lang="zh">家庭剧场:小巷人家 第27集</title>
-    <desc lang="zh">海峽衛視 - 家庭剧场:小巷人家 第27集</desc>
+  <programme start="20261112130700 +0800" stop="20261112131700 +0800" channel="海峽衛視">
+    <title lang="zh">重播青山有我:3</title>
+    <desc lang="zh">海峽衛視 - 重播青山有我:3</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111145400 +0800" stop="20261111153800 +0800" channel="海峽衛視">
-    <title lang="zh">家庭剧场:小巷人家 第28集</title>
-    <desc lang="zh">海峽衛視 - 家庭剧场:小巷人家 第28集</desc>
+  <programme start="20261112131700 +0800" stop="20261112132700 +0800" channel="海峽衛視">
+    <title lang="zh">重播青山有我:4</title>
+    <desc lang="zh">海峽衛視 - 重播青山有我:4</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111153800 +0800" stop="20261111161800 +0800" channel="海峽衛視">
-    <title lang="zh">重播台湾新闻脸</title>
-    <desc lang="zh">海峽衛視 - 重播台湾新闻脸</desc>
+  <programme start="20261112132700 +0800" stop="20261112141100 +0800" channel="海峽衛視">
+    <title lang="zh">家庭剧场:小巷人家 第29集</title>
+    <desc lang="zh">海峽衛視 - 家庭剧场:小巷人家 第29集</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111161800 +0800" stop="20261111163300 +0800" channel="海峽衛視">
-    <title lang="zh">重播潜行天下</title>
-    <desc lang="zh">海峽衛視 - 重播潜行天下</desc>
+  <programme start="20261112141100 +0800" stop="20261112145500 +0800" channel="海峽衛視">
+    <title lang="zh">家庭剧场:小巷人家 第30集</title>
+    <desc lang="zh">海峽衛視 - 家庭剧场:小巷人家 第30集</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111163300 +0800" stop="20261111171600 +0800" channel="海峽衛視">
-    <title lang="zh">重播海峡剧场:灼灼韶华 第31集</title>
-    <desc lang="zh">海峽衛視 - 重播海峡剧场:灼灼韶华 第31集</desc>
+  <programme start="20261112145500 +0800" stop="20261112153900 +0800" channel="海峽衛視">
+    <title lang="zh">家庭剧场:小巷人家 第31集</title>
+    <desc lang="zh">海峽衛視 - 家庭剧场:小巷人家 第31集</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111171600 +0800" stop="20261111180000 +0800" channel="海峽衛視">
-    <title lang="zh">重播海峡剧场:灼灼韶华 第32集</title>
-    <desc lang="zh">海峽衛視 - 重播海峡剧场:灼灼韶华 第32集</desc>
+  <programme start="20261112153900 +0800" stop="20261112160400 +0800" channel="海峽衛視">
+    <title lang="zh">重播精品纪录片</title>
+    <desc lang="zh">海峽衛視 - 重播精品纪录片</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111180000 +0800" stop="20261111182500 +0800" channel="海峽衛視">
+  <programme start="20261112160400 +0800" stop="20261112161400 +0800" channel="海峽衛視">
+    <title lang="zh">重播青山有我:1</title>
+    <desc lang="zh">海峽衛視 - 重播青山有我:1</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112161400 +0800" stop="20261112162400 +0800" channel="海峽衛視">
+    <title lang="zh">重播青山有我:2</title>
+    <desc lang="zh">海峽衛視 - 重播青山有我:2</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112162400 +0800" stop="20261112163400 +0800" channel="海峽衛視">
+    <title lang="zh">重播青山有我:3</title>
+    <desc lang="zh">海峽衛視 - 重播青山有我:3</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112163400 +0800" stop="20261112164400 +0800" channel="海峽衛視">
+    <title lang="zh">重播青山有我:4</title>
+    <desc lang="zh">海峽衛視 - 重播青山有我:4</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112164400 +0800" stop="20261112170900 +0800" channel="海峽衛視">
     <title lang="zh">精品纪录片</title>
     <desc lang="zh">海峽衛視 - 精品纪录片</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111182500 +0800" stop="20261111184100 +0800" channel="海峽衛視">
-    <title lang="zh">海好遇见你</title>
-    <desc lang="zh">海峽衛視 - 海好遇见你</desc>
+  <programme start="20261112170900 +0800" stop="20261112172500 +0800" channel="海峽衛視">
+    <title lang="zh">山海福建</title>
+    <desc lang="zh">海峽衛視 - 山海福建</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111184100 +0800" stop="20261111192500 +0800" channel="海峽衛視">
-    <title lang="zh">青春剧场:女神蒙上眼 第29集</title>
-    <desc lang="zh">海峽衛視 - 青春剧场:女神蒙上眼 第29集</desc>
+  <programme start="20261112172500 +0800" stop="20261112180900 +0800" channel="海峽衛視">
+    <title lang="zh">青春剧场:无忧渡 第2集</title>
+    <desc lang="zh">海峽衛視 - 青春剧场:无忧渡 第2集</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111192500 +0800" stop="20261111200900 +0800" channel="海峽衛視">
-    <title lang="zh">青春剧场:女神蒙上眼 第30集</title>
-    <desc lang="zh">海峽衛視 - 青春剧场:女神蒙上眼 第30集</desc>
+  <programme start="20261112180900 +0800" stop="20261112185300 +0800" channel="海峽衛視">
+    <title lang="zh">青春剧场:无忧渡 第3集</title>
+    <desc lang="zh">海峽衛視 - 青春剧场:无忧渡 第3集</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111200900 +0800" stop="20261111205300 +0800" channel="海峽衛視">
-    <title lang="zh">青春剧场:无忧渡 第1集</title>
-    <desc lang="zh">海峽衛視 - 青春剧场:无忧渡 第1集</desc>
+  <programme start="20261112185300 +0800" stop="20261112193700 +0800" channel="海峽衛視">
+    <title lang="zh">青春剧场:无忧渡 第4集</title>
+    <desc lang="zh">海峽衛視 - 青春剧场:无忧渡 第4集</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111205300 +0800" stop="20261111210000 +0800" channel="海峽衛視">
+  <programme start="20261112193700 +0800" stop="20261112194500 +0800" channel="海峽衛視">
     <title lang="zh">早餐中国第五季</title>
     <desc lang="zh">海峽衛視 - 早餐中国第五季</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111210000 +0800" stop="20261111214200 +0800" channel="海峽衛視">
+  <programme start="20261112194500 +0800" stop="20261112210000 +0800" channel="海峽衛視">
+    <title lang="zh">第25届汉语桥世界大学生中文比赛晋级赛</title>
+    <desc lang="zh">海峽衛視 - 第25届汉语桥世界大学生中文比赛晋级赛</desc>
+    <category lang="zh">綜合</category>
+  </programme>
+  <programme start="20261112210000 +0800" stop="20261112214200 +0800" channel="海峽衛視">
     <title lang="zh">今日海峡</title>
     <desc lang="zh">海峽衛視 - 今日海峡</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111214200 +0800" stop="20261111215200 +0800" channel="海峽衛視">
-    <title lang="zh">青山有我:1</title>
-    <desc lang="zh">海峽衛視 - 青山有我:1</desc>
+  <programme start="20261112214200 +0800" stop="20261112220900 +0800" channel="海峽衛視">
+    <title lang="zh">宝岛，报到！</title>
+    <desc lang="zh">海峽衛視 - 宝岛，报到！</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111215200 +0800" stop="20261111220200 +0800" channel="海峽衛視">
-    <title lang="zh">青山有我:2</title>
-    <desc lang="zh">海峽衛視 - 青山有我:2</desc>
+  <programme start="20261112220900 +0800" stop="20261112225200 +0800" channel="海峽衛視">
+    <title lang="zh">海峡剧场:灼灼韶华 第35集</title>
+    <desc lang="zh">海峽衛視 - 海峡剧场:灼灼韶华 第35集</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111220200 +0800" stop="20261111221200 +0800" channel="海峽衛視">
-    <title lang="zh">青山有我:3</title>
-    <desc lang="zh">海峽衛視 - 青山有我:3</desc>
+  <programme start="20261112225200 +0800" stop="20261112233500 +0800" channel="海峽衛視">
+    <title lang="zh">海峡剧场:灼灼韶华 第36集</title>
+    <desc lang="zh">海峽衛視 - 海峡剧场:灼灼韶华 第36集</desc>
     <category lang="zh">綜合</category>
   </programme>
-  <programme start="20261111221200 +0800" stop="20261111222500 +0800" channel="海峽衛視">
-    <title lang="zh">青山有我:4</title>
-    <desc lang="zh">海峽衛視 - 青山有我:4</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111222500 +0800" stop="20261111230800 +0800" channel="海峽衛視">
-    <title lang="zh">海峡剧场:灼灼韶华 第33集</title>
-    <desc lang="zh">海峽衛視 - 海峡剧场:灼灼韶华 第33集</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111230800 +0800" stop="20261111235300 +0800" channel="海峽衛視">
-    <title lang="zh">海峡剧场:灼灼韶华 第34集</title>
-    <desc lang="zh">海峽衛視 - 海峡剧场:灼灼韶华 第34集</desc>
-    <category lang="zh">綜合</category>
-  </programme>
-  <programme start="20261111235300 +0800" stop="20261111235800 +0800" channel="海峽衛視">
-    <title lang="zh">重播早餐中国第五季</title>
-    <desc lang="zh">海峽衛視 - 重播早餐中国第五季</desc>
+  <programme start="20261112233500 +0800" stop="20261112234000 +0800" channel="海峽衛視">
+    <title lang="zh">重播精品纪录片</title>
+    <desc lang="zh">海峽衛視 - 重播精品纪录片</desc>
     <category lang="zh">綜合</category>
   </programme>
 </tv>

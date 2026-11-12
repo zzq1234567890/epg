@@ -9,90 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20261111003000 +0800" stop="20261111013000 +0800" channel="mbc action">
-    <title lang="en">برنامج ملاعب مع فيصل الجفن</title>
-  </programme>
-  <programme start="20261111013000 +0800" stop="20261111020000 +0800" channel="mbc action">
-    <title lang="en">Captain Tsubasa: Junior Youth Arc</title>
-  </programme>
-  <programme start="20261111020000 +0800" stop="20261111025500 +0800" channel="mbc action">
-    <title lang="en">برنامج car issuse</title>
-  </programme>
-  <programme start="20261111025500 +0800" stop="20261111040000 +0800" channel="mbc action">
-    <title lang="en">برنامج go hard or go home</title>
-  </programme>
-  <programme start="20261111040000 +0800" stop="20261111043000 +0800" channel="mbc action">
-    <title lang="en">Captain Tsubasa: Junior Youth Arc</title>
-  </programme>
-  <programme start="20261111043000 +0800" stop="20261111060500 +0800" channel="mbc action">
-    <title lang="en">ابرز لحظات بطولة العالم للراليات 2026</title>
-  </programme>
-  <programme start="20261111060500 +0800" stop="20261111070500 +0800" channel="mbc action">
-    <title lang="en">برنامج go hard or go home</title>
-  </programme>
-  <programme start="20261111070500 +0800" stop="20261111080000 +0800" channel="mbc action">
-    <title lang="en">برنامج motor city masters</title>
-  </programme>
-  <programme start="20261111080000 +0800" stop="20261111090000 +0800" channel="mbc action">
-    <title lang="en">ابرز لحظات بطولة العالم للراليات 2026</title>
-  </programme>
-  <programme start="20261111090000 +0800" stop="20261111093000 +0800" channel="mbc action">
-    <title lang="en">Mr. Bean</title>
-  </programme>
-  <programme start="20261111093000 +0800" stop="20261111103000 +0800" channel="mbc action">
-    <title lang="en">برنامج موتورواي</title>
-  </programme>
-  <programme start="20261111103000 +0800" stop="20261111113000 +0800" channel="mbc action">
-    <title lang="en">Captain Tsubasa: Junior Youth Arc</title>
-  </programme>
-  <programme start="20261111113000 +0800" stop="20261111123000 +0800" channel="mbc action">
-    <title lang="en">ابرز لحظات بطولة العالم للراليات 2026</title>
-  </programme>
-  <programme start="20261111123000 +0800" stop="20261111130000 +0800" channel="mbc action">
-    <title lang="en">Mr. Bean</title>
-  </programme>
-  <programme start="20261111130000 +0800" stop="20261111140500 +0800" channel="mbc action">
-    <title lang="en">برنامج هيروينز</title>
-  </programme>
-  <programme start="20261111140500 +0800" stop="20261111150000 +0800" channel="mbc action">
-    <title lang="en">Captain Tsubasa: Junior Youth Arc</title>
-  </programme>
-  <programme start="20261111150000 +0800" stop="20261111160000 +0800" channel="mbc action">
-    <title lang="en">برنامج fifth gear</title>
-  </programme>
-  <programme start="20261111160000 +0800" stop="20261111170000 +0800" channel="mbc action">
-    <title lang="en">برنامج سبورتس كويست</title>
-  </programme>
-  <programme start="20261111170000 +0800" stop="20261111173000 +0800" channel="mbc action">
-    <title lang="en">برنامج the inside line</title>
-  </programme>
-  <programme start="20261111173000 +0800" stop="20261111180000 +0800" channel="mbc action">
-    <title lang="en">برنامج the football review</title>
-  </programme>
-  <programme start="20261111180000 +0800" stop="20261111190000 +0800" channel="mbc action">
-    <title lang="en">برنامج lego masters</title>
-  </programme>
-  <programme start="20261111190000 +0800" stop="20261111200000 +0800" channel="mbc action">
-    <title lang="en">Captain Tsubasa: Junior Youth Arc</title>
-  </programme>
-  <programme start="20261111200000 +0800" stop="20261111210000 +0800" channel="mbc action">
-    <title lang="en">برنامج ملاعب مع فيصل الجفن</title>
-  </programme>
-  <programme start="20261111210000 +0800" stop="20261111213000 +0800" channel="mbc action">
-    <title lang="en">برنامج the outdoor sports show</title>
-  </programme>
-  <programme start="20261111213000 +0800" stop="20261111220000 +0800" channel="mbc action">
-    <title lang="en">برنامج جيرينج اب</title>
-  </programme>
-  <programme start="20261111220000 +0800" stop="20261111230000 +0800" channel="mbc action">
-    <title lang="en">ابرز لحظات بطولة العالم للراليات 2026</title>
-  </programme>
-  <programme start="20261111230000 +0800" stop="20261111233000 +0800" channel="mbc action">
-    <title lang="en">Mr. Bean</title>
-  </programme>
-  <programme start="20261111233000 +0800" stop="20261112003000 +0800" channel="mbc action">
-    <title lang="en">ابرز لقطات الدوري الألماني</title>
-  </programme>
   <programme start="20261112003000 +0800" stop="20261112013000 +0800" channel="mbc action">
     <title lang="en">برنامج ملاعب مع فيصل الجفن</title>
   </programme>
@@ -213,173 +129,206 @@
   <programme start="20261113093000 +0800" stop="20261113103000 +0800" channel="mbc action">
     <title lang="en">برنامج fifth gear</title>
   </programme>
-  <programme start="20261111003000 +0800" stop="20261111010000 +0800" channel="mbc max">
-    <title lang="en">برنامج 3 World Of Movies</title>
+  <programme start="20261113103000 +0800" stop="20261113113000 +0800" channel="mbc action">
+    <title lang="en">Captain Tsubasa: Junior Youth Arc</title>
   </programme>
-  <programme start="20261111010000 +0800" stop="20261111030000 +0800" channel="mbc max">
-    <title lang="en">The Meg</title>
+  <programme start="20261113113000 +0800" stop="20261113123000 +0800" channel="mbc action">
+    <title lang="en">ابرز لحظات بطولة العالم للراليات 2026</title>
   </programme>
-  <programme start="20261111030000 +0800" stop="20261111043000 +0800" channel="mbc max">
-    <title lang="en">47 Meters Down: Uncaged</title>
+  <programme start="20261113123000 +0800" stop="20261113130000 +0800" channel="mbc action">
+    <title lang="en">Mr. Bean</title>
   </programme>
-  <programme start="20261111043000 +0800" stop="20261111050000 +0800" channel="mbc max">
-    <title lang="en">برنامج celebrity scoop 9</title>
+  <programme start="20261113130000 +0800" stop="20261113140000 +0800" channel="mbc action">
+    <title lang="en">برنامج سبورتس كويست</title>
   </programme>
-  <programme start="20261111050000 +0800" stop="20261111063000 +0800" channel="mbc max">
-    <title lang="en">Poseidon</title>
+  <programme start="20261113140000 +0800" stop="20261113150500 +0800" channel="mbc action">
+    <title lang="en">Captain Tsubasa: Junior Youth Arc</title>
   </programme>
-  <programme start="20261111063000 +0800" stop="20261111070000 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
+  <programme start="20261113150500 +0800" stop="20261113160000 +0800" channel="mbc action">
+    <title lang="en">برنامج motor city masters</title>
   </programme>
-  <programme start="20261111070000 +0800" stop="20261111090000 +0800" channel="mbc max">
-    <title lang="en">The Black Dahlia</title>
+  <programme start="20261113160000 +0800" stop="20261113170000 +0800" channel="mbc action">
+    <title lang="en">برنامج هيروينز</title>
   </programme>
-  <programme start="20261111090000 +0800" stop="20261111110000 +0800" channel="mbc max">
-    <title lang="en">Sleepless in Seattle</title>
+  <programme start="20261113170000 +0800" stop="20261113173000 +0800" channel="mbc action">
+    <title lang="en">برنامج the inside line</title>
   </programme>
-  <programme start="20261111110000 +0800" stop="20261111123000 +0800" channel="mbc max">
-    <title lang="en">The Witch</title>
+  <programme start="20261113173000 +0800" stop="20261113180000 +0800" channel="mbc action">
+    <title lang="en">برنامج the football review</title>
   </programme>
-  <programme start="20261111123000 +0800" stop="20261111143000 +0800" channel="mbc max">
-    <title lang="en">Ip Man 4: The Finale</title>
+  <programme start="20261113180000 +0800" stop="20261113190000 +0800" channel="mbc action">
+    <title lang="en">برنامج car issuse</title>
   </programme>
-  <programme start="20261111143000 +0800" stop="20261111160000 +0800" channel="mbc max">
-    <title lang="en">Poseidon</title>
+  <programme start="20261113190000 +0800" stop="20261113200000 +0800" channel="mbc action">
+    <title lang="en">Captain Tsubasa: Junior Youth Arc</title>
   </programme>
-  <programme start="20261111160000 +0800" stop="20261111163000 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
+  <programme start="20261113200000 +0800" stop="20261113205500 +0800" channel="mbc action">
+    <title lang="en">برنامج نادينا</title>
   </programme>
-  <programme start="20261111163000 +0800" stop="20261111183000 +0800" channel="mbc max">
-    <title lang="en">The Matrix Revolutions</title>
+  <programme start="20261113205500 +0800" stop="20261113231500 +0800" channel="mbc action">
+    <title lang="en">FIFA Intercontinental Cup 2026</title>
   </programme>
-  <programme start="20261111183000 +0800" stop="20261111190000 +0800" channel="mbc max">
-    <title lang="en">برنامج planet action 6</title>
+  <programme start="20261113231500 +0800" stop="20261114010000 +0800" channel="mbc action">
+    <title lang="en">الدوري الممتاز للسيدات 2026</title>
   </programme>
-  <programme start="20261111190000 +0800" stop="20261111210000 +0800" channel="mbc max">
-    <title lang="en">The Meg</title>
+  <programme start="20261114010000 +0800" stop="20261114015500 +0800" channel="mbc action">
+    <title lang="en">Captain Tsubasa: Junior Youth Arc</title>
   </programme>
-  <programme start="20261111210000 +0800" stop="20261111223000 +0800" channel="mbc max">
-    <title lang="en">Ninja Assassin</title>
+  <programme start="20261114015500 +0800" stop="20261114043000 +0800" channel="mbc action">
+    <title lang="en">FIFA Intercontinental Cup 2026</title>
   </programme>
-  <programme start="20261111223000 +0800" stop="20261111230000 +0800" channel="mbc max">
-    <title lang="en">برنامج 3 World Of Movies</title>
+  <programme start="20261114043000 +0800" stop="20261114050000 +0800" channel="mbc action">
+    <title lang="en">Captain Tsubasa: Junior Youth Arc</title>
   </programme>
-  <programme start="20261111230000 +0800" stop="20261112010000 +0800" channel="mbc max">
-    <title lang="en">3 Days to Kill</title>
+  <programme start="20261114050000 +0800" stop="20261114053000 +0800" channel="mbc action">
+    <title lang="en">برنامج the inside line</title>
   </programme>
-  <programme start="20261112010000 +0800" stop="20261112023000 +0800" channel="mbc max">
-    <title lang="en">Safe</title>
+  <programme start="20261114053000 +0800" stop="20261114060500 +0800" channel="mbc action">
+    <title lang="en">برنامج the football review</title>
   </programme>
-  <programme start="20261112023000 +0800" stop="20261112030000 +0800" channel="mbc max">
-    <title lang="en">برنامج celebrity scoop 9</title>
+  <programme start="20261114060500 +0800" stop="20261114070000 +0800" channel="mbc action">
+    <title lang="en">برنامج police 24/7</title>
   </programme>
-  <programme start="20261112030000 +0800" stop="20261112043000 +0800" channel="mbc max">
-    <title lang="en">Bullet Head</title>
+  <programme start="20261114070000 +0800" stop="20261114080000 +0800" channel="mbc action">
+    <title lang="en">برنامج lego masters</title>
   </programme>
-  <programme start="20261112043000 +0800" stop="20261112050000 +0800" channel="mbc max">
-    <title lang="en">برنامج stars in style 11</title>
+  <programme start="20261114080000 +0800" stop="20261114090000 +0800" channel="mbc action">
+    <title lang="en">السبت</title>
   </programme>
-  <programme start="20261112050000 +0800" stop="20261112070000 +0800" channel="mbc max">
-    <title lang="en">The Infiltrator</title>
+  <programme start="20261114090000 +0800" stop="20261114093000 +0800" channel="mbc action">
+    <title lang="en">Mr. Bean</title>
   </programme>
-  <programme start="20261112070000 +0800" stop="20261112073000 +0800" channel="mbc max">
-    <title lang="en">Action Zone</title>
+  <programme start="20261114093000 +0800" stop="20261114100000 +0800" channel="mbc action">
+    <title lang="en">برنامج the outdoor sports show</title>
   </programme>
-  <programme start="20261112073000 +0800" stop="20261112090000 +0800" channel="mbc max">
-    <title lang="en">47 Meters Down: Uncaged</title>
-  </programme>
-  <programme start="20261112090000 +0800" stop="20261112093000 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
-  </programme>
-  <programme start="20261112093000 +0800" stop="20261112113000 +0800" channel="mbc max">
-    <title lang="en">The Meg</title>
-  </programme>
-  <programme start="20261112113000 +0800" stop="20261112143000 +0800" channel="mbc max">
-    <title lang="en">King Kong</title>
-  </programme>
-  <programme start="20261112143000 +0800" stop="20261112160000 +0800" channel="mbc max">
-    <title lang="en">Safe</title>
-  </programme>
-  <programme start="20261112160000 +0800" stop="20261112163000 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
-  </programme>
-  <programme start="20261112163000 +0800" stop="20261112190000 +0800" channel="mbc max">
-    <title lang="en">The Matrix Resurrections</title>
-  </programme>
-  <programme start="20261112190000 +0800" stop="20261112210000 +0800" channel="mbc max">
-    <title lang="en">3 Days to Kill</title>
-  </programme>
-  <programme start="20261112210000 +0800" stop="20261112223500 +0800" channel="mbc max">
-    <title lang="en">Playing for Keeps</title>
-  </programme>
-  <programme start="20261112223500 +0800" stop="20261112230000 +0800" channel="mbc max">
-    <title lang="en">برنامج planet action 6</title>
+  <programme start="20261114100000 +0800" stop="20261114103000 +0800" channel="mbc action">
+    <title lang="en">برنامج جيرينج اب</title>
   </programme>
   <programme start="20261112230000 +0800" stop="20261113010000 +0800" channel="mbc max">
-    <title lang="en">Blended</title>
+    <title lang="en">3 Days to Kill</title>
   </programme>
-  <programme start="20261113010000 +0800" stop="20261113030000 +0800" channel="mbc max">
-    <title lang="en">Life as We Know It</title>
-  </programme>
-  <programme start="20261113030000 +0800" stop="20261113050000 +0800" channel="mbc max">
-    <title lang="en">Crazy Stupid Love</title>
-  </programme>
-  <programme start="20261113050000 +0800" stop="20261113070000 +0800" channel="mbc max">
-    <title lang="en">New Year's Eve</title>
-  </programme>
-  <programme start="20261113070000 +0800" stop="20261113083000 +0800" channel="mbc max">
+  <programme start="20261113010000 +0800" stop="20261113023000 +0800" channel="mbc max">
     <title lang="en">Safe</title>
   </programme>
-  <programme start="20261113083000 +0800" stop="20261113100000 +0800" channel="mbc max">
+  <programme start="20261113023000 +0800" stop="20261113030000 +0800" channel="mbc max">
+    <title lang="en">برنامج celebrity scoop 9</title>
+  </programme>
+  <programme start="20261113030000 +0800" stop="20261113043000 +0800" channel="mbc max">
     <title lang="en">Bullet Head</title>
   </programme>
-  <programme start="20261113100000 +0800" stop="20261113103000 +0800" channel="mbc max">
+  <programme start="20261113043000 +0800" stop="20261113050000 +0800" channel="mbc max">
+    <title lang="en">برنامج stars in style 11</title>
+  </programme>
+  <programme start="20261113050000 +0800" stop="20261113070000 +0800" channel="mbc max">
+    <title lang="en">The Infiltrator</title>
+  </programme>
+  <programme start="20261113070000 +0800" stop="20261113073000 +0800" channel="mbc max">
+    <title lang="en">Action Zone</title>
+  </programme>
+  <programme start="20261113073000 +0800" stop="20261113090000 +0800" channel="mbc max">
+    <title lang="en">47 Meters Down: Uncaged</title>
+  </programme>
+  <programme start="20261113090000 +0800" stop="20261113093000 +0800" channel="mbc max">
     <title lang="en">Hollywood Buzz</title>
   </programme>
-  <programme start="20261111005500 +0800" stop="20261111013000 +0800" channel="mbc 2">
-    <title lang="en">برنامج Celebrity Scoop 9</title>
+  <programme start="20261113093000 +0800" stop="20261113113000 +0800" channel="mbc max">
+    <title lang="en">The Meg</title>
   </programme>
-  <programme start="20261111013000 +0800" stop="20261111040000 +0800" channel="mbc 2">
-    <title lang="en">Superman Returns</title>
+  <programme start="20261113113000 +0800" stop="20261113143000 +0800" channel="mbc max">
+    <title lang="en">King Kong</title>
   </programme>
-  <programme start="20261111040000 +0800" stop="20261111063000 +0800" channel="mbc 2">
-    <title lang="en">Man of Steel</title>
+  <programme start="20261113143000 +0800" stop="20261113160000 +0800" channel="mbc max">
+    <title lang="en">Safe</title>
   </programme>
-  <programme start="20261111063000 +0800" stop="20261111083000 +0800" channel="mbc 2">
-    <title lang="en">Jupiter Ascending</title>
+  <programme start="20261113160000 +0800" stop="20261113163000 +0800" channel="mbc max">
+    <title lang="en">Hollywood Buzz</title>
   </programme>
-  <programme start="20261111083000 +0800" stop="20261111100000 +0800" channel="mbc 2">
-    <title lang="en">Ingrid Goes West</title>
+  <programme start="20261113163000 +0800" stop="20261113190000 +0800" channel="mbc max">
+    <title lang="en">The Matrix Resurrections</title>
   </programme>
-  <programme start="20261111100000 +0800" stop="20261111103000 +0800" channel="mbc 2">
-    <title lang="en">Films &amp; Stars</title>
+  <programme start="20261113190000 +0800" stop="20261113210000 +0800" channel="mbc max">
+    <title lang="en">3 Days to Kill</title>
   </programme>
-  <programme start="20261111103000 +0800" stop="20261111120500 +0800" channel="mbc 2">
-    <title lang="en">Matchstick Men</title>
+  <programme start="20261113210000 +0800" stop="20261113223500 +0800" channel="mbc max">
+    <title lang="en">Playing for Keeps</title>
   </programme>
-  <programme start="20261111120500 +0800" stop="20261111123000 +0800" channel="mbc 2">
-    <title lang="en">برنامج Making The Movies 6</title>
+  <programme start="20261113223500 +0800" stop="20261113230000 +0800" channel="mbc max">
+    <title lang="en">برنامج planet action 6</title>
   </programme>
-  <programme start="20261111123000 +0800" stop="20261111143000 +0800" channel="mbc 2">
-    <title lang="en">Jupiter Ascending</title>
+  <programme start="20261113230000 +0800" stop="20261114010000 +0800" channel="mbc max">
+    <title lang="en">Blended</title>
   </programme>
-  <programme start="20261111143000 +0800" stop="20261111170000 +0800" channel="mbc 2">
-    <title lang="en">Batman Begins</title>
+  <programme start="20261114010000 +0800" stop="20261114030000 +0800" channel="mbc max">
+    <title lang="en">Life as We Know It</title>
   </programme>
-  <programme start="20261111170000 +0800" stop="20261111183000 +0800" channel="mbc 2">
-    <title lang="en">Bee Movie</title>
+  <programme start="20261114030000 +0800" stop="20261114050000 +0800" channel="mbc max">
+    <title lang="en">Crazy Stupid Love</title>
   </programme>
-  <programme start="20261111183000 +0800" stop="20261111190000 +0800" channel="mbc 2">
-    <title lang="en">Films &amp; Stars</title>
+  <programme start="20261114050000 +0800" stop="20261114070000 +0800" channel="mbc max">
+    <title lang="en">New Year's Eve</title>
   </programme>
-  <programme start="20261111190000 +0800" stop="20261111213000 +0800" channel="mbc 2">
-    <title lang="en">Superman Returns</title>
+  <programme start="20261114070000 +0800" stop="20261114083000 +0800" channel="mbc max">
+    <title lang="en">Safe</title>
   </programme>
-  <programme start="20261111213000 +0800" stop="20261111220000 +0800" channel="mbc 2">
-    <title lang="en">برنامج Celebrity Scoop 9</title>
+  <programme start="20261114083000 +0800" stop="20261114100000 +0800" channel="mbc max">
+    <title lang="en">Bullet Head</title>
   </programme>
-  <programme start="20261111220000 +0800" stop="20261112000000 +0800" channel="mbc 2">
-    <title lang="en">The Smurfs 2</title>
+  <programme start="20261114100000 +0800" stop="20261114103000 +0800" channel="mbc max">
+    <title lang="en">Hollywood Buzz</title>
+  </programme>
+  <programme start="20261114103000 +0800" stop="20261114123000 +0800" channel="mbc max">
+    <title lang="en">3 Days to Kill</title>
+  </programme>
+  <programme start="20261114123000 +0800" stop="20261114140000 +0800" channel="mbc max">
+    <title lang="en">Ninja Assassin</title>
+  </programme>
+  <programme start="20261114140000 +0800" stop="20261114160000 +0800" channel="mbc max">
+    <title lang="en">Blended</title>
+  </programme>
+  <programme start="20261114160000 +0800" stop="20261114163000 +0800" channel="mbc max">
+    <title lang="en">Hollywood Buzz</title>
+  </programme>
+  <programme start="20261114163000 +0800" stop="20261114183000 +0800" channel="mbc max">
+    <title lang="en">New Year's Eve</title>
+  </programme>
+  <programme start="20261114183000 +0800" stop="20261114190000 +0800" channel="mbc max">
+    <title lang="en">برنامج planet action 6</title>
+  </programme>
+  <programme start="20261114190000 +0800" stop="20261114210000 +0800" channel="mbc max">
+    <title lang="en">Crazy Stupid Love</title>
+  </programme>
+  <programme start="20261114210000 +0800" stop="20261114223000 +0800" channel="mbc max">
+    <title lang="en">Hotel Transylvania 3: Summer Vacation</title>
+  </programme>
+  <programme start="20261114223000 +0800" stop="20261114230000 +0800" channel="mbc max">
+    <title lang="en">برنامج 3 World Of Movies</title>
+  </programme>
+  <programme start="20261114230000 +0800" stop="20261115010000 +0800" channel="mbc max">
+    <title lang="en">Pan</title>
+  </programme>
+  <programme start="20261115010000 +0800" stop="20261115023000 +0800" channel="mbc max">
+    <title lang="en">Dolittle</title>
+  </programme>
+  <programme start="20261115023000 +0800" stop="20261115030000 +0800" channel="mbc max">
+    <title lang="en">برنامج celebrity scoop 9</title>
+  </programme>
+  <programme start="20261115030000 +0800" stop="20261115050000 +0800" channel="mbc max">
+    <title lang="en">Hugo</title>
+  </programme>
+  <programme start="20261115050000 +0800" stop="20261115063500 +0800" channel="mbc max">
+    <title lang="en">The Grinch</title>
+  </programme>
+  <programme start="20261115063500 +0800" stop="20261115070000 +0800" channel="mbc max">
+    <title lang="en">برنامج stars in style 11</title>
+  </programme>
+  <programme start="20261115070000 +0800" stop="20261115083500 +0800" channel="mbc max">
+    <title lang="en">Playing for Keeps</title>
+  </programme>
+  <programme start="20261115083500 +0800" stop="20261115090000 +0800" channel="mbc max">
+    <title lang="en">Hollywood Buzz</title>
+  </programme>
+  <programme start="20261115090000 +0800" stop="20261115110000 +0800" channel="mbc max">
+    <title lang="en">Crazy Stupid Love</title>
   </programme>
   <programme start="20261112000000 +0800" stop="20261112013000 +0800" channel="mbc 2">
     <title lang="en">Cloudy with a Chance of Meatballs</title>
@@ -446,5 +395,53 @@
   </programme>
   <programme start="20261113083000 +0800" stop="20261113103000 +0800" channel="mbc 2">
     <title lang="en">The Brave One</title>
+  </programme>
+  <programme start="20261113103000 +0800" stop="20261113110000 +0800" channel="mbc 2">
+    <title lang="en">Films &amp; Stars</title>
+  </programme>
+  <programme start="20261113110000 +0800" stop="20261113123500 +0800" channel="mbc 2">
+    <title lang="en">Second Act</title>
+  </programme>
+  <programme start="20261113123500 +0800" stop="20261113130000 +0800" channel="mbc 2">
+    <title lang="en">برنامج Making The Movies 6</title>
+  </programme>
+  <programme start="20261113130000 +0800" stop="20261113143000 +0800" channel="mbc 2">
+    <title lang="en">Cloudy with a Chance of Meatballs</title>
+  </programme>
+  <programme start="20261113143000 +0800" stop="20261113163000 +0800" channel="mbc 2">
+    <title lang="en">The Good Liar</title>
+  </programme>
+  <programme start="20261113163000 +0800" stop="20261113185500 +0800" channel="mbc 2">
+    <title lang="en">Proof of Life</title>
+  </programme>
+  <programme start="20261113185500 +0800" stop="20261113193000 +0800" channel="mbc 2">
+    <title lang="en">Films &amp; Stars</title>
+  </programme>
+  <programme start="20261113193000 +0800" stop="20261113213000 +0800" channel="mbc 2">
+    <title lang="en">Rendition</title>
+  </programme>
+  <programme start="20261113213000 +0800" stop="20261113220000 +0800" channel="mbc 2">
+    <title lang="en">برنامج Celebrity Scoop 9</title>
+  </programme>
+  <programme start="20261113220000 +0800" stop="20261114000000 +0800" channel="mbc 2">
+    <title lang="en">The Man Who Knew Infinity</title>
+  </programme>
+  <programme start="20261114000000 +0800" stop="20261114020000 +0800" channel="mbc 2">
+    <title lang="en">Trouble with the Curve</title>
+  </programme>
+  <programme start="20261114020000 +0800" stop="20261114043000 +0800" channel="mbc 2">
+    <title lang="en">King Richard</title>
+  </programme>
+  <programme start="20261114043000 +0800" stop="20261114063000 +0800" channel="mbc 2">
+    <title lang="en">Grudge Match</title>
+  </programme>
+  <programme start="20261114063000 +0800" stop="20261114083000 +0800" channel="mbc 2">
+    <title lang="en">42</title>
+  </programme>
+  <programme start="20261114083000 +0800" stop="20261114090000 +0800" channel="mbc 2">
+    <title lang="en">Films &amp; Stars</title>
+  </programme>
+  <programme start="20261114090000 +0800" stop="20261114110000 +0800" channel="mbc 2">
+    <title lang="en">Wasp Network</title>
   </programme>
 </tv>
