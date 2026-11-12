@@ -45,6 +45,9 @@
   <channel id="澳门-Macau 96台">
     <display-name lang="zh">澳门-Macau 96台</display-name>
   </channel>
+  <channel id="莲花卫视">
+    <display-name lang="zh">莲花卫视</display-name>
+  </channel>
   <channel id="香港电台31">
     <display-name lang="zh">香港电台31</display-name>
   </channel>
@@ -5739,23 +5742,26 @@
   <programme start="20261112133000 +0800" stop="20261112143000 +0800" channel="澳视葡文 92台">
     <title lang="zh">Telejornal RTPi (Diferido)</title>
   </programme>
-  <programme start="20261112143000 +0800" stop="20261112153000 +0800" channel="澳视葡文 92台">
-    <title lang="zh">RTPi Directo</title>
-  </programme>
-  <programme start="20261112153000 +0800" stop="20261112155500 +0800" channel="澳视葡文 92台">
+  <programme start="20261112143000 +0800" stop="20261112145500 +0800" channel="澳视葡文 92台">
     <title lang="zh">Saboroso à Portuguesa</title>
   </programme>
-  <programme start="20261112155500 +0800" stop="20261112164000 +0800" channel="澳视葡文 92台">
-    <title lang="zh">Queridos Papás</title>
-  </programme>
-  <programme start="20261112164000 +0800" stop="20261112165500 +0800" channel="澳视葡文 92台">
-    <title lang="zh">O Carrinho Poli T4</title>
-  </programme>
-  <programme start="20261112165500 +0800" stop="20261112170500 +0800" channel="澳视葡文 92台">
+  <programme start="20261112145500 +0800" stop="20261112150500 +0800" channel="澳视葡文 92台">
     <title lang="zh">Os Smurfs T3</title>
   </programme>
-  <programme start="20261112170500 +0800" stop="20261112173000 +0800" channel="澳视葡文 92台">
+  <programme start="20261112150500 +0800" stop="20261112153000 +0800" channel="澳视葡文 92台">
     <title lang="zh">Nutri Ventures - Em busca dos 7 Reinos</title>
+  </programme>
+  <programme start="20261112153000 +0800" stop="20261112160000 +0800" channel="澳视葡文 92台">
+    <title lang="zh">Conferência de Imprensa do Conselho Executivo (Directo)</title>
+  </programme>
+  <programme start="20261112160000 +0800" stop="20261112163000 +0800" channel="澳视葡文 92台">
+    <title lang="zh">Grande Reportagem</title>
+  </programme>
+  <programme start="20261112163000 +0800" stop="20261112171500 +0800" channel="澳视葡文 92台">
+    <title lang="zh">Queridos Papás</title>
+  </programme>
+  <programme start="20261112171500 +0800" stop="20261112173000 +0800" channel="澳视葡文 92台">
+    <title lang="zh">O Carrinho Poli T4</title>
   </programme>
   <programme start="20261112173000 +0800" stop="20261112175500 +0800" channel="澳视葡文 92台">
     <title lang="zh">Legend Quest</title>
@@ -6636,6 +6642,309 @@
   <programme start="20261113234000 +0800" stop="20261114004000 +0800" channel="澳门-Macau 96台">
     <title lang="zh">家家有本事</title>
   </programme>
+  <programme start="20261109002300 +0800" stop="20261109022900 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 决斗犹马镇</title>
+  </programme>
+  <programme start="20261109022900 +0800" stop="20261109043600 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 空军一号</title>
+  </programme>
+  <programme start="20261109043600 +0800" stop="20261109063100 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 巴拿马裁缝</title>
+  </programme>
+  <programme start="20261109063100 +0800" stop="20261109085900 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 月黑高飞</title>
+  </programme>
+  <programme start="20261109085900 +0800" stop="20261109092900 +0800" channel="莲花卫视">
+    <title lang="zh">《Vidlot》 - Vidlot-02</title>
+  </programme>
+  <programme start="20261109092900 +0800" stop="20261109110500 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 诺曼底大风暴</title>
+  </programme>
+  <programme start="20261109110500 +0800" stop="20261109124800 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 罪恶之城</title>
+  </programme>
+  <programme start="20261109124800 +0800" stop="20261109131900 +0800" channel="莲花卫视">
+    <title lang="zh">《Vidlot》 - Vidlot-02</title>
+  </programme>
+  <programme start="20261109131900 +0800" stop="20261109145900 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - BJ单身日记</title>
+  </programme>
+  <programme start="20261109145900 +0800" stop="20261109170500 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 天马</title>
+  </programme>
+  <programme start="20261109170500 +0800" stop="20261109190000 +0800" channel="莲花卫视">
+    <title lang="zh">澳门现场 - 澳门开唱黄金榜</title>
+  </programme>
+  <programme start="20261109190000 +0800" stop="20261109201000 +0800" channel="莲花卫视">
+    <title lang="zh">莲花俱乐部 - 直播</title>
+  </programme>
+  <programme start="20261109201000 +0800" stop="20261109204000 +0800" channel="莲花卫视">
+    <title lang="zh">《Vidlot》 - Vidlot-02</title>
+  </programme>
+  <programme start="20261109204000 +0800" stop="20261109222100 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 蓝莓之夜</title>
+  </programme>
+  <programme start="20261109222100 +0800" stop="20261110003000 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 红磨坊</title>
+  </programme>
+  <programme start="20261110003000 +0800" stop="20261110022500 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 死刑</title>
+  </programme>
+  <programme start="20261110022500 +0800" stop="20261110042400 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 改编剧本</title>
+  </programme>
+  <programme start="20261110042400 +0800" stop="20261110060400 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 阅后即焚</title>
+  </programme>
+  <programme start="20261110060400 +0800" stop="20261110082800 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 天地无限</title>
+  </programme>
+  <programme start="20261110082800 +0800" stop="20261110085800 +0800" channel="莲花卫视">
+    <title lang="zh">《Vidlot》 - Vidlot-02</title>
+  </programme>
+  <programme start="20261110085800 +0800" stop="20261110110400 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 天马</title>
+  </programme>
+  <programme start="20261110110400 +0800" stop="20261110130300 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 非常时期</title>
+  </programme>
+  <programme start="20261110130300 +0800" stop="20261110133300 +0800" channel="莲花卫视">
+    <title lang="zh">《Vidlot》 - Vidlot-02</title>
+  </programme>
+  <programme start="20261110133300 +0800" stop="20261110144200 +0800" channel="莲花卫视">
+    <title lang="zh">莲花俱乐部 - 重播</title>
+  </programme>
+  <programme start="20261110144200 +0800" stop="20261110161300 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 花木兰</title>
+  </programme>
+  <programme start="20261110161300 +0800" stop="20261110190000 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 爱国者</title>
+  </programme>
+  <programme start="20261110190000 +0800" stop="20261110201000 +0800" channel="莲花卫视">
+    <title lang="zh">莲花俱乐部 - 直播</title>
+  </programme>
+  <programme start="20261110201000 +0800" stop="20261110204000 +0800" channel="莲花卫视">
+    <title lang="zh">《Vidlot》 - Vidlot-02</title>
+  </programme>
+  <programme start="20261110204000 +0800" stop="20261110235400 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 辛德勒的名单</title>
+  </programme>
+  <programme start="20261110235400 +0800" stop="20261111013100 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 51号公式</title>
+  </programme>
+  <programme start="20261111013100 +0800" stop="20261111033600 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 老无所依</title>
+  </programme>
+  <programme start="20261111033600 +0800" stop="20261111054700 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 国家宝藏</title>
+  </programme>
+  <programme start="20261111054700 +0800" stop="20261111083800 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 拯救大兵瑞恩</title>
+  </programme>
+  <programme start="20261111083800 +0800" stop="20261111103600 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 空中监狱</title>
+  </programme>
+  <programme start="20261111103600 +0800" stop="20261111110700 +0800" channel="莲花卫视">
+    <title lang="zh">《Vidlot》 - Vidlot-02</title>
+  </programme>
+  <programme start="20261111110700 +0800" stop="20261111130500 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 破绽</title>
+  </programme>
+  <programme start="20261111130500 +0800" stop="20261111133600 +0800" channel="莲花卫视">
+    <title lang="zh">《Vidlot》 - Vidlot-02</title>
+  </programme>
+  <programme start="20261111133600 +0800" stop="20261111144500 +0800" channel="莲花卫视">
+    <title lang="zh">莲花俱乐部 - 重播</title>
+  </programme>
+  <programme start="20261111144500 +0800" stop="20261111165000 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 画家波拉克</title>
+  </programme>
+  <programme start="20261111165000 +0800" stop="20261111190000 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 战俘集中营</title>
+  </programme>
+  <programme start="20261111190000 +0800" stop="20261111201000 +0800" channel="莲花卫视">
+    <title lang="zh">莲花俱乐部 - 直播</title>
+  </programme>
+  <programme start="20261111201000 +0800" stop="20261111204000 +0800" channel="莲花卫视">
+    <title lang="zh">《Vidlot》 - Vidlot-02</title>
+  </programme>
+  <programme start="20261111204000 +0800" stop="20261111233300 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 神鬼战士</title>
+  </programme>
+  <programme start="20261111233300 +0800" stop="20261112011600 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 斗牛士</title>
+  </programme>
+  <programme start="20261112011600 +0800" stop="20261112042000 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 希特勒:恶魔的崛起</title>
+  </programme>
+  <programme start="20261112042000 +0800" stop="20261112062100 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 身份的迷惑Ⅰ</title>
+  </programme>
+  <programme start="20261112062100 +0800" stop="20261112081200 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 身份的迷惑Ⅱ</title>
+  </programme>
+  <programme start="20261112081200 +0800" stop="20261112100700 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 身份的迷惑Ⅲ</title>
+  </programme>
+  <programme start="20261112100700 +0800" stop="20261112103700 +0800" channel="莲花卫视">
+    <title lang="zh">《Vidlot》 - Vidlot-02</title>
+  </programme>
+  <programme start="20261112103700 +0800" stop="20261112125800 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 猎杀红色十月</title>
+  </programme>
+  <programme start="20261112125800 +0800" stop="20261112132900 +0800" channel="莲花卫视">
+    <title lang="zh">《Vidlot》 - Vidlot-02</title>
+  </programme>
+  <programme start="20261112132900 +0800" stop="20261112143800 +0800" channel="莲花卫视">
+    <title lang="zh">莲花俱乐部 - 重播</title>
+  </programme>
+  <programme start="20261112143800 +0800" stop="20261112164000 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 非法入侵</title>
+  </programme>
+  <programme start="20261112164000 +0800" stop="20261112190000 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 惩罚者</title>
+  </programme>
+  <programme start="20261112190000 +0800" stop="20261112201000 +0800" channel="莲花卫视">
+    <title lang="zh">莲花俱乐部 - 直播</title>
+  </programme>
+  <programme start="20261112201000 +0800" stop="20261112204000 +0800" channel="莲花卫视">
+    <title lang="zh">《Vidlot》 - Vidlot-02</title>
+  </programme>
+  <programme start="20261112204000 +0800" stop="20261112224900 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 狙击职业杀手</title>
+  </programme>
+  <programme start="20261112224900 +0800" stop="20261113005400 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 电子情书</title>
+  </programme>
+  <programme start="20261113005400 +0800" stop="20261113025700 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 布鲁克斯先生</title>
+  </programme>
+  <programme start="20261113025700 +0800" stop="20261113045700 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 十一罗汉</title>
+  </programme>
+  <programme start="20261113045700 +0800" stop="20261113070500 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 十二罗汉</title>
+  </programme>
+  <programme start="20261113070500 +0800" stop="20261113090000 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 机械公敌</title>
+  </programme>
+  <programme start="20261113090000 +0800" stop="20261113093000 +0800" channel="莲花卫视">
+    <title lang="zh">《Vidlot》 - Vidlot-02</title>
+  </programme>
+  <programme start="20261113093000 +0800" stop="20261113113700 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 大买卖</title>
+  </programme>
+  <programme start="20261113113700 +0800" stop="20261113133100 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 天衣无缝</title>
+  </programme>
+  <programme start="20261113133100 +0800" stop="20261113140200 +0800" channel="莲花卫视">
+    <title lang="zh">《Vidlot》 - Vidlot-02</title>
+  </programme>
+  <programme start="20261113140200 +0800" stop="20261113151100 +0800" channel="莲花卫视">
+    <title lang="zh">莲花俱乐部 - 重播</title>
+  </programme>
+  <programme start="20261113151100 +0800" stop="20261113171000 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 公主日记</title>
+  </programme>
+  <programme start="20261113171000 +0800" stop="20261113190000 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 幸运数字</title>
+  </programme>
+  <programme start="20261113190000 +0800" stop="20261113201000 +0800" channel="莲花卫视">
+    <title lang="zh">莲花俱乐部 - 直播</title>
+  </programme>
+  <programme start="20261113201000 +0800" stop="20261113204000 +0800" channel="莲花卫视">
+    <title lang="zh">《Vidlot》 - Vidlot-02</title>
+  </programme>
+  <programme start="20261113204000 +0800" stop="20261113222900 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 偷拐抢骗</title>
+  </programme>
+  <programme start="20261113222900 +0800" stop="20261114002500 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 合法入侵</title>
+  </programme>
+  <programme start="20261114002500 +0800" stop="20261114024400 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 石破天惊</title>
+  </programme>
+  <programme start="20261114024400 +0800" stop="20261114045000 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 天马</title>
+  </programme>
+  <programme start="20261114045000 +0800" stop="20261114065000 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 一酷到底</title>
+  </programme>
+  <programme start="20261114065000 +0800" stop="20261114084200 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 芳心谋杀</title>
+  </programme>
+  <programme start="20261114084200 +0800" stop="20261114091200 +0800" channel="莲花卫视">
+    <title lang="zh">《Vidlot》 - Vidlot-02</title>
+  </programme>
+  <programme start="20261114091200 +0800" stop="20261114112400 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 失控陪审团</title>
+  </programme>
+  <programme start="20261114112400 +0800" stop="20261114140500 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 拳王阿里</title>
+  </programme>
+  <programme start="20261114140500 +0800" stop="20261114143600 +0800" channel="莲花卫视">
+    <title lang="zh">《Vidlot》 - Vidlot-02</title>
+  </programme>
+  <programme start="20261114143600 +0800" stop="20261114161900 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 伪钞制造者</title>
+  </programme>
+  <programme start="20261114161900 +0800" stop="20261114190000 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 血色黑金</title>
+  </programme>
+  <programme start="20261114190000 +0800" stop="20261114201000 +0800" channel="莲花卫视">
+    <title lang="zh">莲花俱乐部 - 重播</title>
+  </programme>
+  <programme start="20261114201000 +0800" stop="20261114204000 +0800" channel="莲花卫视">
+    <title lang="zh">《Vidlot》 - Vidlot-02</title>
+  </programme>
+  <programme start="20261114204000 +0800" stop="20261114221700 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 生死就在转身间</title>
+  </programme>
+  <programme start="20261114221700 +0800" stop="20261115001800 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 不当权力</title>
+  </programme>
+  <programme start="20261115001800 +0800" stop="20261115021100 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 现金</title>
+  </programme>
+  <programme start="20261115021100 +0800" stop="20261115043600 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 天国王朝</title>
+  </programme>
+  <programme start="20261115043600 +0800" stop="20261115063100 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 义大利任务</title>
+  </programme>
+  <programme start="20261115063100 +0800" stop="20261115084700 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 全民公敌</title>
+  </programme>
+  <programme start="20261115084700 +0800" stop="20261115091800 +0800" channel="莲花卫视">
+    <title lang="zh">《Vidlot》 - Vidlot-02</title>
+  </programme>
+  <programme start="20261115091800 +0800" stop="20261115115500 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 美国黑帮</title>
+  </programme>
+  <programme start="20261115115500 +0800" stop="20261115140700 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 局内人</title>
+  </programme>
+  <programme start="20261115140700 +0800" stop="20261115143800 +0800" channel="莲花卫视">
+    <title lang="zh">《Vidlot》 - Vidlot-02</title>
+  </programme>
+  <programme start="20261115143800 +0800" stop="20261115163500 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 家族情仇</title>
+  </programme>
+  <programme start="20261115163500 +0800" stop="20261115181600 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 日落之后</title>
+  </programme>
+  <programme start="20261115181600 +0800" stop="20261115201100 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 芝加哥</title>
+  </programme>
+  <programme start="20261115201100 +0800" stop="20261115204200 +0800" channel="莲花卫视">
+    <title lang="zh">《Vidlot》 - Vidlot-02</title>
+  </programme>
+  <programme start="20261115204200 +0800" stop="20261115223900 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 偷天陷阱</title>
+  </programme>
+  <programme start="20261115223900 +0800" stop="20261116003900 +0800" channel="莲花卫视">
+    <title lang="zh">经典影院 - 染血王国</title>
+  </programme>
   <programme start="20261112000000 +0800" stop="20261112003000 +0800" channel="香港电台31">
     <title lang="zh">湾区全媒睇</title>
     <desc lang="zh">第一千二百八十八集</desc>
@@ -6703,9 +7012,16 @@
     <title lang="zh">千禧年代</title>
     <desc lang="zh">千禧年代 11月12日</desc>
   </programme>
-  <programme start="20261112093900 +0800" stop="20261112110000 +0800" channel="香港电台31">
+  <programme start="20261112093900 +0800" stop="20261112102100 +0800" channel="香港电台31">
     <title lang="zh">孙中山先生诞辰160周年纪念仪式</title>
     <desc lang="zh">孙中山先生诞辰160周年纪念仪式</desc>
+  </programme>
+  <programme start="20261112102100 +0800" stop="20261112103000 +0800" channel="香港电台31">
+    <title lang="zh">生活．健康．资讯</title>
+  </programme>
+  <programme start="20261112103000 +0800" stop="20261112110000 +0800" channel="香港电台31">
+    <title lang="zh">香港故事: 乐地生根</title>
+    <desc lang="zh">追梦进行式</desc>
   </programme>
   <programme start="20261112110000 +0800" stop="20261112110500 +0800" channel="香港电台31">
     <title lang="zh">政正关你事</title>

@@ -38,7 +38,6 @@
   </programme>
   <programme start="20261112092500 +0800" stop="20261112100000 +0800" channel="澳視澳門 91台">
     <title lang="zh">考古學家的神秘武器</title>
-    <live/>
   </programme>
   <programme start="20261112100000 +0800" stop="20261112103000 +0800" channel="澳視澳門 91台">
     <title lang="zh">新聞報道</title>
@@ -54,6 +53,7 @@
   </programme>
   <programme start="20261112111000 +0800" stop="20261112111500 +0800" channel="澳視澳門 91台">
     <title lang="zh">TDM 新視點</title>
+    <live/>
   </programme>
   <programme start="20261112111500 +0800" stop="20261112125000 +0800" channel="澳視澳門 91台">
     <title lang="zh">被遺忘的時光</title>
@@ -301,23 +301,26 @@
   <programme start="20261112133000 +0800" stop="20261112143000 +0800" channel="澳視葡文 92台">
     <title lang="zh">Telejornal RTPi (Diferido)</title>
   </programme>
-  <programme start="20261112143000 +0800" stop="20261112153000 +0800" channel="澳視葡文 92台">
-    <title lang="zh">RTPi Directo</title>
-  </programme>
-  <programme start="20261112153000 +0800" stop="20261112155500 +0800" channel="澳視葡文 92台">
+  <programme start="20261112143000 +0800" stop="20261112145500 +0800" channel="澳視葡文 92台">
     <title lang="zh">Saboroso à Portuguesa</title>
   </programme>
-  <programme start="20261112155500 +0800" stop="20261112164000 +0800" channel="澳視葡文 92台">
-    <title lang="zh">Queridos Papás</title>
-  </programme>
-  <programme start="20261112164000 +0800" stop="20261112165500 +0800" channel="澳視葡文 92台">
-    <title lang="zh">O Carrinho Poli T4</title>
-  </programme>
-  <programme start="20261112165500 +0800" stop="20261112170500 +0800" channel="澳視葡文 92台">
+  <programme start="20261112145500 +0800" stop="20261112150500 +0800" channel="澳視葡文 92台">
     <title lang="zh">Os Smurfs T3</title>
   </programme>
-  <programme start="20261112170500 +0800" stop="20261112173000 +0800" channel="澳視葡文 92台">
+  <programme start="20261112150500 +0800" stop="20261112153000 +0800" channel="澳視葡文 92台">
     <title lang="zh">Nutri Ventures - Em busca dos 7 Reinos</title>
+  </programme>
+  <programme start="20261112153000 +0800" stop="20261112160000 +0800" channel="澳視葡文 92台">
+    <title lang="zh">Conferência de Imprensa do Conselho Executivo (Directo)</title>
+  </programme>
+  <programme start="20261112160000 +0800" stop="20261112163000 +0800" channel="澳視葡文 92台">
+    <title lang="zh">Grande Reportagem</title>
+  </programme>
+  <programme start="20261112163000 +0800" stop="20261112171500 +0800" channel="澳視葡文 92台">
+    <title lang="zh">Queridos Papás</title>
+  </programme>
+  <programme start="20261112171500 +0800" stop="20261112173000 +0800" channel="澳視葡文 92台">
+    <title lang="zh">O Carrinho Poli T4</title>
   </programme>
   <programme start="20261112173000 +0800" stop="20261112175500 +0800" channel="澳視葡文 92台">
     <title lang="zh">Legend Quest</title>
@@ -420,7 +423,6 @@
   </programme>
   <programme start="20261112093000 +0800" stop="20261112100000 +0800" channel="澳門資訊 94台">
     <title lang="zh">灣區全媒睇</title>
-    <live/>
   </programme>
   <programme start="20261112100000 +0800" stop="20261112103000 +0800" channel="澳門資訊 94台">
     <title lang="zh">新聞報道</title>
@@ -433,6 +435,7 @@
   </programme>
   <programme start="20261112111200 +0800" stop="20261112112000 +0800" channel="澳門資訊 94台">
     <title lang="zh">育才成長 築新未來： 家長學堂</title>
+    <live/>
   </programme>
   <programme start="20261112112000 +0800" stop="20261112113800 +0800" channel="澳門資訊 94台">
     <title lang="zh">重播放眼世界</title>
@@ -703,6 +706,7 @@
   </programme>
   <programme start="20261112100000 +0800" stop="20261112112000 +0800" channel="澳門體育 93台">
     <title lang="zh">2026中國羽毛球大師賽：女雙4強</title>
+    <live/>
   </programme>
   <programme start="20261112112000 +0800" stop="20261112122000 +0800" channel="澳門體育 93台">
     <title lang="zh">2026中國羽毛球大師賽：混雙4強</title>
@@ -805,6 +809,7 @@
   </programme>
   <programme start="20261112100000 +0800" stop="20261112113000 +0800" channel="澳門綜藝 95台">
     <title lang="zh">好劇連場: 點心之路</title>
+    <live/>
   </programme>
   <programme start="20261112113000 +0800" stop="20261112130900 +0800" channel="澳門綜藝 95台">
     <title lang="zh">好劇連場: 消失的大象</title>
@@ -958,7 +963,6 @@
   </programme>
   <programme start="20261112092500 +0800" stop="20261112094500 +0800" channel="澳門-Macau 96台">
     <title lang="zh">放眼世界</title>
-    <live/>
   </programme>
   <programme start="20261112094500 +0800" stop="20261112100000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">新聞深度遊</title>
@@ -971,6 +975,7 @@
   </programme>
   <programme start="20261112110000 +0800" stop="20261112113000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">我們的家園</title>
+    <live/>
   </programme>
   <programme start="20261112113000 +0800" stop="20261112120000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">唐‧西豐味</title>
