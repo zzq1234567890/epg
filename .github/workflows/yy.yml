@@ -140,7 +140,7 @@ jobs:
         id: check_scripts
         run: |
           echo "檢查 PHP 腳本文件..."
-          declare -a scripts=("epglotus.php" "epghenan.php" "epgtdm.php" "epgbaidu.php" "epgkankanlive.php" "epgfenghuangxiu.php" "epgtianying.php" "epgcatchplay.php"  "epghkst.php" "epgjiangsu.php" "epganywhere.php" "epgmytvsuper.php" "epg4gtv2.php" "epgmbcae.php" "epgeltatv.php" "epgsingtel.php" "epgdifang.php" "epgofiii.php" "epgcctv.php" "epgzhongtianam.php" "youtubelivem3u.php" "youtubelivetxt.php" "epgdiyicaijing.php" "epgunifi.php" "epglifetv.php" "epgkbsworld.php" "epgmacocable.php" "epgdubaione.php" "epgasia.php" "epgastrogo.php"  "epgkai1.php" "epggen2.php" "epgnewshanghai.php" "epgnewhebei.php" "epgnew.php" "epgnewguangdong.php" "youtubelocal.php" "youtubeworld.php" "epgziyong.php")
+          declare -a scripts=( "epghenan.php" "epgtdm.php" "epgbaidu.php" "epgkankanlive.php" "epgfenghuangxiu.php" "epgtianying.php" "epgcatchplay.php"  "epghkst.php" "epgjiangsu.php" "epganywhere.php" "epgmytvsuper.php" "epg4gtv2.php" "epgmbcae.php" "epgeltatv.php" "epgsingtel.php" "epgdifang.php" "epgofiii.php" "epgcctv.php" "epgzhongtianam.php" "youtubelivem3u.php" "youtubelivetxt.php" "epgdiyicaijing.php" "epgunifi.php" "epglifetv.php" "epgkbsworld.php" "epgmacocable.php" "epgdubaione.php" "epgasia.php" "epgastrogo.php"  "epgkai1.php" "epggen2.php" "epgnewshanghai.php" "epgnewhebei.php" "epgnew.php" "epgnewguangdong.php" "youtubelocal.php" "youtubeworld.php" "epgziyong.php")
           existing_scripts=()
           for script in "${scripts[@]}"; do
             if [ -f "$script" ]; then
