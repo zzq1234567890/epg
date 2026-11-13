@@ -155,16 +155,11 @@
 <title lang="zh">新聞天地</title>
 <desc lang="zh">20261113</desc>
 </programme>
-<programme channel="香港電台31" start="20261113193000 +0800" stop="20261113204500 +0800">
-<title lang="zh">港樂．星夜．交響曲 2026</title>
-<desc lang="zh">港樂・星夜・交響曲 2026（上）</desc>
-</programme>
-<programme channel="香港電台31" start="20261113204500 +0800" stop="20261113210000 +0800">
+<programme channel="香港電台31" start="20261113193000 +0800" stop="20261113210000 +0800">
 <title lang="zh">生活．健康．資訊</title>
 </programme>
 <programme channel="香港電台31" start="20261113210000 +0800" stop="20261113214500 +0800">
 <title lang="zh">港樂．星夜．交響曲 2026</title>
-<desc lang="zh">港樂・星夜・交響曲 2026（下）</desc>
 </programme>
 <programme channel="香港電台31" start="20261113214500 +0800" stop="20261113215000 +0800">
 <title lang="zh">生活．健康．資訊</title>
@@ -330,6 +325,7 @@
 </programme>
 <programme channel="香港電台31" start="20261114202500 +0800" stop="20261114203000 +0800">
 <title lang="zh">IP 新機遇</title>
+<desc lang="zh">生命新章(商標)</desc>
 </programme>
 <programme channel="香港電台31" start="20261114203000 +0800" stop="20261114212500 +0800">
 <title lang="zh">海市蜃樓</title>
@@ -337,6 +333,7 @@
 </programme>
 <programme channel="香港電台31" start="20261114212500 +0800" stop="20261114213000 +0800">
 <title lang="zh">IP 新機遇</title>
+<desc lang="zh">生命新章(商標)</desc>
 </programme>
 <programme channel="香港電台31" start="20261114213000 +0800" stop="20261114231000 +0800">
 <title lang="zh">周末大電影：秋天的童話</title>
@@ -376,6 +373,7 @@
 </programme>
 <programme channel="香港電台32" start="20261113020000 +0800" stop="20261113073500 +0800">
 <title lang="zh">生活．健康．資訊</title>
+<desc lang="zh">生活．健康．資訊</desc>
 </programme>
 <programme channel="香港電台32" start="20261113073500 +0800" stop="20261113074000 +0800">
 <title lang="zh">政正關你事</title>
@@ -389,19 +387,19 @@
 <title lang="zh">千禧年代</title>
 <desc lang="zh">千禧年代 11月13日</desc>
 </programme>
-<programme channel="香港電台32" start="20261113100000 +0800" stop="20261113100500 +0800">
+<programme channel="香港電台32" start="20261113100000 +0800" stop="20261113100300 +0800">
 <title lang="zh">生活．健康．資訊</title>
 <desc lang="zh">生活．健康．資訊</desc>
 </programme>
-<programme channel="香港電台32" start="20261113100500 +0800" stop="20261113103000 +0800">
+<programme channel="香港電台32" start="20261113100300 +0800" stop="20261113103000 +0800">
 <title lang="zh">灣區全媒睇</title>
 <desc lang="zh">第一千二百八十九集</desc>
 </programme>
-<programme channel="香港電台32" start="20261113103000 +0800" stop="20261113103500 +0800">
+<programme channel="香港電台32" start="20261113103000 +0800" stop="20261113103300 +0800">
 <title lang="zh">生活．健康．資訊</title>
 <desc lang="zh">生活．健康．資訊</desc>
 </programme>
-<programme channel="香港電台32" start="20261113103500 +0800" stop="20261113110000 +0800">
+<programme channel="香港電台32" start="20261113103300 +0800" stop="20261113110000 +0800">
 <title lang="zh">凝聚香港</title>
 <desc lang="zh">第一千一百四十九集</desc>
 </programme>
@@ -416,8 +414,8 @@
 <title lang="zh">新聞簡報</title>
 </programme>
 <programme channel="香港電台32" start="20261113114000 +0800" stop="20261113120000 +0800">
-<title lang="zh">第五屆亞洲殘疾人運動會中國香港代表團嘉許禮</title>
-<desc lang="zh">第五屆亞洲殘疾人運動會中國香港代表團嘉許禮</desc>
+<title lang="zh">生活．健康．資訊</title>
+<desc lang="zh">生活．健康．資訊</desc>
 </programme>
 <programme channel="香港電台32" start="20261113120000 +0800" stop="20261113121000 +0800">
 <title lang="zh">新聞簡報</title>
@@ -432,7 +430,15 @@
 <programme channel="香港電台32" start="20261113123000 +0800" stop="20261113124000 +0800">
 <title lang="zh">新聞簡報</title>
 </programme>
-<programme channel="香港電台32" start="20261113124000 +0800" stop="20261113130000 +0800">
+<programme channel="香港電台32" start="20261113124000 +0800" stop="20261113124300 +0800">
+<title lang="zh">生活．健康．資訊</title>
+<desc lang="zh">生活．健康．資訊</desc>
+</programme>
+<programme channel="香港電台32" start="20261113124300 +0800" stop="20261113124800 +0800">
+<title lang="zh">本地新聞</title>
+<desc lang="zh">本地新聞</desc>
+</programme>
+<programme channel="香港電台32" start="20261113124800 +0800" stop="20261113130000 +0800">
 <title lang="zh">生活．健康．資訊</title>
 <desc lang="zh">生活．健康．資訊</desc>
 </programme>
@@ -726,6 +732,7 @@
 </programme>
 <programme channel="香港電台32" start="20261114193000 +0800" stop="20261114200000 +0800">
 <title lang="zh">雙城聯動</title>
+<desc lang="zh">雙城聯動 11月14日</desc>
 </programme>
 <programme channel="香港電台32" start="20261114200000 +0800" stop="20261114201000 +0800">
 <title lang="zh">晚間新聞</title>
@@ -738,18 +745,21 @@
 </programme>
 <programme channel="香港電台32" start="20261114205500 +0800" stop="20261114210000 +0800">
 <title lang="zh">IP 新機遇 (英文版)</title>
+<desc lang="zh">生命新章(商標)</desc>
 </programme>
 <programme channel="香港電台32" start="20261114210000 +0800" stop="20261114220000 +0800">
 <title lang="zh">星期六問責</title>
 </programme>
 <programme channel="香港電台32" start="20261114220000 +0800" stop="20261114220500 +0800">
 <title lang="zh">IP 新機遇 (普通話版)</title>
+<desc lang="zh">生命新章(商標)</desc>
 </programme>
 <programme channel="香港電台32" start="20261114220500 +0800" stop="20261114230000 +0800">
 <title lang="zh">理財新世代</title>
 </programme>
 <programme channel="香港電台32" start="20261114230000 +0800" stop="20261114233000 +0800">
 <title lang="zh">雙城聯動</title>
+<desc lang="zh">雙城聯動 11月14日</desc>
 </programme>
 <programme channel="香港電台32" start="20261114233000 +0800" stop="20261115000000 +0800">
 <title lang="zh">生活．健康．資訊</title>
