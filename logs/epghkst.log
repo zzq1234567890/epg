@@ -1,5 +1,5 @@
-RTHK tv31 20261113: 46 programmes
-RTHK tv31 20261114: 45 programmes
+RTHK tv31 20261113: 47 programmes
+RTHK tv31 20261114: 46 programmes
 RTHK tv32 20261113: 64 programmes
 RTHK tv32 20261114: 57 programmes
 RTHK tv33 20261113: 33 programmes
@@ -165,17 +165,23 @@ RTHK tv35 20261114: 42 programmes
 <title lang="zh">新聞天地</title>
 <desc lang="zh">20261113</desc>
 </programme>
-<programme channel="香港電台31" start="20261113193000 +0800" stop="20261113210000 +0800">
-<title lang="zh">生活．健康．資訊</title>
+<programme channel="香港電台31" start="20261113193000 +0800" stop="20261113202500 +0800">
+<title lang="zh">歡樂家長群 第二季</title>
+<desc lang="zh">第三十八集：詐騙犯抓到了</desc>
 </programme>
-<programme channel="香港電台31" start="20261113210000 +0800" stop="20261113214500 +0800">
-<title lang="zh">港樂．星夜．交響曲 2026</title>
-</programme>
-<programme channel="香港電台31" start="20261113214500 +0800" stop="20261113215000 +0800">
-<title lang="zh">生活．健康．資訊</title>
-</programme>
-<programme channel="香港電台31" start="20261113215000 +0800" stop="20261113220000 +0800">
+<programme channel="香港電台31" start="20261113202500 +0800" stop="20261113203000 +0800">
 <title lang="zh">政正關你事 - 官員講話摘要</title>
+</programme>
+<programme channel="香港電台31" start="20261113203000 +0800" stop="20261113212500 +0800">
+<title lang="zh">家事法庭</title>
+<desc lang="zh">第七集：沈謝秩被停職調查</desc>
+</programme>
+<programme channel="香港電台31" start="20261113212500 +0800" stop="20261113213000 +0800">
+<title lang="zh">政正關你事 - 官員講話摘要</title>
+</programme>
+<programme channel="香港電台31" start="20261113213000 +0800" stop="20261113220000 +0800">
+<title lang="zh">第十八屆「香港盃」外交知識競賽參訪團</title>
+<desc lang="zh">第三集 : 雲南篇 ( 昆明）</desc>
 </programme>
 <programme channel="香港電台31" start="20261113220000 +0800" stop="20261113223000 +0800">
 <title lang="zh">廣播道會客室</title>
@@ -195,8 +201,13 @@ RTHK tv35 20261114: 42 programmes
 <title lang="zh">灣區全媒睇</title>
 <desc lang="zh">第一千二百九十集</desc>
 </programme>
-<programme channel="香港電台31" start="20261114003000 +0800" stop="20261114020000 +0800">
-<title lang="zh">美味緣是您</title>
+<programme channel="香港電台31" start="20261114003000 +0800" stop="20261114010000 +0800">
+<title lang="zh">第十八屆「香港盃」外交知識競賽參訪團</title>
+<desc lang="zh">第三集 : 雲南篇 ( 昆明）</desc>
+</programme>
+<programme channel="香港電台31" start="20261114010000 +0800" stop="20261114020000 +0800">
+<title lang="zh">歡樂家長群 第二季</title>
+<desc lang="zh">第三十八集：詐騙犯抓到了</desc>
 </programme>
 <programme channel="香港電台31" start="20261114020000 +0800" stop="20261114023000 +0800">
 <title lang="zh">廣播道會客室</title>
@@ -207,16 +218,16 @@ RTHK tv35 20261114: 42 programmes
 <desc lang="zh">綠色科技與新能源 | 設計營商周 | 未來科學大獎 2026 | 威尼斯雙年展 2026</desc>
 </programme>
 <programme channel="香港電台31" start="20261114033000 +0800" stop="20261114043000 +0800">
-<title lang="zh">獅子山下</title>
-<desc lang="zh">不日上映</desc>
+<title lang="zh">家事法庭</title>
+<desc lang="zh">第七集：沈謝秩被停職調查</desc>
 </programme>
 <programme channel="香港電台31" start="20261114043000 +0800" stop="20261114053000 +0800">
 <title lang="zh">再登地球之巔</title>
 <desc lang="zh">第一集 亞洲水塔</desc>
 </programme>
 <programme channel="香港電台31" start="20261114053000 +0800" stop="20261114060000 +0800">
-<title lang="zh">國寶時刻 – 精裝版</title>
-<desc lang="zh">帝王韜略．宮廷氣象</desc>
+<title lang="zh">第十八屆「香港盃」外交知識競賽參訪團</title>
+<desc lang="zh">第三集 : 雲南篇 ( 昆明）</desc>
 </programme>
 <programme channel="香港電台31" start="20261114060000 +0800" stop="20261114063000 +0800">
 <title lang="zh">凝聚香港</title>
@@ -473,13 +484,12 @@ RTHK tv35 20261114: 42 programmes
 <programme channel="香港電台32" start="20261113140000 +0800" stop="20261113141000 +0800">
 <title lang="zh">新聞簡報</title>
 </programme>
-<programme channel="香港電台32" start="20261113141000 +0800" stop="20261113142000 +0800">
+<programme channel="香港電台32" start="20261113141000 +0800" stop="20261113141500 +0800">
 <title lang="zh">生活．健康．資訊</title>
-<desc lang="zh">生活．健康．資訊</desc>
 </programme>
-<programme channel="香港電台32" start="20261113142000 +0800" stop="20261113143000 +0800">
-<title lang="zh">國寶時刻</title>
-<desc lang="zh">銅坐龍</desc>
+<programme channel="香港電台32" start="20261113141500 +0800" stop="20261113143000 +0800">
+<title lang="zh">本地新聞</title>
+<desc lang="zh">本地新聞</desc>
 </programme>
 <programme channel="香港電台32" start="20261113143000 +0800" stop="20261113144000 +0800">
 <title lang="zh">新聞簡報</title>

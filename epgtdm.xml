@@ -71,10 +71,10 @@
   </programme>
   <programme start="20261113140000 +0800" stop="20261113150000 +0800" channel="澳視澳門 91台">
     <title lang="zh">每日財經</title>
-    <live/>
   </programme>
   <programme start="20261113150000 +0800" stop="20261113154000 +0800" channel="澳視澳門 91台">
     <title lang="zh">重播風火台</title>
+    <live/>
   </programme>
   <programme start="20261113154000 +0800" stop="20261113160000 +0800" channel="澳視澳門 91台">
     <title lang="zh">澳門早晨精華錄</title>
@@ -309,10 +309,10 @@
   </programme>
   <programme start="20261113143000 +0800" stop="20261113153000 +0800" channel="澳視葡文 92台">
     <title lang="zh">RTPi Directo</title>
-    <live/>
   </programme>
   <programme start="20261113153000 +0800" stop="20261113155500 +0800" channel="澳視葡文 92台">
     <title lang="zh">Saboroso à Portuguesa</title>
+    <live/>
   </programme>
   <programme start="20261113155500 +0800" stop="20261113164000 +0800" channel="澳視葡文 92台">
     <title lang="zh">Queridos Papás</title>
@@ -469,7 +469,6 @@
   </programme>
   <programme start="20261113140000 +0800" stop="20261113150000 +0800" channel="澳門資訊 94台">
     <title lang="zh">每日財經</title>
-    <live/>
   </programme>
   <programme start="20261113150000 +0800" stop="20261113152500 +0800" channel="澳門資訊 94台">
     <title lang="zh">新聞報道</title>
@@ -479,6 +478,7 @@
   </programme>
   <programme start="20261113153000 +0800" stop="20261113160000 +0800" channel="澳門資訊 94台">
     <title lang="zh">新聞報道</title>
+    <live/>
   </programme>
   <programme start="20261113160000 +0800" stop="20261113163000 +0800" channel="澳門資訊 94台">
     <title lang="zh">新聞報道</title>
@@ -731,10 +731,10 @@
   </programme>
   <programme start="20261113131500 +0800" stop="20261113152000 +0800" channel="澳門體育 93台">
     <title lang="zh">2026法國網球公開賽：男單8強</title>
-    <live/>
   </programme>
   <programme start="20261113152000 +0800" stop="20261113170000 +0800" channel="澳門體育 93台">
     <title lang="zh">2026法國網球公開賽：混雙決賽</title>
+    <live/>
   </programme>
   <programme start="20261113170000 +0800" stop="20261113174000 +0800" channel="澳門體育 93台">
     <title lang="zh">競健群英2026</title>
@@ -828,10 +828,10 @@
   </programme>
   <programme start="20261113130100 +0800" stop="20261113151300 +0800" channel="澳門綜藝 95台">
     <title lang="zh">好劇連場: 心靈法醫</title>
-    <live/>
   </programme>
   <programme start="20261113151300 +0800" stop="20261113155900 +0800" channel="澳門綜藝 95台">
     <title lang="zh">好劇連場: 鯤鵬擊浪</title>
+    <live/>
   </programme>
   <programme start="20261113155900 +0800" stop="20261113160500 +0800" channel="澳門綜藝 95台">
     <title lang="zh">國寶時刻</title>
@@ -1024,10 +1024,10 @@
   </programme>
   <programme start="20261113143000 +0800" stop="20261113145500 +0800" channel="澳門-Macau 96台">
     <title lang="zh">唐‧西豐味</title>
-    <live/>
   </programme>
   <programme start="20261113145500 +0800" stop="20261113154000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">葡語新聞</title>
+    <live/>
   </programme>
   <programme start="20261113154000 +0800" stop="20261113155500 +0800" channel="澳門-Macau 96台">
     <title lang="zh">天天成長記 第一至四季</title>
