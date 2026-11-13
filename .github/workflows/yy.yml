@@ -102,38 +102,7 @@ jobs:
           print("文件下載和解壓完成")
           EOF
 
-      # ---------- 3. 處理廣東 EPG ----------[span_4](start_span)[span_4](end_span)
-      - name: Process Guangdong EPG
-        id: guangdong_epg
-        run: |
-          echo "開始處理廣東 EPG..."
-          if [ -f "epgguangdong.xml" ]; then
-            echo "使用已下載的 epgguangdong.xml 文件"
-          else
-            echo "從 GitHub 下載廣東 EPG..."
-            curl -L -o epgguangdong.xml.gz https://raw.githubusercontent.com/litiande03/epg/refs/heads/master/pl.xml.gz || exit 1
-            if [ -f "epgguangdong.xml.gz" ]; then
-              gunzip -f epgguangdong.xml.gz
-              echo "廣東 EPG 下載並解壓完成"
-            else
-              echo "廣東 EPG 下載失敗"
-              echo "guangdong_processed=false" >> $GITHUB_OUTPUT
-              exit 0
-            fi
-          fi
-          if [ -f "epgguangdong.xml" ] && [ -f "convert.py" ]; then
-            echo "運行轉換腳本..."
-            python convert.py epgguangdong.xml
-            echo "廣東 EPG 處理完成"
-            echo "guangdong_processed=true" >> $GITHUB_OUTPUT
-            if [ -f "epgguangdong.xml" ]; then
-              gzip -k -f epgguangdong.xml
-              echo "重新生成 epgguangdong.xml.gz 用於上傳"
-            fi
-          else
-            echo "廣東 EPG 文件或轉換腳本不存在，跳過"
-            echo "guangdong_processed=false" >> $GITHUB_OUTPUT
-          fi
+    
 
       # ---------- 4. 檢查 PHP 腳本（用於生成其他 EPG） ----------[span_5](start_span)[span_5](end_span)
       - name: Check PHP scripts exist
@@ -238,7 +207,7 @@ jobs:
       - name: Check generated XML files
         id: check_xml
         run: |
-          declare -a expected_xml=("epgtdm.xml" "epghenan.xml" "singtel.xml" "epglotus.xml" "epgmyvideo.xml" "epgasia.xml" "epgindonesia.xml" "epgnew.xml" "epgnewshanghai23.xml"  "epgkankantv.xml" "epgsooka.xml" "epglaozhang.xml" "epgshandong.xml" "egkankantv.xml" "epglotus.xml" "epgkankanlive.xml" "epgbaidu.xml" "epghkst.xml" "epgtianying.xml" "epgfenghuangxiu.xml" "epgcatchplay.xml" "epgjiangsu.xml" "epganywhere.xml" "epg4gtv2.xml" "epgmytvsuper.xml" "epgrthk.xml" "epgeltatv.xml" "epgfujian.xml" "epgmbcae.xml" "epgcatchplay.xml" "epgofiii.xml" "epgtianying.xml" "epgcctv.xml" "epgdifang.xml" "epgzhongtianam.xml" "epgsingtel.xml" "epgguangdong.xml.gz" "epgunifi.xml" "epgkbsworld.xml" "epglifetv.xml" "epgguangdong.xml" "epgmacocable.xml" "epgdubaione.xml" "epgasia.xml" "epgdiyicaijing.xml" "epgastrogo.xml" "epgyidong.xml" "epgfenghuangxiu.xml" "epgshanghai.xml" "epgkai1.xml" "epgnewshanghai.xml" "epghebeiiptv1.xml" "epgnewhebei.xml" "epgnewguangdong.xml" "epgziyong.xml")
+          declare -a expected_xml=("epgtdm.xml" "epgguangdong.xmml" "epghenan.xml" "singtel.xml" "epglotus.xml" "epgmyvideo.xml" "epgasia.xml" "epgindonesia.xml" "epgnew.xml" "epgnewshanghai23.xml"  "epgkankantv.xml" "epgsooka.xml" "epglaozhang.xml" "epgshandong.xml" "egkankantv.xml" "epglotus.xml" "epgkankanlive.xml" "epgbaidu.xml" "epghkst.xml" "epgtianying.xml" "epgfenghuangxiu.xml" "epgcatchplay.xml" "epgjiangsu.xml" "epganywhere.xml" "epg4gtv2.xml" "epgmytvsuper.xml" "epgrthk.xml" "epgeltatv.xml" "epgfujian.xml" "epgmbcae.xml" "epgcatchplay.xml" "epgofiii.xml" "epgtianying.xml" "epgcctv.xml" "epgdifang.xml" "epgzhongtianam.xml" "epgsingtel.xml" "epgguangdong.xml.gz" "epgunifi.xml" "epgkbsworld.xml" "epglifetv.xml" "epgguangdong.xml" "epgmacocable.xml" "epgdubaione.xml" "epgasia.xml" "epgdiyicaijing.xml" "epgastrogo.xml" "epgyidong.xml" "epgfenghuangxiu.xml" "epgshanghai.xml" "epgkai1.xml" "epgnewshanghai.xml" "epghebeiiptv1.xml" "epgnewhebei.xml" "epgnewguangdong.xml" "epgziyong.xml")
           generated_files=()
           echo "檢查生成的 XML 文件..."
           for xml_file in "${expected_xml[@]}"; do
