@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="gdtv-epg" generator-info-url="https://www.gdtv.cn/">
+  <channel id="广东卫视">
+    <display-name lang="zh">广东卫视</display-name>
+  </channel>
+  <channel id="广东珠江">
+    <display-name lang="zh">广东珠江</display-name>
+  </channel>
+  <channel id="广东新闻">
+    <display-name lang="zh">广东新闻</display-name>
+  </channel>
+  <channel id="广东民生">
+    <display-name lang="zh">广东民生</display-name>
+  </channel>
+  <channel id="广东体育">
+    <display-name lang="zh">广东体育</display-name>
+  </channel>
+  <channel id="广东大湾区卫视">
+    <display-name lang="zh">广东大湾区卫视</display-name>
+  </channel>
+  <channel id="广东大湾区卫视海外版">
+    <display-name lang="zh">广东大湾区卫视海外版</display-name>
+  </channel>
+  <channel id="广东经济科教">
+    <display-name lang="zh">广东经济科教</display-name>
+  </channel>
+  <channel id="广东影视">
+    <display-name lang="zh">广东影视</display-name>
+  </channel>
+  <channel id="广东4K超高清">
+    <display-name lang="zh">广东4K超高清</display-name>
+  </channel>
+  <channel id="广东少儿">
+    <display-name lang="zh">广东少儿</display-name>
+  </channel>
+  <channel id="广东嘉佳卡通">
+    <display-name lang="zh">广东嘉佳卡通</display-name>
+  </channel>
+  <channel id="南方购物">
+    <display-name lang="zh">南方购物</display-name>
+  </channel>
+  <channel id="广东岭南戏曲">
+    <display-name lang="zh">广东岭南戏曲</display-name>
+  </channel>
+  <channel id="广东移动">
+    <display-name lang="zh">广东移动</display-name>
+  </channel>
+  <channel id="广东现代教育">
+    <display-name lang="zh">广东现代教育</display-name>
+  </channel>
+  <channel id="GRTN健康频道">
+    <display-name lang="zh">GRTN健康频道</display-name>
+  </channel>
+  <channel id="GRTN文化频道">
+    <display-name lang="zh">GRTN文化频道</display-name>
+  </channel>
+  <channel id="GRTN生活频道">
+    <display-name lang="zh">GRTN生活频道</display-name>
+  </channel>
+  <channel id="GRTN教育频道">
+    <display-name lang="zh">GRTN教育频道</display-name>
+  </channel>
+</tv>
