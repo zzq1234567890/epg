@@ -7495,9 +7495,15 @@
   <programme start="20261113153000 +0800" stop="20261113154000 +0800" channel="香港电台32">
     <title lang="zh">新闻简报</title>
   </programme>
-  <programme start="20261113154000 +0800" stop="20261113160000 +0800" channel="香港电台32">
+  <programme start="20261113154000 +0800" stop="20261113154200 +0800" channel="香港电台32">
     <title lang="zh">生活．健康．资讯</title>
-    <desc lang="zh">生活．健康．资讯</desc>
+  </programme>
+  <programme start="20261113154200 +0800" stop="20261113155700 +0800" channel="香港电台32">
+    <title lang="zh">本地新闻</title>
+    <desc lang="zh">本地新闻</desc>
+  </programme>
+  <programme start="20261113155700 +0800" stop="20261113160000 +0800" channel="香港电台32">
+    <title lang="zh">生活．健康．资讯</title>
   </programme>
   <programme start="20261113160000 +0800" stop="20261113161000 +0800" channel="香港电台32">
     <title lang="zh">新闻简报</title>
