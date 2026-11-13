@@ -29,7 +29,7 @@ $channel_map = array(
     'gdty'   => array('47',  '广东体育'),
     'nfws'   => array('51',  '广东大湾区卫视'),
     'dwqws2' => array('46',  '广东大湾区卫视海外版'),
-    'jjkj'   => array('49',  '广东经济科教'),
+    //'jjkj'   => array('49',  '广东经济科教'),
     'gdys'   => array('53',  '广东影视'),
     'gd4k'   => array('16',  '广东4K超高清'),
     'gdse'   => array('54',  '广东少儿'),
@@ -37,11 +37,11 @@ $channel_map = array(
     'nfgw'   => array('42',  '南方购物'),
     'lnxq'   => array('15',  '广东岭南戏曲'),
     'gdyd'   => array('74',  '广东移动'),
-    'xdjy'   => array('111', '广东现代教育'),
-    'gdjk'   => array('99',  'GRTN健康频道'),
-    'gdwh'   => array('75',  'GRTN文化频道'),
+    //'xdjy'   => array('111', '广东现代教育'),
+   // 'gdjk'   => array('99',  'GRTN健康频道'),
+   // 'gdwh'   => array('75',  'GRTN文化频道'),
     'gdsh'   => array('102', 'GRTN生活频道'),
-    'gdjy'   => array('104', 'GRTN教育频道'),
+   // 'gdjy'   => array('104', 'GRTN教育频道'),
 );
 
 /* -------------------- HTTP 请求 -------------------- */
