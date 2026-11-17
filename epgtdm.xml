@@ -44,7 +44,6 @@
   </programme>
   <programme start="20261117103000 +0800" stop="20261117110000 +0800" channel="澳視澳門 91台">
     <title lang="zh">重播風火台</title>
-    <live/>
   </programme>
   <programme start="20261117110000 +0800" stop="20261117111000 +0800" channel="澳視澳門 91台">
     <title lang="zh">橫琴攻略</title>
@@ -54,6 +53,7 @@
   </programme>
   <programme start="20261117111500 +0800" stop="20261117125000 +0800" channel="澳視澳門 91台">
     <title lang="zh">被遺忘的時光</title>
+    <live/>
   </programme>
   <programme start="20261117125000 +0800" stop="20261117131700 +0800" channel="澳視澳門 91台">
     <title lang="zh">超級巴斯德</title>
@@ -387,7 +387,6 @@
   </programme>
   <programme start="20261117103000 +0800" stop="20261117110000 +0800" channel="澳門資訊 94台">
     <title lang="zh">新聞報道</title>
-    <live/>
   </programme>
   <programme start="20261117110000 +0800" stop="20261117111200 +0800" channel="澳門資訊 94台">
     <title lang="zh">新聞報道</title>
@@ -400,6 +399,7 @@
   </programme>
   <programme start="20261117115000 +0800" stop="20261117120000 +0800" channel="澳門資訊 94台">
     <title lang="zh">澳門早晨精華篇</title>
+    <live/>
   </programme>
   <programme start="20261117120000 +0800" stop="20261117122000 +0800" channel="澳門資訊 94台">
     <title lang="zh">新聞報道</title>
@@ -643,10 +643,10 @@
   </programme>
   <programme start="20261117100000 +0800" stop="20261117112000 +0800" channel="澳門體育 93台">
     <title lang="zh">愛知．名古屋第20屆亞運會：男子長拳</title>
-    <live/>
   </programme>
   <programme start="20261117112000 +0800" stop="20261117130000 +0800" channel="澳門體育 93台">
     <title lang="zh">2026法國網球公開賽：男雙決賽</title>
+    <live/>
   </programme>
   <programme start="20261117130000 +0800" stop="20261117131500 +0800" channel="澳門體育 93台">
     <title lang="zh">體育新聞</title>
@@ -885,13 +885,13 @@
   </programme>
   <programme start="20261117103000 +0800" stop="20261117112000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">中華白海豚</title>
-    <live/>
   </programme>
   <programme start="20261117112000 +0800" stop="20261117115000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">唐‧西豐味</title>
   </programme>
   <programme start="20261117115000 +0800" stop="20261117122000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">美味緣是您</title>
+    <live/>
   </programme>
   <programme start="20261117122000 +0800" stop="20261117125000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">風火台</title>

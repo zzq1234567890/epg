@@ -372,6 +372,54 @@
   <channel id="海峽衛視">
     <display-name lang="zh">海峽衛視</display-name>
   </channel>
+  <channel id="河南衛視">
+    <display-name lang="zh">河南衛視</display-name>
+  </channel>
+  <channel id="河南都市">
+    <display-name lang="zh">河南都市</display-name>
+  </channel>
+  <channel id="河南民生">
+    <display-name lang="zh">河南民生</display-name>
+  </channel>
+  <channel id="河南法制">
+    <display-name lang="zh">河南法制</display-name>
+  </channel>
+  <channel id="河南電視劇">
+    <display-name lang="zh">河南電視劇</display-name>
+  </channel>
+  <channel id="河南新聞">
+    <display-name lang="zh">河南新聞</display-name>
+  </channel>
+  <channel id="河南歡騰購物">
+    <display-name lang="zh">河南歡騰購物</display-name>
+  </channel>
+  <channel id="河南公共">
+    <display-name lang="zh">河南公共</display-name>
+  </channel>
+  <channel id="河南鄉村">
+    <display-name lang="zh">河南鄉村</display-name>
+  </channel>
+  <channel id="河南國際">
+    <display-name lang="zh">河南國際</display-name>
+  </channel>
+  <channel id="河南梨園戲曲">
+    <display-name lang="zh">河南梨園戲曲</display-name>
+  </channel>
+  <channel id="河南文物寶庫">
+    <display-name lang="zh">河南文物寶庫</display-name>
+  </channel>
+  <channel id="河南武術">
+    <display-name lang="zh">河南武術</display-name>
+  </channel>
+  <channel id="河南晴彩中原">
+    <display-name lang="zh">河南晴彩中原</display-name>
+  </channel>
+  <channel id="河南移動戲曲">
+    <display-name lang="zh">河南移動戲曲</display-name>
+  </channel>
+  <channel id="河南象世界">
+    <display-name lang="zh">河南象世界</display-name>
+  </channel>
   <channel id="tvN Asia">
     <display-name lang="">tvN Asia</display-name>
   </channel>
@@ -875,9 +923,6 @@
   </channel>
   <channel id="四川衛視">
     <display-name lang="zh">四川衛視</display-name>
-  </channel>
-  <channel id="河南衛視">
-    <display-name lang="zh">河南衛視</display-name>
   </channel>
   <channel id="東南衛視">
     <display-name lang="zh">東南衛視</display-name>
@@ -7152,6 +7197,7 @@
   </programme>
   <programme start="20261118202500 +0800" stop="20261118203000 +0800" channel="香港電台31">
     <title lang="zh">政正關你事</title>
+    <desc lang="zh">土木工程拓展署：中九龍繞道（九龍灣段）- 建造創新篇</desc>
   </programme>
   <programme start="20261118203000 +0800" stop="20261118212500 +0800" channel="香港電台31">
     <title lang="zh">家事法庭</title>
@@ -7159,6 +7205,7 @@
   </programme>
   <programme start="20261118212500 +0800" stop="20261118213000 +0800" channel="香港電台31">
     <title lang="zh">政正關你事</title>
+    <desc lang="zh">土木工程拓展署：中九龍繞道（九龍灣段）- 建造創新篇</desc>
   </programme>
   <programme start="20261118213000 +0800" stop="20261118220000 +0800" channel="香港電台31">
     <title lang="zh">醫生與你</title>
@@ -7183,6 +7230,7 @@
   </programme>
   <programme start="20261117001000 +0800" stop="20261117010000 +0800" channel="香港電台32">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
   </programme>
   <programme start="20261117010000 +0800" stop="20261117013000 +0800" channel="香港電台32">
     <title lang="zh">看神州</title>
@@ -7194,6 +7242,7 @@
   </programme>
   <programme start="20261117020000 +0800" stop="20261117073500 +0800" channel="香港電台32">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
   </programme>
   <programme start="20261117073500 +0800" stop="20261117074000 +0800" channel="香港電台32">
     <title lang="zh">IP 新機遇</title>
@@ -7201,8 +7250,25 @@
   </programme>
   <programme start="20261117074000 +0800" stop="20261117080500 +0800" channel="香港電台32">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
   </programme>
-  <programme start="20261117080500 +0800" stop="20261117100000 +0800" channel="香港電台32">
+  <programme start="20261117080500 +0800" stop="20261117090500 +0800" channel="香港電台32">
+    <title lang="zh">千禧年代</title>
+    <desc lang="zh">千禧年代 11月17日</desc>
+  </programme>
+  <programme start="20261117090500 +0800" stop="20261117090600 +0800" channel="香港電台32">
+    <title lang="zh">寰宇直播</title>
+    <desc lang="zh">寰宇直播</desc>
+  </programme>
+  <programme start="20261117090600 +0800" stop="20261117091800 +0800" channel="香港電台32">
+    <title lang="zh">寰宇直播</title>
+    <desc lang="zh">寰宇直播</desc>
+  </programme>
+  <programme start="20261117091800 +0800" stop="20261117095200 +0800" channel="香港電台32">
+    <title lang="zh">寰宇直播</title>
+    <desc lang="zh">寰宇直播</desc>
+  </programme>
+  <programme start="20261117095200 +0800" stop="20261117100000 +0800" channel="香港電台32">
     <title lang="zh">千禧年代</title>
     <desc lang="zh">千禧年代 11月17日</desc>
   </programme>
@@ -7214,6 +7280,7 @@
   </programme>
   <programme start="20261117111000 +0800" stop="20261117112000 +0800" channel="香港電台32">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
   </programme>
   <programme start="20261117112000 +0800" stop="20261117113000 +0800" channel="香港電台32">
     <title lang="zh">國寶時刻</title>
@@ -7224,12 +7291,14 @@
   </programme>
   <programme start="20261117114000 +0800" stop="20261117120000 +0800" channel="香港電台32">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
   </programme>
   <programme start="20261117120000 +0800" stop="20261117121000 +0800" channel="香港電台32">
     <title lang="zh">新聞簡報</title>
   </programme>
   <programme start="20261117121000 +0800" stop="20261117122000 +0800" channel="香港電台32">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
   </programme>
   <programme start="20261117122000 +0800" stop="20261117123000 +0800" channel="香港電台32">
     <title lang="zh">國寶時刻</title>
@@ -7240,12 +7309,14 @@
   </programme>
   <programme start="20261117124000 +0800" stop="20261117130000 +0800" channel="香港電台32">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
   </programme>
   <programme start="20261117130000 +0800" stop="20261117130700 +0800" channel="香港電台32">
     <title lang="zh">新聞簡報</title>
   </programme>
   <programme start="20261117130700 +0800" stop="20261117132000 +0800" channel="香港電台32">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
   </programme>
   <programme start="20261117132000 +0800" stop="20261117133000 +0800" channel="香港電台32">
     <title lang="zh">國寶時刻</title>
@@ -7256,12 +7327,14 @@
   </programme>
   <programme start="20261117133700 +0800" stop="20261117140000 +0800" channel="香港電台32">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
   </programme>
   <programme start="20261117140000 +0800" stop="20261117141000 +0800" channel="香港電台32">
     <title lang="zh">新聞簡報</title>
   </programme>
   <programme start="20261117141000 +0800" stop="20261117142000 +0800" channel="香港電台32">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
   </programme>
   <programme start="20261117142000 +0800" stop="20261117143000 +0800" channel="香港電台32">
     <title lang="zh">國寶時刻</title>
@@ -7272,12 +7345,14 @@
   </programme>
   <programme start="20261117144000 +0800" stop="20261117150000 +0800" channel="香港電台32">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
   </programme>
   <programme start="20261117150000 +0800" stop="20261117151000 +0800" channel="香港電台32">
     <title lang="zh">新聞簡報</title>
   </programme>
   <programme start="20261117151000 +0800" stop="20261117152000 +0800" channel="香港電台32">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
   </programme>
   <programme start="20261117152000 +0800" stop="20261117153000 +0800" channel="香港電台32">
     <title lang="zh">國寶時刻</title>
@@ -7288,6 +7363,7 @@
   </programme>
   <programme start="20261117154000 +0800" stop="20261117160000 +0800" channel="香港電台32">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
   </programme>
   <programme start="20261117160000 +0800" stop="20261117161000 +0800" channel="香港電台32">
     <title lang="zh">新聞簡報</title>
@@ -7306,6 +7382,7 @@
   </programme>
   <programme start="20261117171000 +0800" stop="20261117172000 +0800" channel="香港電台32">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
   </programme>
   <programme start="20261117172000 +0800" stop="20261117173000 +0800" channel="香港電台32">
     <title lang="zh">國寶時刻</title>
@@ -7316,12 +7393,14 @@
   </programme>
   <programme start="20261117174000 +0800" stop="20261117180000 +0800" channel="香港電台32">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
   </programme>
   <programme start="20261117180000 +0800" stop="20261117181000 +0800" channel="香港電台32">
     <title lang="zh">新聞簡報</title>
   </programme>
   <programme start="20261117181000 +0800" stop="20261117182000 +0800" channel="香港電台32">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
   </programme>
   <programme start="20261117182000 +0800" stop="20261117183000 +0800" channel="香港電台32">
     <title lang="zh">國寶時刻</title>
@@ -7332,6 +7411,7 @@
   </programme>
   <programme start="20261117184000 +0800" stop="20261117190000 +0800" channel="香港電台32">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
   </programme>
   <programme start="20261117190000 +0800" stop="20261117193000 +0800" channel="香港電台32">
     <title lang="zh">新聞天地</title>
@@ -7352,6 +7432,7 @@
   </programme>
   <programme start="20261117210000 +0800" stop="20261117211000 +0800" channel="香港電台32">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
   </programme>
   <programme start="20261117211000 +0800" stop="20261117212000 +0800" channel="香港電台32">
     <title lang="zh">IP 新機遇 (普通話版)</title>
@@ -7359,12 +7440,14 @@
   </programme>
   <programme start="20261117212000 +0800" stop="20261117212500 +0800" channel="香港電台32">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
   </programme>
   <programme start="20261117212500 +0800" stop="20261117231500 +0800" channel="香港電台32">
     <title lang="zh">《APEC“中國年”深圳時刻》全媒體大直播</title>
   </programme>
   <programme start="20261117231500 +0800" stop="20261117233000 +0800" channel="香港電台32">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
   </programme>
   <programme start="20261117233000 +0800" stop="20261118000000 +0800" channel="香港電台32">
     <title lang="zh">時事脈動</title>
@@ -7524,6 +7607,7 @@
   </programme>
   <programme start="20261118232000 +0800" stop="20261118233000 +0800" channel="香港電台32">
     <title lang="zh">政正關你事</title>
+    <desc lang="zh">土木工程拓展署：中九龍繞道（九龍灣段）- 建造創新篇</desc>
   </programme>
   <programme start="20261118233000 +0800" stop="20261119000000 +0800" channel="香港電台32">
     <title lang="zh">時事脈動</title>
@@ -12298,6 +12382,9 @@
   </programme>
   <programme start="20261117063000 +0800" stop="20261117072000 +0800" channel="廣東新聞">
     <title lang="zh">並機廣東衛視(廣東新聞聯播重播--天涯共此時)</title>
+  </programme>
+  <programme start="20261118062800 +0800" stop="20261118071800 +0800" channel="廣東新聞">
+    <title lang="zh">並機廣東衛視</title>
   </programme>
   <programme start="20261117070500 +0800" stop="20261117080500 +0800" channel="廣東民生">
     <title lang="zh">DV現場</title>

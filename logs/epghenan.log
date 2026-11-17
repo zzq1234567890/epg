@@ -1,1 +1,672 @@
-已生成 /home/runner/work/epg/epg/epghenan.xml（293 bytes）
+* Host api.cmc.hebtv.com:443 was resolved.
+* IPv6: 2402:4e00:1220:1500:0:99a2:8997:181f
+* IPv4: 49.233.240.19
+*   Trying 49.233.240.19:443...
+*   Trying [2402:4e00:1220:1500:0:99a2:8997:181f]:443...
+* Immediate connect fail for 2402:4e00:1220:1500:0:99a2:8997:181f: Network is unreachable
+* Connected to api.cmc.hebtv.com (49.233.240.19) port 443
+* ALPN: curl offers h2,http/1.1
+* SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384 / X25519 / RSASSA-PSS
+* ALPN: server accepted http/1.1
+* Server certificate:
+*  subject: CN=*.cmc.hebtv.com
+*  start date: Oct  3 00:00:00 2026 GMT
+*  expire date: Apr 19 23:59:59 2027 GMT
+*  issuer: C=CN; O=WoTrus CA Limited; CN=WoTrus RSA DV SSL CA 2
+*  SSL certificate verify result: self-signed certificate in certificate chain (19), continuing anyway.
+*   Certificate level 0: Public key type RSA (2048/112 Bits/secBits), signed using sha256WithRSAEncryption
+*   Certificate level 1: Public key type RSA (3072/128 Bits/secBits), signed using sha384WithRSAEncryption
+*   Certificate level 2: Public key type RSA (4096/152 Bits/secBits), signed using sha384WithRSAEncryption
+*   Certificate level 3: Public key type RSA (4096/152 Bits/secBits), signed using sha384WithRSAEncryption
+* using HTTP/1.x
+> OPTIONS /appapi/api/content/get-live-info HTTP/1.1
+Host: api.cmc.hebtv.com
+Accept: */*
+
+< HTTP/1.1 405 Method Not Allowed
+< Date: Tue, 17 Nov 2026 03:52:17 GMT
+< Content-Type: text/html; charset=UTF-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Allow: GET, POST
+< Cache-Control: no-cache, private
+< Set-Cookie: laravel_session=pziWKpagJqrzKrm8WYR8x5bm0wdtuixYjORflsbe; expires=Tue, 17-Nov-2026 03:54:17 GMT; Max-Age=120; path=/; httponly
+< vary: Origin
+< Access-Control-Allow-Origin: *
+< X-Kong-Upstream-Latency: 56
+< X-Kong-Proxy-Latency: 8
+< Via: kong/2.5.0
+< X-WAF-UUID: 710f05667c981faab35e5a4380ae7a14-e3723b589cc1f305e95d1129be8347ef
+< 
+* Excess found: excess = 1621 url = /appapi/api/content/get-live-info (zero-length body)
+* Connection #0 to host api.cmc.hebtv.com left intact
+* Host api.cmc.hebtv.com:443 was resolved.
+* IPv6: 2402:4e00:1220:1500:0:99a2:8997:181f
+* IPv4: 49.233.240.19
+*   Trying 49.233.240.19:443...
+*   Trying [2402:4e00:1220:1500:0:99a2:8997:181f]:443...
+* Immediate connect fail for 2402:4e00:1220:1500:0:99a2:8997:181f: Network is unreachable
+* Connected to api.cmc.hebtv.com (49.233.240.19) port 443
+* ALPN: curl offers h2,http/1.1
+* SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384 / X25519 / RSASSA-PSS
+* ALPN: server accepted http/1.1
+* Server certificate:
+*  subject: CN=*.cmc.hebtv.com
+*  start date: Oct  3 00:00:00 2026 GMT
+*  expire date: Apr 19 23:59:59 2027 GMT
+*  issuer: C=CN; O=WoTrus CA Limited; CN=WoTrus RSA DV SSL CA 2
+*  SSL certificate verify result: self-signed certificate in certificate chain (19), continuing anyway.
+*   Certificate level 0: Public key type RSA (2048/112 Bits/secBits), signed using sha256WithRSAEncryption
+*   Certificate level 1: Public key type RSA (3072/128 Bits/secBits), signed using sha384WithRSAEncryption
+*   Certificate level 2: Public key type RSA (4096/152 Bits/secBits), signed using sha384WithRSAEncryption
+*   Certificate level 3: Public key type RSA (4096/152 Bits/secBits), signed using sha384WithRSAEncryption
+* using HTTP/1.x
+> OPTIONS /appapi/api/content/get-live-info HTTP/1.1
+Host: api.cmc.hebtv.com
+Accept: */*
+
+< HTTP/1.1 405 Method Not Allowed
+< Date: Tue, 17 Nov 2026 03:52:18 GMT
+< Content-Type: text/html; charset=UTF-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Allow: GET, POST
+< Cache-Control: no-cache, private
+< Set-Cookie: laravel_session=XzZZm775AeVODaqTecxwC19fJirbWo8zAHK90R3C; expires=Tue, 17-Nov-2026 03:54:18 GMT; Max-Age=120; path=/; httponly
+< vary: Origin
+< Access-Control-Allow-Origin: *
+< X-Kong-Upstream-Latency: 68
+< X-Kong-Proxy-Latency: 8
+< Via: kong/2.5.0
+< X-WAF-UUID: 3768a2331c805dbb2782c2d50f119c8b-5d864f48ce0a2122b47fb22b0a8d6845
+< 
+* Excess found: excess = 1621 url = /appapi/api/content/get-live-info (zero-length body)
+* Connection #0 to host api.cmc.hebtv.com left intact
+* Host api.cmc.hebtv.com:443 was resolved.
+* IPv6: 2402:4e00:1220:1500:0:99a2:8997:181f
+* IPv4: 49.233.240.19
+*   Trying 49.233.240.19:443...
+*   Trying [2402:4e00:1220:1500:0:99a2:8997:181f]:443...
+* Immediate connect fail for 2402:4e00:1220:1500:0:99a2:8997:181f: Network is unreachable
+* Connected to api.cmc.hebtv.com (49.233.240.19) port 443
+* ALPN: curl offers h2,http/1.1
+* SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384 / X25519 / RSASSA-PSS
+* ALPN: server accepted http/1.1
+* Server certificate:
+*  subject: CN=*.cmc.hebtv.com
+*  start date: Oct  3 00:00:00 2026 GMT
+*  expire date: Apr 19 23:59:59 2027 GMT
+*  issuer: C=CN; O=WoTrus CA Limited; CN=WoTrus RSA DV SSL CA 2
+*  SSL certificate verify result: self-signed certificate in certificate chain (19), continuing anyway.
+*   Certificate level 0: Public key type RSA (2048/112 Bits/secBits), signed using sha256WithRSAEncryption
+*   Certificate level 1: Public key type RSA (3072/128 Bits/secBits), signed using sha384WithRSAEncryption
+*   Certificate level 2: Public key type RSA (4096/152 Bits/secBits), signed using sha384WithRSAEncryption
+*   Certificate level 3: Public key type RSA (4096/152 Bits/secBits), signed using sha384WithRSAEncryption
+* using HTTP/1.x
+> OPTIONS /appapi/api/content/get-live-info HTTP/1.1
+Host: api.cmc.hebtv.com
+Accept: */*
+
+< HTTP/1.1 405 Method Not Allowed
+< Date: Tue, 17 Nov 2026 03:52:19 GMT
+< Content-Type: text/html; charset=UTF-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Allow: GET, POST
+< Cache-Control: no-cache, private
+< Set-Cookie: laravel_session=5ROUut6cgTGDjiWFBps6Mir9rxCuCrvo6HlRhOh7; expires=Tue, 17-Nov-2026 03:54:19 GMT; Max-Age=120; path=/; httponly
+< vary: Origin
+< Access-Control-Allow-Origin: *
+< X-Kong-Upstream-Latency: 41
+< X-Kong-Proxy-Latency: 32
+< Via: kong/2.5.0
+< X-WAF-UUID: 59cb547aa15cea2c2508939730b0d0ff-072f2aaf2f1666606711c3ef00d3bfcc
+< 
+* Excess found: excess = 1621 url = /appapi/api/content/get-live-info (zero-length body)
+* Connection #0 to host api.cmc.hebtv.com left intact
+* Host api.cmc.hebtv.com:443 was resolved.
+* IPv6: 2402:4e00:1220:1500:0:99a2:8997:181f
+* IPv4: 49.233.240.19
+*   Trying 49.233.240.19:443...
+*   Trying [2402:4e00:1220:1500:0:99a2:8997:181f]:443...
+* Immediate connect fail for 2402:4e00:1220:1500:0:99a2:8997:181f: Network is unreachable
+* Connected to api.cmc.hebtv.com (49.233.240.19) port 443
+* ALPN: curl offers h2,http/1.1
+* SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384 / X25519 / RSASSA-PSS
+* ALPN: server accepted http/1.1
+* Server certificate:
+*  subject: CN=*.cmc.hebtv.com
+*  start date: Oct  3 00:00:00 2026 GMT
+*  expire date: Apr 19 23:59:59 2027 GMT
+*  issuer: C=CN; O=WoTrus CA Limited; CN=WoTrus RSA DV SSL CA 2
+*  SSL certificate verify result: self-signed certificate in certificate chain (19), continuing anyway.
+*   Certificate level 0: Public key type RSA (2048/112 Bits/secBits), signed using sha256WithRSAEncryption
+*   Certificate level 1: Public key type RSA (3072/128 Bits/secBits), signed using sha384WithRSAEncryption
+*   Certificate level 2: Public key type RSA (4096/152 Bits/secBits), signed using sha384WithRSAEncryption
+*   Certificate level 3: Public key type RSA (4096/152 Bits/secBits), signed using sha384WithRSAEncryption
+* using HTTP/1.x
+> OPTIONS /appapi/api/content/get-live-info HTTP/1.1
+Host: api.cmc.hebtv.com
+Accept: */*
+
+< HTTP/1.1 405 Method Not Allowed
+< Date: Tue, 17 Nov 2026 03:52:21 GMT
+< Content-Type: text/html; charset=UTF-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Allow: GET, POST
+< Cache-Control: no-cache, private
+< Set-Cookie: laravel_session=l3wmQxKJ9xe2uTgjfG1vhxKrVUmrN8NWIPyBHSan; expires=Tue, 17-Nov-2026 03:54:21 GMT; Max-Age=120; path=/; httponly
+< vary: Origin
+< Access-Control-Allow-Origin: *
+< X-Kong-Upstream-Latency: 46
+< X-Kong-Proxy-Latency: 2
+< Via: kong/2.5.0
+< X-WAF-UUID: d15ed9e63edd6a47c9f492a537623fc8-bec334677c8c042d9e18e9cfef7155af
+< 
+* Excess found: excess = 1621 url = /appapi/api/content/get-live-info (zero-length body)
+* Connection #0 to host api.cmc.hebtv.com left intact
+* Host api.cmc.hebtv.com:443 was resolved.
+* IPv6: 2402:4e00:1220:1500:0:99a2:8997:181f
+* IPv4: 49.233.240.19
+*   Trying 49.233.240.19:443...
+*   Trying [2402:4e00:1220:1500:0:99a2:8997:181f]:443...
+* Immediate connect fail for 2402:4e00:1220:1500:0:99a2:8997:181f: Network is unreachable
+* Connected to api.cmc.hebtv.com (49.233.240.19) port 443
+* ALPN: curl offers h2,http/1.1
+* SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384 / X25519 / RSASSA-PSS
+* ALPN: server accepted http/1.1
+* Server certificate:
+*  subject: CN=*.cmc.hebtv.com
+*  start date: Oct  3 00:00:00 2026 GMT
+*  expire date: Apr 19 23:59:59 2027 GMT
+*  issuer: C=CN; O=WoTrus CA Limited; CN=WoTrus RSA DV SSL CA 2
+*  SSL certificate verify result: self-signed certificate in certificate chain (19), continuing anyway.
+*   Certificate level 0: Public key type RSA (2048/112 Bits/secBits), signed using sha256WithRSAEncryption
+*   Certificate level 1: Public key type RSA (3072/128 Bits/secBits), signed using sha384WithRSAEncryption
+*   Certificate level 2: Public key type RSA (4096/152 Bits/secBits), signed using sha384WithRSAEncryption
+*   Certificate level 3: Public key type RSA (4096/152 Bits/secBits), signed using sha384WithRSAEncryption
+* using HTTP/1.x
+> OPTIONS /appapi/api/content/get-live-info HTTP/1.1
+Host: api.cmc.hebtv.com
+Accept: */*
+
+< HTTP/1.1 405 Method Not Allowed
+< Date: Tue, 17 Nov 2026 03:52:22 GMT
+< Content-Type: text/html; charset=UTF-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Allow: GET, POST
+< Cache-Control: no-cache, private
+< Set-Cookie: laravel_session=MsRDeLiRVzqWkEyz1wF6V60o8gwpF7I5GQLhDRG3; expires=Tue, 17-Nov-2026 03:54:22 GMT; Max-Age=120; path=/; httponly
+< vary: Origin
+< Access-Control-Allow-Origin: *
+< X-Kong-Upstream-Latency: 57
+< X-Kong-Proxy-Latency: 12
+< Via: kong/2.5.0
+< X-WAF-UUID: 0b5d236bc3611e2e8e3b9393be12b995-b35bb8ea09c8106cdff627b0318ab7f7
+< 
+* Excess found: excess = 1621 url = /appapi/api/content/get-live-info (zero-length body)
+* Connection #0 to host api.cmc.hebtv.com left intact
+* Host api.cmc.hebtv.com:443 was resolved.
+* IPv6: 2402:4e00:1220:1500:0:99a2:8997:181f
+* IPv4: 49.233.240.19
+*   Trying 49.233.240.19:443...
+*   Trying [2402:4e00:1220:1500:0:99a2:8997:181f]:443...
+* Immediate connect fail for 2402:4e00:1220:1500:0:99a2:8997:181f: Network is unreachable
+* Connected to api.cmc.hebtv.com (49.233.240.19) port 443
+* ALPN: curl offers h2,http/1.1
+* SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384 / X25519 / RSASSA-PSS
+* ALPN: server accepted http/1.1
+* Server certificate:
+*  subject: CN=*.cmc.hebtv.com
+*  start date: Oct  3 00:00:00 2026 GMT
+*  expire date: Apr 19 23:59:59 2027 GMT
+*  issuer: C=CN; O=WoTrus CA Limited; CN=WoTrus RSA DV SSL CA 2
+*  SSL certificate verify result: self-signed certificate in certificate chain (19), continuing anyway.
+*   Certificate level 0: Public key type RSA (2048/112 Bits/secBits), signed using sha256WithRSAEncryption
+*   Certificate level 1: Public key type RSA (3072/128 Bits/secBits), signed using sha384WithRSAEncryption
+*   Certificate level 2: Public key type RSA (4096/152 Bits/secBits), signed using sha384WithRSAEncryption
+*   Certificate level 3: Public key type RSA (4096/152 Bits/secBits), signed using sha384WithRSAEncryption
+* using HTTP/1.x
+> OPTIONS /appapi/api/content/get-live-info HTTP/1.1
+Host: api.cmc.hebtv.com
+Accept: */*
+
+< HTTP/1.1 405 Method Not Allowed
+< Date: Tue, 17 Nov 2026 03:52:23 GMT
+< Content-Type: text/html; charset=UTF-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Allow: GET, POST
+< Cache-Control: no-cache, private
+< Set-Cookie: laravel_session=D9Jie3I5xb3X6IGxRelxXn0YX8x7BXGip0Jy5HiD; expires=Tue, 17-Nov-2026 03:54:23 GMT; Max-Age=120; path=/; httponly
+< vary: Origin
+< Access-Control-Allow-Origin: *
+< X-Kong-Upstream-Latency: 55
+< X-Kong-Proxy-Latency: 2
+< Via: kong/2.5.0
+< X-WAF-UUID: 9bcfc5b9c5e114f97e69b3915d6d423e-70e0ece566af86b9a83b761f32511a21
+< 
+* Excess found: excess = 1621 url = /appapi/api/content/get-live-info (zero-length body)
+* Connection #0 to host api.cmc.hebtv.com left intact
+* Host api.cmc.hebtv.com:443 was resolved.
+* IPv6: 2402:4e00:1220:1500:0:99a2:8997:181f
+* IPv4: 49.233.240.19
+*   Trying 49.233.240.19:443...
+*   Trying [2402:4e00:1220:1500:0:99a2:8997:181f]:443...
+* Immediate connect fail for 2402:4e00:1220:1500:0:99a2:8997:181f: Network is unreachable
+* Connected to api.cmc.hebtv.com (49.233.240.19) port 443
+* ALPN: curl offers h2,http/1.1
+* SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384 / X25519 / RSASSA-PSS
+* ALPN: server accepted http/1.1
+* Server certificate:
+*  subject: CN=*.cmc.hebtv.com
+*  start date: Oct  3 00:00:00 2026 GMT
+*  expire date: Apr 19 23:59:59 2027 GMT
+*  issuer: C=CN; O=WoTrus CA Limited; CN=WoTrus RSA DV SSL CA 2
+*  SSL certificate verify result: self-signed certificate in certificate chain (19), continuing anyway.
+*   Certificate level 0: Public key type RSA (2048/112 Bits/secBits), signed using sha256WithRSAEncryption
+*   Certificate level 1: Public key type RSA (3072/128 Bits/secBits), signed using sha384WithRSAEncryption
+*   Certificate level 2: Public key type RSA (4096/152 Bits/secBits), signed using sha384WithRSAEncryption
+*   Certificate level 3: Public key type RSA (4096/152 Bits/secBits), signed using sha384WithRSAEncryption
+* using HTTP/1.x
+> OPTIONS /appapi/api/content/get-live-info HTTP/1.1
+Host: api.cmc.hebtv.com
+Accept: */*
+
+< HTTP/1.1 405 Method Not Allowed
+< Date: Tue, 17 Nov 2026 03:52:25 GMT
+< Content-Type: text/html; charset=UTF-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Allow: GET, POST
+< Cache-Control: no-cache, private
+< Set-Cookie: laravel_session=63s9OcaDnFmgHprSBkJWcUwgRbsoPcwwzDLcxvVW; expires=Tue, 17-Nov-2026 03:54:25 GMT; Max-Age=120; path=/; httponly
+< vary: Origin
+< Access-Control-Allow-Origin: *
+< X-Kong-Upstream-Latency: 43
+< X-Kong-Proxy-Latency: 10
+< Via: kong/2.5.0
+< X-WAF-UUID: a0f2681718dab60e30b8c671ebf1e6e6-7f0c0e9ce94f33d80e3cde97f326765f
+< 
+* Excess found: excess = 1621 url = /appapi/api/content/get-live-info (zero-length body)
+* Connection #0 to host api.cmc.hebtv.com left intact
+* Host api.cmc.hebtv.com:443 was resolved.
+* IPv6: 2402:4e00:1220:1500:0:99a2:8997:181f
+* IPv4: 49.233.240.19
+*   Trying 49.233.240.19:443...
+*   Trying [2402:4e00:1220:1500:0:99a2:8997:181f]:443...
+* Immediate connect fail for 2402:4e00:1220:1500:0:99a2:8997:181f: Network is unreachable
+* Connected to api.cmc.hebtv.com (49.233.240.19) port 443
+* ALPN: curl offers h2,http/1.1
+* SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384 / X25519 / RSASSA-PSS
+* ALPN: server accepted http/1.1
+* Server certificate:
+*  subject: CN=*.cmc.hebtv.com
+*  start date: Oct  3 00:00:00 2026 GMT
+*  expire date: Apr 19 23:59:59 2027 GMT
+*  issuer: C=CN; O=WoTrus CA Limited; CN=WoTrus RSA DV SSL CA 2
+*  SSL certificate verify result: self-signed certificate in certificate chain (19), continuing anyway.
+*   Certificate level 0: Public key type RSA (2048/112 Bits/secBits), signed using sha256WithRSAEncryption
+*   Certificate level 1: Public key type RSA (3072/128 Bits/secBits), signed using sha384WithRSAEncryption
+*   Certificate level 2: Public key type RSA (4096/152 Bits/secBits), signed using sha384WithRSAEncryption
+*   Certificate level 3: Public key type RSA (4096/152 Bits/secBits), signed using sha384WithRSAEncryption
+* using HTTP/1.x
+> OPTIONS /appapi/api/content/get-live-info HTTP/1.1
+Host: api.cmc.hebtv.com
+Accept: */*
+
+< HTTP/1.1 405 Method Not Allowed
+< Date: Tue, 17 Nov 2026 03:52:26 GMT
+< Content-Type: text/html; charset=UTF-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Allow: GET, POST
+< Cache-Control: no-cache, private
+< Set-Cookie: laravel_session=wHGkzQPCcI7WrB3jBxkpENwu3MX32uDUhCDUkvun; expires=Tue, 17-Nov-2026 03:54:26 GMT; Max-Age=120; path=/; httponly
+< vary: Origin
+< Access-Control-Allow-Origin: *
+< X-Kong-Upstream-Latency: 64
+< X-Kong-Proxy-Latency: 12
+< Via: kong/2.5.0
+< X-WAF-UUID: d7e2c8f738c8ea63928264ab50f72927-c7748350a6126a82c48474aaf08cf44a
+< 
+* Excess found: excess = 1621 url = /appapi/api/content/get-live-info (zero-length body)
+* Connection #0 to host api.cmc.hebtv.com left intact
+* Host api.cmc.hebtv.com:443 was resolved.
+* IPv6: 2402:4e00:1220:1500:0:99a2:8997:181f
+* IPv4: 49.233.240.19
+*   Trying 49.233.240.19:443...
+*   Trying [2402:4e00:1220:1500:0:99a2:8997:181f]:443...
+* Immediate connect fail for 2402:4e00:1220:1500:0:99a2:8997:181f: Network is unreachable
+* Connected to api.cmc.hebtv.com (49.233.240.19) port 443
+* ALPN: curl offers h2,http/1.1
+* SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384 / X25519 / RSASSA-PSS
+* ALPN: server accepted http/1.1
+* Server certificate:
+*  subject: CN=*.cmc.hebtv.com
+*  start date: Oct  3 00:00:00 2026 GMT
+*  expire date: Apr 19 23:59:59 2027 GMT
+*  issuer: C=CN; O=WoTrus CA Limited; CN=WoTrus RSA DV SSL CA 2
+*  SSL certificate verify result: self-signed certificate in certificate chain (19), continuing anyway.
+*   Certificate level 0: Public key type RSA (2048/112 Bits/secBits), signed using sha256WithRSAEncryption
+*   Certificate level 1: Public key type RSA (3072/128 Bits/secBits), signed using sha384WithRSAEncryption
+*   Certificate level 2: Public key type RSA (4096/152 Bits/secBits), signed using sha384WithRSAEncryption
+*   Certificate level 3: Public key type RSA (4096/152 Bits/secBits), signed using sha384WithRSAEncryption
+* using HTTP/1.x
+> OPTIONS /appapi/api/content/get-live-info HTTP/1.1
+Host: api.cmc.hebtv.com
+Accept: */*
+
+< HTTP/1.1 405 Method Not Allowed
+< Date: Tue, 17 Nov 2026 03:52:28 GMT
+< Content-Type: text/html; charset=UTF-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Allow: GET, POST
+< Cache-Control: no-cache, private
+< Set-Cookie: laravel_session=PUSOS5aayywQZ1yfmmCFauUSWGiJPmLiZYYo38z4; expires=Tue, 17-Nov-2026 03:54:28 GMT; Max-Age=120; path=/; httponly
+< vary: Origin
+< Access-Control-Allow-Origin: *
+< X-Kong-Upstream-Latency: 40
+< X-Kong-Proxy-Latency: 7
+< Via: kong/2.5.0
+< X-WAF-UUID: 3c054b3a82051a32b51359bda93eac65-1d5883d217deba19554505eb8298660e
+< 
+* Excess found: excess = 1621 url = /appapi/api/content/get-live-info (zero-length body)
+* Connection #0 to host api.cmc.hebtv.com left intact
+* Host api.cmc.hebtv.com:443 was resolved.
+* IPv6: 2402:4e00:1220:1500:0:99a2:8997:181f
+* IPv4: 49.233.240.19
+*   Trying 49.233.240.19:443...
+*   Trying [2402:4e00:1220:1500:0:99a2:8997:181f]:443...
+* Immediate connect fail for 2402:4e00:1220:1500:0:99a2:8997:181f: Network is unreachable
+* Connected to api.cmc.hebtv.com (49.233.240.19) port 443
+* ALPN: curl offers h2,http/1.1
+* SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384 / X25519 / RSASSA-PSS
+* ALPN: server accepted http/1.1
+* Server certificate:
+*  subject: CN=*.cmc.hebtv.com
+*  start date: Oct  3 00:00:00 2026 GMT
+*  expire date: Apr 19 23:59:59 2027 GMT
+*  issuer: C=CN; O=WoTrus CA Limited; CN=WoTrus RSA DV SSL CA 2
+*  SSL certificate verify result: self-signed certificate in certificate chain (19), continuing anyway.
+*   Certificate level 0: Public key type RSA (2048/112 Bits/secBits), signed using sha256WithRSAEncryption
+*   Certificate level 1: Public key type RSA (3072/128 Bits/secBits), signed using sha384WithRSAEncryption
+*   Certificate level 2: Public key type RSA (4096/152 Bits/secBits), signed using sha384WithRSAEncryption
+*   Certificate level 3: Public key type RSA (4096/152 Bits/secBits), signed using sha384WithRSAEncryption
+* using HTTP/1.x
+> OPTIONS /appapi/api/content/get-live-info HTTP/1.1
+Host: api.cmc.hebtv.com
+Accept: */*
+
+< HTTP/1.1 405 Method Not Allowed
+< Date: Tue, 17 Nov 2026 03:52:29 GMT
+< Content-Type: text/html; charset=UTF-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Allow: GET, POST
+< Cache-Control: no-cache, private
+< Set-Cookie: laravel_session=FgZtHEHUNs30FmlKdPsOafnkwlcv4RTWgUVLzK09; expires=Tue, 17-Nov-2026 03:54:29 GMT; Max-Age=120; path=/; httponly
+< vary: Origin
+< Access-Control-Allow-Origin: *
+< X-Kong-Upstream-Latency: 58
+< X-Kong-Proxy-Latency: 6
+< Via: kong/2.5.0
+< X-WAF-UUID: 7a3034df8da0b2b7c601d79a4e01c80c-aa9201c611b070f874cd8b3755d7223d
+< 
+* Excess found: excess = 1621 url = /appapi/api/content/get-live-info (zero-length body)
+* Connection #0 to host api.cmc.hebtv.com left intact
+* Host api.cmc.hebtv.com:443 was resolved.
+* IPv6: 2402:4e00:1220:1500:0:99a2:8997:181f
+* IPv4: 49.233.240.19
+*   Trying 49.233.240.19:443...
+*   Trying [2402:4e00:1220:1500:0:99a2:8997:181f]:443...
+* Immediate connect fail for 2402:4e00:1220:1500:0:99a2:8997:181f: Network is unreachable
+* Connected to api.cmc.hebtv.com (49.233.240.19) port 443
+* ALPN: curl offers h2,http/1.1
+* SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384 / X25519 / RSASSA-PSS
+* ALPN: server accepted http/1.1
+* Server certificate:
+*  subject: CN=*.cmc.hebtv.com
+*  start date: Oct  3 00:00:00 2026 GMT
+*  expire date: Apr 19 23:59:59 2027 GMT
+*  issuer: C=CN; O=WoTrus CA Limited; CN=WoTrus RSA DV SSL CA 2
+*  SSL certificate verify result: self-signed certificate in certificate chain (19), continuing anyway.
+*   Certificate level 0: Public key type RSA (2048/112 Bits/secBits), signed using sha256WithRSAEncryption
+*   Certificate level 1: Public key type RSA (3072/128 Bits/secBits), signed using sha384WithRSAEncryption
+*   Certificate level 2: Public key type RSA (4096/152 Bits/secBits), signed using sha384WithRSAEncryption
+*   Certificate level 3: Public key type RSA (4096/152 Bits/secBits), signed using sha384WithRSAEncryption
+* using HTTP/1.x
+> OPTIONS /appapi/api/content/get-live-info HTTP/1.1
+Host: api.cmc.hebtv.com
+Accept: */*
+
+< HTTP/1.1 405 Method Not Allowed
+< Date: Tue, 17 Nov 2026 03:52:30 GMT
+< Content-Type: text/html; charset=UTF-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Allow: GET, POST
+< Cache-Control: no-cache, private
+< Set-Cookie: laravel_session=lI6UDdKiLoPs4tplRtEI2LHjrCHWOJSKeLQfmGj1; expires=Tue, 17-Nov-2026 03:54:30 GMT; Max-Age=120; path=/; httponly
+< vary: Origin
+< Access-Control-Allow-Origin: *
+< X-Kong-Upstream-Latency: 68
+< X-Kong-Proxy-Latency: 4
+< Via: kong/2.5.0
+< X-WAF-UUID: f05be73f7aa2d9f69079a64aa035a566-cbc4b91270ed46c041a41334dc04f0f2
+< 
+* Excess found: excess = 1621 url = /appapi/api/content/get-live-info (zero-length body)
+* Connection #0 to host api.cmc.hebtv.com left intact
+* Host api.cmc.hebtv.com:443 was resolved.
+* IPv6: 2402:4e00:1220:1500:0:99a2:8997:181f
+* IPv4: 49.233.240.19
+*   Trying 49.233.240.19:443...
+*   Trying [2402:4e00:1220:1500:0:99a2:8997:181f]:443...
+* Immediate connect fail for 2402:4e00:1220:1500:0:99a2:8997:181f: Network is unreachable
+* Connected to api.cmc.hebtv.com (49.233.240.19) port 443
+* ALPN: curl offers h2,http/1.1
+* SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384 / X25519 / RSASSA-PSS
+* ALPN: server accepted http/1.1
+* Server certificate:
+*  subject: CN=*.cmc.hebtv.com
+*  start date: Oct  3 00:00:00 2026 GMT
+*  expire date: Apr 19 23:59:59 2027 GMT
+*  issuer: C=CN; O=WoTrus CA Limited; CN=WoTrus RSA DV SSL CA 2
+*  SSL certificate verify result: self-signed certificate in certificate chain (19), continuing anyway.
+*   Certificate level 0: Public key type RSA (2048/112 Bits/secBits), signed using sha256WithRSAEncryption
+*   Certificate level 1: Public key type RSA (3072/128 Bits/secBits), signed using sha384WithRSAEncryption
+*   Certificate level 2: Public key type RSA (4096/152 Bits/secBits), signed using sha384WithRSAEncryption
+*   Certificate level 3: Public key type RSA (4096/152 Bits/secBits), signed using sha384WithRSAEncryption
+* using HTTP/1.x
+> OPTIONS /appapi/api/content/get-live-info HTTP/1.1
+Host: api.cmc.hebtv.com
+Accept: */*
+
+< HTTP/1.1 405 Method Not Allowed
+< Date: Tue, 17 Nov 2026 03:52:31 GMT
+< Content-Type: text/html; charset=UTF-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Allow: GET, POST
+< Cache-Control: no-cache, private
+< Set-Cookie: laravel_session=z5ZipjAFi1EumQjHER5RmBTRMOa89eSpeaInpIpu; expires=Tue, 17-Nov-2026 03:54:31 GMT; Max-Age=120; path=/; httponly
+< vary: Origin
+< Access-Control-Allow-Origin: *
+< X-Kong-Upstream-Latency: 55
+< X-Kong-Proxy-Latency: 8
+< Via: kong/2.5.0
+< X-WAF-UUID: 57f2e633e7d78d29709909364c26f137-6242cbca57cf28fc2674b9e2c0c62d79
+< 
+* Excess found: excess = 1621 url = /appapi/api/content/get-live-info (zero-length body)
+* Connection #0 to host api.cmc.hebtv.com left intact
+* Host api.cmc.hebtv.com:443 was resolved.
+* IPv6: 2402:4e00:1220:1500:0:99a2:8997:181f
+* IPv4: 49.233.240.19
+*   Trying 49.233.240.19:443...
+*   Trying [2402:4e00:1220:1500:0:99a2:8997:181f]:443...
+* Immediate connect fail for 2402:4e00:1220:1500:0:99a2:8997:181f: Network is unreachable
+* Connected to api.cmc.hebtv.com (49.233.240.19) port 443
+* ALPN: curl offers h2,http/1.1
+* SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384 / X25519 / RSASSA-PSS
+* ALPN: server accepted http/1.1
+* Server certificate:
+*  subject: CN=*.cmc.hebtv.com
+*  start date: Oct  3 00:00:00 2026 GMT
+*  expire date: Apr 19 23:59:59 2027 GMT
+*  issuer: C=CN; O=WoTrus CA Limited; CN=WoTrus RSA DV SSL CA 2
+*  SSL certificate verify result: self-signed certificate in certificate chain (19), continuing anyway.
+*   Certificate level 0: Public key type RSA (2048/112 Bits/secBits), signed using sha256WithRSAEncryption
+*   Certificate level 1: Public key type RSA (3072/128 Bits/secBits), signed using sha384WithRSAEncryption
+*   Certificate level 2: Public key type RSA (4096/152 Bits/secBits), signed using sha384WithRSAEncryption
+*   Certificate level 3: Public key type RSA (4096/152 Bits/secBits), signed using sha384WithRSAEncryption
+* using HTTP/1.x
+> OPTIONS /appapi/api/content/get-live-info HTTP/1.1
+Host: api.cmc.hebtv.com
+Accept: */*
+
+< HTTP/1.1 405 Method Not Allowed
+< Date: Tue, 17 Nov 2026 03:52:32 GMT
+< Content-Type: text/html; charset=UTF-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Allow: GET, POST
+< Cache-Control: no-cache, private
+< Set-Cookie: laravel_session=Ky9Cccx4hGZLpvpRQIix8XBXoTs3G8966TclDqyi; expires=Tue, 17-Nov-2026 03:54:32 GMT; Max-Age=120; path=/; httponly
+< vary: Origin
+< Access-Control-Allow-Origin: *
+< X-Kong-Upstream-Latency: 62
+< X-Kong-Proxy-Latency: 4
+< Via: kong/2.5.0
+< X-WAF-UUID: 1af7bfc6995e18f836c7851807efb571-a30a70271fb5136120acd099ca8ae3f2
+< 
+* Excess found: excess = 1621 url = /appapi/api/content/get-live-info (zero-length body)
+* Connection #0 to host api.cmc.hebtv.com left intact
+* Host api.cmc.hebtv.com:443 was resolved.
+* IPv6: 2402:4e00:1220:1500:0:99a2:8997:181f
+* IPv4: 49.233.240.19
+*   Trying 49.233.240.19:443...
+*   Trying [2402:4e00:1220:1500:0:99a2:8997:181f]:443...
+* Immediate connect fail for 2402:4e00:1220:1500:0:99a2:8997:181f: Network is unreachable
+* Connected to api.cmc.hebtv.com (49.233.240.19) port 443
+* ALPN: curl offers h2,http/1.1
+* SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384 / X25519 / RSASSA-PSS
+* ALPN: server accepted http/1.1
+* Server certificate:
+*  subject: CN=*.cmc.hebtv.com
+*  start date: Oct  3 00:00:00 2026 GMT
+*  expire date: Apr 19 23:59:59 2027 GMT
+*  issuer: C=CN; O=WoTrus CA Limited; CN=WoTrus RSA DV SSL CA 2
+*  SSL certificate verify result: self-signed certificate in certificate chain (19), continuing anyway.
+*   Certificate level 0: Public key type RSA (2048/112 Bits/secBits), signed using sha256WithRSAEncryption
+*   Certificate level 1: Public key type RSA (3072/128 Bits/secBits), signed using sha384WithRSAEncryption
+*   Certificate level 2: Public key type RSA (4096/152 Bits/secBits), signed using sha384WithRSAEncryption
+*   Certificate level 3: Public key type RSA (4096/152 Bits/secBits), signed using sha384WithRSAEncryption
+* using HTTP/1.x
+> OPTIONS /appapi/api/content/get-live-info HTTP/1.1
+Host: api.cmc.hebtv.com
+Accept: */*
+
+< HTTP/1.1 405 Method Not Allowed
+< Date: Tue, 17 Nov 2026 03:52:33 GMT
+< Content-Type: text/html; charset=UTF-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Allow: GET, POST
+< Cache-Control: no-cache, private
+< Set-Cookie: laravel_session=ZQlEbWQ7KZxKwMpVbyONEqJsdLe956Do3St7wk6d; expires=Tue, 17-Nov-2026 03:54:33 GMT; Max-Age=120; path=/; httponly
+< vary: Origin
+< Access-Control-Allow-Origin: *
+< X-Kong-Upstream-Latency: 42
+< X-Kong-Proxy-Latency: 4
+< Via: kong/2.5.0
+< X-WAF-UUID: 928aa2783c3704918570fc1ff9a9feb1-b9e2aed2d304ba091bd5de9bb5608876
+< 
+* Excess found: excess = 1621 url = /appapi/api/content/get-live-info (zero-length body)
+* Connection #0 to host api.cmc.hebtv.com left intact
+* Host api.cmc.hebtv.com:443 was resolved.
+* IPv6: 2402:4e00:1220:1500:0:99a2:8997:181f
+* IPv4: 49.233.240.19
+*   Trying 49.233.240.19:443...
+*   Trying [2402:4e00:1220:1500:0:99a2:8997:181f]:443...
+* Immediate connect fail for 2402:4e00:1220:1500:0:99a2:8997:181f: Network is unreachable
+* Connected to api.cmc.hebtv.com (49.233.240.19) port 443
+* ALPN: curl offers h2,http/1.1
+* SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384 / X25519 / RSASSA-PSS
+* ALPN: server accepted http/1.1
+* Server certificate:
+*  subject: CN=*.cmc.hebtv.com
+*  start date: Oct  3 00:00:00 2026 GMT
+*  expire date: Apr 19 23:59:59 2027 GMT
+*  issuer: C=CN; O=WoTrus CA Limited; CN=WoTrus RSA DV SSL CA 2
+*  SSL certificate verify result: self-signed certificate in certificate chain (19), continuing anyway.
+*   Certificate level 0: Public key type RSA (2048/112 Bits/secBits), signed using sha256WithRSAEncryption
+*   Certificate level 1: Public key type RSA (3072/128 Bits/secBits), signed using sha384WithRSAEncryption
+*   Certificate level 2: Public key type RSA (4096/152 Bits/secBits), signed using sha384WithRSAEncryption
+*   Certificate level 3: Public key type RSA (4096/152 Bits/secBits), signed using sha384WithRSAEncryption
+* using HTTP/1.x
+> OPTIONS /appapi/api/content/get-live-info HTTP/1.1
+Host: api.cmc.hebtv.com
+Accept: */*
+
+< HTTP/1.1 405 Method Not Allowed
+< Date: Tue, 17 Nov 2026 03:52:35 GMT
+< Content-Type: text/html; charset=UTF-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Allow: GET, POST
+< Cache-Control: no-cache, private
+< Set-Cookie: laravel_session=v9wvB3nLgWhOyv3u3uawZ9UWDO4LdOhY2EzQo6VD; expires=Tue, 17-Nov-2026 03:54:35 GMT; Max-Age=120; path=/; httponly
+< vary: Origin
+< Access-Control-Allow-Origin: *
+< X-Kong-Upstream-Latency: 71
+< X-Kong-Proxy-Latency: 7
+< Via: kong/2.5.0
+< X-WAF-UUID: 09fd6196c7706818833e70981de2d9e2-f14194ec8fa2b462fddbd126c3d1335e
+< 
+* Excess found: excess = 1621 url = /appapi/api/content/get-live-info (zero-length body)
+* Connection #0 to host api.cmc.hebtv.com left intact
+* Host api.cmc.hebtv.com:443 was resolved.
+* IPv6: 2402:4e00:1220:1500:0:99a2:8997:181f
+* IPv4: 49.233.240.19
+*   Trying 49.233.240.19:443...
+*   Trying [2402:4e00:1220:1500:0:99a2:8997:181f]:443...
+* Immediate connect fail for 2402:4e00:1220:1500:0:99a2:8997:181f: Network is unreachable
+* Connected to api.cmc.hebtv.com (49.233.240.19) port 443
+* ALPN: curl offers h2,http/1.1
+* SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384 / X25519 / RSASSA-PSS
+* ALPN: server accepted http/1.1
+* Server certificate:
+*  subject: CN=*.cmc.hebtv.com
+*  start date: Oct  3 00:00:00 2026 GMT
+*  expire date: Apr 19 23:59:59 2027 GMT
+*  issuer: C=CN; O=WoTrus CA Limited; CN=WoTrus RSA DV SSL CA 2
+*  SSL certificate verify result: self-signed certificate in certificate chain (19), continuing anyway.
+*   Certificate level 0: Public key type RSA (2048/112 Bits/secBits), signed using sha256WithRSAEncryption
+*   Certificate level 1: Public key type RSA (3072/128 Bits/secBits), signed using sha384WithRSAEncryption
+*   Certificate level 2: Public key type RSA (4096/152 Bits/secBits), signed using sha384WithRSAEncryption
+*   Certificate level 3: Public key type RSA (4096/152 Bits/secBits), signed using sha384WithRSAEncryption
+* using HTTP/1.x
+> OPTIONS /appapi/api/content/get-live-info HTTP/1.1
+Host: api.cmc.hebtv.com
+Accept: */*
+
+< HTTP/1.1 405 Method Not Allowed
+< Date: Tue, 17 Nov 2026 03:52:36 GMT
+< Content-Type: text/html; charset=UTF-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Allow: GET, POST
+< Cache-Control: no-cache, private
+< Set-Cookie: laravel_session=sryH6CKzSccXZmvBTmRqaHEfi5NLtDC8HFhAXAPA; expires=Tue, 17-Nov-2026 03:54:36 GMT; Max-Age=120; path=/; httponly
+< vary: Origin
+< Access-Control-Allow-Origin: *
+< X-Kong-Upstream-Latency: 43
+< X-Kong-Proxy-Latency: 7
+< Via: kong/2.5.0
+< X-WAF-UUID: 11ac96f5bfb0129154a1a706eccdf653-df8fae7209eb9fb35542f9854719052b
+< 
+* Excess found: excess = 1621 url = /appapi/api/content/get-live-info (zero-length body)
+* Connection #0 to host api.cmc.hebtv.com left intact
