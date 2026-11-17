@@ -44,6 +44,7 @@
   </programme>
   <programme start="20261117103000 +0800" stop="20261117110000 +0800" channel="澳視澳門 91台">
     <title lang="zh">重播風火台</title>
+    <live/>
   </programme>
   <programme start="20261117110000 +0800" stop="20261117111000 +0800" channel="澳視澳門 91台">
     <title lang="zh">橫琴攻略</title>
@@ -386,6 +387,7 @@
   </programme>
   <programme start="20261117103000 +0800" stop="20261117110000 +0800" channel="澳門資訊 94台">
     <title lang="zh">新聞報道</title>
+    <live/>
   </programme>
   <programme start="20261117110000 +0800" stop="20261117111200 +0800" channel="澳門資訊 94台">
     <title lang="zh">新聞報道</title>
@@ -641,6 +643,7 @@
   </programme>
   <programme start="20261117100000 +0800" stop="20261117112000 +0800" channel="澳門體育 93台">
     <title lang="zh">愛知．名古屋第20屆亞運會：男子長拳</title>
+    <live/>
   </programme>
   <programme start="20261117112000 +0800" stop="20261117130000 +0800" channel="澳門體育 93台">
     <title lang="zh">2026法國網球公開賽：男雙決賽</title>
@@ -725,6 +728,7 @@
   </programme>
   <programme start="20261117100000 +0800" stop="20261117130100 +0800" channel="澳門綜藝 95台">
     <title lang="zh">好劇連場: 搖滾狂花</title>
+    <live/>
   </programme>
   <programme start="20261117130100 +0800" stop="20261117160500 +0800" channel="澳門綜藝 95台">
     <title lang="zh">好劇連場: 鯤鵬擊浪</title>
@@ -854,7 +858,6 @@
   </programme>
   <programme start="20261117060000 +0800" stop="20261117070000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">莫桑比克的魅力</title>
-    <live/>
   </programme>
   <programme start="20261117070000 +0800" stop="20261117073000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">拳心</title>
@@ -882,6 +885,7 @@
   </programme>
   <programme start="20261117103000 +0800" stop="20261117112000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">中華白海豚</title>
+    <live/>
   </programme>
   <programme start="20261117112000 +0800" stop="20261117115000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">唐‧西豐味</title>
