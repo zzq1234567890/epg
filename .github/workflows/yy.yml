@@ -2,7 +2,7 @@ name: EPG Comprehensive Processing
 
 on:
   schedule:
-    - cron: '12 19 * * *'        # UTC 21:00 → 北京時間 次日05:00；UTC 4:00 → 北京時間 12:00
+    - cron: '10 18 * * *'        # UTC 21:00 → 北京時 次日05:00；UTC 4:00 → 北京時間 12:00
   workflow_dispatch:              # 支援手動觸發
 
 jobs:
