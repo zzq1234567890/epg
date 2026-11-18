@@ -372,54 +372,6 @@
   <channel id="海峽衛視">
     <display-name lang="zh">海峽衛視</display-name>
   </channel>
-  <channel id="河南衛視">
-    <display-name lang="zh">河南衛視</display-name>
-  </channel>
-  <channel id="河南都市">
-    <display-name lang="zh">河南都市</display-name>
-  </channel>
-  <channel id="河南民生">
-    <display-name lang="zh">河南民生</display-name>
-  </channel>
-  <channel id="河南法制">
-    <display-name lang="zh">河南法制</display-name>
-  </channel>
-  <channel id="河南電視劇">
-    <display-name lang="zh">河南電視劇</display-name>
-  </channel>
-  <channel id="河南新聞">
-    <display-name lang="zh">河南新聞</display-name>
-  </channel>
-  <channel id="河南歡騰購物">
-    <display-name lang="zh">河南歡騰購物</display-name>
-  </channel>
-  <channel id="河南公共">
-    <display-name lang="zh">河南公共</display-name>
-  </channel>
-  <channel id="河南鄉村">
-    <display-name lang="zh">河南鄉村</display-name>
-  </channel>
-  <channel id="河南國際">
-    <display-name lang="zh">河南國際</display-name>
-  </channel>
-  <channel id="河南梨園戲曲">
-    <display-name lang="zh">河南梨園戲曲</display-name>
-  </channel>
-  <channel id="河南文物寶庫">
-    <display-name lang="zh">河南文物寶庫</display-name>
-  </channel>
-  <channel id="河南武術">
-    <display-name lang="zh">河南武術</display-name>
-  </channel>
-  <channel id="河南晴彩中原">
-    <display-name lang="zh">河南晴彩中原</display-name>
-  </channel>
-  <channel id="河南移動戲曲">
-    <display-name lang="zh">河南移動戲曲</display-name>
-  </channel>
-  <channel id="河南象世界">
-    <display-name lang="zh">河南象世界</display-name>
-  </channel>
   <channel id="tvN Asia">
     <display-name lang="">tvN Asia</display-name>
   </channel>
@@ -923,6 +875,9 @@
   </channel>
   <channel id="四川衛視">
     <display-name lang="zh">四川衛視</display-name>
+  </channel>
+  <channel id="河南衛視">
+    <display-name lang="zh">河南衛視</display-name>
   </channel>
   <channel id="東南衛視">
     <display-name lang="zh">東南衛視</display-name>

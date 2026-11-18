@@ -29,13 +29,13 @@
   </programme>
   <programme start="20261118080000 +0800" stop="20261118090000 +0800" channel="澳視澳門 91台">
     <title lang="zh">澳門早晨</title>
-    <live/>
   </programme>
   <programme start="20261118090000 +0800" stop="20261118090200 +0800" channel="澳視澳門 91台">
     <title lang="zh">TDM 新視點</title>
   </programme>
   <programme start="20261118090200 +0800" stop="20261118092500 +0800" channel="澳視澳門 91台">
     <title lang="zh">澳門人澳門事</title>
+    <live/>
   </programme>
   <programme start="20261118092500 +0800" stop="20261118100000 +0800" channel="澳視澳門 91台">
     <title lang="zh">廚房裡的桃花源</title>
@@ -360,10 +360,10 @@
   </programme>
   <programme start="20261118080000 +0800" stop="20261118090000 +0800" channel="澳門資訊 94台">
     <title lang="zh">澳門早晨</title>
-    <live/>
   </programme>
   <programme start="20261118090000 +0800" stop="20261118093000 +0800" channel="澳門資訊 94台">
     <title lang="zh">重播早晨新聞</title>
+    <live/>
   </programme>
   <programme start="20261118093000 +0800" stop="20261118100000 +0800" channel="澳門資訊 94台">
     <title lang="zh">灣區全媒睇</title>
@@ -832,13 +832,13 @@
   </programme>
   <programme start="20261118080000 +0800" stop="20261118083000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">#文青這樣玩</title>
-    <live/>
   </programme>
   <programme start="20261118083000 +0800" stop="20261118085300 +0800" channel="澳門-Macau 96台">
     <title lang="zh">家家有本事</title>
   </programme>
   <programme start="20261118085300 +0800" stop="20261118092000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">灣區全媒睇</title>
+    <live/>
   </programme>
   <programme start="20261118092000 +0800" stop="20261118100000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">競健群英 2026</title>
