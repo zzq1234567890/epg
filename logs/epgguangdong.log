@@ -45,111 +45,6 @@
   <channel id="GRTN生活频道">
     <display-name lang="zh">GRTN生活频道</display-name>
   </channel>
-  <programme start="20261118000000 +0800" stop="20261118003000 +0800" channel="广东卫视">
-    <title lang="zh">南粤4K画卷</title>
-  </programme>
-  <programme start="20261118003000 +0800" stop="20261118062000 +0800" channel="广东卫视">
-    <title lang="zh">纪录片</title>
-  </programme>
-  <programme start="20261118062000 +0800" stop="20261118063000 +0800" channel="广东卫视">
-    <title lang="zh">天涯共此诗</title>
-  </programme>
-  <programme start="20261118063000 +0800" stop="20261118065700 +0800" channel="广东卫视">
-    <title lang="zh">广东新闻联播重播</title>
-  </programme>
-  <programme start="20261118065700 +0800" stop="20261118070000 +0800" channel="广东卫视">
-    <title lang="zh">早间天气预报</title>
-  </programme>
-  <programme start="20261118070000 +0800" stop="20261118073000 +0800" channel="广东卫视">
-    <title lang="zh">APEC在广东·特别报道</title>
-  </programme>
-  <programme start="20261118073000 +0800" stop="20261118080000 +0800" channel="广东卫视">
-    <title lang="zh">大美南粤</title>
-  </programme>
-  <programme start="20261118080000 +0800" stop="20261118090000 +0800" channel="广东卫视">
-    <title lang="zh">野性广东</title>
-  </programme>
-  <programme start="20261118090000 +0800" stop="20261118093000 +0800" channel="广东卫视">
-    <title lang="zh">APEC在广东·特别报道</title>
-  </programme>
-  <programme start="20261118093000 +0800" stop="20261118100000 +0800" channel="广东卫视">
-    <title lang="zh">鲜味中国</title>
-  </programme>
-  <programme start="20261118100000 +0800" stop="20261118103000 +0800" channel="广东卫视">
-    <title lang="zh">APEC在广东·权威访谈</title>
-  </programme>
-  <programme start="20261118103000 +0800" stop="20261118110000 +0800" channel="广东卫视">
-    <title lang="zh">红树林</title>
-  </programme>
-  <programme start="20261118110000 +0800" stop="20261118113000 +0800" channel="广东卫视">
-    <title lang="zh">四海潮味</title>
-  </programme>
-  <programme start="20261118113000 +0800" stop="20261118120000 +0800" channel="广东卫视">
-    <title lang="zh">思想耀岭南</title>
-  </programme>
-  <programme start="20261118120000 +0800" stop="20261118130000 +0800" channel="广东卫视">
-    <title lang="zh">午间新闻</title>
-  </programme>
-  <programme start="20261118130000 +0800" stop="20261118140000 +0800" channel="广东卫视">
-    <title lang="zh">广济沧海</title>
-  </programme>
-  <programme start="20261118140000 +0800" stop="20261118143000 +0800" channel="广东卫视">
-    <title lang="zh">APEC在广东·特别报道</title>
-  </programme>
-  <programme start="20261118143000 +0800" stop="20261118150000 +0800" channel="广东卫视">
-    <title lang="zh">闪亮的APEC之旅</title>
-  </programme>
-  <programme start="20261118150000 +0800" stop="20261118153000 +0800" channel="广东卫视">
-    <title lang="zh">APEC在广东·特别报道</title>
-  </programme>
-  <programme start="20261118153000 +0800" stop="20261118160000 +0800" channel="广东卫视">
-    <title lang="zh">闪亮的APEC之旅</title>
-  </programme>
-  <programme start="20261118160000 +0800" stop="20261118165000 +0800" channel="广东卫视">
-    <title lang="zh">中华白海豚</title>
-  </programme>
-  <programme start="20261118165000 +0800" stop="20261118175000 +0800" channel="广东卫视">
-    <title lang="zh">老广的味道</title>
-  </programme>
-  <programme start="20261118175000 +0800" stop="20261118181500 +0800" channel="广东卫视">
-    <title lang="zh">思想耀岭南</title>
-  </programme>
-  <programme start="20261118181500 +0800" stop="20261118183000 +0800" channel="广东卫视">
-    <title lang="zh">天涯共此诗</title>
-  </programme>
-  <programme start="20261118183000 +0800" stop="20261118190000 +0800" channel="广东卫视">
-    <title lang="zh">广东新闻联播</title>
-  </programme>
-  <programme start="20261118190000 +0800" stop="20261118193000 +0800" channel="广东卫视">
-    <title lang="zh">转播中央台新闻联播</title>
-  </programme>
-  <programme start="20261118193000 +0800" stop="20261118200100 +0800" channel="广东卫视">
-    <title lang="zh">APEC在广东·权威访谈</title>
-  </programme>
-  <programme start="20261118200100 +0800" stop="20261118200300 +0800" channel="广东卫视">
-    <title lang="zh">思想耀岭南</title>
-  </programme>
-  <programme start="20261118200300 +0800" stop="20261118204200 +0800" channel="广东卫视">
-    <title lang="zh">闪亮的APEC之旅</title>
-  </programme>
-  <programme start="20261118204200 +0800" stop="20261118210000 +0800" channel="广东卫视">
-    <title lang="zh">思想耀岭南</title>
-  </programme>
-  <programme start="20261118210000 +0800" stop="20261118220000 +0800" channel="广东卫视">
-    <title lang="zh">晚间新闻</title>
-  </programme>
-  <programme start="20261118220000 +0800" stop="20261118222500 +0800" channel="广东卫视">
-    <title lang="zh">红树林</title>
-  </programme>
-  <programme start="20261118222500 +0800" stop="20261118230000 +0800" channel="广东卫视">
-    <title lang="zh">飞越广东·湾区之道</title>
-  </programme>
-  <programme start="20261118230000 +0800" stop="20261118233000 +0800" channel="广东卫视">
-    <title lang="zh">APEC在广东·特别报道</title>
-  </programme>
-  <programme start="20261118233000 +0800" stop="20261119002000 +0800" channel="广东卫视">
-    <title lang="zh">飞越广东</title>
-  </programme>
   <programme start="20261119000000 +0800" stop="20261119003000 +0800" channel="广东卫视">
     <title lang="zh">南粤4K画卷</title>
   </programme>
@@ -258,51 +153,6 @@
   <programme start="20261119233000 +0800" stop="20261120002000 +0800" channel="广东卫视">
     <title lang="zh">飞越广东</title>
   </programme>
-  <programme start="20261118000500 +0800" stop="20261118010500 +0800" channel="广东珠江">
-    <title lang="zh">今日关注(重播)</title>
-  </programme>
-  <programme start="20261118010500 +0800" stop="20261118060000 +0800" channel="广东珠江">
-    <title lang="zh">电视剧:咱家(32-37)</title>
-  </programme>
-  <programme start="20261118060000 +0800" stop="20261118070000 +0800" channel="广东珠江">
-    <title lang="zh">系列短剧:外来媳妇本地郎</title>
-  </programme>
-  <programme start="20261118070000 +0800" stop="20261118081500 +0800" channel="广东珠江">
-    <title lang="zh">今日关注(重播)</title>
-  </programme>
-  <programme start="20261118081500 +0800" stop="20261118170000 +0800" channel="广东珠江">
-    <title lang="zh">传奇剧场:守诚者(2-8)</title>
-  </programme>
-  <programme start="20261118170000 +0800" stop="20261118171000 +0800" channel="广东珠江">
-    <title lang="zh">人生一万年</title>
-  </programme>
-  <programme start="20261118171000 +0800" stop="20261118175000 +0800" channel="广东珠江">
-    <title lang="zh">粤韵风华</title>
-  </programme>
-  <programme start="20261118175000 +0800" stop="20261118180000 +0800" channel="广东珠江">
-    <title lang="zh">今日财经</title>
-  </programme>
-  <programme start="20261118180000 +0800" stop="20261118190000 +0800" channel="广东珠江">
-    <title lang="zh">珠江新闻</title>
-  </programme>
-  <programme start="20261118190000 +0800" stop="20261118200000 +0800" channel="广东珠江">
-    <title lang="zh">珠江剧场:澳门人家(23)</title>
-  </programme>
-  <programme start="20261118200000 +0800" stop="20261118210000 +0800" channel="广东珠江">
-    <title lang="zh">珠江剧场:澳门人家(24)</title>
-  </programme>
-  <programme start="20261118210000 +0800" stop="20261118220000 +0800" channel="广东珠江">
-    <title lang="zh">今日关注</title>
-  </programme>
-  <programme start="20261118220000 +0800" stop="20261118222000 +0800" channel="广东珠江">
-    <title lang="zh">寻踪1956-1959——档案中的广交会往事</title>
-  </programme>
-  <programme start="20261118222000 +0800" stop="20261118231500 +0800" channel="广东珠江">
-    <title lang="zh">王牌剧场:你迟到的许多年(31)</title>
-  </programme>
-  <programme start="20261118231500 +0800" stop="20261119000500 +0800" channel="广东珠江">
-    <title lang="zh">王牌剧场:你迟到的许多年(32)</title>
-  </programme>
   <programme start="20261119000500 +0800" stop="20261119010500 +0800" channel="广东珠江">
     <title lang="zh">今日关注(重播)</title>
   </programme>
@@ -348,62 +198,53 @@
   <programme start="20261119231500 +0800" stop="20261120000500 +0800" channel="广东珠江">
     <title lang="zh">王牌剧场:你迟到的许多年(34)</title>
   </programme>
-  <programme start="20261118062800 +0800" stop="20261118071800 +0800" channel="广东新闻">
-    <title lang="zh">并机广东卫视</title>
+  <programme start="20261120000000 +0800" stop="20261120010000 +0800" channel="广东珠江">
+    <title lang="zh">今日关注(重播)</title>
   </programme>
-  <programme start="20261118070500 +0800" stop="20261118080500 +0800" channel="广东民生">
-    <title lang="zh">DV现场</title>
+  <programme start="20261120010000 +0800" stop="20261120060000 +0800" channel="广东珠江">
+    <title lang="zh">电视剧:咱家(42-47)</title>
   </programme>
-  <programme start="20261118080500 +0800" stop="20261118095000 +0800" channel="广东民生">
-    <title lang="zh">父辈的荣耀</title>
+  <programme start="20261120060000 +0800" stop="20261120070000 +0800" channel="广东珠江">
+    <title lang="zh">系列短剧:外来媳妇本地郎</title>
   </programme>
-  <programme start="20261118095000 +0800" stop="20261118105500 +0800" channel="广东民生">
-    <title lang="zh">民生微剧场</title>
+  <programme start="20261120070000 +0800" stop="20261120081500 +0800" channel="广东珠江">
+    <title lang="zh">今日关注(重播)</title>
   </programme>
-  <programme start="20261118105500 +0800" stop="20261118120000 +0800" channel="广东民生">
-    <title lang="zh">宜居大湾区</title>
+  <programme start="20261120081500 +0800" stop="20261120170000 +0800" channel="广东珠江">
+    <title lang="zh">传奇剧场:守诚者(12-18)</title>
   </programme>
-  <programme start="20261118120000 +0800" stop="20261118131500 +0800" channel="广东民生">
-    <title lang="zh">DV现场</title>
+  <programme start="20261120170000 +0800" stop="20261120171000 +0800" channel="广东珠江">
+    <title lang="zh">健康一百岁</title>
   </programme>
-  <programme start="20261118131500 +0800" stop="20261118141000 +0800" channel="广东民生">
-    <title lang="zh">宜居大湾区</title>
+  <programme start="20261120171000 +0800" stop="20261120175000 +0800" channel="广东珠江">
+    <title lang="zh">粤韵风华</title>
   </programme>
-  <programme start="20261118141000 +0800" stop="20261118152000 +0800" channel="广东民生">
-    <title lang="zh">外来媳妇本地郎</title>
+  <programme start="20261120175000 +0800" stop="20261120180000 +0800" channel="广东珠江">
+    <title lang="zh">今日财经</title>
   </programme>
-  <programme start="20261118152000 +0800" stop="20261118162000 +0800" channel="广东民生">
-    <title lang="zh">宜居大湾区</title>
+  <programme start="20261120180000 +0800" stop="20261120190000 +0800" channel="广东珠江">
+    <title lang="zh">珠江新闻</title>
   </programme>
-  <programme start="20261118162000 +0800" stop="20261118180000 +0800" channel="广东民生">
-    <title lang="zh">小巷人家</title>
+  <programme start="20261120190000 +0800" stop="20261120200000 +0800" channel="广东珠江">
+    <title lang="zh">珠江剧场:澳门人家(27)</title>
   </programme>
-  <programme start="20261118180000 +0800" stop="20261118184500 +0800" channel="广东民生">
-    <title lang="zh">外来媳妇本地郎</title>
+  <programme start="20261120200000 +0800" stop="20261120210000 +0800" channel="广东珠江">
+    <title lang="zh">珠江剧场:澳门人家(28)</title>
   </programme>
-  <programme start="20261118184500 +0800" stop="20261118190000 +0800" channel="广东民生">
-    <title lang="zh">DV严选</title>
+  <programme start="20261120210000 +0800" stop="20261120220000 +0800" channel="广东珠江">
+    <title lang="zh">今日关注</title>
   </programme>
-  <programme start="20261118190000 +0800" stop="20261118202000 +0800" channel="广东民生">
-    <title lang="zh">DV现场(5620)</title>
+  <programme start="20261120220000 +0800" stop="20261120222000 +0800" channel="广东珠江">
+    <title lang="zh">寻踪1956-1959——档案中的广交会往事</title>
   </programme>
-  <programme start="20261118202000 +0800" stop="20261118203500 +0800" channel="广东民生">
-    <title lang="zh">全民帮帮忙(1411)</title>
+  <programme start="20261120222000 +0800" stop="20261120231500 +0800" channel="广东珠江">
+    <title lang="zh">王牌剧场:你迟到的许多年(35)</title>
   </programme>
-  <programme start="20261118203500 +0800" stop="20261118210000 +0800" channel="广东民生">
-    <title lang="zh">热搜榜中榜(771)</title>
+  <programme start="20261120231500 +0800" stop="20261121000500 +0800" channel="广东珠江">
+    <title lang="zh">王牌剧场:你迟到的许多年(36)</title>
   </programme>
-  <programme start="20261118210000 +0800" stop="20261118211500 +0800" channel="广东民生">
-    <title lang="zh">宜居大湾区平日版(393)</title>
-  </programme>
-  <programme start="20261118211500 +0800" stop="20261118220500 +0800" channel="广东民生">
-    <title lang="zh">民生微剧场</title>
-  </programme>
-  <programme start="20261118220500 +0800" stop="20261118225000 +0800" channel="广东民生">
-    <title lang="zh">纪录片</title>
-  </programme>
-  <programme start="20261118225000 +0800" stop="20261118234000 +0800" channel="广东民生">
-    <title lang="zh">DV现场</title>
+  <programme start="20261119062800 +0800" stop="20261120062700 +0800" channel="广东新闻">
+    <title lang="zh">APEC在广东一周大直播</title>
   </programme>
   <programme start="20261119070500 +0800" stop="20261119080500 +0800" channel="广东民生">
     <title lang="zh">DV现场</title>
@@ -459,86 +300,59 @@
   <programme start="20261119225000 +0800" stop="20261119234000 +0800" channel="广东民生">
     <title lang="zh">DV现场</title>
   </programme>
-  <programme start="20261118010030 +0800" stop="20261118013000 +0800" channel="广东体育">
-    <title lang="zh">重播德甲精选(262708)</title>
+  <programme start="20261120070500 +0800" stop="20261120080500 +0800" channel="广东民生">
+    <title lang="zh">DV现场</title>
   </programme>
-  <programme start="20261118013030 +0800" stop="20261118022200 +0800" channel="广东体育">
-    <title lang="zh">重播26-27CBA赛场第2轮南京同曦宙光vs广州智都集团</title>
+  <programme start="20261120080500 +0800" stop="20261120095000 +0800" channel="广东民生">
+    <title lang="zh">父辈的荣耀</title>
   </programme>
-  <programme start="20261118022230 +0800" stop="20261118031400 +0800" channel="广东体育">
-    <title lang="zh">重播亚运赛场:2026年亚运会选播(0925)之二游泳多项决赛</title>
+  <programme start="20261120095000 +0800" stop="20261120105500 +0800" channel="广东民生">
+    <title lang="zh">民生微剧场</title>
   </programme>
-  <programme start="20261118031430 +0800" stop="20261118041100 +0800" channel="广东体育">
-    <title lang="zh">重播亚运赛场:2026年亚运会选播(0926)之一田径男子女子100米半决赛和决赛、铅球和铁饼</title>
+  <programme start="20261120105500 +0800" stop="20261120120000 +0800" channel="广东民生">
+    <title lang="zh">宜居大湾区</title>
   </programme>
-  <programme start="20261118041100 +0800" stop="20261118043700 +0800" channel="广东体育">
-    <title lang="zh">重播2026中甲第4轮精编版广东广州豹vs无锡吴钩</title>
+  <programme start="20261120120000 +0800" stop="20261120131500 +0800" channel="广东民生">
+    <title lang="zh">DV现场</title>
   </programme>
-  <programme start="20261118043700 +0800" stop="20261118050700 +0800" channel="广东体育">
-    <title lang="zh">重播劲速天地(202635)</title>
+  <programme start="20261120131500 +0800" stop="20261120141000 +0800" channel="广东民生">
+    <title lang="zh">宜居大湾区</title>
   </programme>
-  <programme start="20261118050700 +0800" stop="20261118054300 +0800" channel="广东体育">
-    <title lang="zh">重播劲速天地(202634)</title>
+  <programme start="20261120141000 +0800" stop="20261120152000 +0800" channel="广东民生">
+    <title lang="zh">外来媳妇本地郎</title>
   </programme>
-  <programme start="20261118054300 +0800" stop="20261118063700 +0800" channel="广东体育">
-    <title lang="zh">重播26-27CBA赛场第2轮北京首钢vs广东东阳光</title>
+  <programme start="20261120152000 +0800" stop="20261120162000 +0800" channel="广东民生">
+    <title lang="zh">宜居大湾区</title>
   </programme>
-  <programme start="20261118063700 +0800" stop="20261118071900 +0800" channel="广东体育">
-    <title lang="zh">重播26-27德甲第4轮精编版勒沃库森vs莱比锡</title>
+  <programme start="20261120162000 +0800" stop="20261120180000 +0800" channel="广东民生">
+    <title lang="zh">小巷人家</title>
   </programme>
-  <programme start="20261118071900 +0800" stop="20261118082600 +0800" channel="广东体育">
-    <title lang="zh">重播亚运赛场:2026年亚运会选播(0926)之二男子双人3米板决赛</title>
+  <programme start="20261120180000 +0800" stop="20261120184500 +0800" channel="广东民生">
+    <title lang="zh">外来媳妇本地郎</title>
   </programme>
-  <programme start="20261118082600 +0800" stop="20261118091100 +0800" channel="广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯半决赛英格兰vs阿根廷</title>
+  <programme start="20261120184500 +0800" stop="20261120190000 +0800" channel="广东民生">
+    <title lang="zh">DV严选</title>
   </programme>
-  <programme start="20261118091100 +0800" stop="20261118102700 +0800" channel="广东体育">
-    <title lang="zh">重播羽乐无限:2026世界羽联世界巡回赛韩国公开赛精选(1)女双1/4决赛陈樊淑湉/罗徐敏vs岩永铃/中西贵映</title>
+  <programme start="20261120190000 +0800" stop="20261120202000 +0800" channel="广东民生">
+    <title lang="zh">DV现场(5622)</title>
   </programme>
-  <programme start="20261118102700 +0800" stop="20261118111600 +0800" channel="广东体育">
-    <title lang="zh">重播残特奥会纪录片怒放(上)向阳而生</title>
+  <programme start="20261120202000 +0800" stop="20261120203500 +0800" channel="广东民生">
+    <title lang="zh">全民帮帮忙(1413)</title>
   </programme>
-  <programme start="20261118111630 +0800" stop="20261118112400 +0800" channel="广东体育">
-    <title lang="zh">重播广货行天下主题形象片广货让世界更美好</title>
+  <programme start="20261120203500 +0800" stop="20261120210000 +0800" channel="广东民生">
+    <title lang="zh">热搜榜中榜(773)</title>
   </programme>
-  <programme start="20261118112400 +0800" stop="20261118120000 +0800" channel="广东体育">
-    <title lang="zh">重播2026年广东省城市足球超级联赛八强赛首回合汕尾vs深圳</title>
+  <programme start="20261120210000 +0800" stop="20261120211500 +0800" channel="广东民生">
+    <title lang="zh">宜居大湾区平日版(395)</title>
   </programme>
-  <programme start="20261118120030 +0800" stop="20261118131800 +0800" channel="广东体育">
-    <title lang="zh">重播出奇智胜(979)</title>
+  <programme start="20261120211500 +0800" stop="20261120220500 +0800" channel="广东民生">
+    <title lang="zh">民生微剧场</title>
   </programme>
-  <programme start="20261118131800 +0800" stop="20261118142900 +0800" channel="广东体育">
-    <title lang="zh">重播2026F1第16站巴林大奖赛正赛</title>
+  <programme start="20261120220500 +0800" stop="20261120225000 +0800" channel="广东民生">
+    <title lang="zh">纪录片</title>
   </programme>
-  <programme start="20261118142900 +0800" stop="20261118143800 +0800" channel="广东体育">
-    <title lang="zh">重播广货行天下主题形象片广货让世界更美好</title>
-  </programme>
-  <programme start="20261118143800 +0800" stop="20261118152000 +0800" channel="广东体育">
-    <title lang="zh">重播2026跑酷世界杯赛北京站(1)</title>
-  </programme>
-  <programme start="20261118152000 +0800" stop="20261118175900 +0800" channel="广东体育">
-    <title lang="zh">直播第三届CBA俱乐部杯D组(15:30广州智都集团vs长白山恩都里)</title>
-  </programme>
-  <programme start="20261118175900 +0800" stop="20261118190000 +0800" channel="广东体育">
-    <title lang="zh">首播自然生态纪录片红树林(2)</title>
-  </programme>
-  <programme start="20261118190000 +0800" stop="20261118192400 +0800" channel="广东体育">
-    <title lang="zh">直播体育世界</title>
-  </programme>
-  <programme start="20261118192400 +0800" stop="20261118194300 +0800" channel="广东体育">
-    <title lang="zh">重播亚运会精选10分钟版(1)游泳项目之一</title>
-  </programme>
-  <programme start="20261118194300 +0800" stop="20261118195000 +0800" channel="广东体育">
-    <title lang="zh">重播广货行天下主题形象片广货让世界更美好</title>
-  </programme>
-  <programme start="20261118195000 +0800" stop="20261118220400 +0800" channel="广东体育">
-    <title lang="zh">直播第三届CBA俱乐部杯D组(20:00山东高速vs广东东阳光)</title>
-  </programme>
-  <programme start="20261118220400 +0800" stop="20261118231400 +0800" channel="广东体育">
-    <title lang="zh">首播出奇智胜(980)</title>
-  </programme>
-  <programme start="20261118231400 +0800" stop="20261119005500 +0800" channel="广东体育">
-    <title lang="zh">重播2026国际帆船大奖赛</title>
+  <programme start="20261120225000 +0800" stop="20261120234000 +0800" channel="广东民生">
+    <title lang="zh">DV现场</title>
   </programme>
   <programme start="20261119001600 +0800" stop="20261119015600 +0800" channel="广东体育">
     <title lang="zh">重播2026F1第19站墨西哥大奖赛正赛</title>
@@ -624,92 +438,74 @@
   <programme start="20261119232500 +0800" stop="20261120003500 +0800" channel="广东体育">
     <title lang="zh">重播2026跑酷世界杯赛北京站(1)</title>
   </programme>
-  <programme start="20261118000000 +0800" stop="20261118005500 +0800" channel="广东大湾区卫视">
-    <title lang="zh">湾区文化坊</title>
+  <programme start="20261120003500 +0800" stop="20261120013800 +0800" channel="广东体育">
+    <title lang="zh">首播第三届CBA俱乐部杯D组广州智都集团vs长白山恩都里</title>
   </programme>
-  <programme start="20261118005500 +0800" stop="20261118013500 +0800" channel="广东大湾区卫视">
-    <title lang="zh">城事特搜</title>
+  <programme start="20261120013800 +0800" stop="20261120023600 +0800" channel="广东体育">
+    <title lang="zh">重播26-27CBA赛场第4轮北京首钢vs广州智都集团</title>
   </programme>
-  <programme start="20261118013500 +0800" stop="20261118020000 +0800" channel="广东大湾区卫视">
-    <title lang="zh">我爱返寻味</title>
+  <programme start="20261120023600 +0800" stop="20261120041500 +0800" channel="广东体育">
+    <title lang="zh">重播2026F1第20站圣保罗大奖赛正赛</title>
   </programme>
-  <programme start="20261118020000 +0800" stop="20261118025500 +0800" channel="广东大湾区卫视">
-    <title lang="zh">湾区最新闻</title>
+  <programme start="20261120041500 +0800" stop="20261120051000 +0800" channel="广东体育">
+    <title lang="zh">重播亚运赛场:2026年亚运会选播(0928)之二乒乓球女单决赛孙颖莎vs王曼昱</title>
   </programme>
-  <programme start="20261118023000 +0800" stop="20261118025500 +0800" channel="广东大湾区卫视">
-    <title lang="zh">野性广东(重播)</title>
+  <programme start="20261120051000 +0800" stop="20261120054300 +0800" channel="广东体育">
+    <title lang="zh">重播德甲精选(262708)</title>
   </programme>
-  <programme start="20261118025500 +0800" stop="20261118030000 +0800" channel="广东大湾区卫视">
-    <title lang="zh">红树林(重播)</title>
+  <programme start="20261120054300 +0800" stop="20261120064100 +0800" channel="广东体育">
+    <title lang="zh">重播第三届CBA俱乐部杯D组山东高速vs广东东阳光</title>
   </programme>
-  <programme start="20261118030000 +0800" stop="20261118035000 +0800" channel="广东大湾区卫视">
-    <title lang="zh">中华白海豚(重播)</title>
+  <programme start="20261120064100 +0800" stop="20261120071100 +0800" channel="广东体育">
+    <title lang="zh">重播26-27德甲第6轮精编版埃尔沃斯贝格vs奥格斯堡</title>
   </programme>
-  <programme start="20261118060000 +0800" stop="20261118065200 +0800" channel="广东大湾区卫视">
-    <title lang="zh">城事特搜(重播)</title>
+  <programme start="20261120071100 +0800" stop="20261120072100 +0800" channel="广东体育">
+    <title lang="zh">重播(1114更新)导购片:易梳黑染发膏</title>
   </programme>
-  <programme start="20261118065200 +0800" stop="20261118071500 +0800" channel="广东大湾区卫视">
-    <title lang="zh">每日运动派</title>
+  <programme start="20261120072100 +0800" stop="20261120082800 +0800" channel="广东体育">
+    <title lang="zh">重播亚运赛场:2026年亚运会选播(0929)之一花泳集体项目</title>
   </programme>
-  <programme start="20261118071500 +0800" stop="20261118080000 +0800" channel="广东大湾区卫视">
-    <title lang="zh">直播:大美南粤</title>
+  <programme start="20261120082800 +0800" stop="20261120091300 +0800" channel="广东体育">
+    <title lang="zh">重播2026年广东省城市足球超级联赛半决赛首回合梅州vs东莞</title>
   </programme>
-  <programme start="20261118080000 +0800" stop="20261118083000 +0800" channel="广东大湾区卫视">
-    <title lang="zh">思想耀岭南</title>
+  <programme start="20261120091300 +0800" stop="20261120103300 +0800" channel="广东体育">
+    <title lang="zh">重播2026年广东省城市篮球联赛半决赛次回合深圳vs广州</title>
   </programme>
-  <programme start="20261118083000 +0800" stop="20261118100000 +0800" channel="广东大湾区卫视">
-    <title lang="zh">你好大湾区</title>
+  <programme start="20261120103300 +0800" stop="20261120112900 +0800" channel="广东体育">
+    <title lang="zh">重播2026年广东省城市足球超级联赛常规赛(西区)第9轮湛江vs广州</title>
   </programme>
-  <programme start="20261118100000 +0800" stop="20261118103000 +0800" channel="广东大湾区卫视">
-    <title lang="zh">双城记</title>
+  <programme start="20261120112930 +0800" stop="20261120120000 +0800" channel="广东体育">
+    <title lang="zh">重播足球星视界(202629)广州豹-追梦不停步</title>
   </programme>
-  <programme start="20261118103000 +0800" stop="20261118110000 +0800" channel="广东大湾区卫视">
-    <title lang="zh">湾区搜游记</title>
+  <programme start="20261120120000 +0800" stop="20261120132300 +0800" channel="广东体育">
+    <title lang="zh">重播出奇智胜(981)</title>
   </programme>
-  <programme start="20261118110000 +0800" stop="20261118120000 +0800" channel="广东大湾区卫视">
-    <title lang="zh">大湾区探秘</title>
+  <programme start="20261120132330 +0800" stop="20261120144000 +0800" channel="广东体育">
+    <title lang="zh">重播2026年广东省城市篮球联赛八强赛次回合广州vs潮州</title>
   </programme>
-  <programme start="20261118120000 +0800" stop="20261118130000 +0800" channel="广东大湾区卫视">
-    <title lang="zh">飞越广东</title>
+  <programme start="20261120144000 +0800" stop="20261120152000 +0800" channel="广东体育">
+    <title lang="zh">重播2026年广东省城市足球超级联赛半决赛次回合深圳vs广州</title>
   </programme>
-  <programme start="20261118130000 +0800" stop="20261118140000 +0800" channel="广东大湾区卫视">
-    <title lang="zh">寻味湾区</title>
+  <programme start="20261120152000 +0800" stop="20261120175800 +0800" channel="广东体育">
+    <title lang="zh">直播第三届CBA俱乐部杯(15:30香港金牛vs广州智都集团)</title>
   </programme>
-  <programme start="20261118140000 +0800" stop="20261118160000 +0800" channel="广东大湾区卫视">
-    <title lang="zh">华语乐世代微纪录</title>
+  <programme start="20261120175800 +0800" stop="20261120190000 +0800" channel="广东体育">
+    <title lang="zh">重播2026年广东省城市足球超级联赛三四名决赛次回合梅州vs广州</title>
   </programme>
-  <programme start="20261118160000 +0800" stop="20261118180000 +0800" channel="广东大湾区卫视">
-    <title lang="zh">绿动大湾区</title>
+  <programme start="20261120190000 +0800" stop="20261120192100 +0800" channel="广东体育">
+    <title lang="zh">直播体育世界</title>
   </programme>
-  <programme start="20261118180000 +0800" stop="20261118183000 +0800" channel="广东大湾区卫视">
-    <title lang="zh">中华白海豚</title>
+  <programme start="20261120192100 +0800" stop="20261120220400 +0800" channel="广东体育">
+    <title lang="zh">直播2026世界羽联世界巡回赛中国香港公开赛1/4决赛</title>
   </programme>
-  <programme start="20261118183000 +0800" stop="20261118184000 +0800" channel="广东大湾区卫视">
-    <title lang="zh">笑口组</title>
+  <programme start="20261120220400 +0800" stop="20261120232400 +0800" channel="广东体育">
+    <title lang="zh">首播出奇智胜(982)</title>
   </programme>
-  <programme start="20261118184000 +0800" stop="20261118193000 +0800" channel="广东大湾区卫视">
-    <title lang="zh">城事特搜</title>
+  <programme start="20261120232400 +0800" stop="20261120233300 +0800" channel="广东体育">
+    <title lang="zh">重播主题形象片广货让世界更美好</title>
   </programme>
-  <programme start="20261118193000 +0800" stop="20261118200000 +0800" channel="广东大湾区卫视">
-    <title lang="zh">我爱返寻味</title>
-  </programme>
-  <programme start="20261118200000 +0800" stop="20261118210000 +0800" channel="广东大湾区卫视">
-    <title lang="zh">湾区最新闻</title>
-  </programme>
-  <programme start="20261118210000 +0800" stop="20261118213000 +0800" channel="广东大湾区卫视">
-    <title lang="zh">思想耀岭南</title>
-  </programme>
-  <programme start="20261118213000 +0800" stop="20261118220000 +0800" channel="广东大湾区卫视">
-    <title lang="zh">红树林</title>
-  </programme>
-  <programme start="20261118220000 +0800" stop="20261118223000 +0800" channel="广东大湾区卫视">
-    <title lang="zh">奋进百千万湾区行</title>
-  </programme>
-  <programme start="20261118223000 +0800" stop="20261118230000 +0800" channel="广东大湾区卫视">
-    <title lang="zh">广济沧海</title>
-  </programme>
-  <programme start="20261118230000 +0800" stop="20261119000000 +0800" channel="广东大湾区卫视">
-    <title lang="zh">野性广东</title>
+  <programme start="20261120233300 +0800" stop="20261121002300 +0800" channel="广东体育">
+    <title lang="zh">首播第三届CBA俱乐部杯A组广东东阳光vs浙江稠州金租</title>
   </programme>
   <programme start="20261119000000 +0800" stop="20261119005500 +0800" channel="广东大湾区卫视">
     <title lang="zh">湾区文化坊</title>
@@ -798,65 +594,59 @@
   <programme start="20261119230000 +0800" stop="20261120000000 +0800" channel="广东大湾区卫视">
     <title lang="zh">野性广东</title>
   </programme>
-  <programme start="20261118003000 +0800" stop="20261118013000 +0800" channel="广东大湾区卫视海外版">
+  <programme start="20261120000000 +0800" stop="20261120005500 +0800" channel="广东大湾区卫视">
     <title lang="zh">湾区文化坊</title>
   </programme>
-  <programme start="20261118013000 +0800" stop="20261118020000 +0800" channel="广东大湾区卫视海外版">
+  <programme start="20261120005500 +0800" stop="20261120013500 +0800" channel="广东大湾区卫视">
+    <title lang="zh">城事特搜</title>
+  </programme>
+  <programme start="20261120013500 +0800" stop="20261120020000 +0800" channel="广东大湾区卫视">
     <title lang="zh">我爱返寻味</title>
   </programme>
-  <programme start="20261118020000 +0800" stop="20261118025500 +0800" channel="广东大湾区卫视海外版">
+  <programme start="20261120020000 +0800" stop="20261120025500 +0800" channel="广东大湾区卫视">
     <title lang="zh">湾区最新闻</title>
   </programme>
-  <programme start="20261118025500 +0800" stop="20261118060000 +0800" channel="广东大湾区卫视海外版">
-    <title lang="zh">午夜经典剧场</title>
+  <programme start="20261120023000 +0800" stop="20261120025500 +0800" channel="广东大湾区卫视">
+    <title lang="zh">野性广东(重播)</title>
   </programme>
-  <programme start="20261118060000 +0800" stop="20261118061000 +0800" channel="广东大湾区卫视海外版">
-    <title lang="zh">每日运动派</title>
+  <programme start="20261120025500 +0800" stop="20261120030000 +0800" channel="广东大湾区卫视">
+    <title lang="zh">红树林(重播)</title>
   </programme>
-  <programme start="20261118061000 +0800" stop="20261118070000 +0800" channel="广东大湾区卫视海外版">
+  <programme start="20261120030000 +0800" stop="20261120035000 +0800" channel="广东大湾区卫视">
+    <title lang="zh">中华白海豚(重播)</title>
+  </programme>
+  <programme start="20261120060000 +0800" stop="20261120065200 +0800" channel="广东大湾区卫视">
     <title lang="zh">湾区文化坊</title>
   </programme>
-  <programme start="20261118070000 +0800" stop="20261118070100 +0800" channel="广东大湾区卫视海外版">
-    <title lang="zh">国歌</title>
-  </programme>
-  <programme start="20261118070100 +0800" stop="20261118080000 +0800" channel="广东大湾区卫视海外版">
-    <title lang="zh">大美南粤</title>
-  </programme>
-  <programme start="20261118080000 +0800" stop="20261118081500 +0800" channel="广东大湾区卫视海外版">
-    <title lang="zh">笑口组</title>
-  </programme>
-  <programme start="20261118081500 +0800" stop="20261118090500 +0800" channel="广东大湾区卫视海外版">
-    <title lang="zh">城事特搜</title>
-  </programme>
-  <programme start="20261118090500 +0800" stop="20261118170000 +0800" channel="广东大湾区卫视海外版">
-    <title lang="zh">经典剧场</title>
-  </programme>
-  <programme start="20261118170000 +0800" stop="20261118183000 +0800" channel="广东大湾区卫视海外版">
-    <title lang="zh">大美南粤</title>
-  </programme>
-  <programme start="20261118183000 +0800" stop="20261118184000 +0800" channel="广东大湾区卫视海外版">
-    <title lang="zh">笑口组</title>
-  </programme>
-  <programme start="20261118184000 +0800" stop="20261118193000 +0800" channel="广东大湾区卫视海外版">
-    <title lang="zh">城事特搜</title>
-  </programme>
-  <programme start="20261118193000 +0800" stop="20261118200000 +0800" channel="广东大湾区卫视海外版">
+  <programme start="20261120065200 +0800" stop="20261120071500 +0800" channel="广东大湾区卫视">
     <title lang="zh">我爱返寻味</title>
   </programme>
-  <programme start="20261118200000 +0800" stop="20261118210500 +0800" channel="广东大湾区卫视海外版">
-    <title lang="zh">直播:湾区最新闻</title>
+  <programme start="20261120071500 +0800" stop="20261120075000 +0800" channel="广东大湾区卫视">
+    <title lang="zh">城事特搜(重播)</title>
   </programme>
-  <programme start="20261118210500 +0800" stop="20261118215500 +0800" channel="广东大湾区卫视海外版">
-    <title lang="zh">晚间剧场</title>
+  <programme start="20261120075000 +0800" stop="20261120152000 +0800" channel="广东大湾区卫视">
+    <title lang="zh">短剧连环炮:72家房客</title>
   </programme>
-  <programme start="20261118215500 +0800" stop="20261118221500 +0800" channel="广东大湾区卫视海外版">
-    <title lang="zh">纪录中国</title>
+  <programme start="20261120152000 +0800" stop="20261120153000 +0800" channel="广东大湾区卫视">
+    <title lang="zh">每日运动派</title>
   </programme>
-  <programme start="20261118221500 +0800" stop="20261118230000 +0800" channel="广东大湾区卫视海外版">
-    <title lang="zh">湾区生活带</title>
+  <programme start="20261120153000 +0800" stop="20261120183000 +0800" channel="广东大湾区卫视">
+    <title lang="zh">短剧连环炮:72家房客</title>
   </programme>
-  <programme start="20261118230000 +0800" stop="20261118235000 +0800" channel="广东大湾区卫视海外版">
-    <title lang="zh">老友剧场</title>
+  <programme start="20261120183000 +0800" stop="20261120184000 +0800" channel="广东大湾区卫视">
+    <title lang="zh">笑口组</title>
+  </programme>
+  <programme start="20261120184000 +0800" stop="20261120193000 +0800" channel="广东大湾区卫视">
+    <title lang="zh">城事特搜</title>
+  </programme>
+  <programme start="20261120193000 +0800" stop="20261120200000 +0800" channel="广东大湾区卫视">
+    <title lang="zh">我爱返寻味</title>
+  </programme>
+  <programme start="20261120200000 +0800" stop="20261120210000 +0800" channel="广东大湾区卫视">
+    <title lang="zh">湾区最新闻</title>
+  </programme>
+  <programme start="20261120210000 +0800" stop="20261121003500 +0800" channel="广东大湾区卫视">
+    <title lang="zh">72家房客</title>
   </programme>
   <programme start="20261119003000 +0800" stop="20261119013000 +0800" channel="广东大湾区卫视海外版">
     <title lang="zh">湾区文化坊</title>
@@ -918,32 +708,68 @@
   <programme start="20261119230000 +0800" stop="20261119235000 +0800" channel="广东大湾区卫视海外版">
     <title lang="zh">老友剧场</title>
   </programme>
-  <programme start="20261118002000 +0800" stop="20261118011000 +0800" channel="广东影视">
-    <title lang="zh">午夜剧场</title>
+  <programme start="20261120003000 +0800" stop="20261120013000 +0800" channel="广东大湾区卫视海外版">
+    <title lang="zh">湾区文化坊</title>
   </programme>
-  <programme start="20261118060500 +0800" stop="20261118080000 +0800" channel="广东影视">
-    <title lang="zh">醒晨剧场一:走出硝烟的女人(19-21)</title>
+  <programme start="20261120013000 +0800" stop="20261120020000 +0800" channel="广东大湾区卫视海外版">
+    <title lang="zh">我爱返寻味</title>
   </programme>
-  <programme start="20261118080000 +0800" stop="20261118103500 +0800" channel="广东影视">
-    <title lang="zh">醒晨剧场二:喋血孤岛(29-31)</title>
+  <programme start="20261120020000 +0800" stop="20261120025500 +0800" channel="广东大湾区卫视海外版">
+    <title lang="zh">湾区最新闻</title>
   </programme>
-  <programme start="20261118103500 +0800" stop="20261118160000 +0800" channel="广东影视">
-    <title lang="zh">午间大强档:利箭纵横(41-45)</title>
+  <programme start="20261120025500 +0800" stop="20261120060000 +0800" channel="广东大湾区卫视海外版">
+    <title lang="zh">午夜经典剧场</title>
   </programme>
-  <programme start="20261118160000 +0800" stop="20261118183000 +0800" channel="广东影视">
-    <title lang="zh">剧无霸前战剧场:我和她的传奇情仇(5-7)</title>
+  <programme start="20261120060000 +0800" stop="20261120061000 +0800" channel="广东大湾区卫视海外版">
+    <title lang="zh">每日运动派</title>
   </programme>
-  <programme start="20261118183000 +0800" stop="20261118184500 +0800" channel="广东影视">
-    <title lang="zh">有请大医生</title>
+  <programme start="20261120061000 +0800" stop="20261120070000 +0800" channel="广东大湾区卫视海外版">
+    <title lang="zh">湾区文化坊</title>
   </programme>
-  <programme start="20261118184500 +0800" stop="20261118223000 +0800" channel="广东影视">
-    <title lang="zh">剧无霸剧场:怒火英雄(13-17)</title>
+  <programme start="20261120070000 +0800" stop="20261120070100 +0800" channel="广东大湾区卫视海外版">
+    <title lang="zh">国歌</title>
   </programme>
-  <programme start="20261118223000 +0800" stop="20261118224500 +0800" channel="广东影视">
-    <title lang="zh">广东电影报道+有请大医生</title>
+  <programme start="20261120070100 +0800" stop="20261120080000 +0800" channel="广东大湾区卫视海外版">
+    <title lang="zh">大美南粤</title>
   </programme>
-  <programme start="20261118224500 +0800" stop="20261119002000 +0800" channel="广东影视">
-    <title lang="zh">剧无霸经典剧场:桃花依旧笑春风(59-61)</title>
+  <programme start="20261120080000 +0800" stop="20261120081500 +0800" channel="广东大湾区卫视海外版">
+    <title lang="zh">笑口组</title>
+  </programme>
+  <programme start="20261120081500 +0800" stop="20261120090500 +0800" channel="广东大湾区卫视海外版">
+    <title lang="zh">城事特搜</title>
+  </programme>
+  <programme start="20261120090500 +0800" stop="20261120170000 +0800" channel="广东大湾区卫视海外版">
+    <title lang="zh">经典剧场</title>
+  </programme>
+  <programme start="20261120170000 +0800" stop="20261120183000 +0800" channel="广东大湾区卫视海外版">
+    <title lang="zh">大美南粤</title>
+  </programme>
+  <programme start="20261120183000 +0800" stop="20261120184000 +0800" channel="广东大湾区卫视海外版">
+    <title lang="zh">笑口组</title>
+  </programme>
+  <programme start="20261120184000 +0800" stop="20261120193000 +0800" channel="广东大湾区卫视海外版">
+    <title lang="zh">城事特搜</title>
+  </programme>
+  <programme start="20261120193000 +0800" stop="20261120200000 +0800" channel="广东大湾区卫视海外版">
+    <title lang="zh">我爱返寻味</title>
+  </programme>
+  <programme start="20261120200000 +0800" stop="20261120210500 +0800" channel="广东大湾区卫视海外版">
+    <title lang="zh">直播:湾区最新闻</title>
+  </programme>
+  <programme start="20261120210500 +0800" stop="20261120215500 +0800" channel="广东大湾区卫视海外版">
+    <title lang="zh">晚间剧场</title>
+  </programme>
+  <programme start="20261120215500 +0800" stop="20261120221500 +0800" channel="广东大湾区卫视海外版">
+    <title lang="zh">纪录中国</title>
+  </programme>
+  <programme start="20261120221500 +0800" stop="20261120230000 +0800" channel="广东大湾区卫视海外版">
+    <title lang="zh">湾区生活带</title>
+  </programme>
+  <programme start="20261120230000 +0800" stop="20261120232500 +0800" channel="广东大湾区卫视海外版">
+    <title lang="zh">今日广东</title>
+  </programme>
+  <programme start="20261120232500 +0800" stop="20261121001500 +0800" channel="广东大湾区卫视海外版">
+    <title lang="zh">老友剧场</title>
   </programme>
   <programme start="20261119002000 +0800" stop="20261119011000 +0800" channel="广东影视">
     <title lang="zh">午夜剧场</title>
@@ -972,56 +798,32 @@
   <programme start="20261119224500 +0800" stop="20261120002000 +0800" channel="广东影视">
     <title lang="zh">剧无霸经典剧场:桃花依旧笑春风(62-64)</title>
   </programme>
-  <programme start="20261118032500 +0800" stop="20261118063000 +0800" channel="广东4K超高清">
-    <title lang="zh">4K深夜剧场</title>
+  <programme start="20261120002000 +0800" stop="20261120011000 +0800" channel="广东影视">
+    <title lang="zh">午夜剧场</title>
   </programme>
-  <programme start="20261118063000 +0800" stop="20261118070000 +0800" channel="广东4K超高清">
-    <title lang="zh">综艺荟</title>
+  <programme start="20261120060500 +0800" stop="20261120080000 +0800" channel="广东影视">
+    <title lang="zh">醒晨剧场一:走出硝烟的女人(25-27)</title>
   </programme>
-  <programme start="20261118070000 +0800" stop="20261118080000 +0800" channel="广东4K超高清">
-    <title lang="zh">大美南粤</title>
+  <programme start="20261120080000 +0800" stop="20261120103500 +0800" channel="广东影视">
+    <title lang="zh">醒晨剧场二:喋血孤岛(35-37)</title>
   </programme>
-  <programme start="20261118080000 +0800" stop="20261118113000 +0800" channel="广东4K超高清">
-    <title lang="zh">晨早剧场</title>
+  <programme start="20261120103500 +0800" stop="20261120160000 +0800" channel="广东影视">
+    <title lang="zh">午间大强档:利箭纵横(51-55)</title>
   </programme>
-  <programme start="20261118113000 +0800" stop="20261118121000 +0800" channel="广东4K超高清">
-    <title lang="zh">律师有嘢讲</title>
+  <programme start="20261120160000 +0800" stop="20261120183000 +0800" channel="广东影视">
+    <title lang="zh">剧无霸前战剧场:我和她的传奇情仇(11-13)</title>
   </programme>
-  <programme start="20261118121000 +0800" stop="20261118125500 +0800" channel="广东4K超高清">
-    <title lang="zh">岭南看非遗</title>
+  <programme start="20261120183000 +0800" stop="20261120184500 +0800" channel="广东影视">
+    <title lang="zh">微短剧</title>
   </programme>
-  <programme start="20261118125500 +0800" stop="20261118130500 +0800" channel="广东4K超高清">
-    <title lang="zh">极致美味</title>
+  <programme start="20261120184500 +0800" stop="20261120223000 +0800" channel="广东影视">
+    <title lang="zh">剧无霸剧场:怒火英雄(23-27)</title>
   </programme>
-  <programme start="20261118130500 +0800" stop="20261118134000 +0800" channel="广东4K超高清">
-    <title lang="zh">举案说法</title>
+  <programme start="20261120223000 +0800" stop="20261120224500 +0800" channel="广东影视">
+    <title lang="zh">广东电影报道</title>
   </programme>
-  <programme start="20261118134000 +0800" stop="20261118170000 +0800" channel="广东4K超高清">
-    <title lang="zh">下午茶剧场</title>
-  </programme>
-  <programme start="20261118170000 +0800" stop="20261118180000 +0800" channel="广东4K超高清">
-    <title lang="zh">大美南粤</title>
-  </programme>
-  <programme start="20261118180000 +0800" stop="20261118182000 +0800" channel="广东4K超高清">
-    <title lang="zh">把歌唱给你听</title>
-  </programme>
-  <programme start="20261118182000 +0800" stop="20261118183000 +0800" channel="广东4K超高清">
-    <title lang="zh">思想耀岭南</title>
-  </programme>
-  <programme start="20261118183000 +0800" stop="20261118190000 +0800" channel="广东4K超高清">
-    <title lang="zh">最紧要健康</title>
-  </programme>
-  <programme start="20261118190000 +0800" stop="20261118212000 +0800" channel="广东4K超高清">
-    <title lang="zh">4K经典剧场</title>
-  </programme>
-  <programme start="20261118212000 +0800" stop="20261118220000 +0800" channel="广东4K超高清">
-    <title lang="zh">律师有嘢讲</title>
-  </programme>
-  <programme start="20261118220000 +0800" stop="20261118225000 +0800" channel="广东4K超高清">
-    <title lang="zh">纪录片</title>
-  </programme>
-  <programme start="20261118225000 +0800" stop="20261118234000 +0800" channel="广东4K超高清">
-    <title lang="zh">深夜剧场</title>
+  <programme start="20261120224500 +0800" stop="20261121002000 +0800" channel="广东影视">
+    <title lang="zh">剧无霸经典剧场:桃花依旧笑春风(65-67)</title>
   </programme>
   <programme start="20261119032500 +0800" stop="20261119063000 +0800" channel="广东4K超高清">
     <title lang="zh">4K深夜剧场</title>
@@ -1074,32 +876,56 @@
   <programme start="20261119225000 +0800" stop="20261119234000 +0800" channel="广东4K超高清">
     <title lang="zh">深夜剧场</title>
   </programme>
-  <programme start="20261118000000 +0800" stop="20261118005000 +0800" channel="广东少儿">
-    <title lang="zh">午夜剧场</title>
+  <programme start="20261120032500 +0800" stop="20261120063000 +0800" channel="广东4K超高清">
+    <title lang="zh">4K深夜剧场</title>
   </programme>
-  <programme start="20261118060000 +0800" stop="20261118080000 +0800" channel="广东少儿">
-    <title lang="zh">早间卡通剧场《海底小纵队》</title>
+  <programme start="20261120063000 +0800" stop="20261120070000 +0800" channel="广东4K超高清">
+    <title lang="zh">综艺荟</title>
   </programme>
-  <programme start="20261118080000 +0800" stop="20261118120000 +0800" channel="广东少儿">
-    <title lang="zh">《巴啦啦小魔仙》</title>
+  <programme start="20261120070000 +0800" stop="20261120080000 +0800" channel="广东4K超高清">
+    <title lang="zh">大美南粤</title>
   </programme>
-  <programme start="20261118120000 +0800" stop="20261118140000 +0800" channel="广东少儿">
-    <title lang="zh">《爆笑虫子》《李哪吒上学记》</title>
+  <programme start="20261120080000 +0800" stop="20261120113000 +0800" channel="广东4K超高清">
+    <title lang="zh">晨早剧场</title>
   </programme>
-  <programme start="20261118140000 +0800" stop="20261118170000 +0800" channel="广东少儿">
-    <title lang="zh">《超级飞侠》《不是吧！我变成了超人》</title>
+  <programme start="20261120113000 +0800" stop="20261120121000 +0800" channel="广东4K超高清">
+    <title lang="zh">律师有嘢讲</title>
   </programme>
-  <programme start="20261118170000 +0800" stop="20261118180000 +0800" channel="广东少儿">
-    <title lang="zh">《超级飞侠》</title>
+  <programme start="20261120121000 +0800" stop="20261120125500 +0800" channel="广东4K超高清">
+    <title lang="zh">岭南看非遗</title>
   </programme>
-  <programme start="20261118180000 +0800" stop="20261118190000 +0800" channel="广东少儿">
-    <title lang="zh">《神奇阿呦》</title>
+  <programme start="20261120125500 +0800" stop="20261120130500 +0800" channel="广东4K超高清">
+    <title lang="zh">极致美味</title>
   </programme>
-  <programme start="20261118190000 +0800" stop="20261118191000 +0800" channel="广东少儿">
-    <title lang="zh">《南方小记者》</title>
+  <programme start="20261120130500 +0800" stop="20261120134000 +0800" channel="广东4K超高清">
+    <title lang="zh">举案说法</title>
   </programme>
-  <programme start="20261118191000 +0800" stop="20261119000000 +0800" channel="广东少儿">
-    <title lang="zh">《神奇阿呦》</title>
+  <programme start="20261120134000 +0800" stop="20261120170000 +0800" channel="广东4K超高清">
+    <title lang="zh">下午茶剧场</title>
+  </programme>
+  <programme start="20261120170000 +0800" stop="20261120180000 +0800" channel="广东4K超高清">
+    <title lang="zh">大美南粤</title>
+  </programme>
+  <programme start="20261120180000 +0800" stop="20261120182000 +0800" channel="广东4K超高清">
+    <title lang="zh">一起旅游吧</title>
+  </programme>
+  <programme start="20261120182000 +0800" stop="20261120183000 +0800" channel="广东4K超高清">
+    <title lang="zh">思想耀岭南</title>
+  </programme>
+  <programme start="20261120183000 +0800" stop="20261120190000 +0800" channel="广东4K超高清">
+    <title lang="zh">最紧要健康</title>
+  </programme>
+  <programme start="20261120190000 +0800" stop="20261120212000 +0800" channel="广东4K超高清">
+    <title lang="zh">4K经典剧场</title>
+  </programme>
+  <programme start="20261120212000 +0800" stop="20261120220000 +0800" channel="广东4K超高清">
+    <title lang="zh">律师有嘢讲</title>
+  </programme>
+  <programme start="20261120220000 +0800" stop="20261120225000 +0800" channel="广东4K超高清">
+    <title lang="zh">纪录片</title>
+  </programme>
+  <programme start="20261120225000 +0800" stop="20261120234000 +0800" channel="广东4K超高清">
+    <title lang="zh">深夜剧场</title>
   </programme>
   <programme start="20261119000000 +0800" stop="20261119005000 +0800" channel="广东少儿">
     <title lang="zh">午夜剧场</title>
@@ -1122,290 +948,191 @@
   <programme start="20261119180000 +0800" stop="20261120000000 +0800" channel="广东少儿">
     <title lang="zh">《神奇阿呦》《爆笑虫子》</title>
   </programme>
-  <programme start="20261118000000 +0800" stop="20261118055900 +0800" channel="广东嘉佳卡通">
+  <programme start="20261120000000 +0800" stop="20261120005000 +0800" channel="广东少儿">
+    <title lang="zh">午夜剧场</title>
+  </programme>
+  <programme start="20261120060000 +0800" stop="20261120080000 +0800" channel="广东少儿">
+    <title lang="zh">早间卡通剧场《海底小纵队》</title>
+  </programme>
+  <programme start="20261120080000 +0800" stop="20261120092000 +0800" channel="广东少儿">
+    <title lang="zh">《巴啦啦小魔仙》</title>
+  </programme>
+  <programme start="20261120092000 +0800" stop="20261120140000 +0800" channel="广东少儿">
+    <title lang="zh">《薇薇猫的日常》</title>
+  </programme>
+  <programme start="20261120140000 +0800" stop="20261120170000 +0800" channel="广东少儿">
+    <title lang="zh">《超级飞侠》</title>
+  </programme>
+  <programme start="20261120170000 +0800" stop="20261120190000 +0800" channel="广东少儿">
+    <title lang="zh">《爆笑虫子》</title>
+  </programme>
+  <programme start="20261120190000 +0800" stop="20261120191000 +0800" channel="广东少儿">
+    <title lang="zh">《南方小记者》</title>
+  </programme>
+  <programme start="20261120191000 +0800" stop="20261121000000 +0800" channel="广东少儿">
+    <title lang="zh">《奶龙》</title>
+  </programme>
+  <programme start="20261119000000 +0800" stop="20261119002100 +0800" channel="广东嘉佳卡通">
     <title lang="zh">喜羊羊与灰太狼之羊村守护者十一</title>
   </programme>
-  <programme start="20261118055900 +0800" stop="20261118080900 +0800" channel="广东嘉佳卡通">
-    <title lang="zh">猪猪侠之竞速小英雄八</title>
+  <programme start="20261119002100 +0800" stop="20261119055900 +0800" channel="广东嘉佳卡通">
+    <title lang="zh">喜羊羊与灰太狼之嘻哈闯世界三</title>
   </programme>
-  <programme start="20261118080900 +0800" stop="20261118083100 +0800" channel="广东嘉佳卡通">
+  <programme start="20261119055900 +0800" stop="20261119080900 +0800" channel="广东嘉佳卡通">
+    <title lang="zh">猪猪侠之竞速小英雄七</title>
+  </programme>
+  <programme start="20261119080900 +0800" stop="20261119083100 +0800" channel="广东嘉佳卡通">
     <title lang="zh">小沙之欢声笑语</title>
   </programme>
-  <programme start="20261118083100 +0800" stop="20261118085400 +0800" channel="广东嘉佳卡通">
-    <title lang="zh">海底小纵队第九季</title>
-  </programme>
-  <programme start="20261118085400 +0800" stop="20261118091300 +0800" channel="广东嘉佳卡通">
+  <programme start="20261119083100 +0800" stop="20261119091200 +0800" channel="广东嘉佳卡通">
     <title lang="zh">海底小纵队第十季</title>
   </programme>
-  <programme start="20261118091300 +0800" stop="20261118092300 +0800" channel="广东嘉佳卡通">
+  <programme start="20261119091200 +0800" stop="20261119092200 +0800" channel="广东嘉佳卡通">
     <title lang="zh">天涯共此诗</title>
   </programme>
-  <programme start="20261118092300 +0800" stop="20261118110000 +0800" channel="广东嘉佳卡通">
+  <programme start="20261119092200 +0800" stop="20261119110000 +0800" channel="广东嘉佳卡通">
     <title lang="zh">海底小纵队第十季</title>
   </programme>
-  <programme start="20261118110000 +0800" stop="20261118112600 +0800" channel="广东嘉佳卡通">
+  <programme start="20261119110000 +0800" stop="20261119112400 +0800" channel="广东嘉佳卡通">
     <title lang="zh">疯狂小糖</title>
   </programme>
-  <programme start="20261118112600 +0800" stop="20261118124500 +0800" channel="广东嘉佳卡通">
-    <title lang="zh">飞狗莫柯之家有小短腿一</title>
+  <programme start="20261119112400 +0800" stop="20261119141000 +0800" channel="广东嘉佳卡通">
+    <title lang="zh">爆笑虫子在中国(上)</title>
   </programme>
-  <programme start="20261118124500 +0800" stop="20261118141000 +0800" channel="广东嘉佳卡通">
-    <title lang="zh">飞狗莫柯之家有小短腿二</title>
-  </programme>
-  <programme start="20261118141000 +0800" stop="20261118160800 +0800" channel="广东嘉佳卡通">
+  <programme start="20261119141000 +0800" stop="20261119155100 +0800" channel="广东嘉佳卡通">
     <title lang="zh">喜羊羊与灰太狼之羊村守护者六</title>
   </programme>
-  <programme start="20261118160800 +0800" stop="20261118173200 +0800" channel="广东嘉佳卡通">
-    <title lang="zh">飞狗莫柯之家有小短腿二</title>
-  </programme>
-  <programme start="20261118173200 +0800" stop="20261118183300 +0800" channel="广东嘉佳卡通">
+  <programme start="20261119155100 +0800" stop="20261119183100 +0800" channel="广东嘉佳卡通">
     <title lang="zh">薇薇猫的日常</title>
   </programme>
-  <programme start="20261118183300 +0800" stop="20261118185700 +0800" channel="广东嘉佳卡通">
+  <programme start="20261119183100 +0800" stop="20261119185500 +0800" channel="广东嘉佳卡通">
     <title lang="zh">超级飞侠之奇芯宝藏二</title>
   </programme>
-  <programme start="20261118185700 +0800" stop="20261118193200 +0800" channel="广东嘉佳卡通">
+  <programme start="20261119185500 +0800" stop="20261119193000 +0800" channel="广东嘉佳卡通">
     <title lang="zh">超级飞侠二十</title>
   </programme>
-  <programme start="20261118193200 +0800" stop="20261118194400 +0800" channel="广东嘉佳卡通">
+  <programme start="20261119193000 +0800" stop="20261119194200 +0800" channel="广东嘉佳卡通">
     <title lang="zh">咖宝车神之星卫战队(上)</title>
   </programme>
-  <programme start="20261118194400 +0800" stop="20261118203500 +0800" channel="广东嘉佳卡通">
-    <title lang="zh">喜羊羊与灰太狼之羊村守护者一</title>
+  <programme start="20261119194200 +0800" stop="20261119203400 +0800" channel="广东嘉佳卡通">
+    <title lang="zh">喜羊羊与灰太狼之发明大作战一</title>
   </programme>
-  <programme start="20261118203500 +0800" stop="20261118210000 +0800" channel="广东嘉佳卡通">
+  <programme start="20261119203400 +0800" stop="20261119205900 +0800" channel="广东嘉佳卡通">
     <title lang="zh">迪迪和科学爷爷第一季</title>
   </programme>
-  <programme start="20261118210000 +0800" stop="20261118211200 +0800" channel="广东嘉佳卡通">
-    <title lang="zh">喜羊羊与灰太狼之羊村守护者一</title>
-  </programme>
-  <programme start="20261118211200 +0800" stop="20261118211500 +0800" channel="广东嘉佳卡通">
-    <title lang="zh">嗨！小喇叭-校园运动会</title>
-  </programme>
-  <programme start="20261118211500 +0800" stop="20261118211900 +0800" channel="广东嘉佳卡通">
-    <title lang="zh">嗨！小喇叭-国宝与经典特辑</title>
-  </programme>
-  <programme start="20261118211900 +0800" stop="20261118212800 +0800" channel="广东嘉佳卡通">
+  <programme start="20261119205900 +0800" stop="20261119211100 +0800" channel="广东嘉佳卡通">
     <title lang="zh">天涯共此诗</title>
   </programme>
-  <programme start="20261118212800 +0800" stop="20261118235600 +0800" channel="广东嘉佳卡通">
-    <title lang="zh">喜羊羊与灰太狼之羊村守护者一</title>
+  <programme start="20261119211100 +0800" stop="20261119211500 +0800" channel="广东嘉佳卡通">
+    <title lang="zh">嗨！小喇叭-国宝与经典特辑</title>
   </programme>
-  <programme start="20261118235600 +0800" stop="20261119004600 +0800" channel="广东嘉佳卡通">
-    <title lang="zh">喜羊羊与灰太狼之羊村守护者十一</title>
+  <programme start="20261119211500 +0800" stop="20261119220500 +0800" channel="广东嘉佳卡通">
+    <title lang="zh">喜羊羊与灰太狼之发明大作战一</title>
   </programme>
-  <programme start="20261118010000 +0800" stop="20261118060000 +0800" channel="广东岭南戏曲">
-    <title lang="zh">风雅潮韵:《汉文皇后》名段精选(1)</title>
-  </programme>
-  <programme start="20261118060000 +0800" stop="20261118074000 +0800" channel="广东岭南戏曲">
-    <title lang="zh">剧场连线:黄飞虎反五关(1)</title>
-  </programme>
-  <programme start="20261118074000 +0800" stop="20261118074400 +0800" channel="广东岭南戏曲">
-    <title lang="zh">戏人戏语(436)</title>
-  </programme>
-  <programme start="20261118074400 +0800" stop="20261118074900 +0800" channel="广东岭南戏曲">
-    <title lang="zh">岭南大舞台:资讯(960)</title>
-  </programme>
-  <programme start="20261118074900 +0800" stop="20261118075300 +0800" channel="广东岭南戏曲">
-    <title lang="zh">趣谈广州话(2255)</title>
-  </programme>
-  <programme start="20261118075300 +0800" stop="20261118090500 +0800" channel="广东岭南戏曲">
-    <title lang="zh">风雅潮韵:《汉文皇后》名段精选(1)</title>
-  </programme>
-  <programme start="20261118090500 +0800" stop="20261118100100 +0800" channel="广东岭南戏曲">
-    <title lang="zh">老倌学堂:蒋文端《蝶舞蓬瀛》</title>
-  </programme>
-  <programme start="20261118100100 +0800" stop="20261118104700 +0800" channel="广东岭南戏曲">
-    <title lang="zh">粤剧有我地:李嘉宜</title>
-  </programme>
-  <programme start="20261118104700 +0800" stop="20261118122700 +0800" channel="广东岭南戏曲">
-    <title lang="zh">剧场连线:黄飞虎反五关(1)</title>
-  </programme>
-  <programme start="20261118122700 +0800" stop="20261118123100 +0800" channel="广东岭南戏曲">
-    <title lang="zh">戏人戏语(436)</title>
-  </programme>
-  <programme start="20261118123100 +0800" stop="20261118123600 +0800" channel="广东岭南戏曲">
-    <title lang="zh">岭南大舞台:资讯(960)</title>
-  </programme>
-  <programme start="20261118123600 +0800" stop="20261118124000 +0800" channel="广东岭南戏曲">
-    <title lang="zh">趣谈广州话(2255)</title>
-  </programme>
-  <programme start="20261118124000 +0800" stop="20261118134900 +0800" channel="广东岭南戏曲">
-    <title lang="zh">老倌学堂:蒋文端《蝶舞蓬瀛》</title>
-  </programme>
-  <programme start="20261118134900 +0800" stop="20261118135300 +0800" channel="广东岭南戏曲">
-    <title lang="zh">戏人戏语(436)</title>
-  </programme>
-  <programme start="20261118135300 +0800" stop="20261118135800 +0800" channel="广东岭南戏曲">
-    <title lang="zh">岭南大舞台:资讯(960)</title>
-  </programme>
-  <programme start="20261118135800 +0800" stop="20261118140200 +0800" channel="广东岭南戏曲">
-    <title lang="zh">趣谈广州话(2255)</title>
-  </programme>
-  <programme start="20261118140200 +0800" stop="20261118153700 +0800" channel="广东岭南戏曲">
-    <title lang="zh">剧场连线:黄飞虎反五关(1)</title>
-  </programme>
-  <programme start="20261118153700 +0800" stop="20261118154100 +0800" channel="广东岭南戏曲">
-    <title lang="zh">戏人戏语(436)</title>
-  </programme>
-  <programme start="20261118154100 +0800" stop="20261118154600 +0800" channel="广东岭南戏曲">
-    <title lang="zh">岭南大舞台:资讯(960)</title>
-  </programme>
-  <programme start="20261118154600 +0800" stop="20261118155000 +0800" channel="广东岭南戏曲">
-    <title lang="zh">趣谈广州话(2255)</title>
-  </programme>
-  <programme start="20261118155000 +0800" stop="20261118165700 +0800" channel="广东岭南戏曲">
-    <title lang="zh">锦绣梨园:知音拥戴西江情(1)</title>
-  </programme>
-  <programme start="20261118165700 +0800" stop="20261118174300 +0800" channel="广东岭南戏曲">
-    <title lang="zh">粤剧有我地:李嘉宜</title>
-  </programme>
-  <programme start="20261118174300 +0800" stop="20261118184800 +0800" channel="广东岭南戏曲">
+  <programme start="20261119005700 +0800" stop="20261119060000 +0800" channel="广东岭南戏曲">
     <title lang="zh">风雅潮韵:《汉文皇后》名段精选(2)</title>
   </programme>
-  <programme start="20261118184800 +0800" stop="20261118185200 +0800" channel="广东岭南戏曲">
-    <title lang="zh">戏人戏语(436)</title>
-  </programme>
-  <programme start="20261118185200 +0800" stop="20261118185700 +0800" channel="广东岭南戏曲">
-    <title lang="zh">岭南大舞台:资讯(960)</title>
-  </programme>
-  <programme start="20261118185700 +0800" stop="20261118190000 +0800" channel="广东岭南戏曲">
-    <title lang="zh">趣谈广州话(2255)</title>
-  </programme>
-  <programme start="20261118190000 +0800" stop="20261118204100 +0800" channel="广东岭南戏曲">
+  <programme start="20261119060000 +0800" stop="20261119075200 +0800" channel="广东岭南戏曲">
     <title lang="zh">剧场连线:黄飞虎反五关(2)</title>
   </programme>
-  <programme start="20261118204100 +0800" stop="20261118204500 +0800" channel="广东岭南戏曲">
-    <title lang="zh">戏人戏语(436)</title>
+  <programme start="20261119075200 +0800" stop="20261119075600 +0800" channel="广东岭南戏曲">
+    <title lang="zh">戏人戏语(437)</title>
   </programme>
-  <programme start="20261118204500 +0800" stop="20261118205000 +0800" channel="广东岭南戏曲">
+  <programme start="20261119075600 +0800" stop="20261119080100 +0800" channel="广东岭南戏曲">
     <title lang="zh">岭南大舞台:资讯(960)</title>
   </programme>
-  <programme start="20261118205000 +0800" stop="20261118205400 +0800" channel="广东岭南戏曲">
-    <title lang="zh">趣谈广州话(2255)</title>
+  <programme start="20261119080100 +0800" stop="20261119080500 +0800" channel="广东岭南戏曲">
+    <title lang="zh">趣谈广州话(2256)</title>
   </programme>
-  <programme start="20261118205400 +0800" stop="20261118220300 +0800" channel="广东岭南戏曲">
-    <title lang="zh">老倌学堂:蒋文端《蝶舞蓬瀛》</title>
+  <programme start="20261119080500 +0800" stop="20261119091400 +0800" channel="广东岭南戏曲">
+    <title lang="zh">风雅潮韵:《汉文皇后》名段精选(2)</title>
   </programme>
-  <programme start="20261118220300 +0800" stop="20261118230800 +0800" channel="广东岭南戏曲">
-    <title lang="zh">锦绣梨园:知音拥戴西江情(1)</title>
+  <programme start="20261119091400 +0800" stop="20261119102300 +0800" channel="广东岭南戏曲">
+    <title lang="zh">老倌学堂:彭炽权《仕林祭塔》</title>
   </programme>
-  <programme start="20261118230800 +0800" stop="20261118231200 +0800" channel="广东岭南戏曲">
-    <title lang="zh">戏人戏语(436)</title>
-  </programme>
-  <programme start="20261118231200 +0800" stop="20261118231700 +0800" channel="广东岭南戏曲">
-    <title lang="zh">岭南大舞台:资讯(960)</title>
-  </programme>
-  <programme start="20261118231700 +0800" stop="20261118232100 +0800" channel="广东岭南戏曲">
-    <title lang="zh">趣谈广州话(2255)</title>
-  </programme>
-  <programme start="20261118232100 +0800" stop="20261119001100 +0800" channel="广东岭南戏曲">
+  <programme start="20261119102300 +0800" stop="20261119120700 +0800" channel="广东岭南戏曲">
     <title lang="zh">剧场连线:黄飞虎反五关(2)</title>
   </programme>
-  <programme start="20261118060000 +0800" stop="20261118063100 +0800" channel="广东移动">
-    <title lang="zh">岭南博物</title>
+  <programme start="20261119120700 +0800" stop="20261119121100 +0800" channel="广东岭南戏曲">
+    <title lang="zh">戏人戏语(437)</title>
   </programme>
-  <programme start="20261118063100 +0800" stop="20261118063500 +0800" channel="广东移动">
-    <title lang="zh">移动创星音乐榜</title>
+  <programme start="20261119121100 +0800" stop="20261119121600 +0800" channel="广东岭南戏曲">
+    <title lang="zh">岭南大舞台:资讯(960)</title>
   </programme>
-  <programme start="20261118063500 +0800" stop="20261118070500 +0800" channel="广东移动">
-    <title lang="zh">岭南博物</title>
+  <programme start="20261119121600 +0800" stop="20261119122000 +0800" channel="广东岭南戏曲">
+    <title lang="zh">趣谈广州话(2256)</title>
   </programme>
-  <programme start="20261118070500 +0800" stop="20261118075700 +0800" channel="广东移动">
-    <title lang="zh">国乐大师</title>
+  <programme start="20261119122000 +0800" stop="20261119133000 +0800" channel="广东岭南戏曲">
+    <title lang="zh">锦绣梨园:知音拥戴西江情(2)</title>
   </programme>
-  <programme start="20261118075700 +0800" stop="20261118081200 +0800" channel="广东移动">
-    <title lang="zh">可爱香港</title>
+  <programme start="20261119133000 +0800" stop="20261119142100 +0800" channel="广东岭南戏曲">
+    <title lang="zh">第三季粤剧有我地:梁恒风</title>
   </programme>
-  <programme start="20261118081200 +0800" stop="20261118083000 +0800" channel="广东移动">
-    <title lang="zh">不辞长做岭南人</title>
+  <programme start="20261119142100 +0800" stop="20261119142500 +0800" channel="广东岭南戏曲">
+    <title lang="zh">戏人戏语(437)</title>
   </programme>
-  <programme start="20261118083000 +0800" stop="20261118084600 +0800" channel="广东移动">
-    <title lang="zh">雷公密码之敖丙出逃记</title>
+  <programme start="20261119142500 +0800" stop="20261119143000 +0800" channel="广东岭南戏曲">
+    <title lang="zh">岭南大舞台:资讯(960)</title>
   </programme>
-  <programme start="20261118084600 +0800" stop="20261118093600 +0800" channel="广东移动">
-    <title lang="zh">国乐大师</title>
+  <programme start="20261119143000 +0800" stop="20261119143500 +0800" channel="广东岭南戏曲">
+    <title lang="zh">趣谈广州话(2256)</title>
   </programme>
-  <programme start="20261118093600 +0800" stop="20261118094100 +0800" channel="广东移动">
-    <title lang="zh">移动创星音乐榜</title>
+  <programme start="20261119143500 +0800" stop="20261119162000 +0800" channel="广东岭南戏曲">
+    <title lang="zh">剧场连线:黄飞虎反五关(2)</title>
   </programme>
-  <programme start="20261118094100 +0800" stop="20261118104200 +0800" channel="广东移动">
-    <title lang="zh">岭南博物</title>
+  <programme start="20261119162000 +0800" stop="20261119162400 +0800" channel="广东岭南戏曲">
+    <title lang="zh">戏人戏语(437)</title>
   </programme>
-  <programme start="20261118104200 +0800" stop="20261118105900 +0800" channel="广东移动">
-    <title lang="zh">可爱香港</title>
+  <programme start="20261119162400 +0800" stop="20261119162900 +0800" channel="广东岭南戏曲">
+    <title lang="zh">岭南大舞台:资讯(960)</title>
   </programme>
-  <programme start="20261118105900 +0800" stop="20261118115900 +0800" channel="广东移动">
-    <title lang="zh">岭南博物</title>
+  <programme start="20261119162900 +0800" stop="20261119163300 +0800" channel="广东岭南戏曲">
+    <title lang="zh">趣谈广州话(2256)</title>
   </programme>
-  <programme start="20261118115900 +0800" stop="20261118121900 +0800" channel="广东移动">
-    <title lang="zh">不辞长做岭南人</title>
+  <programme start="20261119163300 +0800" stop="20261119174300 +0800" channel="广东岭南戏曲">
+    <title lang="zh">老倌学堂:彭炽权《仕林祭塔》</title>
   </programme>
-  <programme start="20261118121900 +0800" stop="20261118123400 +0800" channel="广东移动">
-    <title lang="zh">雷公密码之敖丙出逃记</title>
+  <programme start="20261119174300 +0800" stop="20261119184800 +0800" channel="广东岭南戏曲">
+    <title lang="zh">风雅潮韵:《帝女花》名段精选(1)</title>
   </programme>
-  <programme start="20261118123400 +0800" stop="20261118132400 +0800" channel="广东移动">
-    <title lang="zh">国乐大师</title>
+  <programme start="20261119184800 +0800" stop="20261119185200 +0800" channel="广东岭南戏曲">
+    <title lang="zh">戏人戏语(437)</title>
   </programme>
-  <programme start="20261118132400 +0800" stop="20261118133000 +0800" channel="广东移动">
-    <title lang="zh">移动创星音乐榜</title>
+  <programme start="20261119185200 +0800" stop="20261119185700 +0800" channel="广东岭南戏曲">
+    <title lang="zh">岭南大舞台:资讯(960)</title>
   </programme>
-  <programme start="20261118133000 +0800" stop="20261118134600 +0800" channel="广东移动">
-    <title lang="zh">可爱香港</title>
+  <programme start="20261119185700 +0800" stop="20261119190000 +0800" channel="广东岭南戏曲">
+    <title lang="zh">趣谈广州话(2256)</title>
   </programme>
-  <programme start="20261118134600 +0800" stop="20261118144600 +0800" channel="广东移动">
-    <title lang="zh">岭南博物</title>
+  <programme start="20261119190000 +0800" stop="20261119204200 +0800" channel="广东岭南戏曲">
+    <title lang="zh">剧场连线:昭君公主(1)</title>
   </programme>
-  <programme start="20261118144600 +0800" stop="20261118150200 +0800" channel="广东移动">
-    <title lang="zh">不辞长做岭南人</title>
+  <programme start="20261119204200 +0800" stop="20261119204600 +0800" channel="广东岭南戏曲">
+    <title lang="zh">戏人戏语(437)</title>
   </programme>
-  <programme start="20261118150200 +0800" stop="20261118151800 +0800" channel="广东移动">
-    <title lang="zh">雷公密码之敖丙出逃记</title>
+  <programme start="20261119204600 +0800" stop="20261119205100 +0800" channel="广东岭南戏曲">
+    <title lang="zh">岭南大舞台:资讯(960)</title>
   </programme>
-  <programme start="20261118151800 +0800" stop="20261118161500 +0800" channel="广东移动">
-    <title lang="zh">国乐大师</title>
+  <programme start="20261119205100 +0800" stop="20261119205500 +0800" channel="广东岭南戏曲">
+    <title lang="zh">趣谈广州话(2256)</title>
   </programme>
-  <programme start="20261118161500 +0800" stop="20261118170400 +0800" channel="广东移动">
-    <title lang="zh">岭南博物</title>
+  <programme start="20261119205500 +0800" stop="20261119220300 +0800" channel="广东岭南戏曲">
+    <title lang="zh">锦绣梨园:知音拥戴西江情(2)</title>
   </programme>
-  <programme start="20261118170400 +0800" stop="20261118180400 +0800" channel="广东移动">
-    <title lang="zh">岭南博物</title>
+  <programme start="20261119220300 +0800" stop="20261119230300 +0800" channel="广东岭南戏曲">
+    <title lang="zh">老倌学堂:彭炽权《仕林祭塔》</title>
   </programme>
-  <programme start="20261118180400 +0800" stop="20261118182000 +0800" channel="广东移动">
-    <title lang="zh">不辞长做岭南人</title>
+  <programme start="20261119230300 +0800" stop="20261119230700 +0800" channel="广东岭南戏曲">
+    <title lang="zh">戏人戏语(437)</title>
   </programme>
-  <programme start="20261118182000 +0800" stop="20261118183000 +0800" channel="广东移动">
-    <title lang="zh">文化能人的小康故事</title>
+  <programme start="20261119230700 +0800" stop="20261119231200 +0800" channel="广东岭南戏曲">
+    <title lang="zh">岭南大舞台:资讯(960)</title>
   </programme>
-  <programme start="20261118183000 +0800" stop="20261118190600 +0800" channel="广东移动">
-    <title lang="zh">雷公密码之敖丙出逃记</title>
+  <programme start="20261119231200 +0800" stop="20261119231600 +0800" channel="广东岭南戏曲">
+    <title lang="zh">趣谈广州话(2256)</title>
   </programme>
-  <programme start="20261118190600 +0800" stop="20261118193700 +0800" channel="广东移动">
-    <title lang="zh">岭南博物</title>
-  </programme>
-  <programme start="20261118193700 +0800" stop="20261118194800 +0800" channel="广东移动">
-    <title lang="zh">可爱香港</title>
-  </programme>
-  <programme start="20261118194800 +0800" stop="20261118200000 +0800" channel="广东移动">
-    <title lang="zh">不辞长作岭南人</title>
-  </programme>
-  <programme start="20261118200000 +0800" stop="20261118202500 +0800" channel="广东移动">
-    <title lang="zh">人间六味</title>
-  </programme>
-  <programme start="20261118202500 +0800" stop="20261118223300 +0800" channel="广东移动">
-    <title lang="zh">总有出头天</title>
-  </programme>
-  <programme start="20261118223300 +0800" stop="20261118232300 +0800" channel="广东移动">
-    <title lang="zh">野性广东</title>
-  </programme>
-  <programme start="20261118232300 +0800" stop="20261118233800 +0800" channel="广东移动">
-    <title lang="zh">雷公密码之敖丙出逃记</title>
-  </programme>
-  <programme start="20261118233800 +0800" stop="20261118235000 +0800" channel="广东移动">
-    <title lang="zh">不辞长做岭南人</title>
-  </programme>
-  <programme start="20261118235000 +0800" stop="20261119003900 +0800" channel="广东移动">
-    <title lang="zh">国乐大师</title>
+  <programme start="20261119231600 +0800" stop="20261120000600 +0800" channel="广东岭南戏曲">
+    <title lang="zh">剧场连线:昭君公主(1)</title>
   </programme>
   <programme start="20261119003900 +0800" stop="20261119012900 +0800" channel="广东移动">
     <title lang="zh">可爱香港</title>
@@ -1521,821 +1248,116 @@
   <programme start="20261119233100 +0800" stop="20261120002700 +0800" channel="广东移动">
     <title lang="zh">国乐大师</title>
   </programme>
-  <programme start="20261118000000 +0800" stop="20261118000500 +0800" channel="GRTN生活频道">
-    <title lang="zh">大湾区生活-招商青雲臺，用一座绿岛，回应佛山隐贵的生活哲学</title>
+  <programme start="20261120002700 +0800" stop="20261120004200 +0800" channel="广东移动">
+    <title lang="zh">可爱香港</title>
   </programme>
-  <programme start="20261118000500 +0800" stop="20261118001300 +0800" channel="GRTN生活频道">
-    <title lang="zh">大湾区生活 - 思想耀岭南  对话谢伟铎：Ai，年轻的事业交给年轻人定义</title>
+  <programme start="20261120004200 +0800" stop="20261120005200 +0800" channel="广东移动">
+    <title lang="zh">文化能人的小康故事</title>
   </programme>
-  <programme start="20261118001300 +0800" stop="20261118002200 +0800" channel="GRTN生活频道">
-    <title lang="zh">大湾区生活 - 思想耀岭南｜对话方洪波全纪录：伟大的企业一定要经得起长周期考验</title>
+  <programme start="20261120005200 +0800" stop="20261120014200 +0800" channel="广东移动">
+    <title lang="zh">移动创星音乐榜</title>
   </programme>
-  <programme start="20261118002200 +0800" stop="20261118003100 +0800" channel="GRTN生活频道">
-    <title lang="zh">大湾区生活 - 思想耀岭南｜对话何小鹏全纪录：汽车电动化是不可阻挡的大趋势</title>
+  <programme start="20261120060000 +0800" stop="20261120063100 +0800" channel="广东移动">
+    <title lang="zh">岭南博物</title>
   </programme>
-  <programme start="20261118003100 +0800" stop="20261118003900 +0800" channel="GRTN生活频道">
-    <title lang="zh">大湾区生活 - 思想耀岭南｜对话李泽湘：当新工科教育遇上大湾区超级供应链</title>
+  <programme start="20261120063100 +0800" stop="20261120063500 +0800" channel="广东移动">
+    <title lang="zh">移动创星音乐榜</title>
   </programme>
-  <programme start="20261118003900 +0800" stop="20261118004700 +0800" channel="GRTN生活频道">
-    <title lang="zh">大湾区生活 - 思想耀岭南｜对话温志芬：现代农业是高科技产业</title>
+  <programme start="20261120063500 +0800" stop="20261120070500 +0800" channel="广东移动">
+    <title lang="zh">岭南博物</title>
   </programme>
-  <programme start="20261118004700 +0800" stop="20261118005600 +0800" channel="GRTN生活频道">
-    <title lang="zh">大湾区生活 - 思想耀岭南｜对话杨毅强全纪录：在科学道路上从来没有半点虚假</title>
+  <programme start="20261120070500 +0800" stop="20261120075700 +0800" channel="广东移动">
+    <title lang="zh">国乐大师</title>
   </programme>
-  <programme start="20261118005600 +0800" stop="20261118010000 +0800" channel="GRTN生活频道">
-    <title lang="zh">大湾区生活-苏一舫：改革开放让我和父亲的“石头梦”变为现实</title>
+  <programme start="20261120075700 +0800" stop="20261120081400 +0800" channel="广东移动">
+    <title lang="zh">可爱香港</title>
   </programme>
-  <programme start="20261118010000 +0800" stop="20261118010600 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：你眼中的北都，是什么模样？新世界X招商蛇口摄影AI大赛来了…</title>
+  <programme start="20261120081400 +0800" stop="20261120083700 +0800" channel="广东移动">
+    <title lang="zh">不辞长作岭南人</title>
   </programme>
-  <programme start="20261118010600 +0800" stop="20261118011000 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：598万起入场！红磡新盘「瑅海 One Marina」价单来了</title>
+  <programme start="20261120083700 +0800" stop="20261120085600 +0800" channel="广东移动">
+    <title lang="zh">雷公密码之敖丙出逃记</title>
   </programme>
-  <programme start="20261118011000 +0800" stop="20261118011500 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：呎租逾110元！华润中环「ONE CHANCERY」太火了</title>
+  <programme start="20261120085600 +0800" stop="20261120094600 +0800" channel="广东移动">
+    <title lang="zh">国乐大师</title>
   </programme>
-  <programme start="20261118011500 +0800" stop="20261118011700 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：深水湾景观+法式时尚！新世界滶晨II四房示范单位首度公开</title>
+  <programme start="20261120094600 +0800" stop="20261120095000 +0800" channel="广东移动">
+    <title lang="zh">移动创星音乐榜</title>
   </programme>
-  <programme start="20261118011700 +0800" stop="20261118011900 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：示范单位首度开放！恒基「利奥坊」第6期「逸里1号」正式登场</title>
+  <programme start="20261120095000 +0800" stop="20261120105100 +0800" channel="广东移动">
+    <title lang="zh">岭南博物</title>
   </programme>
-  <programme start="20261118011900 +0800" stop="20261118012100 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：欧陆风情+维港海景！红磡新盘「瑅海 One Marina」三房示位曝光</title>
+  <programme start="20261120105100 +0800" stop="20261120110800 +0800" channel="广东移动">
+    <title lang="zh">可爱香港</title>
   </programme>
-  <programme start="20261118012100 +0800" stop="20261118012800 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：仅26席！西贡全新高端住宅「181 Clearwater 澄林」正式登场…(1)</title>
+  <programme start="20261120110800 +0800" stop="20261120120800 +0800" channel="广东移动">
+    <title lang="zh">岭南博物</title>
   </programme>
-  <programme start="20261118012800 +0800" stop="20261118013200 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：新地「Sierra Sea」最新示范单位曝光</title>
+  <programme start="20261120120800 +0800" stop="20261120123100 +0800" channel="广东移动">
+    <title lang="zh">不辞长作岭南人</title>
   </programme>
-  <programme start="20261118013200 +0800" stop="20261118013600 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：最前排临海地标！红磡东维港湾区「瑅海 One Marina」来了…</title>
+  <programme start="20261120123100 +0800" stop="20261120131000 +0800" channel="广东移动">
+    <title lang="zh">人间六味</title>
   </programme>
-  <programme start="20261118013600 +0800" stop="20261118013800 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：即买即收租！宏安「CONNEXT 荟淳」现楼单位及会所同步曝光…</title>
+  <programme start="20261120131000 +0800" stop="20261120132700 +0800" channel="广东移动">
+    <title lang="zh">雷公密码之敖丙出逃记</title>
   </programme>
-  <programme start="20261118013800 +0800" stop="20261118014200 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：示范单位首度曝光！九建「33清水湾」最快下周招标发售</title>
+  <programme start="20261120132700 +0800" stop="20261120142200 +0800" channel="广东移动">
+    <title lang="zh">国乐大师</title>
   </programme>
-  <programme start="20261118014200 +0800" stop="20261118014900 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：劲爆价！呎价13,008起！越秀香港「擎海」首张价单公布…</title>
+  <programme start="20261120142200 +0800" stop="20261120144100 +0800" channel="广东移动">
+    <title lang="zh">可爱香港</title>
   </programme>
-  <programme start="20261118014900 +0800" stop="20261118015500 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：5座64层住宅+65万呎旗舰商场！九建东九龙新地标「33清水湾」来了</title>
+  <programme start="20261120144100 +0800" stop="20261120153100 +0800" channel="广东移动">
+    <title lang="zh">野性广东</title>
   </programme>
-  <programme start="20261118015500 +0800" stop="20261118020000 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：西九高铁艺文核心名宅 —— THE STERLING 叡璟II 载誉接力</title>
+  <programme start="20261120153100 +0800" stop="20261120155200 +0800" channel="广东移动">
+    <title lang="zh">不辞长作岭南人</title>
   </programme>
-  <programme start="20261118020000 +0800" stop="20261118021200 +0800" channel="GRTN生活频道">
-    <title lang="zh">大设计-林镇：以几何筑多维空间，让艺术浸润潮流商业</title>
+  <programme start="20261120155200 +0800" stop="20261120161100 +0800" channel="广东移动">
+    <title lang="zh">雷公密码之敖丙出逃记</title>
   </programme>
-  <programme start="20261118021200 +0800" stop="20261118021800 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计之窗-梁蕴：艺术为笔，空间为卷，用设计重塑生活感知</title>
+  <programme start="20261120161100 +0800" stop="20261120170900 +0800" channel="广东移动">
+    <title lang="zh">国乐大师</title>
   </programme>
-  <programme start="20261118021800 +0800" stop="20261118022200 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计在线-李日雄：意式新钱美学｜诠释新一代高阶人居的设计内核</title>
+  <programme start="20261120170900 +0800" stop="20261120180900 +0800" channel="广东移动">
+    <title lang="zh">岭南博物</title>
   </programme>
-  <programme start="20261118022200 +0800" stop="20261118022600 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计在线-严肃：环境心理学融入空间设计｜探寻空间设计的底层逻辑</title>
+  <programme start="20261120180900 +0800" stop="20261120182900 +0800" channel="广东移动">
+    <title lang="zh">不辞长作岭南人</title>
   </programme>
-  <programme start="20261118022600 +0800" stop="20261118023000 +0800" channel="GRTN生活频道">
-    <title lang="zh">家居时尚：百年重工，冷暖中国——三菱重工空调</title>
+  <programme start="20261120182900 +0800" stop="20261120185300 +0800" channel="广东移动">
+    <title lang="zh">文化能人的小康故事</title>
   </programme>
-  <programme start="20261118023000 +0800" stop="20261118023600 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计前沿-张磊：500㎡别墅的空间加减法，用设计给生活留出呼吸</title>
+  <programme start="20261120185300 +0800" stop="20261120191000 +0800" channel="广东移动">
+    <title lang="zh">雷公密码之敖丙出逃记</title>
   </programme>
-  <programme start="20261118023600 +0800" stop="20261118024300 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计之窗-吴伟强：两套别墅打通800 m²轻奢大宅！融景入室，重构人与自然的联结</title>
+  <programme start="20261120191000 +0800" stop="20261120192600 +0800" channel="广东移动">
+    <title lang="zh">可爱香港</title>
   </programme>
-  <programme start="20261118024300 +0800" stop="20261118025000 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计前沿-张广坚&amp;赵家辉&amp;赵智凯：东情西韵 演绎岭南食府新表达</title>
+  <programme start="20261120192600 +0800" stop="20261120195700 +0800" channel="广东移动">
+    <title lang="zh">岭南博物</title>
   </programme>
-  <programme start="20261118025000 +0800" stop="20261118025400 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计星语-戚理颖：回归人本居住体验，酒店是栖息治愈的精神场所</title>
+  <programme start="20261120195700 +0800" stop="20261120200700 +0800" channel="广东移动">
+    <title lang="zh">可爱香港</title>
   </programme>
-  <programme start="20261118025400 +0800" stop="20261118030000 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计之窗-梁如标：家的美好，藏在日复一日的相处里</title>
+  <programme start="20261120200700 +0800" stop="20261120203400 +0800" channel="广东移动">
+    <title lang="zh">不辞长作岭南人</title>
   </programme>
-  <programme start="20261118030000 +0800" stop="20261118030700 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-花王辉：技术=好开？仰望U8</title>
+  <programme start="20261120203400 +0800" stop="20261120224100 +0800" channel="广东移动">
+    <title lang="zh">总有出头天</title>
   </programme>
-  <programme start="20261118030700 +0800" stop="20261118031700 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-花王辉：新时代超跑SUV——莲花for Me 试驾体验</title>
+  <programme start="20261120224100 +0800" stop="20261120230800 +0800" channel="广东移动">
+    <title lang="zh">开平碉楼</title>
   </programme>
-  <programme start="20261118031700 +0800" stop="20261118032900 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-花王辉：享界S9T试驾体验</title>
+  <programme start="20261120230800 +0800" stop="20261120231400 +0800" channel="广东移动">
+    <title lang="zh">潮玩迷你剧</title>
   </programme>
-  <programme start="20261118032900 +0800" stop="20261118033900 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-花王辉：萤途商城，辉哥帮你试个遍</title>
+  <programme start="20261120231400 +0800" stop="20261120233000 +0800" channel="广东移动">
+    <title lang="zh">不辞长作岭南人</title>
   </programme>
-  <programme start="20261118033900 +0800" stop="20261118034200 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-只懂车鸡爷：有ET5高阶智驾，每次出行都是享受</title>
-  </programme>
-  <programme start="20261118034200 +0800" stop="20261118034500 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-只懂车鸡爷：2025款小鹏X9 行走的露营车</title>
-  </programme>
-  <programme start="20261118034500 +0800" stop="20261118034700 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-只懂车鸡爷：法拉利4门电车LUCE华南首秀</title>
-  </programme>
-  <programme start="20261118034700 +0800" stop="20261118034900 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-只懂车鸡爷：到店实拍2026款烈马！高速沙地随便飞，新手也能轻松越野</title>
-  </programme>
-  <programme start="20261118034900 +0800" stop="20261118035200 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-只懂车鸡爷：传统豪车比不了的座舱功能，蔚来ES8到底藏了多少黑科技？</title>
-  </programme>
-  <programme start="20261118035200 +0800" stop="20261118035400 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-只懂车鸡爷：开箱蔚来ET5T纪念版</title>
-  </programme>
-  <programme start="20261118035400 +0800" stop="20261118035700 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-只懂车鸡爷：它就是有史以来最好的领克？</title>
-  </programme>
-  <programme start="20261118035700 +0800" stop="20261118040000 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-只懂车鸡爷：原生新能源架构+前后双锁！探店智趣烈马，电动越野真能打</title>
-  </programme>
-  <programme start="20261118040000 +0800" stop="20261118041200 +0800" channel="GRTN生活频道">
-    <title lang="zh">大设计-林镇：以几何筑多维空间，让艺术浸润潮流商业</title>
-  </programme>
-  <programme start="20261118041200 +0800" stop="20261118041800 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计之窗-梁蕴：艺术为笔，空间为卷，用设计重塑生活感知</title>
-  </programme>
-  <programme start="20261118041800 +0800" stop="20261118042200 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计在线-李日雄：意式新钱美学｜诠释新一代高阶人居的设计内核</title>
-  </programme>
-  <programme start="20261118042200 +0800" stop="20261118042600 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计在线-严肃：环境心理学融入空间设计｜探寻空间设计的底层逻辑</title>
-  </programme>
-  <programme start="20261118042600 +0800" stop="20261118043000 +0800" channel="GRTN生活频道">
-    <title lang="zh">家居时尚：百年重工，冷暖中国——三菱重工空调</title>
-  </programme>
-  <programme start="20261118043000 +0800" stop="20261118043600 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计前沿-张磊：500㎡别墅的空间加减法，用设计给生活留出呼吸</title>
-  </programme>
-  <programme start="20261118043600 +0800" stop="20261118044300 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计之窗-吴伟强：两套别墅打通800 m²轻奢大宅！融景入室，重构人与自然的联结</title>
-  </programme>
-  <programme start="20261118044300 +0800" stop="20261118045000 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计前沿-张广坚&amp;赵家辉&amp;赵智凯：东情西韵 演绎岭南食府新表达</title>
-  </programme>
-  <programme start="20261118045000 +0800" stop="20261118045400 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计星语-戚理颖：回归人本居住体验，酒店是栖息治愈的精神场所</title>
-  </programme>
-  <programme start="20261118045400 +0800" stop="20261118050000 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计之窗-梁如标：家的美好，藏在日复一日的相处里</title>
-  </programme>
-  <programme start="20261118050000 +0800" stop="20261118050500 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-詹sir喜楼：白鹅潭大湾区艺术中心</title>
-  </programme>
-  <programme start="20261118050500 +0800" stop="20261118051200 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-詹sir喜楼：法国东方汇理银行旧址</title>
-  </programme>
-  <programme start="20261118051200 +0800" stop="20261118051500 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-詹sir喜楼：广州设计周打卡</title>
-  </programme>
-  <programme start="20261118051500 +0800" stop="20261118051800 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-詹sir喜楼：带你睇沙面的另一面</title>
-  </programme>
-  <programme start="20261118051800 +0800" stop="20261118052400 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-詹sir喜楼：沙面特辑第二集</title>
-  </programme>
-  <programme start="20261118052400 +0800" stop="20261118052600 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-詹sir喜楼：广州文化馆</title>
-  </programme>
-  <programme start="20261118052600 +0800" stop="20261118053200 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-詹sir喜楼：佛山房协</title>
-  </programme>
-  <programme start="20261118053200 +0800" stop="20261118053700 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-詹sir喜楼：西关大屋</title>
-  </programme>
-  <programme start="20261118053700 +0800" stop="20261118054200 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-非遗巡礼：广彩</title>
-  </programme>
-  <programme start="20261118054200 +0800" stop="20261118054800 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-非遗：凉茶</title>
-  </programme>
-  <programme start="20261118054800 +0800" stop="20261118055000 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-我在大唐送荔枝（上篇）</title>
-  </programme>
-  <programme start="20261118055000 +0800" stop="20261118055200 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-我在大唐送荔枝（中篇）</title>
-  </programme>
-  <programme start="20261118055200 +0800" stop="20261118055400 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-我在大唐送荔枝（下篇）</title>
-  </programme>
-  <programme start="20261118055400 +0800" stop="20261118060000 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-非遗：凉茶</title>
-  </programme>
-  <programme start="20261118060000 +0800" stop="20261118060500 +0800" channel="GRTN生活频道">
-    <title lang="zh">大湾区生活-招商青雲臺，用一座绿岛，回应佛山隐贵的生活哲学</title>
-  </programme>
-  <programme start="20261118060500 +0800" stop="20261118061300 +0800" channel="GRTN生活频道">
-    <title lang="zh">大湾区生活 - 思想耀岭南  对话谢伟铎：Ai，年轻的事业交给年轻人定义</title>
-  </programme>
-  <programme start="20261118061300 +0800" stop="20261118062200 +0800" channel="GRTN生活频道">
-    <title lang="zh">大湾区生活 - 思想耀岭南｜对话方洪波全纪录：伟大的企业一定要经得起长周期考验</title>
-  </programme>
-  <programme start="20261118062200 +0800" stop="20261118063100 +0800" channel="GRTN生活频道">
-    <title lang="zh">大湾区生活 - 思想耀岭南｜对话何小鹏全纪录：汽车电动化是不可阻挡的大趋势</title>
-  </programme>
-  <programme start="20261118063100 +0800" stop="20261118063900 +0800" channel="GRTN生活频道">
-    <title lang="zh">大湾区生活 - 思想耀岭南｜对话李泽湘：当新工科教育遇上大湾区超级供应链</title>
-  </programme>
-  <programme start="20261118063900 +0800" stop="20261118064700 +0800" channel="GRTN生活频道">
-    <title lang="zh">大湾区生活 - 思想耀岭南｜对话温志芬：现代农业是高科技产业</title>
-  </programme>
-  <programme start="20261118064700 +0800" stop="20261118065700 +0800" channel="GRTN生活频道">
-    <title lang="zh">大湾区生活 - 思想耀岭南｜对话杨毅强全纪录：在科学道路上从来没有半点虚假</title>
-  </programme>
-  <programme start="20261118065700 +0800" stop="20261118070000 +0800" channel="GRTN生活频道">
-    <title lang="zh">大湾区生活-苏一舫：改革开放让我和父亲的“石头梦”变为现实</title>
-  </programme>
-  <programme start="20261118070000 +0800" stop="20261118070700 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：你眼中的北都，是什么模样？新世界X招商蛇口摄影AI大赛来了…</title>
-  </programme>
-  <programme start="20261118070700 +0800" stop="20261118071000 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：598万起入场！红磡新盘「瑅海 One Marina」价单来了</title>
-  </programme>
-  <programme start="20261118071000 +0800" stop="20261118071500 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：呎租逾110元！华润中环「ONE CHANCERY」太火了</title>
-  </programme>
-  <programme start="20261118071500 +0800" stop="20261118071700 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：深水湾景观+法式时尚！新世界滶晨II四房示范单位首度公开</title>
-  </programme>
-  <programme start="20261118071700 +0800" stop="20261118071900 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：示范单位首度开放！恒基「利奥坊」第6期「逸里1号」正式登场</title>
-  </programme>
-  <programme start="20261118071900 +0800" stop="20261118072100 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：欧陆风情+维港海景！红磡新盘「瑅海 One Marina」三房示位曝光</title>
-  </programme>
-  <programme start="20261118072100 +0800" stop="20261118072800 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：仅26席！西贡全新高端住宅「181 Clearwater 澄林」正式登场…(1)</title>
-  </programme>
-  <programme start="20261118072800 +0800" stop="20261118073200 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：新地「Sierra Sea」最新示范单位曝光</title>
-  </programme>
-  <programme start="20261118073200 +0800" stop="20261118073600 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：最前排临海地标！红磡东维港湾区「瑅海 One Marina」来了…</title>
-  </programme>
-  <programme start="20261118073600 +0800" stop="20261118073800 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：即买即收租！宏安「CONNEXT 荟淳」现楼单位及会所同步曝光…</title>
-  </programme>
-  <programme start="20261118073800 +0800" stop="20261118074200 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：示范单位首度曝光！九建「33清水湾」最快下周招标发售</title>
-  </programme>
-  <programme start="20261118074200 +0800" stop="20261118075000 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：劲爆价！呎价13,008起！越秀香港「擎海」首张价单公布…</title>
-  </programme>
-  <programme start="20261118075000 +0800" stop="20261118075500 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：5座64层住宅+65万呎旗舰商场！九建东九龙新地标「33清水湾」来了</title>
-  </programme>
-  <programme start="20261118075500 +0800" stop="20261118080000 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：西九高铁艺文核心名宅 —— THE STERLING 叡璟II 载誉接力</title>
-  </programme>
-  <programme start="20261118080000 +0800" stop="20261118081200 +0800" channel="GRTN生活频道">
-    <title lang="zh">大设计-林镇：以几何筑多维空间，让艺术浸润潮流商业</title>
-  </programme>
-  <programme start="20261118081200 +0800" stop="20261118081800 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计之窗-梁蕴：艺术为笔，空间为卷，用设计重塑生活感知</title>
-  </programme>
-  <programme start="20261118081800 +0800" stop="20261118082200 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计在线-李日雄：意式新钱美学｜诠释新一代高阶人居的设计内核</title>
-  </programme>
-  <programme start="20261118082200 +0800" stop="20261118082600 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计在线-严肃：环境心理学融入空间设计｜探寻空间设计的底层逻辑</title>
-  </programme>
-  <programme start="20261118082600 +0800" stop="20261118083000 +0800" channel="GRTN生活频道">
-    <title lang="zh">家居时尚：百年重工，冷暖中国——三菱重工空调</title>
-  </programme>
-  <programme start="20261118083000 +0800" stop="20261118083600 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计前沿-张磊：500㎡别墅的空间加减法，用设计给生活留出呼吸</title>
-  </programme>
-  <programme start="20261118083600 +0800" stop="20261118084300 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计之窗-吴伟强：两套别墅打通800 m²轻奢大宅！融景入室，重构人与自然的联结</title>
-  </programme>
-  <programme start="20261118084300 +0800" stop="20261118085000 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计前沿-张广坚&amp;赵家辉&amp;赵智凯：东情西韵 演绎岭南食府新表达</title>
-  </programme>
-  <programme start="20261118085000 +0800" stop="20261118085400 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计星语-戚理颖：回归人本居住体验，酒店是栖息治愈的精神场所</title>
-  </programme>
-  <programme start="20261118085400 +0800" stop="20261118090000 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计之窗-梁如标：家的美好，藏在日复一日的相处里</title>
-  </programme>
-  <programme start="20261118090000 +0800" stop="20261118090700 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-花王辉：技术=好开？仰望U8</title>
-  </programme>
-  <programme start="20261118090700 +0800" stop="20261118091700 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-花王辉：新时代超跑SUV——莲花for Me 试驾体验</title>
-  </programme>
-  <programme start="20261118091700 +0800" stop="20261118092900 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-花王辉：享界S9T试驾体验</title>
-  </programme>
-  <programme start="20261118092900 +0800" stop="20261118093900 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-花王辉：萤途商城，辉哥帮你试个遍</title>
-  </programme>
-  <programme start="20261118093900 +0800" stop="20261118094200 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-只懂车鸡爷：有ET5高阶智驾，每次出行都是享受</title>
-  </programme>
-  <programme start="20261118094200 +0800" stop="20261118094500 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-只懂车鸡爷：2025款小鹏X9 行走的露营车</title>
-  </programme>
-  <programme start="20261118094500 +0800" stop="20261118094700 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-只懂车鸡爷：法拉利4门电车LUCE华南首秀</title>
-  </programme>
-  <programme start="20261118094700 +0800" stop="20261118094900 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-只懂车鸡爷：到店实拍2026款烈马！高速沙地随便飞，新手也能轻松越野</title>
-  </programme>
-  <programme start="20261118094900 +0800" stop="20261118095200 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-只懂车鸡爷：传统豪车比不了的座舱功能，蔚来ES8到底藏了多少黑科技？</title>
-  </programme>
-  <programme start="20261118095200 +0800" stop="20261118095400 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-只懂车鸡爷：开箱蔚来ET5T纪念版</title>
-  </programme>
-  <programme start="20261118095400 +0800" stop="20261118095700 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-只懂车鸡爷：它就是有史以来最好的领克？</title>
-  </programme>
-  <programme start="20261118095700 +0800" stop="20261118100000 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-只懂车鸡爷：原生新能源架构+前后双锁！探店智趣烈马，电动越野真能打</title>
-  </programme>
-  <programme start="20261118100000 +0800" stop="20261118101200 +0800" channel="GRTN生活频道">
-    <title lang="zh">大设计-林镇：以几何筑多维空间，让艺术浸润潮流商业</title>
-  </programme>
-  <programme start="20261118101200 +0800" stop="20261118101900 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计之窗-梁蕴：艺术为笔，空间为卷，用设计重塑生活感知</title>
-  </programme>
-  <programme start="20261118101900 +0800" stop="20261118102300 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计在线-李日雄：意式新钱美学｜诠释新一代高阶人居的设计内核</title>
-  </programme>
-  <programme start="20261118102300 +0800" stop="20261118102600 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计在线-严肃：环境心理学融入空间设计｜探寻空间设计的底层逻辑</title>
-  </programme>
-  <programme start="20261118102600 +0800" stop="20261118103000 +0800" channel="GRTN生活频道">
-    <title lang="zh">家居时尚：百年重工，冷暖中国——三菱重工空调</title>
-  </programme>
-  <programme start="20261118103000 +0800" stop="20261118103600 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计前沿-张磊：500㎡别墅的空间加减法，用设计给生活留出呼吸</title>
-  </programme>
-  <programme start="20261118103600 +0800" stop="20261118104300 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计之窗-吴伟强：两套别墅打通800 m²轻奢大宅！融景入室，重构人与自然的联结</title>
-  </programme>
-  <programme start="20261118104300 +0800" stop="20261118105000 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计前沿-张广坚&amp;赵家辉&amp;赵智凯：东情西韵 演绎岭南食府新表达</title>
-  </programme>
-  <programme start="20261118105000 +0800" stop="20261118105400 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计星语-戚理颖：回归人本居住体验，酒店是栖息治愈的精神场所</title>
-  </programme>
-  <programme start="20261118105400 +0800" stop="20261118110000 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计之窗-梁如标：家的美好，藏在日复一日的相处里</title>
-  </programme>
-  <programme start="20261118110000 +0800" stop="20261118110500 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-詹sir喜楼：白鹅潭大湾区艺术中心</title>
-  </programme>
-  <programme start="20261118110500 +0800" stop="20261118111200 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-詹sir喜楼：法国东方汇理银行旧址</title>
-  </programme>
-  <programme start="20261118111200 +0800" stop="20261118111500 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-詹sir喜楼：广州设计周打卡</title>
-  </programme>
-  <programme start="20261118111500 +0800" stop="20261118111800 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-詹sir喜楼：带你睇沙面的另一面</title>
-  </programme>
-  <programme start="20261118111800 +0800" stop="20261118112400 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-詹sir喜楼：沙面特辑第二集</title>
-  </programme>
-  <programme start="20261118112400 +0800" stop="20261118112600 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-詹sir喜楼：广州文化馆</title>
-  </programme>
-  <programme start="20261118112600 +0800" stop="20261118113300 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-詹sir喜楼：佛山房协</title>
-  </programme>
-  <programme start="20261118113300 +0800" stop="20261118113700 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-詹sir喜楼：西关大屋</title>
-  </programme>
-  <programme start="20261118113700 +0800" stop="20261118114200 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-非遗巡礼：广彩</title>
-  </programme>
-  <programme start="20261118114200 +0800" stop="20261118114800 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-非遗：凉茶</title>
-  </programme>
-  <programme start="20261118114800 +0800" stop="20261118115100 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-我在大唐送荔枝（上篇）</title>
-  </programme>
-  <programme start="20261118115100 +0800" stop="20261118115200 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-我在大唐送荔枝（中篇）</title>
-  </programme>
-  <programme start="20261118115200 +0800" stop="20261118115400 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-我在大唐送荔枝（下篇）</title>
-  </programme>
-  <programme start="20261118115400 +0800" stop="20261118120000 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-非遗：凉茶</title>
-  </programme>
-  <programme start="20261118120000 +0800" stop="20261118121200 +0800" channel="GRTN生活频道">
-    <title lang="zh">大设计-林镇：以几何筑多维空间，让艺术浸润潮流商业</title>
-  </programme>
-  <programme start="20261118121200 +0800" stop="20261118121800 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计之窗-梁蕴：艺术为笔，空间为卷，用设计重塑生活感知</title>
-  </programme>
-  <programme start="20261118121800 +0800" stop="20261118122200 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计在线-李日雄：意式新钱美学｜诠释新一代高阶人居的设计内核</title>
-  </programme>
-  <programme start="20261118122200 +0800" stop="20261118122600 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计在线-严肃：环境心理学融入空间设计｜探寻空间设计的底层逻辑</title>
-  </programme>
-  <programme start="20261118122600 +0800" stop="20261118123000 +0800" channel="GRTN生活频道">
-    <title lang="zh">家居时尚：百年重工，冷暖中国——三菱重工空调</title>
-  </programme>
-  <programme start="20261118123000 +0800" stop="20261118123600 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计前沿-张磊：500㎡别墅的空间加减法，用设计给生活留出呼吸</title>
-  </programme>
-  <programme start="20261118123600 +0800" stop="20261118124300 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计之窗-吴伟强：两套别墅打通800 m²轻奢大宅！融景入室，重构人与自然的联结</title>
-  </programme>
-  <programme start="20261118124300 +0800" stop="20261118125000 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计前沿-张广坚&amp;赵家辉&amp;赵智凯：东情西韵 演绎岭南食府新表达</title>
-  </programme>
-  <programme start="20261118125000 +0800" stop="20261118125400 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计星语-戚理颖：回归人本居住体验，酒店是栖息治愈的精神场所</title>
-  </programme>
-  <programme start="20261118125400 +0800" stop="20261118130000 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计之窗-梁如标：家的美好，藏在日复一日的相处里</title>
-  </programme>
-  <programme start="20261118130000 +0800" stop="20261118130500 +0800" channel="GRTN生活频道">
-    <title lang="zh">大湾区生活-招商青雲臺，用一座绿岛，回应佛山隐贵的生活哲学</title>
-  </programme>
-  <programme start="20261118130500 +0800" stop="20261118131300 +0800" channel="GRTN生活频道">
-    <title lang="zh">大湾区生活 - 思想耀岭南  对话谢伟铎：Ai，年轻的事业交给年轻人定义</title>
-  </programme>
-  <programme start="20261118131300 +0800" stop="20261118132200 +0800" channel="GRTN生活频道">
-    <title lang="zh">大湾区生活 - 思想耀岭南｜对话方洪波全纪录：伟大的企业一定要经得起长周期考验</title>
-  </programme>
-  <programme start="20261118132200 +0800" stop="20261118133100 +0800" channel="GRTN生活频道">
-    <title lang="zh">大湾区生活 - 思想耀岭南｜对话何小鹏全纪录：汽车电动化是不可阻挡的大趋势</title>
-  </programme>
-  <programme start="20261118133100 +0800" stop="20261118133900 +0800" channel="GRTN生活频道">
-    <title lang="zh">大湾区生活 - 思想耀岭南｜对话李泽湘：当新工科教育遇上大湾区超级供应链</title>
-  </programme>
-  <programme start="20261118133900 +0800" stop="20261118134800 +0800" channel="GRTN生活频道">
-    <title lang="zh">大湾区生活 - 思想耀岭南｜对话温志芬：现代农业是高科技产业</title>
-  </programme>
-  <programme start="20261118134800 +0800" stop="20261118135700 +0800" channel="GRTN生活频道">
-    <title lang="zh">大湾区生活 - 思想耀岭南｜对话杨毅强全纪录：在科学道路上从来没有半点虚假</title>
-  </programme>
-  <programme start="20261118135700 +0800" stop="20261118140000 +0800" channel="GRTN生活频道">
-    <title lang="zh">大湾区生活-苏一舫：改革开放让我和父亲的“石头梦”变为现实</title>
-  </programme>
-  <programme start="20261118140000 +0800" stop="20261118140700 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：你眼中的北都，是什么模样？新世界X招商蛇口摄影AI大赛来了…</title>
-  </programme>
-  <programme start="20261118140700 +0800" stop="20261118141000 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：598万起入场！红磡新盘「瑅海 One Marina」价单来了</title>
-  </programme>
-  <programme start="20261118141000 +0800" stop="20261118141500 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：呎租逾110元！华润中环「ONE CHANCERY」太火了</title>
-  </programme>
-  <programme start="20261118141500 +0800" stop="20261118141700 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：深水湾景观+法式时尚！新世界滶晨II四房示范单位首度公开</title>
-  </programme>
-  <programme start="20261118141700 +0800" stop="20261118142000 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：示范单位首度开放！恒基「利奥坊」第6期「逸里1号」正式登场</title>
-  </programme>
-  <programme start="20261118142000 +0800" stop="20261118142100 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：欧陆风情+维港海景！红磡新盘「瑅海 One Marina」三房示位曝光</title>
-  </programme>
-  <programme start="20261118142100 +0800" stop="20261118142900 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：仅26席！西贡全新高端住宅「181 Clearwater 澄林」正式登场…(1)</title>
-  </programme>
-  <programme start="20261118142900 +0800" stop="20261118143200 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：新地「Sierra Sea」最新示范单位曝光</title>
-  </programme>
-  <programme start="20261118143200 +0800" stop="20261118143600 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：最前排临海地标！红磡东维港湾区「瑅海 One Marina」来了…</title>
-  </programme>
-  <programme start="20261118143600 +0800" stop="20261118143800 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：即买即收租！宏安「CONNEXT 荟淳」现楼单位及会所同步曝光…</title>
-  </programme>
-  <programme start="20261118143800 +0800" stop="20261118144200 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：示范单位首度曝光！九建「33清水湾」最快下周招标发售</title>
-  </programme>
-  <programme start="20261118144200 +0800" stop="20261118145000 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：劲爆价！呎价13,008起！越秀香港「擎海」首张价单公布…</title>
-  </programme>
-  <programme start="20261118145000 +0800" stop="20261118145500 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：5座64层住宅+65万呎旗舰商场！九建东九龙新地标「33清水湾」来了</title>
-  </programme>
-  <programme start="20261118145500 +0800" stop="20261118150000 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：西九高铁艺文核心名宅 —— THE STERLING 叡璟II 载誉接力</title>
-  </programme>
-  <programme start="20261118150000 +0800" stop="20261118150700 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-花王辉：技术=好开？仰望U8</title>
-  </programme>
-  <programme start="20261118150700 +0800" stop="20261118151800 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-花王辉：新时代超跑SUV——莲花for Me 试驾体验</title>
-  </programme>
-  <programme start="20261118151800 +0800" stop="20261118152900 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-花王辉：享界S9T试驾体验</title>
-  </programme>
-  <programme start="20261118152900 +0800" stop="20261118153900 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-花王辉：萤途商城，辉哥帮你试个遍</title>
-  </programme>
-  <programme start="20261118153900 +0800" stop="20261118154200 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-只懂车鸡爷：详解Cayenne劲驰版｜真正的全场景全能SUV</title>
-  </programme>
-  <programme start="20261118154200 +0800" stop="20261118154500 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-只懂车鸡爷：试驾沃尔沃XC90,豪华家用中大型SUV优质之选</title>
-  </programme>
-  <programme start="20261118154500 +0800" stop="20261118154700 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-只懂车鸡爷：法拉利4门电车LUCE华南首秀</title>
-  </programme>
-  <programme start="20261118154700 +0800" stop="20261118154900 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-只懂车鸡爷：到店实拍2026款烈马！高速沙地随便飞，新手也能轻松越野</title>
-  </programme>
-  <programme start="20261118154900 +0800" stop="20261118155200 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-只懂车鸡爷：传统豪车比不了的座舱功能，蔚来ES8到底藏了多少黑科技？</title>
-  </programme>
-  <programme start="20261118155200 +0800" stop="20261118155400 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-只懂车鸡爷：开箱蔚来ET5T纪念版</title>
-  </programme>
-  <programme start="20261118155400 +0800" stop="20261118155700 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-只懂车鸡爷：它就是有史以来最好的领克？</title>
-  </programme>
-  <programme start="20261118155700 +0800" stop="20261118160000 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-只懂车鸡爷：原生新能源架构+前后双锁！探店智趣烈马，电动越野真能打</title>
-  </programme>
-  <programme start="20261118160000 +0800" stop="20261118161200 +0800" channel="GRTN生活频道">
-    <title lang="zh">大设计-林镇：以几何筑多维空间，让艺术浸润潮流商业</title>
-  </programme>
-  <programme start="20261118161200 +0800" stop="20261118161800 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计之窗-梁蕴：艺术为笔，空间为卷，用设计重塑生活感知</title>
-  </programme>
-  <programme start="20261118161800 +0800" stop="20261118162200 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计在线-李日雄：意式新钱美学｜诠释新一代高阶人居的设计内核</title>
-  </programme>
-  <programme start="20261118162200 +0800" stop="20261118162600 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计在线-严肃：环境心理学融入空间设计｜探寻空间设计的底层逻辑</title>
-  </programme>
-  <programme start="20261118162600 +0800" stop="20261118163000 +0800" channel="GRTN生活频道">
-    <title lang="zh">家居时尚：百年重工，冷暖中国——三菱重工空调</title>
-  </programme>
-  <programme start="20261118163000 +0800" stop="20261118163600 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计前沿-张磊：500㎡别墅的空间加减法，用设计给生活留出呼吸</title>
-  </programme>
-  <programme start="20261118163600 +0800" stop="20261118164300 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计之窗-吴伟强：两套别墅打通800 m²轻奢大宅！融景入室，重构人与自然的联结</title>
-  </programme>
-  <programme start="20261118164300 +0800" stop="20261118165000 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计前沿-张广坚&amp;赵家辉&amp;赵智凯：东情西韵 演绎岭南食府新表达</title>
-  </programme>
-  <programme start="20261118165000 +0800" stop="20261118165400 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计星语-戚理颖：回归人本居住体验，酒店是栖息治愈的精神场所</title>
-  </programme>
-  <programme start="20261118165400 +0800" stop="20261118170000 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计之窗-梁如标：家的美好，藏在日复一日的相处里</title>
-  </programme>
-  <programme start="20261118170000 +0800" stop="20261118170500 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-詹sir喜楼：白鹅潭大湾区艺术中心</title>
-  </programme>
-  <programme start="20261118170500 +0800" stop="20261118171200 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-詹sir喜楼：法国东方汇理银行旧址</title>
-  </programme>
-  <programme start="20261118171200 +0800" stop="20261118171500 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-詹sir喜楼：广州设计周打卡</title>
-  </programme>
-  <programme start="20261118171500 +0800" stop="20261118171800 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-詹sir喜楼：带你睇沙面的另一面</title>
-  </programme>
-  <programme start="20261118171800 +0800" stop="20261118172300 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-詹sir喜楼：沙面特辑第二集</title>
-  </programme>
-  <programme start="20261118172300 +0800" stop="20261118172500 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-詹sir喜楼：广州文化馆</title>
-  </programme>
-  <programme start="20261118172500 +0800" stop="20261118173200 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-詹sir喜楼：佛山房协</title>
-  </programme>
-  <programme start="20261118173200 +0800" stop="20261118173700 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-詹sir喜楼：西关大屋</title>
-  </programme>
-  <programme start="20261118173700 +0800" stop="20261118174200 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-非遗巡礼：广彩</title>
-  </programme>
-  <programme start="20261118174200 +0800" stop="20261118174800 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-非遗：凉茶</title>
-  </programme>
-  <programme start="20261118174800 +0800" stop="20261118175000 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-我在大唐送荔枝（上篇）</title>
-  </programme>
-  <programme start="20261118175000 +0800" stop="20261118175200 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-我在大唐送荔枝（中篇）</title>
-  </programme>
-  <programme start="20261118175200 +0800" stop="20261118175400 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-我在大唐送荔枝（下篇）</title>
-  </programme>
-  <programme start="20261118175400 +0800" stop="20261118180000 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-非遗：凉茶</title>
-  </programme>
-  <programme start="20261118180000 +0800" stop="20261118180500 +0800" channel="GRTN生活频道">
-    <title lang="zh">大湾区生活-招商青雲臺，用一座绿岛，回应佛山隐贵的生活哲学</title>
-  </programme>
-  <programme start="20261118180500 +0800" stop="20261118181300 +0800" channel="GRTN生活频道">
-    <title lang="zh">大湾区生活 - 思想耀岭南  对话谢伟铎：Ai，年轻的事业交给年轻人定义</title>
-  </programme>
-  <programme start="20261118181300 +0800" stop="20261118182200 +0800" channel="GRTN生活频道">
-    <title lang="zh">大湾区生活 - 思想耀岭南｜对话方洪波全纪录：伟大的企业一定要经得起长周期考验</title>
-  </programme>
-  <programme start="20261118182200 +0800" stop="20261118183100 +0800" channel="GRTN生活频道">
-    <title lang="zh">大湾区生活 - 思想耀岭南｜对话何小鹏全纪录：汽车电动化是不可阻挡的大趋势</title>
-  </programme>
-  <programme start="20261118183100 +0800" stop="20261118183900 +0800" channel="GRTN生活频道">
-    <title lang="zh">大湾区生活 - 思想耀岭南｜对话李泽湘：当新工科教育遇上大湾区超级供应链</title>
-  </programme>
-  <programme start="20261118183900 +0800" stop="20261118184700 +0800" channel="GRTN生活频道">
-    <title lang="zh">大湾区生活 - 思想耀岭南｜对话温志芬：现代农业是高科技产业</title>
-  </programme>
-  <programme start="20261118184700 +0800" stop="20261118185600 +0800" channel="GRTN生活频道">
-    <title lang="zh">大湾区生活 - 思想耀岭南｜对话杨毅强全纪录：在科学道路上从来没有半点虚假</title>
-  </programme>
-  <programme start="20261118185600 +0800" stop="20261118190000 +0800" channel="GRTN生活频道">
-    <title lang="zh">大湾区生活-苏一舫：改革开放让我和父亲的“石头梦”变为现实</title>
-  </programme>
-  <programme start="20261118190000 +0800" stop="20261118190700 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：你眼中的北都，是什么模样？新世界X招商蛇口摄影AI大赛来了…</title>
-  </programme>
-  <programme start="20261118190700 +0800" stop="20261118191000 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：598万起入场！红磡新盘「瑅海 One Marina」价单来了</title>
-  </programme>
-  <programme start="20261118191000 +0800" stop="20261118191500 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：呎租逾110元！华润中环「ONE CHANCERY」太火了</title>
-  </programme>
-  <programme start="20261118191500 +0800" stop="20261118191700 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：深水湾景观+法式时尚！新世界滶晨II四房示范单位首度公开</title>
-  </programme>
-  <programme start="20261118191700 +0800" stop="20261118191900 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：示范单位首度开放！恒基「利奥坊」第6期「逸里1号」正式登场</title>
-  </programme>
-  <programme start="20261118191900 +0800" stop="20261118192100 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：欧陆风情+维港海景！红磡新盘「瑅海 One Marina」三房示位曝光</title>
-  </programme>
-  <programme start="20261118192100 +0800" stop="20261118192800 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：仅26席！西贡全新高端住宅「181 Clearwater 澄林」正式登场…(1)</title>
-  </programme>
-  <programme start="20261118192800 +0800" stop="20261118193200 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：新地「Sierra Sea」最新示范单位曝光</title>
-  </programme>
-  <programme start="20261118193200 +0800" stop="20261118193600 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：最前排临海地标！红磡东维港湾区「瑅海 One Marina」来了…</title>
-  </programme>
-  <programme start="20261118193600 +0800" stop="20261118193800 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：即买即收租！宏安「CONNEXT 荟淳」现楼单位及会所同步曝光…</title>
-  </programme>
-  <programme start="20261118193800 +0800" stop="20261118194200 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：示范单位首度曝光！九建「33清水湾」最快下周招标发售</title>
-  </programme>
-  <programme start="20261118194200 +0800" stop="20261118194900 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：劲爆价！呎价13,008起！越秀香港「擎海」首张价单公布…</title>
-  </programme>
-  <programme start="20261118194900 +0800" stop="20261118195500 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：5座64层住宅+65万呎旗舰商场！九建东九龙新地标「33清水湾」来了</title>
-  </programme>
-  <programme start="20261118195500 +0800" stop="20261118200000 +0800" channel="GRTN生活频道">
-    <title lang="zh">楼量香港：西九高铁艺文核心名宅 —— THE STERLING 叡璟II 载誉接力</title>
-  </programme>
-  <programme start="20261118200000 +0800" stop="20261118201200 +0800" channel="GRTN生活频道">
-    <title lang="zh">大设计-林镇：以几何筑多维空间，让艺术浸润潮流商业</title>
-  </programme>
-  <programme start="20261118201200 +0800" stop="20261118201800 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计之窗-梁蕴：艺术为笔，空间为卷，用设计重塑生活感知</title>
-  </programme>
-  <programme start="20261118201800 +0800" stop="20261118202200 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计在线-李日雄：意式新钱美学｜诠释新一代高阶人居的设计内核</title>
-  </programme>
-  <programme start="20261118202200 +0800" stop="20261118202600 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计在线-严肃：环境心理学融入空间设计｜探寻空间设计的底层逻辑</title>
-  </programme>
-  <programme start="20261118202600 +0800" stop="20261118203000 +0800" channel="GRTN生活频道">
-    <title lang="zh">家居时尚：百年重工，冷暖中国——三菱重工空调</title>
-  </programme>
-  <programme start="20261118203000 +0800" stop="20261118203600 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计前沿-张磊：500㎡别墅的空间加减法，用设计给生活留出呼吸</title>
-  </programme>
-  <programme start="20261118203600 +0800" stop="20261118204300 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计之窗-吴伟强：两套别墅打通800 m²轻奢大宅！融景入室，重构人与自然的联结</title>
-  </programme>
-  <programme start="20261118204300 +0800" stop="20261118205000 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计前沿-张广坚&amp;赵家辉&amp;赵智凯：东情西韵 演绎岭南食府新表达</title>
-  </programme>
-  <programme start="20261118205000 +0800" stop="20261118205400 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计星语-戚理颖：回归人本居住体验，酒店是栖息治愈的精神场所</title>
-  </programme>
-  <programme start="20261118205400 +0800" stop="20261118210000 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计之窗-梁如标：家的美好，藏在日复一日的相处里</title>
-  </programme>
-  <programme start="20261118210000 +0800" stop="20261118210700 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-花王辉：技术=好开？仰望U8</title>
-  </programme>
-  <programme start="20261118210700 +0800" stop="20261118211700 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-花王辉：新时代超跑SUV——莲花for Me 试驾体验</title>
-  </programme>
-  <programme start="20261118211700 +0800" stop="20261118212900 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-花王辉：享界S9T试驾体验</title>
-  </programme>
-  <programme start="20261118212900 +0800" stop="20261118213900 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-花王辉：萤途商城，辉哥帮你试个遍</title>
-  </programme>
-  <programme start="20261118213900 +0800" stop="20261118214200 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-只懂车鸡爷：有ET5高阶智驾，每次出行都是享受</title>
-  </programme>
-  <programme start="20261118214200 +0800" stop="20261118214500 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-只懂车鸡爷：2025款小鹏X9 行走的露营车</title>
-  </programme>
-  <programme start="20261118214500 +0800" stop="20261118214700 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-只懂车鸡爷：法拉利4门电车LUCE华南首秀</title>
-  </programme>
-  <programme start="20261118214700 +0800" stop="20261118214900 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-只懂车鸡爷：到店实拍2026款烈马！高速沙地随便飞，新手也能轻松越野</title>
-  </programme>
-  <programme start="20261118214900 +0800" stop="20261118215200 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-只懂车鸡爷：传统豪车比不了的座舱功能，蔚来ES8到底藏了多少黑科技？</title>
-  </programme>
-  <programme start="20261118215200 +0800" stop="20261118215400 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-只懂车鸡爷：开箱蔚来ET5T纪念版</title>
-  </programme>
-  <programme start="20261118215400 +0800" stop="20261118215700 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-只懂车鸡爷：它就是有史以来最好的领克？</title>
-  </programme>
-  <programme start="20261118215700 +0800" stop="20261118220000 +0800" channel="GRTN生活频道">
-    <title lang="zh">生活玩家-只懂车鸡爷：原生新能源架构+前后双锁！探店智趣烈马，电动越野真能打</title>
-  </programme>
-  <programme start="20261118220000 +0800" stop="20261118221200 +0800" channel="GRTN生活频道">
-    <title lang="zh">大设计-林镇：以几何筑多维空间，让艺术浸润潮流商业</title>
-  </programme>
-  <programme start="20261118221200 +0800" stop="20261118221800 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计之窗-梁蕴：艺术为笔，空间为卷，用设计重塑生活感知</title>
-  </programme>
-  <programme start="20261118221800 +0800" stop="20261118222300 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计在线-李日雄：意式新钱美学｜诠释新一代高阶人居的设计内核</title>
-  </programme>
-  <programme start="20261118222300 +0800" stop="20261118222600 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计在线-严肃：环境心理学融入空间设计｜探寻空间设计的底层逻辑</title>
-  </programme>
-  <programme start="20261118222600 +0800" stop="20261118223000 +0800" channel="GRTN生活频道">
-    <title lang="zh">家居时尚：百年重工，冷暖中国——三菱重工空调</title>
-  </programme>
-  <programme start="20261118223000 +0800" stop="20261118223600 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计前沿-张磊：500㎡别墅的空间加减法，用设计给生活留出呼吸</title>
-  </programme>
-  <programme start="20261118223600 +0800" stop="20261118224300 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计之窗-吴伟强：两套别墅打通800 m²轻奢大宅！融景入室，重构人与自然的联结</title>
-  </programme>
-  <programme start="20261118224300 +0800" stop="20261118225000 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计前沿-张广坚&amp;赵家辉&amp;赵智凯：东情西韵 演绎岭南食府新表达</title>
-  </programme>
-  <programme start="20261118225000 +0800" stop="20261118225400 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计星语-戚理颖：回归人本居住体验，酒店是栖息治愈的精神场所</title>
-  </programme>
-  <programme start="20261118225400 +0800" stop="20261118230000 +0800" channel="GRTN生活频道">
-    <title lang="zh">设计之窗-梁如标：家的美好，藏在日复一日的相处里</title>
-  </programme>
-  <programme start="20261118230000 +0800" stop="20261118230500 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-詹sir喜楼：白鹅潭大湾区艺术中心</title>
-  </programme>
-  <programme start="20261118230500 +0800" stop="20261118231200 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-詹sir喜楼：法国东方汇理银行旧址</title>
-  </programme>
-  <programme start="20261118231200 +0800" stop="20261118231500 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-詹sir喜楼：广州设计周打卡</title>
-  </programme>
-  <programme start="20261118231500 +0800" stop="20261118231800 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-詹sir喜楼：带你睇沙面的另一面</title>
-  </programme>
-  <programme start="20261118231800 +0800" stop="20261118232400 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-詹sir喜楼：沙面特辑第二集</title>
-  </programme>
-  <programme start="20261118232400 +0800" stop="20261118232600 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-詹sir喜楼：广州文化馆</title>
-  </programme>
-  <programme start="20261118232600 +0800" stop="20261118233200 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-詹sir喜楼：佛山房协</title>
-  </programme>
-  <programme start="20261118233200 +0800" stop="20261118233700 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-詹sir喜楼：西关大屋</title>
-  </programme>
-  <programme start="20261118233700 +0800" stop="20261118234200 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-非遗巡礼：广彩</title>
-  </programme>
-  <programme start="20261118234200 +0800" stop="20261118234800 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-非遗：凉茶</title>
-  </programme>
-  <programme start="20261118234800 +0800" stop="20261118235100 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-我在大唐送荔枝（上篇）</title>
-  </programme>
-  <programme start="20261118235100 +0800" stop="20261118235200 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-我在大唐送荔枝（中篇）</title>
-  </programme>
-  <programme start="20261118235200 +0800" stop="20261118235400 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-我在大唐送荔枝（下篇）</title>
-  </programme>
-  <programme start="20261118235400 +0800" stop="20261119000000 +0800" channel="GRTN生活频道">
-    <title lang="zh">艺术生活-非遗：凉茶</title>
+  <programme start="20261120233000 +0800" stop="20261121001900 +0800" channel="广东移动">
+    <title lang="zh">童唱岭南</title>
   </programme>
   <programme start="20261119000000 +0800" stop="20261119000500 +0800" channel="GRTN生活频道">
     <title lang="zh">大湾区生活-招商青雲臺，用一座绿岛，回应佛山隐贵的生活哲学</title>
@@ -3151,6 +2173,822 @@
     <title lang="zh">艺术生活-我在大唐送荔枝（下篇）</title>
   </programme>
   <programme start="20261119235400 +0800" stop="20261120000000 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-非遗：凉茶</title>
+  </programme>
+  <programme start="20261120000000 +0800" stop="20261120000500 +0800" channel="GRTN生活频道">
+    <title lang="zh">大湾区生活-招商青雲臺，用一座绿岛，回应佛山隐贵的生活哲学</title>
+  </programme>
+  <programme start="20261120000500 +0800" stop="20261120001300 +0800" channel="GRTN生活频道">
+    <title lang="zh">大湾区生活 - 思想耀岭南  对话谢伟铎：Ai，年轻的事业交给年轻人定义</title>
+  </programme>
+  <programme start="20261120001300 +0800" stop="20261120002200 +0800" channel="GRTN生活频道">
+    <title lang="zh">大湾区生活 - 思想耀岭南｜对话方洪波全纪录：伟大的企业一定要经得起长周期考验</title>
+  </programme>
+  <programme start="20261120002200 +0800" stop="20261120003100 +0800" channel="GRTN生活频道">
+    <title lang="zh">大湾区生活 - 思想耀岭南｜对话何小鹏全纪录：汽车电动化是不可阻挡的大趋势</title>
+  </programme>
+  <programme start="20261120003100 +0800" stop="20261120003900 +0800" channel="GRTN生活频道">
+    <title lang="zh">大湾区生活 - 思想耀岭南｜对话李泽湘：当新工科教育遇上大湾区超级供应链</title>
+  </programme>
+  <programme start="20261120003900 +0800" stop="20261120004700 +0800" channel="GRTN生活频道">
+    <title lang="zh">大湾区生活 - 思想耀岭南｜对话温志芬：现代农业是高科技产业</title>
+  </programme>
+  <programme start="20261120004700 +0800" stop="20261120005600 +0800" channel="GRTN生活频道">
+    <title lang="zh">大湾区生活 - 思想耀岭南｜对话杨毅强全纪录：在科学道路上从来没有半点虚假</title>
+  </programme>
+  <programme start="20261120005600 +0800" stop="20261120010000 +0800" channel="GRTN生活频道">
+    <title lang="zh">大湾区生活-苏一舫：改革开放让我和父亲的“石头梦”变为现实</title>
+  </programme>
+  <programme start="20261120010000 +0800" stop="20261120010600 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：你眼中的北都，是什么模样？新世界X招商蛇口摄影AI大赛来了…</title>
+  </programme>
+  <programme start="20261120010600 +0800" stop="20261120011000 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：598万起入场！红磡新盘「瑅海 One Marina」价单来了</title>
+  </programme>
+  <programme start="20261120011000 +0800" stop="20261120011500 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：呎租逾110元！华润中环「ONE CHANCERY」太火了</title>
+  </programme>
+  <programme start="20261120011500 +0800" stop="20261120011700 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：深水湾景观+法式时尚！新世界滶晨II四房示范单位首度公开</title>
+  </programme>
+  <programme start="20261120011700 +0800" stop="20261120011900 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：示范单位首度开放！恒基「利奥坊」第6期「逸里1号」正式登场</title>
+  </programme>
+  <programme start="20261120011900 +0800" stop="20261120012100 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：欧陆风情+维港海景！红磡新盘「瑅海 One Marina」三房示位曝光</title>
+  </programme>
+  <programme start="20261120012100 +0800" stop="20261120012800 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：仅26席！西贡全新高端住宅「181 Clearwater 澄林」正式登场…(1)</title>
+  </programme>
+  <programme start="20261120012800 +0800" stop="20261120013200 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：新地「Sierra Sea」最新示范单位曝光</title>
+  </programme>
+  <programme start="20261120013200 +0800" stop="20261120013600 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：最前排临海地标！红磡东维港湾区「瑅海 One Marina」来了…</title>
+  </programme>
+  <programme start="20261120013600 +0800" stop="20261120013800 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：即买即收租！宏安「CONNEXT 荟淳」现楼单位及会所同步曝光…</title>
+  </programme>
+  <programme start="20261120013800 +0800" stop="20261120014200 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：示范单位首度曝光！九建「33清水湾」最快下周招标发售</title>
+  </programme>
+  <programme start="20261120014200 +0800" stop="20261120014900 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：劲爆价！呎价13,008起！越秀香港「擎海」首张价单公布…</title>
+  </programme>
+  <programme start="20261120014900 +0800" stop="20261120015500 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：5座64层住宅+65万呎旗舰商场！九建东九龙新地标「33清水湾」来了</title>
+  </programme>
+  <programme start="20261120015500 +0800" stop="20261120020000 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：西九高铁艺文核心名宅 —— THE STERLING 叡璟II 载誉接力</title>
+  </programme>
+  <programme start="20261120020000 +0800" stop="20261120021200 +0800" channel="GRTN生活频道">
+    <title lang="zh">大设计-林镇：以几何筑多维空间，让艺术浸润潮流商业</title>
+  </programme>
+  <programme start="20261120021200 +0800" stop="20261120021800 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计之窗-梁蕴：艺术为笔，空间为卷，用设计重塑生活感知</title>
+  </programme>
+  <programme start="20261120021800 +0800" stop="20261120022200 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计在线-李日雄：意式新钱美学｜诠释新一代高阶人居的设计内核</title>
+  </programme>
+  <programme start="20261120022200 +0800" stop="20261120022600 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计在线-严肃：环境心理学融入空间设计｜探寻空间设计的底层逻辑</title>
+  </programme>
+  <programme start="20261120022600 +0800" stop="20261120023000 +0800" channel="GRTN生活频道">
+    <title lang="zh">家居时尚：百年重工，冷暖中国——三菱重工空调</title>
+  </programme>
+  <programme start="20261120023000 +0800" stop="20261120023600 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计前沿-张磊：500㎡别墅的空间加减法，用设计给生活留出呼吸</title>
+  </programme>
+  <programme start="20261120023600 +0800" stop="20261120024300 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计之窗-吴伟强：两套别墅打通800 m²轻奢大宅！融景入室，重构人与自然的联结</title>
+  </programme>
+  <programme start="20261120024300 +0800" stop="20261120025000 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计前沿-张广坚&amp;赵家辉&amp;赵智凯：东情西韵 演绎岭南食府新表达</title>
+  </programme>
+  <programme start="20261120025000 +0800" stop="20261120025400 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计星语-戚理颖：回归人本居住体验，酒店是栖息治愈的精神场所</title>
+  </programme>
+  <programme start="20261120025400 +0800" stop="20261120030000 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计之窗-梁如标：家的美好，藏在日复一日的相处里</title>
+  </programme>
+  <programme start="20261120030000 +0800" stop="20261120030700 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-花王辉：技术=好开？仰望U8</title>
+  </programme>
+  <programme start="20261120030700 +0800" stop="20261120031700 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-花王辉：新时代超跑SUV——莲花for Me 试驾体验</title>
+  </programme>
+  <programme start="20261120031700 +0800" stop="20261120032900 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-花王辉：享界S9T试驾体验</title>
+  </programme>
+  <programme start="20261120032900 +0800" stop="20261120033900 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-花王辉：萤途商城，辉哥帮你试个遍</title>
+  </programme>
+  <programme start="20261120033900 +0800" stop="20261120034200 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-只懂车鸡爷：有ET5高阶智驾，每次出行都是享受</title>
+  </programme>
+  <programme start="20261120034200 +0800" stop="20261120034500 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-只懂车鸡爷：2025款小鹏X9 行走的露营车</title>
+  </programme>
+  <programme start="20261120034500 +0800" stop="20261120034700 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-只懂车鸡爷：法拉利4门电车LUCE华南首秀</title>
+  </programme>
+  <programme start="20261120034700 +0800" stop="20261120034900 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-只懂车鸡爷：到店实拍2026款烈马！高速沙地随便飞，新手也能轻松越野</title>
+  </programme>
+  <programme start="20261120034900 +0800" stop="20261120035200 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-只懂车鸡爷：传统豪车比不了的座舱功能，蔚来ES8到底藏了多少黑科技？</title>
+  </programme>
+  <programme start="20261120035200 +0800" stop="20261120035400 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-只懂车鸡爷：开箱蔚来ET5T纪念版</title>
+  </programme>
+  <programme start="20261120035400 +0800" stop="20261120035700 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-只懂车鸡爷：它就是有史以来最好的领克？</title>
+  </programme>
+  <programme start="20261120035700 +0800" stop="20261120040000 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-只懂车鸡爷：原生新能源架构+前后双锁！探店智趣烈马，电动越野真能打</title>
+  </programme>
+  <programme start="20261120040000 +0800" stop="20261120041200 +0800" channel="GRTN生活频道">
+    <title lang="zh">大设计-林镇：以几何筑多维空间，让艺术浸润潮流商业</title>
+  </programme>
+  <programme start="20261120041200 +0800" stop="20261120041800 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计之窗-梁蕴：艺术为笔，空间为卷，用设计重塑生活感知</title>
+  </programme>
+  <programme start="20261120041800 +0800" stop="20261120042200 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计在线-李日雄：意式新钱美学｜诠释新一代高阶人居的设计内核</title>
+  </programme>
+  <programme start="20261120042200 +0800" stop="20261120042600 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计在线-严肃：环境心理学融入空间设计｜探寻空间设计的底层逻辑</title>
+  </programme>
+  <programme start="20261120042600 +0800" stop="20261120043000 +0800" channel="GRTN生活频道">
+    <title lang="zh">家居时尚：百年重工，冷暖中国——三菱重工空调</title>
+  </programme>
+  <programme start="20261120043000 +0800" stop="20261120043600 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计前沿-张磊：500㎡别墅的空间加减法，用设计给生活留出呼吸</title>
+  </programme>
+  <programme start="20261120043600 +0800" stop="20261120044300 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计之窗-吴伟强：两套别墅打通800 m²轻奢大宅！融景入室，重构人与自然的联结</title>
+  </programme>
+  <programme start="20261120044300 +0800" stop="20261120045000 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计前沿-张广坚&amp;赵家辉&amp;赵智凯：东情西韵 演绎岭南食府新表达</title>
+  </programme>
+  <programme start="20261120045000 +0800" stop="20261120045400 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计星语-戚理颖：回归人本居住体验，酒店是栖息治愈的精神场所</title>
+  </programme>
+  <programme start="20261120045400 +0800" stop="20261120050000 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计之窗-梁如标：家的美好，藏在日复一日的相处里</title>
+  </programme>
+  <programme start="20261120050000 +0800" stop="20261120050500 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-詹sir喜楼：白鹅潭大湾区艺术中心</title>
+  </programme>
+  <programme start="20261120050500 +0800" stop="20261120051200 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-詹sir喜楼：法国东方汇理银行旧址</title>
+  </programme>
+  <programme start="20261120051200 +0800" stop="20261120051500 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-詹sir喜楼：广州设计周打卡</title>
+  </programme>
+  <programme start="20261120051500 +0800" stop="20261120051800 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-詹sir喜楼：带你睇沙面的另一面</title>
+  </programme>
+  <programme start="20261120051800 +0800" stop="20261120052400 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-詹sir喜楼：沙面特辑第二集</title>
+  </programme>
+  <programme start="20261120052400 +0800" stop="20261120052600 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-詹sir喜楼：广州文化馆</title>
+  </programme>
+  <programme start="20261120052600 +0800" stop="20261120053200 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-詹sir喜楼：佛山房协</title>
+  </programme>
+  <programme start="20261120053200 +0800" stop="20261120053700 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-詹sir喜楼：西关大屋</title>
+  </programme>
+  <programme start="20261120053700 +0800" stop="20261120054200 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-非遗巡礼：广彩</title>
+  </programme>
+  <programme start="20261120054200 +0800" stop="20261120054800 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-非遗：凉茶</title>
+  </programme>
+  <programme start="20261120054800 +0800" stop="20261120055000 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-我在大唐送荔枝（上篇）</title>
+  </programme>
+  <programme start="20261120055000 +0800" stop="20261120055200 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-我在大唐送荔枝（中篇）</title>
+  </programme>
+  <programme start="20261120055200 +0800" stop="20261120055400 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-我在大唐送荔枝（下篇）</title>
+  </programme>
+  <programme start="20261120055400 +0800" stop="20261120060000 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-非遗：凉茶</title>
+  </programme>
+  <programme start="20261120060000 +0800" stop="20261120060500 +0800" channel="GRTN生活频道">
+    <title lang="zh">大湾区生活-招商青雲臺，用一座绿岛，回应佛山隐贵的生活哲学</title>
+  </programme>
+  <programme start="20261120060500 +0800" stop="20261120061300 +0800" channel="GRTN生活频道">
+    <title lang="zh">大湾区生活 - 思想耀岭南  对话谢伟铎：Ai，年轻的事业交给年轻人定义</title>
+  </programme>
+  <programme start="20261120061300 +0800" stop="20261120062200 +0800" channel="GRTN生活频道">
+    <title lang="zh">大湾区生活 - 思想耀岭南｜对话方洪波全纪录：伟大的企业一定要经得起长周期考验</title>
+  </programme>
+  <programme start="20261120062200 +0800" stop="20261120063100 +0800" channel="GRTN生活频道">
+    <title lang="zh">大湾区生活 - 思想耀岭南｜对话何小鹏全纪录：汽车电动化是不可阻挡的大趋势</title>
+  </programme>
+  <programme start="20261120063100 +0800" stop="20261120063900 +0800" channel="GRTN生活频道">
+    <title lang="zh">大湾区生活 - 思想耀岭南｜对话李泽湘：当新工科教育遇上大湾区超级供应链</title>
+  </programme>
+  <programme start="20261120063900 +0800" stop="20261120064700 +0800" channel="GRTN生活频道">
+    <title lang="zh">大湾区生活 - 思想耀岭南｜对话温志芬：现代农业是高科技产业</title>
+  </programme>
+  <programme start="20261120064700 +0800" stop="20261120065700 +0800" channel="GRTN生活频道">
+    <title lang="zh">大湾区生活 - 思想耀岭南｜对话杨毅强全纪录：在科学道路上从来没有半点虚假</title>
+  </programme>
+  <programme start="20261120065700 +0800" stop="20261120070000 +0800" channel="GRTN生活频道">
+    <title lang="zh">大湾区生活-苏一舫：改革开放让我和父亲的“石头梦”变为现实</title>
+  </programme>
+  <programme start="20261120070000 +0800" stop="20261120070700 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：你眼中的北都，是什么模样？新世界X招商蛇口摄影AI大赛来了…</title>
+  </programme>
+  <programme start="20261120070700 +0800" stop="20261120071000 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：598万起入场！红磡新盘「瑅海 One Marina」价单来了</title>
+  </programme>
+  <programme start="20261120071000 +0800" stop="20261120071500 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：呎租逾110元！华润中环「ONE CHANCERY」太火了</title>
+  </programme>
+  <programme start="20261120071500 +0800" stop="20261120071700 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：深水湾景观+法式时尚！新世界滶晨II四房示范单位首度公开</title>
+  </programme>
+  <programme start="20261120071700 +0800" stop="20261120071900 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：示范单位首度开放！恒基「利奥坊」第6期「逸里1号」正式登场</title>
+  </programme>
+  <programme start="20261120071900 +0800" stop="20261120072100 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：欧陆风情+维港海景！红磡新盘「瑅海 One Marina」三房示位曝光</title>
+  </programme>
+  <programme start="20261120072100 +0800" stop="20261120072800 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：仅26席！西贡全新高端住宅「181 Clearwater 澄林」正式登场…(1)</title>
+  </programme>
+  <programme start="20261120072800 +0800" stop="20261120073200 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：新地「Sierra Sea」最新示范单位曝光</title>
+  </programme>
+  <programme start="20261120073200 +0800" stop="20261120073600 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：最前排临海地标！红磡东维港湾区「瑅海 One Marina」来了…</title>
+  </programme>
+  <programme start="20261120073600 +0800" stop="20261120073800 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：即买即收租！宏安「CONNEXT 荟淳」现楼单位及会所同步曝光…</title>
+  </programme>
+  <programme start="20261120073800 +0800" stop="20261120074200 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：示范单位首度曝光！九建「33清水湾」最快下周招标发售</title>
+  </programme>
+  <programme start="20261120074200 +0800" stop="20261120075000 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：劲爆价！呎价13,008起！越秀香港「擎海」首张价单公布…</title>
+  </programme>
+  <programme start="20261120075000 +0800" stop="20261120075500 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：5座64层住宅+65万呎旗舰商场！九建东九龙新地标「33清水湾」来了</title>
+  </programme>
+  <programme start="20261120075500 +0800" stop="20261120080000 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：西九高铁艺文核心名宅 —— THE STERLING 叡璟II 载誉接力</title>
+  </programme>
+  <programme start="20261120080000 +0800" stop="20261120081200 +0800" channel="GRTN生活频道">
+    <title lang="zh">大设计-林镇：以几何筑多维空间，让艺术浸润潮流商业</title>
+  </programme>
+  <programme start="20261120081200 +0800" stop="20261120081800 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计之窗-梁蕴：艺术为笔，空间为卷，用设计重塑生活感知</title>
+  </programme>
+  <programme start="20261120081800 +0800" stop="20261120082200 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计在线-李日雄：意式新钱美学｜诠释新一代高阶人居的设计内核</title>
+  </programme>
+  <programme start="20261120082200 +0800" stop="20261120082600 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计在线-严肃：环境心理学融入空间设计｜探寻空间设计的底层逻辑</title>
+  </programme>
+  <programme start="20261120082600 +0800" stop="20261120083000 +0800" channel="GRTN生活频道">
+    <title lang="zh">家居时尚：百年重工，冷暖中国——三菱重工空调</title>
+  </programme>
+  <programme start="20261120083000 +0800" stop="20261120083600 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计前沿-张磊：500㎡别墅的空间加减法，用设计给生活留出呼吸</title>
+  </programme>
+  <programme start="20261120083600 +0800" stop="20261120084300 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计之窗-吴伟强：两套别墅打通800 m²轻奢大宅！融景入室，重构人与自然的联结</title>
+  </programme>
+  <programme start="20261120084300 +0800" stop="20261120085000 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计前沿-张广坚&amp;赵家辉&amp;赵智凯：东情西韵 演绎岭南食府新表达</title>
+  </programme>
+  <programme start="20261120085000 +0800" stop="20261120085400 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计星语-戚理颖：回归人本居住体验，酒店是栖息治愈的精神场所</title>
+  </programme>
+  <programme start="20261120085400 +0800" stop="20261120090000 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计之窗-梁如标：家的美好，藏在日复一日的相处里</title>
+  </programme>
+  <programme start="20261120090000 +0800" stop="20261120090700 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-花王辉：技术=好开？仰望U8</title>
+  </programme>
+  <programme start="20261120090700 +0800" stop="20261120091700 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-花王辉：新时代超跑SUV——莲花for Me 试驾体验</title>
+  </programme>
+  <programme start="20261120091700 +0800" stop="20261120092900 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-花王辉：享界S9T试驾体验</title>
+  </programme>
+  <programme start="20261120092900 +0800" stop="20261120093900 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-花王辉：萤途商城，辉哥帮你试个遍</title>
+  </programme>
+  <programme start="20261120093900 +0800" stop="20261120094200 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-只懂车鸡爷：有ET5高阶智驾，每次出行都是享受</title>
+  </programme>
+  <programme start="20261120094200 +0800" stop="20261120094500 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-只懂车鸡爷：2025款小鹏X9 行走的露营车</title>
+  </programme>
+  <programme start="20261120094500 +0800" stop="20261120094700 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-只懂车鸡爷：法拉利4门电车LUCE华南首秀</title>
+  </programme>
+  <programme start="20261120094700 +0800" stop="20261120094900 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-只懂车鸡爷：到店实拍2026款烈马！高速沙地随便飞，新手也能轻松越野</title>
+  </programme>
+  <programme start="20261120094900 +0800" stop="20261120095200 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-只懂车鸡爷：传统豪车比不了的座舱功能，蔚来ES8到底藏了多少黑科技？</title>
+  </programme>
+  <programme start="20261120095200 +0800" stop="20261120095400 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-只懂车鸡爷：开箱蔚来ET5T纪念版</title>
+  </programme>
+  <programme start="20261120095400 +0800" stop="20261120095700 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-只懂车鸡爷：它就是有史以来最好的领克？</title>
+  </programme>
+  <programme start="20261120095700 +0800" stop="20261120100000 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-只懂车鸡爷：原生新能源架构+前后双锁！探店智趣烈马，电动越野真能打</title>
+  </programme>
+  <programme start="20261120100000 +0800" stop="20261120101200 +0800" channel="GRTN生活频道">
+    <title lang="zh">大设计-林镇：以几何筑多维空间，让艺术浸润潮流商业</title>
+  </programme>
+  <programme start="20261120101200 +0800" stop="20261120101900 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计之窗-梁蕴：艺术为笔，空间为卷，用设计重塑生活感知</title>
+  </programme>
+  <programme start="20261120101900 +0800" stop="20261120102300 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计在线-李日雄：意式新钱美学｜诠释新一代高阶人居的设计内核</title>
+  </programme>
+  <programme start="20261120102300 +0800" stop="20261120102600 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计在线-严肃：环境心理学融入空间设计｜探寻空间设计的底层逻辑</title>
+  </programme>
+  <programme start="20261120102600 +0800" stop="20261120103000 +0800" channel="GRTN生活频道">
+    <title lang="zh">家居时尚：百年重工，冷暖中国——三菱重工空调</title>
+  </programme>
+  <programme start="20261120103000 +0800" stop="20261120103600 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计前沿-张磊：500㎡别墅的空间加减法，用设计给生活留出呼吸</title>
+  </programme>
+  <programme start="20261120103600 +0800" stop="20261120104300 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计之窗-吴伟强：两套别墅打通800 m²轻奢大宅！融景入室，重构人与自然的联结</title>
+  </programme>
+  <programme start="20261120104300 +0800" stop="20261120105000 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计前沿-张广坚&amp;赵家辉&amp;赵智凯：东情西韵 演绎岭南食府新表达</title>
+  </programme>
+  <programme start="20261120105000 +0800" stop="20261120105400 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计星语-戚理颖：回归人本居住体验，酒店是栖息治愈的精神场所</title>
+  </programme>
+  <programme start="20261120105400 +0800" stop="20261120110000 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计之窗-梁如标：家的美好，藏在日复一日的相处里</title>
+  </programme>
+  <programme start="20261120110000 +0800" stop="20261120110500 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-詹sir喜楼：白鹅潭大湾区艺术中心</title>
+  </programme>
+  <programme start="20261120110500 +0800" stop="20261120111200 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-詹sir喜楼：法国东方汇理银行旧址</title>
+  </programme>
+  <programme start="20261120111200 +0800" stop="20261120111500 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-詹sir喜楼：广州设计周打卡</title>
+  </programme>
+  <programme start="20261120111500 +0800" stop="20261120111800 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-詹sir喜楼：带你睇沙面的另一面</title>
+  </programme>
+  <programme start="20261120111800 +0800" stop="20261120112400 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-詹sir喜楼：沙面特辑第二集</title>
+  </programme>
+  <programme start="20261120112400 +0800" stop="20261120112600 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-詹sir喜楼：广州文化馆</title>
+  </programme>
+  <programme start="20261120112600 +0800" stop="20261120113300 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-詹sir喜楼：佛山房协</title>
+  </programme>
+  <programme start="20261120113300 +0800" stop="20261120113700 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-詹sir喜楼：西关大屋</title>
+  </programme>
+  <programme start="20261120113700 +0800" stop="20261120114200 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-非遗巡礼：广彩</title>
+  </programme>
+  <programme start="20261120114200 +0800" stop="20261120114800 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-非遗：凉茶</title>
+  </programme>
+  <programme start="20261120114800 +0800" stop="20261120115100 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-我在大唐送荔枝（上篇）</title>
+  </programme>
+  <programme start="20261120115100 +0800" stop="20261120115200 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-我在大唐送荔枝（中篇）</title>
+  </programme>
+  <programme start="20261120115200 +0800" stop="20261120115400 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-我在大唐送荔枝（下篇）</title>
+  </programme>
+  <programme start="20261120115400 +0800" stop="20261120120000 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-非遗：凉茶</title>
+  </programme>
+  <programme start="20261120120000 +0800" stop="20261120121200 +0800" channel="GRTN生活频道">
+    <title lang="zh">大设计-林镇：以几何筑多维空间，让艺术浸润潮流商业</title>
+  </programme>
+  <programme start="20261120121200 +0800" stop="20261120121800 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计之窗-梁蕴：艺术为笔，空间为卷，用设计重塑生活感知</title>
+  </programme>
+  <programme start="20261120121800 +0800" stop="20261120122200 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计在线-李日雄：意式新钱美学｜诠释新一代高阶人居的设计内核</title>
+  </programme>
+  <programme start="20261120122200 +0800" stop="20261120122600 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计在线-严肃：环境心理学融入空间设计｜探寻空间设计的底层逻辑</title>
+  </programme>
+  <programme start="20261120122600 +0800" stop="20261120123000 +0800" channel="GRTN生活频道">
+    <title lang="zh">家居时尚：百年重工，冷暖中国——三菱重工空调</title>
+  </programme>
+  <programme start="20261120123000 +0800" stop="20261120123600 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计前沿-张磊：500㎡别墅的空间加减法，用设计给生活留出呼吸</title>
+  </programme>
+  <programme start="20261120123600 +0800" stop="20261120124300 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计之窗-吴伟强：两套别墅打通800 m²轻奢大宅！融景入室，重构人与自然的联结</title>
+  </programme>
+  <programme start="20261120124300 +0800" stop="20261120125000 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计前沿-张广坚&amp;赵家辉&amp;赵智凯：东情西韵 演绎岭南食府新表达</title>
+  </programme>
+  <programme start="20261120125000 +0800" stop="20261120125400 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计星语-戚理颖：回归人本居住体验，酒店是栖息治愈的精神场所</title>
+  </programme>
+  <programme start="20261120125400 +0800" stop="20261120130000 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计之窗-梁如标：家的美好，藏在日复一日的相处里</title>
+  </programme>
+  <programme start="20261120130000 +0800" stop="20261120130500 +0800" channel="GRTN生活频道">
+    <title lang="zh">大湾区生活-招商青雲臺，用一座绿岛，回应佛山隐贵的生活哲学</title>
+  </programme>
+  <programme start="20261120130500 +0800" stop="20261120131300 +0800" channel="GRTN生活频道">
+    <title lang="zh">大湾区生活 - 思想耀岭南  对话谢伟铎：Ai，年轻的事业交给年轻人定义</title>
+  </programme>
+  <programme start="20261120131300 +0800" stop="20261120132200 +0800" channel="GRTN生活频道">
+    <title lang="zh">大湾区生活 - 思想耀岭南｜对话方洪波全纪录：伟大的企业一定要经得起长周期考验</title>
+  </programme>
+  <programme start="20261120132200 +0800" stop="20261120133100 +0800" channel="GRTN生活频道">
+    <title lang="zh">大湾区生活 - 思想耀岭南｜对话何小鹏全纪录：汽车电动化是不可阻挡的大趋势</title>
+  </programme>
+  <programme start="20261120133100 +0800" stop="20261120133900 +0800" channel="GRTN生活频道">
+    <title lang="zh">大湾区生活 - 思想耀岭南｜对话李泽湘：当新工科教育遇上大湾区超级供应链</title>
+  </programme>
+  <programme start="20261120133900 +0800" stop="20261120134800 +0800" channel="GRTN生活频道">
+    <title lang="zh">大湾区生活 - 思想耀岭南｜对话温志芬：现代农业是高科技产业</title>
+  </programme>
+  <programme start="20261120134800 +0800" stop="20261120135700 +0800" channel="GRTN生活频道">
+    <title lang="zh">大湾区生活 - 思想耀岭南｜对话杨毅强全纪录：在科学道路上从来没有半点虚假</title>
+  </programme>
+  <programme start="20261120135700 +0800" stop="20261120140000 +0800" channel="GRTN生活频道">
+    <title lang="zh">大湾区生活-苏一舫：改革开放让我和父亲的“石头梦”变为现实</title>
+  </programme>
+  <programme start="20261120140000 +0800" stop="20261120140700 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：你眼中的北都，是什么模样？新世界X招商蛇口摄影AI大赛来了…</title>
+  </programme>
+  <programme start="20261120140700 +0800" stop="20261120141000 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：598万起入场！红磡新盘「瑅海 One Marina」价单来了</title>
+  </programme>
+  <programme start="20261120141000 +0800" stop="20261120141500 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：呎租逾110元！华润中环「ONE CHANCERY」太火了</title>
+  </programme>
+  <programme start="20261120141500 +0800" stop="20261120141700 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：深水湾景观+法式时尚！新世界滶晨II四房示范单位首度公开</title>
+  </programme>
+  <programme start="20261120141700 +0800" stop="20261120142000 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：示范单位首度开放！恒基「利奥坊」第6期「逸里1号」正式登场</title>
+  </programme>
+  <programme start="20261120142000 +0800" stop="20261120142100 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：欧陆风情+维港海景！红磡新盘「瑅海 One Marina」三房示位曝光</title>
+  </programme>
+  <programme start="20261120142100 +0800" stop="20261120142900 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：仅26席！西贡全新高端住宅「181 Clearwater 澄林」正式登场…(1)</title>
+  </programme>
+  <programme start="20261120142900 +0800" stop="20261120143200 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：新地「Sierra Sea」最新示范单位曝光</title>
+  </programme>
+  <programme start="20261120143200 +0800" stop="20261120143600 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：最前排临海地标！红磡东维港湾区「瑅海 One Marina」来了…</title>
+  </programme>
+  <programme start="20261120143600 +0800" stop="20261120143800 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：即买即收租！宏安「CONNEXT 荟淳」现楼单位及会所同步曝光…</title>
+  </programme>
+  <programme start="20261120143800 +0800" stop="20261120144200 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：示范单位首度曝光！九建「33清水湾」最快下周招标发售</title>
+  </programme>
+  <programme start="20261120144200 +0800" stop="20261120145000 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：劲爆价！呎价13,008起！越秀香港「擎海」首张价单公布…</title>
+  </programme>
+  <programme start="20261120145000 +0800" stop="20261120145500 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：5座64层住宅+65万呎旗舰商场！九建东九龙新地标「33清水湾」来了</title>
+  </programme>
+  <programme start="20261120145500 +0800" stop="20261120150000 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：西九高铁艺文核心名宅 —— THE STERLING 叡璟II 载誉接力</title>
+  </programme>
+  <programme start="20261120150000 +0800" stop="20261120150700 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-花王辉：技术=好开？仰望U8</title>
+  </programme>
+  <programme start="20261120150700 +0800" stop="20261120151800 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-花王辉：新时代超跑SUV——莲花for Me 试驾体验</title>
+  </programme>
+  <programme start="20261120151800 +0800" stop="20261120152900 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-花王辉：享界S9T试驾体验</title>
+  </programme>
+  <programme start="20261120152900 +0800" stop="20261120153900 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-花王辉：萤途商城，辉哥帮你试个遍</title>
+  </programme>
+  <programme start="20261120153900 +0800" stop="20261120154200 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-只懂车鸡爷：详解Cayenne劲驰版｜真正的全场景全能SUV</title>
+  </programme>
+  <programme start="20261120154200 +0800" stop="20261120154500 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-只懂车鸡爷：试驾沃尔沃XC90,豪华家用中大型SUV优质之选</title>
+  </programme>
+  <programme start="20261120154500 +0800" stop="20261120154700 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-只懂车鸡爷：法拉利4门电车LUCE华南首秀</title>
+  </programme>
+  <programme start="20261120154700 +0800" stop="20261120154900 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-只懂车鸡爷：到店实拍2026款烈马！高速沙地随便飞，新手也能轻松越野</title>
+  </programme>
+  <programme start="20261120154900 +0800" stop="20261120155200 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-只懂车鸡爷：传统豪车比不了的座舱功能，蔚来ES8到底藏了多少黑科技？</title>
+  </programme>
+  <programme start="20261120155200 +0800" stop="20261120155400 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-只懂车鸡爷：开箱蔚来ET5T纪念版</title>
+  </programme>
+  <programme start="20261120155400 +0800" stop="20261120155700 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-只懂车鸡爷：它就是有史以来最好的领克？</title>
+  </programme>
+  <programme start="20261120155700 +0800" stop="20261120160000 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-只懂车鸡爷：原生新能源架构+前后双锁！探店智趣烈马，电动越野真能打</title>
+  </programme>
+  <programme start="20261120160000 +0800" stop="20261120161200 +0800" channel="GRTN生活频道">
+    <title lang="zh">大设计-林镇：以几何筑多维空间，让艺术浸润潮流商业</title>
+  </programme>
+  <programme start="20261120161200 +0800" stop="20261120161800 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计之窗-梁蕴：艺术为笔，空间为卷，用设计重塑生活感知</title>
+  </programme>
+  <programme start="20261120161800 +0800" stop="20261120162200 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计在线-李日雄：意式新钱美学｜诠释新一代高阶人居的设计内核</title>
+  </programme>
+  <programme start="20261120162200 +0800" stop="20261120162600 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计在线-严肃：环境心理学融入空间设计｜探寻空间设计的底层逻辑</title>
+  </programme>
+  <programme start="20261120162600 +0800" stop="20261120163000 +0800" channel="GRTN生活频道">
+    <title lang="zh">家居时尚：百年重工，冷暖中国——三菱重工空调</title>
+  </programme>
+  <programme start="20261120163000 +0800" stop="20261120163600 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计前沿-张磊：500㎡别墅的空间加减法，用设计给生活留出呼吸</title>
+  </programme>
+  <programme start="20261120163600 +0800" stop="20261120164300 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计之窗-吴伟强：两套别墅打通800 m²轻奢大宅！融景入室，重构人与自然的联结</title>
+  </programme>
+  <programme start="20261120164300 +0800" stop="20261120165000 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计前沿-张广坚&amp;赵家辉&amp;赵智凯：东情西韵 演绎岭南食府新表达</title>
+  </programme>
+  <programme start="20261120165000 +0800" stop="20261120165400 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计星语-戚理颖：回归人本居住体验，酒店是栖息治愈的精神场所</title>
+  </programme>
+  <programme start="20261120165400 +0800" stop="20261120170000 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计之窗-梁如标：家的美好，藏在日复一日的相处里</title>
+  </programme>
+  <programme start="20261120170000 +0800" stop="20261120170500 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-詹sir喜楼：白鹅潭大湾区艺术中心</title>
+  </programme>
+  <programme start="20261120170500 +0800" stop="20261120171200 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-詹sir喜楼：法国东方汇理银行旧址</title>
+  </programme>
+  <programme start="20261120171200 +0800" stop="20261120171500 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-詹sir喜楼：广州设计周打卡</title>
+  </programme>
+  <programme start="20261120171500 +0800" stop="20261120171800 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-詹sir喜楼：带你睇沙面的另一面</title>
+  </programme>
+  <programme start="20261120171800 +0800" stop="20261120172300 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-詹sir喜楼：沙面特辑第二集</title>
+  </programme>
+  <programme start="20261120172300 +0800" stop="20261120172500 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-詹sir喜楼：广州文化馆</title>
+  </programme>
+  <programme start="20261120172500 +0800" stop="20261120173200 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-詹sir喜楼：佛山房协</title>
+  </programme>
+  <programme start="20261120173200 +0800" stop="20261120173700 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-詹sir喜楼：西关大屋</title>
+  </programme>
+  <programme start="20261120173700 +0800" stop="20261120174200 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-非遗巡礼：广彩</title>
+  </programme>
+  <programme start="20261120174200 +0800" stop="20261120174800 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-非遗：凉茶</title>
+  </programme>
+  <programme start="20261120174800 +0800" stop="20261120175000 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-我在大唐送荔枝（上篇）</title>
+  </programme>
+  <programme start="20261120175000 +0800" stop="20261120175200 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-我在大唐送荔枝（中篇）</title>
+  </programme>
+  <programme start="20261120175200 +0800" stop="20261120175400 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-我在大唐送荔枝（下篇）</title>
+  </programme>
+  <programme start="20261120175400 +0800" stop="20261120180000 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-非遗：凉茶</title>
+  </programme>
+  <programme start="20261120180000 +0800" stop="20261120180500 +0800" channel="GRTN生活频道">
+    <title lang="zh">大湾区生活-招商青雲臺，用一座绿岛，回应佛山隐贵的生活哲学</title>
+  </programme>
+  <programme start="20261120180500 +0800" stop="20261120181300 +0800" channel="GRTN生活频道">
+    <title lang="zh">大湾区生活 - 思想耀岭南  对话谢伟铎：Ai，年轻的事业交给年轻人定义</title>
+  </programme>
+  <programme start="20261120181300 +0800" stop="20261120182200 +0800" channel="GRTN生活频道">
+    <title lang="zh">大湾区生活 - 思想耀岭南｜对话方洪波全纪录：伟大的企业一定要经得起长周期考验</title>
+  </programme>
+  <programme start="20261120182200 +0800" stop="20261120183100 +0800" channel="GRTN生活频道">
+    <title lang="zh">大湾区生活 - 思想耀岭南｜对话何小鹏全纪录：汽车电动化是不可阻挡的大趋势</title>
+  </programme>
+  <programme start="20261120183100 +0800" stop="20261120183900 +0800" channel="GRTN生活频道">
+    <title lang="zh">大湾区生活 - 思想耀岭南｜对话李泽湘：当新工科教育遇上大湾区超级供应链</title>
+  </programme>
+  <programme start="20261120183900 +0800" stop="20261120184700 +0800" channel="GRTN生活频道">
+    <title lang="zh">大湾区生活 - 思想耀岭南｜对话温志芬：现代农业是高科技产业</title>
+  </programme>
+  <programme start="20261120184700 +0800" stop="20261120185600 +0800" channel="GRTN生活频道">
+    <title lang="zh">大湾区生活 - 思想耀岭南｜对话杨毅强全纪录：在科学道路上从来没有半点虚假</title>
+  </programme>
+  <programme start="20261120185600 +0800" stop="20261120190000 +0800" channel="GRTN生活频道">
+    <title lang="zh">大湾区生活-苏一舫：改革开放让我和父亲的“石头梦”变为现实</title>
+  </programme>
+  <programme start="20261120190000 +0800" stop="20261120190700 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：你眼中的北都，是什么模样？新世界X招商蛇口摄影AI大赛来了…</title>
+  </programme>
+  <programme start="20261120190700 +0800" stop="20261120191000 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：598万起入场！红磡新盘「瑅海 One Marina」价单来了</title>
+  </programme>
+  <programme start="20261120191000 +0800" stop="20261120191500 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：呎租逾110元！华润中环「ONE CHANCERY」太火了</title>
+  </programme>
+  <programme start="20261120191500 +0800" stop="20261120191700 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：深水湾景观+法式时尚！新世界滶晨II四房示范单位首度公开</title>
+  </programme>
+  <programme start="20261120191700 +0800" stop="20261120191900 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：示范单位首度开放！恒基「利奥坊」第6期「逸里1号」正式登场</title>
+  </programme>
+  <programme start="20261120191900 +0800" stop="20261120192100 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：欧陆风情+维港海景！红磡新盘「瑅海 One Marina」三房示位曝光</title>
+  </programme>
+  <programme start="20261120192100 +0800" stop="20261120192800 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：仅26席！西贡全新高端住宅「181 Clearwater 澄林」正式登场…(1)</title>
+  </programme>
+  <programme start="20261120192800 +0800" stop="20261120193200 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：新地「Sierra Sea」最新示范单位曝光</title>
+  </programme>
+  <programme start="20261120193200 +0800" stop="20261120193600 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：最前排临海地标！红磡东维港湾区「瑅海 One Marina」来了…</title>
+  </programme>
+  <programme start="20261120193600 +0800" stop="20261120193800 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：即买即收租！宏安「CONNEXT 荟淳」现楼单位及会所同步曝光…</title>
+  </programme>
+  <programme start="20261120193800 +0800" stop="20261120194200 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：示范单位首度曝光！九建「33清水湾」最快下周招标发售</title>
+  </programme>
+  <programme start="20261120194200 +0800" stop="20261120194900 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：劲爆价！呎价13,008起！越秀香港「擎海」首张价单公布…</title>
+  </programme>
+  <programme start="20261120194900 +0800" stop="20261120195500 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：5座64层住宅+65万呎旗舰商场！九建东九龙新地标「33清水湾」来了</title>
+  </programme>
+  <programme start="20261120195500 +0800" stop="20261120200000 +0800" channel="GRTN生活频道">
+    <title lang="zh">楼量香港：西九高铁艺文核心名宅 —— THE STERLING 叡璟II 载誉接力</title>
+  </programme>
+  <programme start="20261120200000 +0800" stop="20261120201200 +0800" channel="GRTN生活频道">
+    <title lang="zh">大设计-林镇：以几何筑多维空间，让艺术浸润潮流商业</title>
+  </programme>
+  <programme start="20261120201200 +0800" stop="20261120201800 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计之窗-梁蕴：艺术为笔，空间为卷，用设计重塑生活感知</title>
+  </programme>
+  <programme start="20261120201800 +0800" stop="20261120202200 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计在线-李日雄：意式新钱美学｜诠释新一代高阶人居的设计内核</title>
+  </programme>
+  <programme start="20261120202200 +0800" stop="20261120202600 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计在线-严肃：环境心理学融入空间设计｜探寻空间设计的底层逻辑</title>
+  </programme>
+  <programme start="20261120202600 +0800" stop="20261120203000 +0800" channel="GRTN生活频道">
+    <title lang="zh">家居时尚：百年重工，冷暖中国——三菱重工空调</title>
+  </programme>
+  <programme start="20261120203000 +0800" stop="20261120203600 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计前沿-张磊：500㎡别墅的空间加减法，用设计给生活留出呼吸</title>
+  </programme>
+  <programme start="20261120203600 +0800" stop="20261120204300 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计之窗-吴伟强：两套别墅打通800 m²轻奢大宅！融景入室，重构人与自然的联结</title>
+  </programme>
+  <programme start="20261120204300 +0800" stop="20261120205000 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计前沿-张广坚&amp;赵家辉&amp;赵智凯：东情西韵 演绎岭南食府新表达</title>
+  </programme>
+  <programme start="20261120205000 +0800" stop="20261120205400 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计星语-戚理颖：回归人本居住体验，酒店是栖息治愈的精神场所</title>
+  </programme>
+  <programme start="20261120205400 +0800" stop="20261120210000 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计之窗-梁如标：家的美好，藏在日复一日的相处里</title>
+  </programme>
+  <programme start="20261120210000 +0800" stop="20261120210700 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-花王辉：技术=好开？仰望U8</title>
+  </programme>
+  <programme start="20261120210700 +0800" stop="20261120211700 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-花王辉：新时代超跑SUV——莲花for Me 试驾体验</title>
+  </programme>
+  <programme start="20261120211700 +0800" stop="20261120212900 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-花王辉：享界S9T试驾体验</title>
+  </programme>
+  <programme start="20261120212900 +0800" stop="20261120213900 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-花王辉：萤途商城，辉哥帮你试个遍</title>
+  </programme>
+  <programme start="20261120213900 +0800" stop="20261120214200 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-只懂车鸡爷：有ET5高阶智驾，每次出行都是享受</title>
+  </programme>
+  <programme start="20261120214200 +0800" stop="20261120214500 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-只懂车鸡爷：2025款小鹏X9 行走的露营车</title>
+  </programme>
+  <programme start="20261120214500 +0800" stop="20261120214700 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-只懂车鸡爷：法拉利4门电车LUCE华南首秀</title>
+  </programme>
+  <programme start="20261120214700 +0800" stop="20261120214900 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-只懂车鸡爷：到店实拍2026款烈马！高速沙地随便飞，新手也能轻松越野</title>
+  </programme>
+  <programme start="20261120214900 +0800" stop="20261120215200 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-只懂车鸡爷：传统豪车比不了的座舱功能，蔚来ES8到底藏了多少黑科技？</title>
+  </programme>
+  <programme start="20261120215200 +0800" stop="20261120215400 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-只懂车鸡爷：开箱蔚来ET5T纪念版</title>
+  </programme>
+  <programme start="20261120215400 +0800" stop="20261120215700 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-只懂车鸡爷：它就是有史以来最好的领克？</title>
+  </programme>
+  <programme start="20261120215700 +0800" stop="20261120220000 +0800" channel="GRTN生活频道">
+    <title lang="zh">生活玩家-只懂车鸡爷：原生新能源架构+前后双锁！探店智趣烈马，电动越野真能打</title>
+  </programme>
+  <programme start="20261120220000 +0800" stop="20261120221200 +0800" channel="GRTN生活频道">
+    <title lang="zh">大设计-林镇：以几何筑多维空间，让艺术浸润潮流商业</title>
+  </programme>
+  <programme start="20261120221200 +0800" stop="20261120221800 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计之窗-梁蕴：艺术为笔，空间为卷，用设计重塑生活感知</title>
+  </programme>
+  <programme start="20261120221800 +0800" stop="20261120222300 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计在线-李日雄：意式新钱美学｜诠释新一代高阶人居的设计内核</title>
+  </programme>
+  <programme start="20261120222300 +0800" stop="20261120222600 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计在线-严肃：环境心理学融入空间设计｜探寻空间设计的底层逻辑</title>
+  </programme>
+  <programme start="20261120222600 +0800" stop="20261120223000 +0800" channel="GRTN生活频道">
+    <title lang="zh">家居时尚：百年重工，冷暖中国——三菱重工空调</title>
+  </programme>
+  <programme start="20261120223000 +0800" stop="20261120223600 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计前沿-张磊：500㎡别墅的空间加减法，用设计给生活留出呼吸</title>
+  </programme>
+  <programme start="20261120223600 +0800" stop="20261120224300 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计之窗-吴伟强：两套别墅打通800 m²轻奢大宅！融景入室，重构人与自然的联结</title>
+  </programme>
+  <programme start="20261120224300 +0800" stop="20261120225000 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计前沿-张广坚&amp;赵家辉&amp;赵智凯：东情西韵 演绎岭南食府新表达</title>
+  </programme>
+  <programme start="20261120225000 +0800" stop="20261120225400 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计星语-戚理颖：回归人本居住体验，酒店是栖息治愈的精神场所</title>
+  </programme>
+  <programme start="20261120225400 +0800" stop="20261120230000 +0800" channel="GRTN生活频道">
+    <title lang="zh">设计之窗-梁如标：家的美好，藏在日复一日的相处里</title>
+  </programme>
+  <programme start="20261120230000 +0800" stop="20261120230500 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-詹sir喜楼：白鹅潭大湾区艺术中心</title>
+  </programme>
+  <programme start="20261120230500 +0800" stop="20261120231200 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-詹sir喜楼：法国东方汇理银行旧址</title>
+  </programme>
+  <programme start="20261120231200 +0800" stop="20261120231500 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-詹sir喜楼：广州设计周打卡</title>
+  </programme>
+  <programme start="20261120231500 +0800" stop="20261120231800 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-詹sir喜楼：带你睇沙面的另一面</title>
+  </programme>
+  <programme start="20261120231800 +0800" stop="20261120232400 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-詹sir喜楼：沙面特辑第二集</title>
+  </programme>
+  <programme start="20261120232400 +0800" stop="20261120232600 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-詹sir喜楼：广州文化馆</title>
+  </programme>
+  <programme start="20261120232600 +0800" stop="20261120233200 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-詹sir喜楼：佛山房协</title>
+  </programme>
+  <programme start="20261120233200 +0800" stop="20261120233700 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-詹sir喜楼：西关大屋</title>
+  </programme>
+  <programme start="20261120233700 +0800" stop="20261120234200 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-非遗巡礼：广彩</title>
+  </programme>
+  <programme start="20261120234200 +0800" stop="20261120234800 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-非遗：凉茶</title>
+  </programme>
+  <programme start="20261120234800 +0800" stop="20261120235100 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-我在大唐送荔枝（上篇）</title>
+  </programme>
+  <programme start="20261120235100 +0800" stop="20261120235200 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-我在大唐送荔枝（中篇）</title>
+  </programme>
+  <programme start="20261120235200 +0800" stop="20261120235400 +0800" channel="GRTN生活频道">
+    <title lang="zh">艺术生活-我在大唐送荔枝（下篇）</title>
+  </programme>
+  <programme start="20261120235400 +0800" stop="20261121000000 +0800" channel="GRTN生活频道">
     <title lang="zh">艺术生活-非遗：凉茶</title>
   </programme>
 </tv>
