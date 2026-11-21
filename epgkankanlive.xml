@@ -4,6 +4,18 @@
   <channel id="看看新聞直播">
     <display-name lang="zh">看看新聞直播</display-name>
   </channel>
+  <programme start="20261121090000 +0800" stop="20261121110000 +0800" channel="看看新聞直播">
+    <title lang="zh">一张“肺癌诊疗地图”查出肺癌，每一步该怎么走</title>
+    <desc lang="zh">一张“肺癌诊疗地图”查出肺癌，每一步该怎么走</desc>
+  </programme>
+  <programme start="20261121140000 +0800" stop="20261121190000 +0800" channel="看看新聞直播">
+    <title lang="zh">2026“爱上海的理由·我的儿童友好城市”年度荣誉盛典</title>
+    <desc lang="zh">2026“爱上海的理由·我的儿童友好城市”年度荣誉盛典</desc>
+  </programme>
+  <programme start="20261122190000 +0800" stop="20261122220000 +0800" channel="看看新聞直播">
+    <title lang="zh">爱伪装成胃病的“癌王” 胰腺癌诊治全攻略</title>
+    <desc lang="zh">爱伪装成胃病的“癌王” 胰腺癌诊治全攻略</desc>
+  </programme>
   <programme start="20261124150000 +0800" stop="20261124170000 +0800" channel="看看新聞直播">
     <title lang="zh">海外路路通 | 把研究生“读进”产业一线——港科大AI硕士的沪港双城实验</title>
     <desc lang="zh">海外路路通 | 把研究生“读进”产业一线——港科大AI硕士的沪港双城实验</desc>
