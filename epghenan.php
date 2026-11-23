@@ -107,20 +107,6 @@ $headers22=[
 'DNT: 1',
 'Connection: keep-alive',
 'Referer: https://static.hntv.tv/',
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ];
 
 //curl_setopt($ch, CURLOPT_HTTPHEADER, array('timestamp: '.$ts,'sign: '.$sign));
