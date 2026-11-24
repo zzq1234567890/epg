@@ -8,10 +8,6 @@
 处理文件: ./epgfenghuangxiu.xml
 处理文件: ./epgtianying.xml
 处理文件: ./epghenan.xml
-XML解析失败: ./epghenan.xml - 行 1816, 列 1: Extra content at the end of the document
-
-重试解析也失败: ./epghenan.xml
-加载失败: ./epghenan.xml
 处理文件: ./epgguangdong.xml
 处理文件: ./epgjiangsu.xml
 处理文件: ./epgshandong.xml
@@ -32,10 +28,6 @@ XML解析失败: ./epgshanghai23.xml - 行 1, 列 1: Document is empty
 跳过不存在的文件: ./epgnewshanghai.xml
 处理文件: ./epgfujian.xml
 处理文件: ./epghenan.xml
-XML解析失败: ./epghenan.xml - 行 1816, 列 1: Extra content at the end of the document
-
-重试解析也失败: ./epghenan.xml
-加载失败: ./epghenan.xml
 处理文件: ./epgshandong.xml
 处理文件: ./epgcatchplay.xml
 处理文件: ./epganywhere.xml
@@ -57,9 +49,6 @@ XML解析失败: ./epghenan.xml - 行 1816, 列 1: Extra content at the end of t
 处理节目表: ./epgfenghuangxiu.xml
 处理节目表: ./epgtianying.xml
 处理节目表: ./epghenan.xml
-XML解析失败: ./epghenan.xml - 行 1816, 列 1: Extra content at the end of the document
-
-重试解析也失败: ./epghenan.xml
 处理节目表: ./epgguangdong.xml
 处理节目表: ./epgjiangsu.xml
 处理节目表: ./epgshandong.xml
@@ -73,9 +62,6 @@ XML解析失败: ./epgshanghai23.xml - 行 1, 列 1: Document is empty
 处理节目表: ./epgdiyicaijing.xml
 处理节目表: ./epgfujian.xml
 处理节目表: ./epghenan.xml
-XML解析失败: ./epghenan.xml - 行 1816, 列 1: Extra content at the end of the document
-
-重试解析也失败: ./epghenan.xml
 处理节目表: ./epgshandong.xml
 处理节目表: ./epgcatchplay.xml
 处理节目表: ./epganywhere.xml
@@ -88,4 +74,4 @@ XML文件合并完成，已保存为 epgziyong.xml
 
 合并统计:
 - 频道数量: 1543
-- 节目数量: 120722
+- 节目数量: 121986
