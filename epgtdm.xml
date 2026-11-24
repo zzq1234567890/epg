@@ -32,7 +32,6 @@
   </programme>
   <programme start="20261124090000 +0800" stop="20261124100000 +0800" channel="澳視澳門 91台">
     <title lang="zh">新聞報道</title>
-    <live/>
   </programme>
   <programme start="20261124100000 +0800" stop="20261124103000 +0800" channel="澳視澳門 91台">
     <title lang="zh">新聞報道</title>
@@ -48,6 +47,7 @@
   </programme>
   <programme start="20261124111500 +0800" stop="20261124124000 +0800" channel="澳視澳門 91台">
     <title lang="zh">今日宜加油</title>
+    <live/>
   </programme>
   <programme start="20261124124000 +0800" stop="20261124130000 +0800" channel="澳視澳門 91台">
     <title lang="zh">茶館·川人與茶</title>
@@ -360,7 +360,6 @@
   </programme>
   <programme start="20261124090000 +0800" stop="20261124100000 +0800" channel="澳門資訊 94台">
     <title lang="zh">新聞報道</title>
-    <live/>
   </programme>
   <programme start="20261124100000 +0800" stop="20261124103000 +0800" channel="澳門資訊 94台">
     <title lang="zh">新聞報道</title>
@@ -379,6 +378,7 @@
   </programme>
   <programme start="20261124115000 +0800" stop="20261124120000 +0800" channel="澳門資訊 94台">
     <title lang="zh">澳門早晨精華篇</title>
+    <live/>
   </programme>
   <programme start="20261124120000 +0800" stop="20261124122000 +0800" channel="澳門資訊 94台">
     <title lang="zh">新聞報道</title>
@@ -526,6 +526,7 @@
   </programme>
   <programme start="20261124111500 +0800" stop="20261124120500 +0800" channel="澳門體育 93台">
     <title lang="zh">愛知．名古屋第20屆亞運會：乒乓球男雙-32強</title>
+    <live/>
   </programme>
   <programme start="20261124120500 +0800" stop="20261124130000 +0800" channel="澳門體育 93台">
     <title lang="zh">2026歐洲勒芒系列賽精華：第七集 賽季回顧</title>
@@ -652,6 +653,7 @@
   </programme>
   <programme start="20261124100000 +0800" stop="20261124125200 +0800" channel="澳門綜藝 95台">
     <title lang="zh">好劇連場: 賴貓的獅子倒影</title>
+    <live/>
   </programme>
   <programme start="20261124125200 +0800" stop="20261124130200 +0800" channel="澳門綜藝 95台">
     <title lang="zh">國寶時刻</title>
@@ -832,7 +834,6 @@
   </programme>
   <programme start="20261124085200 +0800" stop="20261124092000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">灣區全媒睇</title>
-    <live/>
   </programme>
   <programme start="20261124092000 +0800" stop="20261124095000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">風火台</title>
@@ -851,6 +852,7 @@
   </programme>
   <programme start="20261124115000 +0800" stop="20261124122000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">#文青這樣玩</title>
+    <live/>
   </programme>
   <programme start="20261124122000 +0800" stop="20261124125000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">風火台</title>

@@ -336,6 +336,7 @@
 </programme>
 <programme channel="香港電台31" start="20261125202500 +0800" stop="20261125203000 +0800">
 <title lang="zh">政正關你事</title>
+<desc lang="zh">土木工程拓展署：中九龍繞道（九龍灣段）- 連繫社區篇</desc>
 </programme>
 <programme channel="香港電台31" start="20261125203000 +0800" stop="20261125212500 +0800">
 <title lang="zh">家事法庭</title>
@@ -343,6 +344,7 @@
 </programme>
 <programme channel="香港電台31" start="20261125212500 +0800" stop="20261125213000 +0800">
 <title lang="zh">政正關你事</title>
+<desc lang="zh">土木工程拓展署：中九龍繞道（九龍灣段）- 連繫社區篇</desc>
 </programme>
 <programme channel="香港電台31" start="20261125213000 +0800" stop="20261125220000 +0800">
 <title lang="zh">醫生與你</title>
@@ -398,7 +400,15 @@
 <title lang="zh">生活．健康．資訊</title>
 <desc lang="zh">生活．健康．資訊</desc>
 </programme>
-<programme channel="香港電台32" start="20261124080500 +0800" stop="20261124100000 +0800">
+<programme channel="香港電台32" start="20261124080500 +0800" stop="20261124090000 +0800">
+<title lang="zh">千禧年代</title>
+<desc lang="zh">千禧年代 11月24日</desc>
+</programme>
+<programme channel="香港電台32" start="20261124090000 +0800" stop="20261124094500 +0800">
+<title lang="zh">千禧年代</title>
+<desc lang="zh">千禧年代 11月24日</desc>
+</programme>
+<programme channel="香港電台32" start="20261124094500 +0800" stop="20261124100000 +0800">
 <title lang="zh">千禧年代</title>
 <desc lang="zh">千禧年代 11月24日</desc>
 </programme>
@@ -421,20 +431,26 @@
 <programme channel="香港電台32" start="20261124110000 +0800" stop="20261124111000 +0800">
 <title lang="zh">新聞簡報</title>
 </programme>
-<programme channel="香港電台32" start="20261124111000 +0800" stop="20261124112000 +0800">
+<programme channel="香港電台32" start="20261124111000 +0800" stop="20261124112500 +0800">
+<title lang="zh">寰宇直播</title>
+<desc lang="zh">寰宇直播</desc>
+</programme>
+<programme channel="香港電台32" start="20261124112500 +0800" stop="20261124113000 +0800">
 <title lang="zh">生活．健康．資訊</title>
 <desc lang="zh">生活．健康．資訊</desc>
-</programme>
-<programme channel="香港電台32" start="20261124112000 +0800" stop="20261124113000 +0800">
-<title lang="zh">國寶時刻</title>
-<desc lang="zh">七孔骨笛</desc>
 </programme>
 <programme channel="香港電台32" start="20261124113000 +0800" stop="20261124114000 +0800">
 <title lang="zh">新聞簡報</title>
 </programme>
-<programme channel="香港電台32" start="20261124114000 +0800" stop="20261124120000 +0800">
+<programme channel="香港電台32" start="20261124114000 +0800" stop="20261124114500 +0800">
 <title lang="zh">生活．健康．資訊</title>
-<desc lang="zh">生活．健康．資訊</desc>
+</programme>
+<programme channel="香港電台32" start="20261124114500 +0800" stop="20261124115200 +0800">
+<title lang="zh">本地新聞</title>
+<desc lang="zh">本地新聞</desc>
+</programme>
+<programme channel="香港電台32" start="20261124115200 +0800" stop="20261124120000 +0800">
+<title lang="zh">生活．健康．資訊</title>
 </programme>
 <programme channel="香港電台32" start="20261124120000 +0800" stop="20261124121000 +0800">
 <title lang="zh">新聞簡報</title>
@@ -765,6 +781,7 @@
 </programme>
 <programme channel="香港電台32" start="20261125220000 +0800" stop="20261125220500 +0800">
 <title lang="zh">政正關你事</title>
+<desc lang="zh">土木工程拓展署：中九龍繞道（九龍灣段）- 連繫社區篇</desc>
 </programme>
 <programme channel="香港電台32" start="20261125220500 +0800" stop="20261125223000 +0800">
 <title lang="zh">凝聚香港</title>
