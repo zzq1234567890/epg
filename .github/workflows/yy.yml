@@ -502,7 +502,7 @@ jobs:
           git add "traditional_channels_table.json" "simplified_channels_table.json" "README.md" 2>/dev/null || true
           git add logs/ 2>/dev/null || true
 
-          for m3u_file in "youtubeworld.m3u" "youtubelocal.m3u"; do
+          for m3u_file in ""yu.m3u"" "youtubeworld.m3u" "youtubelocal.m3u"; do
             [ -f "$m3u_file" ] && git add "$m3u_file"
           done
 
