@@ -35,7 +35,6 @@
   </programme>
   <programme start="20261125130000 +0800" stop="20261125131700 +0800" channel="澳視澳門 91台">
     <title lang="zh">口述澳門歷史名人堂</title>
-    <live/>
   </programme>
   <programme start="20261125131700 +0800" stop="20261125132400 +0800" channel="澳視澳門 91台">
     <title lang="zh">營商創新研究所</title>
@@ -51,6 +50,7 @@
   </programme>
   <programme start="20261125145900 +0800" stop="20261125190000 +0800" channel="澳視澳門 91台">
     <title lang="zh">直播立法會辯論保安領域2027施政方針政策</title>
+    <live/>
   </programme>
   <programme start="20261125190000 +0800" stop="20261125195500 +0800" channel="澳視澳門 91台">
     <title lang="zh">澳視新聞</title>
@@ -273,7 +273,6 @@
   </programme>
   <programme start="20261125090000 +0800" stop="20261125130500 +0800" channel="澳視葡文 92台">
     <title lang="zh">Debate das Linhas de Acção Governativa para 2027 - Área da Segurança (Directo)</title>
-    <live/>
   </programme>
   <programme start="20261125130500 +0800" stop="20261125133000 +0800" channel="澳視葡文 92台">
     <title lang="zh">Passado em Foco: A Ementa de Hoje - Prato: Sericaia</title>
@@ -286,6 +285,7 @@
   </programme>
   <programme start="20261125150000 +0800" stop="20261125200000 +0800" channel="澳視葡文 92台">
     <title lang="zh">Debate das Linhas de Acção Governativa para 2027 - Área da Segurança (Directo)</title>
+    <live/>
   </programme>
   <programme start="20261125200000 +0800" stop="20261125205000 +0800" channel="澳視葡文 92台">
     <title lang="zh">Telejornal</title>
@@ -376,7 +376,6 @@
   </programme>
   <programme start="20261125130000 +0800" stop="20261125131700 +0800" channel="澳門資訊 94台">
     <title lang="zh">新聞報道</title>
-    <live/>
   </programme>
   <programme start="20261125131700 +0800" stop="20261125132400 +0800" channel="澳門資訊 94台">
     <title lang="zh">營商創新研究所</title>
@@ -392,6 +391,7 @@
   </programme>
   <programme start="20261125145900 +0800" stop="20261125210000 +0800" channel="澳門資訊 94台">
     <title lang="zh">直播立法會辯論保安領域2027施政方針政策</title>
+    <live/>
   </programme>
   <programme start="20261125210000 +0800" stop="20261125220000 +0800" channel="澳門資訊 94台">
     <title lang="zh">錄播澳視新聞</title>
@@ -590,7 +590,6 @@
   </programme>
   <programme start="20261125130000 +0800" stop="20261125131500 +0800" channel="澳門體育 93台">
     <title lang="zh">體育新聞</title>
-    <live/>
   </programme>
   <programme start="20261125131500 +0800" stop="20261125134000 +0800" channel="澳門體育 93台">
     <title lang="zh">愛知．名古屋第20屆亞運會：复合弓女子團體決賽</title>
@@ -603,6 +602,7 @@
   </programme>
   <programme start="20261125155500 +0800" stop="20261125175500 +0800" channel="澳門體育 93台">
     <title lang="zh">2026-27 東亞超級籃球聯賽：高陽天空槍手 對 烏蘭巴托野馬</title>
+    <live/>
   </programme>
   <programme start="20261125175500 +0800" stop="20261125200000 +0800" channel="澳門體育 93台">
     <title lang="zh">直播亞洲冠軍精英聯賽：鹿島鹿角 對 全北汽車</title>
@@ -723,13 +723,13 @@
   </programme>
   <programme start="20261125130000 +0800" stop="20261125160500 +0800" channel="澳門綜藝 95台">
     <title lang="zh">好劇連場: 燦爛的風和海</title>
-    <live/>
   </programme>
   <programme start="20261125160500 +0800" stop="20261125163500 +0800" channel="澳門綜藝 95台">
     <title lang="zh">一城煙火 一城詩</title>
   </programme>
   <programme start="20261125163500 +0800" stop="20261125173000 +0800" channel="澳門綜藝 95台">
     <title lang="zh">追逐猛獸之厄爾尼諾</title>
+    <live/>
   </programme>
   <programme start="20261125173000 +0800" stop="20261125175000 +0800" channel="澳門綜藝 95台">
     <title lang="zh">澳門早晨精華錄</title>
@@ -916,7 +916,6 @@
   </programme>
   <programme start="20261125130000 +0800" stop="20261125133000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">馬交遊﹕澳門Chill 好玩</title>
-    <live/>
   </programme>
   <programme start="20261125133000 +0800" stop="20261125135300 +0800" channel="澳門-Macau 96台">
     <title lang="zh">家家有本事</title>
@@ -941,6 +940,7 @@
   </programme>
   <programme start="20261125165500 +0800" stop="20261125175500 +0800" channel="澳門-Macau 96台">
     <title lang="zh">AI 劇場 瑰寶之舞</title>
+    <live/>
   </programme>
   <programme start="20261125175500 +0800" stop="20261125182500 +0800" channel="澳門-Macau 96台">
     <title lang="zh">#文青這樣玩</title>

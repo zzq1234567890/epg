@@ -1,6 +1,6 @@
 RTHK tv31 20261125: 47 programmes
 RTHK tv31 20261126: 46 programmes
-RTHK tv32 20261125: 62 programmes
+RTHK tv32 20261125: 65 programmes
 RTHK tv32 20261126: 56 programmes
 RTHK tv33 20261125: 30 programmes
 RTHK tv33 20261126: 33 programmes
@@ -286,6 +286,7 @@ RTHK tv35 20261126: 45 programmes
 </programme>
 <programme channel="香港電台31" start="20261126131000 +0800" stop="20261126140000 +0800">
 <title lang="zh">精靈一點</title>
+<desc lang="zh">精靈一點 11月26日</desc>
 </programme>
 <programme channel="香港電台31" start="20261126140000 +0800" stop="20261126140500 +0800">
 <title lang="zh">政正關你事</title>
@@ -453,7 +454,11 @@ RTHK tv35 20261126: 45 programmes
 <programme channel="香港電台32" start="20261125130000 +0800" stop="20261125130700 +0800">
 <title lang="zh">新聞簡報</title>
 </programme>
-<programme channel="香港電台32" start="20261125130700 +0800" stop="20261125132000 +0800">
+<programme channel="香港電台32" start="20261125130700 +0800" stop="20261125131400 +0800">
+<title lang="zh">立法會大會 (口頭質詢)</title>
+<desc lang="zh">立法會大會 (口頭質詢)</desc>
+</programme>
+<programme channel="香港電台32" start="20261125131400 +0800" stop="20261125132000 +0800">
 <title lang="zh">生活．健康．資訊</title>
 <desc lang="zh">生活．健康．資訊</desc>
 </programme>
@@ -464,7 +469,15 @@ RTHK tv35 20261126: 45 programmes
 <programme channel="香港電台32" start="20261125133000 +0800" stop="20261125133700 +0800">
 <title lang="zh">新聞簡報</title>
 </programme>
-<programme channel="香港電台32" start="20261125133700 +0800" stop="20261125140000 +0800">
+<programme channel="香港電台32" start="20261125133700 +0800" stop="20261125134300 +0800">
+<title lang="zh">生活．健康．資訊</title>
+<desc lang="zh">生活．健康．資訊</desc>
+</programme>
+<programme channel="香港電台32" start="20261125134300 +0800" stop="20261125135300 +0800">
+<title lang="zh">本地新聞</title>
+<desc lang="zh">本地新聞</desc>
+</programme>
+<programme channel="香港電台32" start="20261125135300 +0800" stop="20261125140000 +0800">
 <title lang="zh">生活．健康．資訊</title>
 <desc lang="zh">生活．健康．資訊</desc>
 </programme>
