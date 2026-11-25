@@ -24,139 +24,6 @@
     <display-name lang="zh">澳門-Macau 96台</display-name>
     <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png"/>
   </channel>
-  <programme start="20261124070000 +0800" stop="20261124080000 +0800" channel="澳視澳門 91台">
-    <title lang="zh">早晨新聞</title>
-  </programme>
-  <programme start="20261124080000 +0800" stop="20261124090000 +0800" channel="澳視澳門 91台">
-    <title lang="zh">澳門早晨</title>
-  </programme>
-  <programme start="20261124090000 +0800" stop="20261124100000 +0800" channel="澳視澳門 91台">
-    <title lang="zh">新聞報道</title>
-  </programme>
-  <programme start="20261124100000 +0800" stop="20261124103000 +0800" channel="澳視澳門 91台">
-    <title lang="zh">新聞報道</title>
-  </programme>
-  <programme start="20261124103000 +0800" stop="20261124110000 +0800" channel="澳視澳門 91台">
-    <title lang="zh">重播風火台</title>
-  </programme>
-  <programme start="20261124110000 +0800" stop="20261124111000 +0800" channel="澳視澳門 91台">
-    <title lang="zh">橫琴攻略</title>
-  </programme>
-  <programme start="20261124111000 +0800" stop="20261124111500 +0800" channel="澳視澳門 91台">
-    <title lang="zh">TDM 新視點</title>
-  </programme>
-  <programme start="20261124111500 +0800" stop="20261124124000 +0800" channel="澳視澳門 91台">
-    <title lang="zh">今日宜加油</title>
-    <live/>
-  </programme>
-  <programme start="20261124124000 +0800" stop="20261124130000 +0800" channel="澳視澳門 91台">
-    <title lang="zh">茶館·川人與茶</title>
-  </programme>
-  <programme start="20261124130000 +0800" stop="20261124131700 +0800" channel="澳視澳門 91台">
-    <title lang="zh">詩詞有故事</title>
-  </programme>
-  <programme start="20261124131700 +0800" stop="20261124132400 +0800" channel="澳視澳門 91台">
-    <title lang="zh">帶路行 - 斯里蘭卡篇</title>
-  </programme>
-  <programme start="20261124132400 +0800" stop="20261124133000 +0800" channel="澳視澳門 91台">
-    <title lang="zh">午間天氣報告</title>
-  </programme>
-  <programme start="20261124133000 +0800" stop="20261124140000 +0800" channel="澳視澳門 91台">
-    <title lang="zh">午間新聞</title>
-  </programme>
-  <programme start="20261124140000 +0800" stop="20261124150000 +0800" channel="澳視澳門 91台">
-    <title lang="zh">每日財經</title>
-  </programme>
-  <programme start="20261124150000 +0800" stop="20261124153000 +0800" channel="澳視澳門 91台">
-    <title lang="zh">新聞報道</title>
-  </programme>
-  <programme start="20261124153000 +0800" stop="20261124160000 +0800" channel="澳視澳門 91台">
-    <title lang="zh">新聞報道</title>
-  </programme>
-  <programme start="20261124160000 +0800" stop="20261124163000 +0800" channel="澳視澳門 91台">
-    <title lang="zh">新聞報道</title>
-  </programme>
-  <programme start="20261124163000 +0800" stop="20261124170000 +0800" channel="澳視澳門 91台">
-    <title lang="zh">新聞報道</title>
-  </programme>
-  <programme start="20261124170000 +0800" stop="20261124172000 +0800" channel="澳視澳門 91台">
-    <title lang="zh">新聞報道</title>
-  </programme>
-  <programme start="20261124172000 +0800" stop="20261124174500 +0800" channel="澳視澳門 91台">
-    <title lang="zh">新聞報道</title>
-  </programme>
-  <programme start="20261124174500 +0800" stop="20261124180000 +0800" channel="澳視澳門 91台">
-    <title lang="zh">帶路行 - 斯里蘭卡篇</title>
-  </programme>
-  <programme start="20261124180000 +0800" stop="20261124184300 +0800" channel="澳視澳門 91台">
-    <title lang="zh">動感教菁</title>
-  </programme>
-  <programme start="20261124184300 +0800" stop="20261124185000 +0800" channel="澳視澳門 91台">
-    <title lang="zh">帶路行 - 斯里蘭卡篇</title>
-  </programme>
-  <programme start="20261124185000 +0800" stop="20261124190000 +0800" channel="澳視澳門 91台">
-    <title lang="zh">新聞提要</title>
-  </programme>
-  <programme start="20261124190000 +0800" stop="20261124195500 +0800" channel="澳視澳門 91台">
-    <title lang="zh">澳視新聞</title>
-  </programme>
-  <programme start="20261124195500 +0800" stop="20261124200000 +0800" channel="澳視澳門 91台">
-    <title lang="zh">天氣報告</title>
-  </programme>
-  <programme start="20261124200000 +0800" stop="20261124212500 +0800" channel="澳視澳門 91台">
-    <title lang="zh">今日宜加油</title>
-  </programme>
-  <programme start="20261124212500 +0800" stop="20261124213300 +0800" channel="澳視澳門 91台">
-    <title lang="zh">蟲出江湖</title>
-  </programme>
-  <programme start="20261124213300 +0800" stop="20261124220000 +0800" channel="澳視澳門 91台">
-    <title lang="zh">澳門人澳門事</title>
-  </programme>
-  <programme start="20261124220000 +0800" stop="20261124223000 +0800" channel="澳視澳門 91台">
-    <title lang="zh">普通話新聞</title>
-  </programme>
-  <programme start="20261124223000 +0800" stop="20261124231500 +0800" channel="澳視澳門 91台">
-    <title lang="zh">十點半澳視縱橫︰競健群英 2026</title>
-  </programme>
-  <programme start="20261124231500 +0800" stop="20261124235000 +0800" channel="澳視澳門 91台">
-    <title lang="zh">晚間新聞</title>
-  </programme>
-  <programme start="20261124235000 +0800" stop="20261125000100 +0800" channel="澳視澳門 91台">
-    <title lang="zh">體育新聞</title>
-  </programme>
-  <programme start="20261125000100 +0800" stop="20261125002700 +0800" channel="澳視澳門 91台">
-    <title lang="zh">灣區全媒睇</title>
-  </programme>
-  <programme start="20261125002700 +0800" stop="20261125004900 +0800" channel="澳視澳門 91台">
-    <title lang="zh">澳門人澳門事</title>
-  </programme>
-  <programme start="20261125004900 +0800" stop="20261125012700 +0800" channel="澳視澳門 91台">
-    <title lang="zh">重播競健群英 2026</title>
-  </programme>
-  <programme start="20261125012700 +0800" stop="20261125025500 +0800" channel="澳視澳門 91台">
-    <title lang="zh">今日宜加油</title>
-  </programme>
-  <programme start="20261125025500 +0800" stop="20261125030000 +0800" channel="澳視澳門 91台">
-    <title lang="zh">蟲出江湖</title>
-  </programme>
-  <programme start="20261125030000 +0800" stop="20261125032500 +0800" channel="澳視澳門 91台">
-    <title lang="zh">錄播普通話新聞</title>
-  </programme>
-  <programme start="20261125032500 +0800" stop="20261125040000 +0800" channel="澳視澳門 91台">
-    <title lang="zh">錄播晚間新聞</title>
-  </programme>
-  <programme start="20261125040000 +0800" stop="20261125042500 +0800" channel="澳視澳門 91台">
-    <title lang="zh">澳門人澳門事</title>
-  </programme>
-  <programme start="20261125042500 +0800" stop="20261125044700 +0800" channel="澳視澳門 91台">
-    <title lang="zh">澳門早晨精華錄</title>
-  </programme>
-  <programme start="20261125044700 +0800" stop="20261125052500 +0800" channel="澳視澳門 91台">
-    <title lang="zh">重播競健群英 2026</title>
-  </programme>
-  <programme start="20261125052500 +0800" stop="20261125062500 +0800" channel="澳視澳門 91台">
-    <title lang="zh">七夜雪</title>
-  </programme>
   <programme start="20261125070000 +0800" stop="20261125080000 +0800" channel="澳視澳門 91台">
     <title lang="zh">早晨新聞</title>
   </programme>
@@ -165,6 +32,7 @@
   </programme>
   <programme start="20261125085900 +0800" stop="20261125130000 +0800" channel="澳視澳門 91台">
     <title lang="zh">直播立法會辯論保安領域2027施政方針政策</title>
+    <live/>
   </programme>
   <programme start="20261125130000 +0800" stop="20261125131700 +0800" channel="澳視澳門 91台">
     <title lang="zh">口述澳門歷史名人堂</title>
@@ -262,59 +130,150 @@
   <programme start="20261126052500 +0800" stop="20261126062500 +0800" channel="澳視澳門 91台">
     <title lang="zh">七夜雪</title>
   </programme>
-  <programme start="20261124133000 +0800" stop="20261124143000 +0800" channel="澳視葡文 92台">
-    <title lang="zh">Telejornal RTPi (Diferido)</title>
+  <programme start="20261126070000 +0800" stop="20261126080000 +0800" channel="澳視澳門 91台">
+    <title lang="zh">早晨新聞</title>
   </programme>
-  <programme start="20261124143000 +0800" stop="20261124153000 +0800" channel="澳視葡文 92台">
-    <title lang="zh">RTPi Directo</title>
+  <programme start="20261126080000 +0800" stop="20261126090000 +0800" channel="澳視澳門 91台">
+    <title lang="zh">澳門早晨</title>
   </programme>
-  <programme start="20261124153000 +0800" stop="20261124160000 +0800" channel="澳視葡文 92台">
-    <title lang="zh">Saboroso à Portuguesa</title>
+  <programme start="20261126090000 +0800" stop="20261126090200 +0800" channel="澳視澳門 91台">
+    <title lang="zh">TDM 新視點</title>
   </programme>
-  <programme start="20261124160000 +0800" stop="20261124164500 +0800" channel="澳視葡文 92台">
-    <title lang="zh">Queridos Papás</title>
+  <programme start="20261126090200 +0800" stop="20261126092500 +0800" channel="澳視澳門 91台">
+    <title lang="zh">熱鬧新聽力</title>
   </programme>
-  <programme start="20261124164500 +0800" stop="20261124170000 +0800" channel="澳視葡文 92台">
-    <title lang="zh">O Carrinho Poli T4</title>
+  <programme start="20261126092500 +0800" stop="20261126100000 +0800" channel="澳視澳門 91台">
+    <title lang="zh">廚房裡的桃花源</title>
   </programme>
-  <programme start="20261124170000 +0800" stop="20261124171000 +0800" channel="澳視葡文 92台">
-    <title lang="zh">Os Smurfs T3</title>
+  <programme start="20261126100000 +0800" stop="20261126103000 +0800" channel="澳視澳門 91台">
+    <title lang="zh">新聞報道</title>
   </programme>
-  <programme start="20261124171000 +0800" stop="20261124173500 +0800" channel="澳視葡文 92台">
-    <title lang="zh">Nutri Ventures - Em busca dos 7 Reinos</title>
+  <programme start="20261126103000 +0800" stop="20261126104600 +0800" channel="澳視澳門 91台">
+    <title lang="zh">重播放眼世界</title>
   </programme>
-  <programme start="20261124173500 +0800" stop="20261124180000 +0800" channel="澳視葡文 92台">
-    <title lang="zh">Legend Quest</title>
+  <programme start="20261126104600 +0800" stop="20261126105800 +0800" channel="澳視澳門 91台">
+    <title lang="zh">重播新聞深度遊</title>
   </programme>
-  <programme start="20261124180000 +0800" stop="20261124185000 +0800" channel="澳視葡文 92台">
-    <title lang="zh">Mania de Você (Repetição)</title>
+  <programme start="20261126105800 +0800" stop="20261126111000 +0800" channel="澳視澳門 91台">
+    <title lang="zh">營商創新研究所</title>
   </programme>
-  <programme start="20261124185000 +0800" stop="20261124191500 +0800" channel="澳視葡文 92台">
-    <title lang="zh">Solteira e Boa Rapariga</title>
+  <programme start="20261126111000 +0800" stop="20261126111500 +0800" channel="澳視澳門 91台">
+    <title lang="zh">TDM 新視點</title>
   </programme>
-  <programme start="20261124191500 +0800" stop="20261124200000 +0800" channel="澳視葡文 92台">
-    <title lang="zh">A Fazenda</title>
+  <programme start="20261126111500 +0800" stop="20261126125000 +0800" channel="澳視澳門 91台">
+    <title lang="zh">今日宜加油</title>
   </programme>
-  <programme start="20261124200000 +0800" stop="20261124205000 +0800" channel="澳視葡文 92台">
-    <title lang="zh">Telejornal</title>
+  <programme start="20261126125000 +0800" stop="20261126131700 +0800" channel="澳視澳門 91台">
+    <title lang="zh">考古學家的神秘武器</title>
   </programme>
-  <programme start="20261124205000 +0800" stop="20261124214000 +0800" channel="澳視葡文 92台">
-    <title lang="zh">TDM Desporto</title>
+  <programme start="20261126131700 +0800" stop="20261126132400 +0800" channel="澳視澳門 91台">
+    <title lang="zh">育才成長  築新未來︰家長學堂</title>
   </programme>
-  <programme start="20261124214000 +0800" stop="20261124223500 +0800" channel="澳視葡文 92台">
-    <title lang="zh">Mania de Você</title>
+  <programme start="20261126132400 +0800" stop="20261126133000 +0800" channel="澳視澳門 91台">
+    <title lang="zh">午間天氣報告</title>
   </programme>
-  <programme start="20261124223500 +0800" stop="20261124231000 +0800" channel="澳視葡文 92台">
-    <title lang="zh">TDM News</title>
+  <programme start="20261126133000 +0800" stop="20261126140000 +0800" channel="澳視澳門 91台">
+    <title lang="zh">午間新聞</title>
   </programme>
-  <programme start="20261124231000 +0800" stop="20261124234500 +0800" channel="澳視葡文 92台">
-    <title lang="zh">Decisão Nacional</title>
+  <programme start="20261126140000 +0800" stop="20261126150000 +0800" channel="澳視澳門 91台">
+    <title lang="zh">每日財經</title>
   </programme>
-  <programme start="20261124234500 +0800" stop="20261125004500 +0800" channel="澳視葡文 92台">
-    <title lang="zh">RTPi Directo</title>
+  <programme start="20261126150000 +0800" stop="20261126151600 +0800" channel="澳視澳門 91台">
+    <title lang="zh">重播放眼世界</title>
+  </programme>
+  <programme start="20261126151600 +0800" stop="20261126152800 +0800" channel="澳視澳門 91台">
+    <title lang="zh">重播新聞深度遊</title>
+  </programme>
+  <programme start="20261126152800 +0800" stop="20261126154000 +0800" channel="澳視澳門 91台">
+    <title lang="zh">營商創新研究所</title>
+  </programme>
+  <programme start="20261126154000 +0800" stop="20261126160000 +0800" channel="澳視澳門 91台">
+    <title lang="zh">澳門早晨精華錄</title>
+  </programme>
+  <programme start="20261126160000 +0800" stop="20261126163000 +0800" channel="澳視澳門 91台">
+    <title lang="zh">兒童節目︰舒克貝塔 第1季</title>
+  </programme>
+  <programme start="20261126163000 +0800" stop="20261126165600 +0800" channel="澳視澳門 91台">
+    <title lang="zh">兒童節目︰萌賽可第二季</title>
+  </programme>
+  <programme start="20261126165600 +0800" stop="20261126170500 +0800" channel="澳視澳門 91台">
+    <title lang="zh">兒童節目︰萌浪兔 第2季</title>
+  </programme>
+  <programme start="20261126170500 +0800" stop="20261126173500 +0800" channel="澳視澳門 91台">
+    <title lang="zh">兒童節目︰開心超人聯盟之平行時空大冒險 (第十八季)</title>
+  </programme>
+  <programme start="20261126173500 +0800" stop="20261126174500 +0800" channel="澳視澳門 91台">
+    <title lang="zh">漫遊澳門．樂在各區</title>
+  </programme>
+  <programme start="20261126174500 +0800" stop="20261126180000 +0800" channel="澳視澳門 91台">
+    <title lang="zh">詩詞有故事</title>
+  </programme>
+  <programme start="20261126180000 +0800" stop="20261126184300 +0800" channel="澳視澳門 91台">
+    <title lang="zh">動感教菁</title>
+  </programme>
+  <programme start="20261126184300 +0800" stop="20261126185000 +0800" channel="澳視澳門 91台">
+    <title lang="zh">育才成長  築新未來︰家長學堂</title>
+  </programme>
+  <programme start="20261126185000 +0800" stop="20261126190000 +0800" channel="澳視澳門 91台">
+    <title lang="zh">新聞提要</title>
+  </programme>
+  <programme start="20261126190000 +0800" stop="20261126195500 +0800" channel="澳視澳門 91台">
+    <title lang="zh">澳視新聞</title>
+  </programme>
+  <programme start="20261126195500 +0800" stop="20261126200000 +0800" channel="澳視澳門 91台">
+    <title lang="zh">天氣報告</title>
+  </programme>
+  <programme start="20261126200000 +0800" stop="20261126213300 +0800" channel="澳視澳門 91台">
+    <title lang="zh">今日宜加油</title>
+  </programme>
+  <programme start="20261126213300 +0800" stop="20261126220000 +0800" channel="澳視澳門 91台">
+    <title lang="zh">教煮CHILL 好玩</title>
+  </programme>
+  <programme start="20261126220000 +0800" stop="20261126223000 +0800" channel="澳視澳門 91台">
+    <title lang="zh">普通話新聞</title>
+  </programme>
+  <programme start="20261126223000 +0800" stop="20261126231500 +0800" channel="澳視澳門 91台">
+    <title lang="zh">十點半澳視縱橫︰風火台</title>
+  </programme>
+  <programme start="20261126231500 +0800" stop="20261126235000 +0800" channel="澳視澳門 91台">
+    <title lang="zh">晚間新聞</title>
+  </programme>
+  <programme start="20261126235000 +0800" stop="20261127000100 +0800" channel="澳視澳門 91台">
+    <title lang="zh">體育新聞</title>
+  </programme>
+  <programme start="20261127000100 +0800" stop="20261127002700 +0800" channel="澳視澳門 91台">
+    <title lang="zh">灣區全媒睇</title>
+  </programme>
+  <programme start="20261127002700 +0800" stop="20261127004900 +0800" channel="澳視澳門 91台">
+    <title lang="zh">教煮CHILL 好玩</title>
+  </programme>
+  <programme start="20261127004900 +0800" stop="20261127012700 +0800" channel="澳視澳門 91台">
+    <title lang="zh">重播風火台</title>
+  </programme>
+  <programme start="20261127012700 +0800" stop="20261127030000 +0800" channel="澳視澳門 91台">
+    <title lang="zh">今日宜加油</title>
+  </programme>
+  <programme start="20261127030000 +0800" stop="20261127032500 +0800" channel="澳視澳門 91台">
+    <title lang="zh">錄播普通話新聞</title>
+  </programme>
+  <programme start="20261127032500 +0800" stop="20261127040000 +0800" channel="澳視澳門 91台">
+    <title lang="zh">錄播晚間新聞</title>
+  </programme>
+  <programme start="20261127040000 +0800" stop="20261127042500 +0800" channel="澳視澳門 91台">
+    <title lang="zh">教煮CHILL 好玩</title>
+  </programme>
+  <programme start="20261127042500 +0800" stop="20261127044700 +0800" channel="澳視澳門 91台">
+    <title lang="zh">澳門早晨精華錄</title>
+  </programme>
+  <programme start="20261127044700 +0800" stop="20261127052500 +0800" channel="澳視澳門 91台">
+    <title lang="zh">重播風火台</title>
+  </programme>
+  <programme start="20261127052500 +0800" stop="20261127062500 +0800" channel="澳視澳門 91台">
+    <title lang="zh">七夜雪</title>
   </programme>
   <programme start="20261125090000 +0800" stop="20261125130500 +0800" channel="澳視葡文 92台">
     <title lang="zh">Debate das Linhas de Acção Governativa para 2027 - Área da Segurança (Directo)</title>
+    <live/>
   </programme>
   <programme start="20261125130500 +0800" stop="20261125133000 +0800" channel="澳視葡文 92台">
     <title lang="zh">Passado em Foco: A Ementa de Hoje - Prato: Sericaia</title>
@@ -349,105 +308,59 @@
   <programme start="20261125235000 +0800" stop="20261126005000 +0800" channel="澳視葡文 92台">
     <title lang="zh">RTPi Directo</title>
   </programme>
-  <programme start="20261124065900 +0800" stop="20261124070000 +0800" channel="澳門資訊 94台">
-    <title lang="zh">開台</title>
+  <programme start="20261126130000 +0800" stop="20261126143000 +0800" channel="澳視葡文 92台">
+    <title lang="zh">Telejornal RTPi (Diferido)</title>
   </programme>
-  <programme start="20261124070000 +0800" stop="20261124080000 +0800" channel="澳門資訊 94台">
-    <title lang="zh">早晨新聞</title>
+  <programme start="20261126143000 +0800" stop="20261126153000 +0800" channel="澳視葡文 92台">
+    <title lang="zh">RTPi Directo</title>
   </programme>
-  <programme start="20261124080000 +0800" stop="20261124090000 +0800" channel="澳門資訊 94台">
-    <title lang="zh">澳門早晨</title>
+  <programme start="20261126153000 +0800" stop="20261126155500 +0800" channel="澳視葡文 92台">
+    <title lang="zh">Saboroso à Portuguesa - Fim</title>
   </programme>
-  <programme start="20261124090000 +0800" stop="20261124100000 +0800" channel="澳門資訊 94台">
-    <title lang="zh">新聞報道</title>
+  <programme start="20261126155500 +0800" stop="20261126164000 +0800" channel="澳視葡文 92台">
+    <title lang="zh">Queridos Papás</title>
   </programme>
-  <programme start="20261124100000 +0800" stop="20261124103000 +0800" channel="澳門資訊 94台">
-    <title lang="zh">新聞報道</title>
+  <programme start="20261126164000 +0800" stop="20261126165500 +0800" channel="澳視葡文 92台">
+    <title lang="zh">O Carrinho Poli T4</title>
   </programme>
-  <programme start="20261124103000 +0800" stop="20261124110000 +0800" channel="澳門資訊 94台">
-    <title lang="zh">新聞報道</title>
+  <programme start="20261126165500 +0800" stop="20261126170500 +0800" channel="澳視葡文 92台">
+    <title lang="zh">Os Smurfs T3</title>
   </programme>
-  <programme start="20261124110000 +0800" stop="20261124111200 +0800" channel="澳門資訊 94台">
-    <title lang="zh">新聞報道</title>
+  <programme start="20261126170500 +0800" stop="20261126173000 +0800" channel="澳視葡文 92台">
+    <title lang="zh">Nutri Ventures - Em busca dos 7 Reinos</title>
   </programme>
-  <programme start="20261124111200 +0800" stop="20261124112000 +0800" channel="澳門資訊 94台">
-    <title lang="zh">帶路行 - 斯里蘭卡篇</title>
+  <programme start="20261126173000 +0800" stop="20261126175500 +0800" channel="澳視葡文 92台">
+    <title lang="zh">Legend Quest</title>
   </programme>
-  <programme start="20261124112000 +0800" stop="20261124115000 +0800" channel="澳門資訊 94台">
-    <title lang="zh">重播風火台</title>
+  <programme start="20261126175500 +0800" stop="20261126184500 +0800" channel="澳視葡文 92台">
+    <title lang="zh">Mania de Você (Repetição)</title>
   </programme>
-  <programme start="20261124115000 +0800" stop="20261124120000 +0800" channel="澳門資訊 94台">
-    <title lang="zh">澳門早晨精華篇</title>
-    <live/>
+  <programme start="20261126184500 +0800" stop="20261126191500 +0800" channel="澳視葡文 92台">
+    <title lang="zh">Solteira e Boa Rapariga</title>
   </programme>
-  <programme start="20261124120000 +0800" stop="20261124122000 +0800" channel="澳門資訊 94台">
-    <title lang="zh">新聞報道</title>
+  <programme start="20261126191500 +0800" stop="20261126200000 +0800" channel="澳視葡文 92台">
+    <title lang="zh">A Fazenda</title>
   </programme>
-  <programme start="20261124122000 +0800" stop="20261124122700 +0800" channel="澳門資訊 94台">
-    <title lang="zh">帶路行 - 斯里蘭卡篇</title>
+  <programme start="20261126200000 +0800" stop="20261126205000 +0800" channel="澳視葡文 92台">
+    <title lang="zh">Telejornal</title>
   </programme>
-  <programme start="20261124122700 +0800" stop="20261124123000 +0800" channel="澳門資訊 94台">
-    <title lang="zh">街市情報</title>
+  <programme start="20261126205000 +0800" stop="20261126212000 +0800" channel="澳視葡文 92台">
+    <title lang="zh">Foodwise T2</title>
   </programme>
-  <programme start="20261124123000 +0800" stop="20261124125000 +0800" channel="澳門資訊 94台">
-    <title lang="zh">新聞報道</title>
+  <programme start="20261126212000 +0800" stop="20261126214000 +0800" channel="澳視葡文 92台">
+    <title lang="zh">Portugal na Esplanada T2</title>
   </programme>
-  <programme start="20261124125000 +0800" stop="20261124130000 +0800" channel="澳門資訊 94台">
-    <title lang="zh">海派百工2</title>
+  <programme start="20261126214000 +0800" stop="20261126223500 +0800" channel="澳視葡文 92台">
+    <title lang="zh">Mania de Você</title>
   </programme>
-  <programme start="20261124130000 +0800" stop="20261124131700 +0800" channel="澳門資訊 94台">
-    <title lang="zh">新聞報道</title>
+  <programme start="20261126223500 +0800" stop="20261126231000 +0800" channel="澳視葡文 92台">
+    <title lang="zh">TDM News</title>
   </programme>
-  <programme start="20261124131700 +0800" stop="20261124132400 +0800" channel="澳門資訊 94台">
-    <title lang="zh">帶路行 - 斯里蘭卡篇</title>
+  <programme start="20261126231000 +0800" stop="20261127000500 +0800" channel="澳視葡文 92台">
+    <title lang="zh">Tudo É Economia</title>
   </programme>
-  <programme start="20261124132400 +0800" stop="20261124133000 +0800" channel="澳門資訊 94台">
-    <title lang="zh">午間天氣報告</title>
-  </programme>
-  <programme start="20261124133000 +0800" stop="20261124140000 +0800" channel="澳門資訊 94台">
-    <title lang="zh">午間新聞</title>
-  </programme>
-  <programme start="20261124140000 +0800" stop="20261124145900 +0800" channel="澳門資訊 94台">
-    <title lang="zh">每日財經</title>
-  </programme>
-  <programme start="20261124145900 +0800" stop="20261124200000 +0800" channel="澳門資訊 94台">
-    <title lang="zh">直播2026 澳門立法會全體會議</title>
-  </programme>
-  <programme start="20261124200000 +0800" stop="20261124210000 +0800" channel="澳門資訊 94台">
-    <title lang="zh">錄播澳視新聞</title>
-  </programme>
-  <programme start="20261124210000 +0800" stop="20261124220000 +0800" channel="澳門資訊 94台">
-    <title lang="zh">錄播澳視新聞</title>
-  </programme>
-  <programme start="20261124220000 +0800" stop="20261124223000 +0800" channel="澳門資訊 94台">
-    <title lang="zh">普通話新聞</title>
-  </programme>
-  <programme start="20261124223000 +0800" stop="20261124231500 +0800" channel="澳門資訊 94台">
-    <title lang="zh">十點半澳視縱橫：競健群英 2026</title>
-  </programme>
-  <programme start="20261124231500 +0800" stop="20261124235000 +0800" channel="澳門資訊 94台">
-    <title lang="zh">晚間新聞</title>
-  </programme>
-  <programme start="20261124235000 +0800" stop="20261125000500 +0800" channel="澳門資訊 94台">
-    <title lang="zh">體育新聞</title>
-  </programme>
-  <programme start="20261125000500 +0800" stop="20261125003500 +0800" channel="澳門資訊 94台">
-    <title lang="zh">重播大灣區經濟新聞</title>
-  </programme>
-  <programme start="20261125003500 +0800" stop="20261125004500 +0800" channel="澳門資訊 94台">
-    <title lang="zh">澳門早晨精華篇</title>
-  </programme>
-  <programme start="20261125004500 +0800" stop="20261125011500 +0800" channel="澳門資訊 94台">
-    <title lang="zh">錄播普通話新聞</title>
-  </programme>
-  <programme start="20261125011500 +0800" stop="20261125015000 +0800" channel="澳門資訊 94台">
-    <title lang="zh">錄播晚間新聞</title>
-  </programme>
-  <programme start="20261125015000 +0800" stop="20261125020000 +0800" channel="澳門資訊 94台">
-    <title lang="zh">重播體育新聞</title>
-  </programme>
-  <programme start="20261125020000 +0800" stop="20261125030000 +0800" channel="澳門資訊 94台">
-    <title lang="zh">收台</title>
+  <programme start="20261127000500 +0800" stop="20261127010500 +0800" channel="澳視葡文 92台">
+    <title lang="zh">RTPi Directo</title>
   </programme>
   <programme start="20261125065900 +0800" stop="20261125070000 +0800" channel="澳門資訊 94台">
     <title lang="zh">開台</title>
@@ -460,6 +373,7 @@
   </programme>
   <programme start="20261125085900 +0800" stop="20261125130000 +0800" channel="澳門資訊 94台">
     <title lang="zh">直播立法會辯論保安領域2027施政方針政策</title>
+    <live/>
   </programme>
   <programme start="20261125130000 +0800" stop="20261125131700 +0800" channel="澳門資訊 94台">
     <title lang="zh">新聞報道</title>
@@ -518,74 +432,151 @@
   <programme start="20261126020000 +0800" stop="20261126030000 +0800" channel="澳門資訊 94台">
     <title lang="zh">收台</title>
   </programme>
-  <programme start="20261124095900 +0800" stop="20261124100000 +0800" channel="澳門體育 93台">
+  <programme start="20261126065900 +0800" stop="20261126070000 +0800" channel="澳門資訊 94台">
     <title lang="zh">開台</title>
   </programme>
-  <programme start="20261124100000 +0800" stop="20261124111500 +0800" channel="澳門體育 93台">
-    <title lang="zh">愛知．名古屋第20屆亞運會：乒乓球女子團體-決賽</title>
+  <programme start="20261126070000 +0800" stop="20261126080000 +0800" channel="澳門資訊 94台">
+    <title lang="zh">早晨新聞</title>
   </programme>
-  <programme start="20261124111500 +0800" stop="20261124120500 +0800" channel="澳門體育 93台">
-    <title lang="zh">愛知．名古屋第20屆亞運會：乒乓球男雙-32強</title>
-    <live/>
+  <programme start="20261126080000 +0800" stop="20261126090000 +0800" channel="澳門資訊 94台">
+    <title lang="zh">澳門早晨</title>
   </programme>
-  <programme start="20261124120500 +0800" stop="20261124130000 +0800" channel="澳門體育 93台">
-    <title lang="zh">2026歐洲勒芒系列賽精華：第七集 賽季回顧</title>
+  <programme start="20261126090000 +0800" stop="20261126093000 +0800" channel="澳門資訊 94台">
+    <title lang="zh">重播早晨新聞</title>
   </programme>
-  <programme start="20261124130000 +0800" stop="20261124131500 +0800" channel="澳門體育 93台">
+  <programme start="20261126093000 +0800" stop="20261126100000 +0800" channel="澳門資訊 94台">
+    <title lang="zh">灣區全媒睇</title>
+  </programme>
+  <programme start="20261126100000 +0800" stop="20261126103000 +0800" channel="澳門資訊 94台">
+    <title lang="zh">新聞報道</title>
+  </programme>
+  <programme start="20261126103000 +0800" stop="20261126110000 +0800" channel="澳門資訊 94台">
+    <title lang="zh">新聞報道</title>
+  </programme>
+  <programme start="20261126110000 +0800" stop="20261126111200 +0800" channel="澳門資訊 94台">
+    <title lang="zh">新聞報道</title>
+  </programme>
+  <programme start="20261126111200 +0800" stop="20261126112000 +0800" channel="澳門資訊 94台">
+    <title lang="zh">育才成長 築新未來： 家長學堂</title>
+  </programme>
+  <programme start="20261126112000 +0800" stop="20261126113800 +0800" channel="澳門資訊 94台">
+    <title lang="zh">重播放眼世界</title>
+  </programme>
+  <programme start="20261126113800 +0800" stop="20261126115000 +0800" channel="澳門資訊 94台">
+    <title lang="zh">重播新聞深度遊</title>
+  </programme>
+  <programme start="20261126115000 +0800" stop="20261126120000 +0800" channel="澳門資訊 94台">
+    <title lang="zh">澳門早晨精華篇</title>
+  </programme>
+  <programme start="20261126120000 +0800" stop="20261126122000 +0800" channel="澳門資訊 94台">
+    <title lang="zh">新聞報道</title>
+  </programme>
+  <programme start="20261126122000 +0800" stop="20261126122700 +0800" channel="澳門資訊 94台">
+    <title lang="zh">育才成長 築新未來： 家長學堂</title>
+  </programme>
+  <programme start="20261126122700 +0800" stop="20261126123000 +0800" channel="澳門資訊 94台">
+    <title lang="zh">街市情報</title>
+  </programme>
+  <programme start="20261126123000 +0800" stop="20261126125000 +0800" channel="澳門資訊 94台">
+    <title lang="zh">新聞報道</title>
+  </programme>
+  <programme start="20261126125000 +0800" stop="20261126130000 +0800" channel="澳門資訊 94台">
+    <title lang="zh">海派百工2</title>
+  </programme>
+  <programme start="20261126130000 +0800" stop="20261126131700 +0800" channel="澳門資訊 94台">
+    <title lang="zh">新聞報道</title>
+  </programme>
+  <programme start="20261126131700 +0800" stop="20261126132400 +0800" channel="澳門資訊 94台">
+    <title lang="zh">育才成長 築新未來： 家長學堂</title>
+  </programme>
+  <programme start="20261126132400 +0800" stop="20261126133000 +0800" channel="澳門資訊 94台">
+    <title lang="zh">午間天氣報告</title>
+  </programme>
+  <programme start="20261126133000 +0800" stop="20261126140000 +0800" channel="澳門資訊 94台">
+    <title lang="zh">午間新聞</title>
+  </programme>
+  <programme start="20261126140000 +0800" stop="20261126150000 +0800" channel="澳門資訊 94台">
+    <title lang="zh">每日財經</title>
+  </programme>
+  <programme start="20261126150000 +0800" stop="20261126152500 +0800" channel="澳門資訊 94台">
+    <title lang="zh">新聞報道</title>
+  </programme>
+  <programme start="20261126152500 +0800" stop="20261126153000 +0800" channel="澳門資訊 94台">
+    <title lang="zh">街市情報</title>
+  </programme>
+  <programme start="20261126153000 +0800" stop="20261126160000 +0800" channel="澳門資訊 94台">
+    <title lang="zh">新聞報道</title>
+  </programme>
+  <programme start="20261126160000 +0800" stop="20261126163000 +0800" channel="澳門資訊 94台">
+    <title lang="zh">新聞報道</title>
+  </programme>
+  <programme start="20261126163000 +0800" stop="20261126170000 +0800" channel="澳門資訊 94台">
+    <title lang="zh">新聞報道</title>
+  </programme>
+  <programme start="20261126170000 +0800" stop="20261126173000 +0800" channel="澳門資訊 94台">
+    <title lang="zh">新聞報道</title>
+  </programme>
+  <programme start="20261126173000 +0800" stop="20261126175000 +0800" channel="澳門資訊 94台">
+    <title lang="zh">新聞報道</title>
+  </programme>
+  <programme start="20261126175000 +0800" stop="20261126180000 +0800" channel="澳門資訊 94台">
+    <title lang="zh">育才成長 築新未來： 家長學堂</title>
+  </programme>
+  <programme start="20261126180000 +0800" stop="20261126180500 +0800" channel="澳門資訊 94台">
+    <title lang="zh">新聞報道</title>
+  </programme>
+  <programme start="20261126180500 +0800" stop="20261126180700 +0800" channel="澳門資訊 94台">
+    <title lang="zh">TDM 新視點</title>
+  </programme>
+  <programme start="20261126180700 +0800" stop="20261126183200 +0800" channel="澳門資訊 94台">
+    <title lang="zh">澳門早晨精華錄</title>
+  </programme>
+  <programme start="20261126183200 +0800" stop="20261126190000 +0800" channel="澳門資訊 94台">
+    <title lang="zh">灣區全媒睇</title>
+  </programme>
+  <programme start="20261126190000 +0800" stop="20261126195500 +0800" channel="澳門資訊 94台">
+    <title lang="zh">澳視新聞</title>
+  </programme>
+  <programme start="20261126195500 +0800" stop="20261126195800 +0800" channel="澳門資訊 94台">
+    <title lang="zh">天氣報告</title>
+  </programme>
+  <programme start="20261126195800 +0800" stop="20261126200000 +0800" channel="澳門資訊 94台">
+    <title lang="zh">TDM 新視點</title>
+  </programme>
+  <programme start="20261126200000 +0800" stop="20261126210000 +0800" channel="澳門資訊 94台">
+    <title lang="zh">錄播澳視新聞</title>
+  </programme>
+  <programme start="20261126210000 +0800" stop="20261126220000 +0800" channel="澳門資訊 94台">
+    <title lang="zh">錄播澳視新聞</title>
+  </programme>
+  <programme start="20261126220000 +0800" stop="20261126223000 +0800" channel="澳門資訊 94台">
+    <title lang="zh">普通話新聞</title>
+  </programme>
+  <programme start="20261126223000 +0800" stop="20261126231500 +0800" channel="澳門資訊 94台">
+    <title lang="zh">十點半澳視縱橫：風火台</title>
+  </programme>
+  <programme start="20261126231500 +0800" stop="20261126235000 +0800" channel="澳門資訊 94台">
+    <title lang="zh">晚間新聞</title>
+  </programme>
+  <programme start="20261126235000 +0800" stop="20261127000500 +0800" channel="澳門資訊 94台">
     <title lang="zh">體育新聞</title>
   </programme>
-  <programme start="20261124131500 +0800" stop="20261124140000 +0800" channel="澳門體育 93台">
-    <title lang="zh">2026馬來西亞羽毛球公開賽：混雙4強</title>
+  <programme start="20261127000500 +0800" stop="20261127003500 +0800" channel="澳門資訊 94台">
+    <title lang="zh">中國城市報道</title>
   </programme>
-  <programme start="20261124140000 +0800" stop="20261124150500 +0800" channel="澳門體育 93台">
-    <title lang="zh">2026馬來西亞羽毛球公開賽：女單決賽</title>
+  <programme start="20261127003500 +0800" stop="20261127004500 +0800" channel="澳門資訊 94台">
+    <title lang="zh">澳門早晨精華篇</title>
   </programme>
-  <programme start="20261124150500 +0800" stop="20261124154000 +0800" channel="澳門體育 93台">
-    <title lang="zh">2026勒芒盃雜誌：第六集 波爾堤莫站</title>
+  <programme start="20261127004500 +0800" stop="20261127011500 +0800" channel="澳門資訊 94台">
+    <title lang="zh">錄播普通話新聞</title>
   </programme>
-  <programme start="20261124154000 +0800" stop="20261124174500 +0800" channel="澳門體育 93台">
-    <title lang="zh">直播亞洲冠軍精英聯賽：紐卡素噴射機 對 柏雷素爾</title>
+  <programme start="20261127011500 +0800" stop="20261127015000 +0800" channel="澳門資訊 94台">
+    <title lang="zh">錄播晚間新聞</title>
   </programme>
-  <programme start="20261124174500 +0800" stop="20261124175500 +0800" channel="澳門體育 93台">
-    <title lang="zh">澳門經典車小百科</title>
+  <programme start="20261127015000 +0800" stop="20261127020000 +0800" channel="澳門資訊 94台">
+    <title lang="zh">重播體育新聞</title>
   </programme>
-  <programme start="20261124175500 +0800" stop="20261124200000 +0800" channel="澳門體育 93台">
-    <title lang="zh">直播亞洲冠軍精英聯賽：大田市民 對 北京國安</title>
-  </programme>
-  <programme start="20261124200000 +0800" stop="20261124201000 +0800" channel="澳門體育 93台">
-    <title lang="zh">澳門經典車小百科</title>
-  </programme>
-  <programme start="20261124201000 +0800" stop="20261124210500 +0800" channel="澳門體育 93台">
-    <title lang="zh">直播亞洲冠軍精英聯賽：上海海港 對 武里南聯</title>
-  </programme>
-  <programme start="20261124210500 +0800" stop="20261124211000 +0800" channel="澳門體育 93台">
-    <title lang="zh">體育新聞</title>
-  </programme>
-  <programme start="20261124211000 +0800" stop="20261124221500 +0800" channel="澳門體育 93台">
-    <title lang="zh">直播亞洲冠軍精英聯賽：上海海港 對 武里南聯</title>
-  </programme>
-  <programme start="20261124221500 +0800" stop="20261124225000 +0800" channel="澳門體育 93台">
-    <title lang="zh">愛知．名古屋第20屆亞運會：乒乓球男單決賽</title>
-  </programme>
-  <programme start="20261124225000 +0800" stop="20261124225500 +0800" channel="澳門體育 93台">
-    <title lang="zh">體育新聞</title>
-  </programme>
-  <programme start="20261124225500 +0800" stop="20261125010000 +0800" channel="澳門體育 93台">
-    <title lang="zh">直播2026/2027 歐洲青年冠軍聯賽：飛燕諾 對 波爾圖</title>
-  </programme>
-  <programme start="20261125010000 +0800" stop="20261125014000 +0800" channel="澳門體育 93台">
-    <title lang="zh">環球體育</title>
-  </programme>
-  <programme start="20261125014000 +0800" stop="20261125034500 +0800" channel="澳門體育 93台">
-    <title lang="zh">直播2026/2027歐洲冠軍聯賽 ：加拉塔沙雷 對 阿士東維拉</title>
-  </programme>
-  <programme start="20261125034500 +0800" stop="20261125035500 +0800" channel="澳門體育 93台">
-    <title lang="zh">澳門經典車小百科</title>
-  </programme>
-  <programme start="20261125035500 +0800" stop="20261125060000 +0800" channel="澳門體育 93台">
-    <title lang="zh">直播2026/2027歐洲冠軍聯賽 ：曼城 對 拿玻里</title>
-  </programme>
-  <programme start="20261125060000 +0800" stop="20261125070000 +0800" channel="澳門體育 93台">
+  <programme start="20261127020000 +0800" stop="20261127030000 +0800" channel="澳門資訊 94台">
     <title lang="zh">收台</title>
   </programme>
   <programme start="20261125095900 +0800" stop="20261125100000 +0800" channel="澳門體育 93台">
@@ -593,6 +584,7 @@
   </programme>
   <programme start="20261125100000 +0800" stop="20261125123000 +0800" channel="澳門體育 93台">
     <title lang="zh">2026美國網球公開賽：女單8強</title>
+    <live/>
   </programme>
   <programme start="20261125123000 +0800" stop="20261125130000 +0800" channel="澳門體育 93台">
     <title lang="zh">愛知．名古屋第20屆亞運會：女子10米跳台</title>
@@ -648,74 +640,76 @@
   <programme start="20261126060000 +0800" stop="20261126070000 +0800" channel="澳門體育 93台">
     <title lang="zh">收台</title>
   </programme>
-  <programme start="20261124095900 +0800" stop="20261124100000 +0800" channel="澳門綜藝 95台">
+  <programme start="20261126095900 +0800" stop="20261126100000 +0800" channel="澳門體育 93台">
     <title lang="zh">開台</title>
   </programme>
-  <programme start="20261124100000 +0800" stop="20261124125200 +0800" channel="澳門綜藝 95台">
-    <title lang="zh">好劇連場: 賴貓的獅子倒影</title>
-    <live/>
+  <programme start="20261126100000 +0800" stop="20261126124500 +0800" channel="澳門體育 93台">
+    <title lang="zh">2026美國網球公開賽：男單8強</title>
   </programme>
-  <programme start="20261124125200 +0800" stop="20261124130200 +0800" channel="澳門綜藝 95台">
-    <title lang="zh">國寶時刻</title>
+  <programme start="20261126124500 +0800" stop="20261126130000 +0800" channel="澳門體育 93台">
+    <title lang="zh">澳門經典車小百科</title>
   </programme>
-  <programme start="20261124130200 +0800" stop="20261124160500 +0800" channel="澳門綜藝 95台">
-    <title lang="zh">好劇連場: 燦爛的風和海</title>
+  <programme start="20261126130000 +0800" stop="20261126131500 +0800" channel="澳門體育 93台">
+    <title lang="zh">體育新聞</title>
   </programme>
-  <programme start="20261124160500 +0800" stop="20261124162000 +0800" channel="澳門綜藝 95台">
-    <title lang="zh">江河與共</title>
+  <programme start="20261126131500 +0800" stop="20261126152000 +0800" channel="澳門體育 93台">
+    <title lang="zh">2026美國網球公開賽：男單8強</title>
   </programme>
-  <programme start="20261124162000 +0800" stop="20261124163600 +0800" channel="澳門綜藝 95台">
-    <title lang="zh">茶館·川人與茶</title>
+  <programme start="20261126152000 +0800" stop="20261126153000 +0800" channel="澳門體育 93台">
+    <title lang="zh">每周體育精華</title>
   </programme>
-  <programme start="20261124163600 +0800" stop="20261124173000 +0800" channel="澳門綜藝 95台">
-    <title lang="zh">分界線</title>
+  <programme start="20261126153000 +0800" stop="20261126162000 +0800" channel="澳門體育 93台">
+    <title lang="zh">2026馬來西亞羽毛球公開賽：男單決賽</title>
   </programme>
-  <programme start="20261124173000 +0800" stop="20261124175800 +0800" channel="澳門綜藝 95台">
-    <title lang="zh">中山裝</title>
+  <programme start="20261126162000 +0800" stop="20261126174000 +0800" channel="澳門體育 93台">
+    <title lang="zh">2026馬來西亞羽毛球公開賽：男雙決賽</title>
   </programme>
-  <programme start="20261124175800 +0800" stop="20261124180000 +0800" channel="澳門綜藝 95台">
-    <title lang="zh">TDM 新視點</title>
+  <programme start="20261126174000 +0800" stop="20261126175500 +0800" channel="澳門體育 93台">
+    <title lang="zh">澳門經典車小百科</title>
   </programme>
-  <programme start="20261124180000 +0800" stop="20261124182500 +0800" channel="澳門綜藝 95台">
-    <title lang="zh">籃球旋風 第二季</title>
+  <programme start="20261126175500 +0800" stop="20261126200000 +0800" channel="澳門體育 93台">
+    <title lang="zh">直播亞洲冠軍二級聯賽：淡濱尼流浪 對  上海申花</title>
   </programme>
-  <programme start="20261124182500 +0800" stop="20261124200000 +0800" channel="澳門綜藝 95台">
-    <title lang="zh">非愛不可</title>
+  <programme start="20261126200000 +0800" stop="20261126201000 +0800" channel="澳門體育 93台">
+    <title lang="zh">澳門經典車小百科</title>
   </programme>
-  <programme start="20261124200000 +0800" stop="20261124205000 +0800" channel="澳門綜藝 95台">
-    <title lang="zh">追逐猛獸之厄爾尼諾</title>
+  <programme start="20261126201000 +0800" stop="20261126210500 +0800" channel="澳門體育 93台">
+    <title lang="zh">直播亞洲冠軍二級聯賽：大埔 對 阿德萊德聯</title>
   </programme>
-  <programme start="20261124205000 +0800" stop="20261124210000 +0800" channel="澳門綜藝 95台">
-    <title lang="zh">烈火，鮮血與旗幟</title>
+  <programme start="20261126210500 +0800" stop="20261126211000 +0800" channel="澳門體育 93台">
+    <title lang="zh">體育新聞</title>
   </programme>
-  <programme start="20261124210000 +0800" stop="20261124212500 +0800" channel="澳門綜藝 95台">
-    <title lang="zh">趨記茶餐廳</title>
+  <programme start="20261126211000 +0800" stop="20261126221500 +0800" channel="澳門體育 93台">
+    <title lang="zh">直播亞洲冠軍二級聯賽：大埔 對 阿德萊德聯</title>
   </programme>
-  <programme start="20261124212500 +0800" stop="20261124213500 +0800" channel="澳門綜藝 95台">
-    <title lang="zh">漫遊澳門．樂在各區</title>
+  <programme start="20261126221500 +0800" stop="20261126223000 +0800" channel="澳門體育 93台">
+    <title lang="zh">每周體育精華</title>
   </programme>
-  <programme start="20261124213500 +0800" stop="20261124231000 +0800" channel="澳門綜藝 95台">
-    <title lang="zh">非愛不可</title>
+  <programme start="20261126223000 +0800" stop="20261126232000 +0800" channel="澳門體育 93台">
+    <title lang="zh">2026/2027歐洲冠軍聯賽精華</title>
   </programme>
-  <programme start="20261124231000 +0800" stop="20261125000100 +0800" channel="澳門綜藝 95台">
-    <title lang="zh">戰士的道路</title>
+  <programme start="20261126232000 +0800" stop="20261126233000 +0800" channel="澳門體育 93台">
+    <title lang="zh">體育新聞</title>
   </programme>
-  <programme start="20261125000100 +0800" stop="20261125011800 +0800" channel="澳門綜藝 95台">
-    <title lang="zh">星光大道</title>
+  <programme start="20261126233000 +0800" stop="20261127001000 +0800" channel="澳門體育 93台">
+    <title lang="zh">愛知．名古屋第20屆亞運會：飛碟雙向混合團體</title>
   </programme>
-  <programme start="20261125011800 +0800" stop="20261125014000 +0800" channel="澳門綜藝 95台">
-    <title lang="zh">知味興安盟</title>
+  <programme start="20261127001000 +0800" stop="20261127005000 +0800" channel="澳門體育 93台">
+    <title lang="zh">競健群英2026</title>
   </programme>
-  <programme start="20261125014000 +0800" stop="20261125034500 +0800" channel="澳門綜藝 95台">
-    <title lang="zh">直播2026/2027歐洲冠軍聯賽: 波杜基林特  對  林茨</title>
+  <programme start="20261127005000 +0800" stop="20261127014000 +0800" channel="澳門體育 93台">
+    <title lang="zh">2026/2027歐洲聯賽及歐洲協會聯賽雜誌</title>
   </programme>
-  <programme start="20261125034500 +0800" stop="20261125035500 +0800" channel="澳門綜藝 95台">
-    <title lang="zh">海派百工2</title>
+  <programme start="20261127014000 +0800" stop="20261127034500 +0800" channel="澳門體育 93台">
+    <title lang="zh">直播2026/2027 歐洲聯賽：奧林比亞高斯 對 AC米蘭</title>
   </programme>
-  <programme start="20261125035500 +0800" stop="20261125060000 +0800" channel="澳門綜藝 95台">
-    <title lang="zh">直播2026/2027歐洲冠軍聯賽: 阿仙奴  對  多蒙特</title>
+  <programme start="20261127034500 +0800" stop="20261127035500 +0800" channel="澳門體育 93台">
+    <title lang="zh">每周體育精華</title>
   </programme>
-  <programme start="20261125060000 +0800" stop="20261125070000 +0800" channel="澳門綜藝 95台">
+  <programme start="20261127035500 +0800" stop="20261127060000 +0800" channel="澳門體育 93台">
+    <title lang="zh">直播2026/2027 歐洲聯賽：水晶宮 對 皇家蘇斯達</title>
+  </programme>
+  <programme start="20261127060000 +0800" stop="20261127070000 +0800" channel="澳門體育 93台">
     <title lang="zh">收台</title>
   </programme>
   <programme start="20261125095900 +0800" stop="20261125100000 +0800" channel="澳門綜藝 95台">
@@ -723,6 +717,7 @@
   </programme>
   <programme start="20261125100000 +0800" stop="20261125125400 +0800" channel="澳門綜藝 95台">
     <title lang="zh">好劇連場: 賴貓的獅子倒影</title>
+    <live/>
   </programme>
   <programme start="20261125125400 +0800" stop="20261125130000 +0800" channel="澳門綜藝 95台">
     <title lang="zh">國寶時刻</title>
@@ -787,138 +782,71 @@
   <programme start="20261126060000 +0800" stop="20261126070000 +0800" channel="澳門綜藝 95台">
     <title lang="zh">收台</title>
   </programme>
-  <programme start="20261124000200 +0800" stop="20261124010200 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">莫桑比克的魅力</title>
+  <programme start="20261126095900 +0800" stop="20261126100000 +0800" channel="澳門綜藝 95台">
+    <title lang="zh">開台</title>
   </programme>
-  <programme start="20261124010200 +0800" stop="20261124013000 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">澳門老店—傳承</title>
+  <programme start="20261126100000 +0800" stop="20261126121300 +0800" channel="澳門綜藝 95台">
+    <title lang="zh">好劇連場: 賴貓的獅子倒影</title>
   </programme>
-  <programme start="20261124013000 +0800" stop="20261124020000 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">英語新聞</title>
+  <programme start="20261126121300 +0800" stop="20261126130000 +0800" channel="澳門綜藝 95台">
+    <title lang="zh">好劇連場: 我們的河山</title>
   </programme>
-  <programme start="20261124020000 +0800" stop="20261124025000 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">葡語新聞</title>
+  <programme start="20261126130000 +0800" stop="20261126160500 +0800" channel="澳門綜藝 95台">
+    <title lang="zh">好劇連場: 燦爛的風和海</title>
   </programme>
-  <programme start="20261124025000 +0800" stop="20261124031000 +0800" channel="澳門-Macau 96台">
+  <programme start="20261126160500 +0800" stop="20261126162000 +0800" channel="澳門綜藝 95台">
+    <title lang="zh">詩詞有故事</title>
+  </programme>
+  <programme start="20261126162000 +0800" stop="20261126163500 +0800" channel="澳門綜藝 95台">
+    <title lang="zh">你好大灣區 第二季</title>
+  </programme>
+  <programme start="20261126163500 +0800" stop="20261126173000 +0800" channel="澳門綜藝 95台">
+    <title lang="zh">飆速世界</title>
+  </programme>
+  <programme start="20261126173000 +0800" stop="20261126175800 +0800" channel="澳門綜藝 95台">
     <title lang="zh">澳門早晨精華錄</title>
   </programme>
-  <programme start="20261124031000 +0800" stop="20261124034000 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">#文青這樣玩</title>
+  <programme start="20261126175800 +0800" stop="20261126180000 +0800" channel="澳門綜藝 95台">
+    <title lang="zh">TDM 新視點</title>
   </programme>
-  <programme start="20261124034000 +0800" stop="20261124043000 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">海上生名粵</title>
+  <programme start="20261126180000 +0800" stop="20261126182500 +0800" channel="澳門綜藝 95台">
+    <title lang="zh">籃球旋風 第二季</title>
   </programme>
-  <programme start="20261124043000 +0800" stop="20261124044000 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">國寶時刻</title>
+  <programme start="20261126182500 +0800" stop="20261126200000 +0800" channel="澳門綜藝 95台">
+    <title lang="zh">寵他，還是愛我？</title>
   </programme>
-  <programme start="20261124044000 +0800" stop="20261124053000 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">葡語新聞</title>
+  <programme start="20261126200000 +0800" stop="20261126203000 +0800" channel="澳門綜藝 95台">
+    <title lang="zh">青春有歌</title>
   </programme>
-  <programme start="20261124053000 +0800" stop="20261124060000 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">絲路時間U Silk - 對望絲路新旅程</title>
+  <programme start="20261126203000 +0800" stop="20261126212000 +0800" channel="澳門綜藝 95台">
+    <title lang="zh">街頭藝術挑戰</title>
   </programme>
-  <programme start="20261124060000 +0800" stop="20261124070000 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">莫桑比克的魅力</title>
+  <programme start="20261126212000 +0800" stop="20261126213500 +0800" channel="澳門綜藝 95台">
+    <title lang="zh">你好大灣區 第二季</title>
   </programme>
-  <programme start="20261124070000 +0800" stop="20261124073000 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">咁, 得唔得㗎?</title>
+  <programme start="20261126213500 +0800" stop="20261126231000 +0800" channel="澳門綜藝 95台">
+    <title lang="zh">寵他，還是愛我？</title>
   </programme>
-  <programme start="20261124073000 +0800" stop="20261124080000 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">英語新聞</title>
+  <programme start="20261126231000 +0800" stop="20261127000100 +0800" channel="澳門綜藝 95台">
+    <title lang="zh">人間蒸發</title>
   </programme>
-  <programme start="20261124080000 +0800" stop="20261124083000 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">#文青這樣玩</title>
+  <programme start="20261127000100 +0800" stop="20261127011500 +0800" channel="澳門綜藝 95台">
+    <title lang="zh">電影: 種種相遇</title>
   </programme>
-  <programme start="20261124083000 +0800" stop="20261124085200 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">教煮CHILL 好玩</title>
+  <programme start="20261127011500 +0800" stop="20261127014000 +0800" channel="澳門綜藝 95台">
+    <title lang="zh">《葡角漫遊》之佛得角</title>
   </programme>
-  <programme start="20261124085200 +0800" stop="20261124092000 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">灣區全媒睇</title>
+  <programme start="20261127014000 +0800" stop="20261127034500 +0800" channel="澳門綜藝 95台">
+    <title lang="zh">直播2026/2027 歐洲聯賽: 柏辛域陀尼亞  對  賓菲加</title>
   </programme>
-  <programme start="20261124092000 +0800" stop="20261124095000 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">風火台</title>
+  <programme start="20261127034500 +0800" stop="20261127035500 +0800" channel="澳門綜藝 95台">
+    <title lang="zh">烈火，鮮血與旗幟</title>
   </programme>
-  <programme start="20261124095000 +0800" stop="20261124100000 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">家家有餸煮</title>
+  <programme start="20261127035500 +0800" stop="20261127060000 +0800" channel="澳門綜藝 95台">
+    <title lang="zh">直播2026/2027歐洲協會聯賽: 費雷堡  對  川迪</title>
   </programme>
-  <programme start="20261124100000 +0800" stop="20261124103000 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">粵語新聞</title>
-  </programme>
-  <programme start="20261124103000 +0800" stop="20261124112000 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">海上生名粵</title>
-  </programme>
-  <programme start="20261124112000 +0800" stop="20261124115000 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">澳門老店—傳承</title>
-  </programme>
-  <programme start="20261124115000 +0800" stop="20261124122000 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">#文青這樣玩</title>
-    <live/>
-  </programme>
-  <programme start="20261124122000 +0800" stop="20261124125000 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">風火台</title>
-  </programme>
-  <programme start="20261124125000 +0800" stop="20261124130000 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">好書分享</title>
-  </programme>
-  <programme start="20261124130000 +0800" stop="20261124133000 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">咁, 得唔得㗎?</title>
-  </programme>
-  <programme start="20261124133000 +0800" stop="20261124135300 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">教煮CHILL 好玩</title>
-  </programme>
-  <programme start="20261124135300 +0800" stop="20261124140000 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">胡sir講收藏</title>
-  </programme>
-  <programme start="20261124140000 +0800" stop="20261124143000 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">粵語新聞</title>
-  </programme>
-  <programme start="20261124143000 +0800" stop="20261124150000 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">澳門老店—傳承</title>
-  </programme>
-  <programme start="20261124150000 +0800" stop="20261124155000 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">葡語新聞</title>
-  </programme>
-  <programme start="20261124155000 +0800" stop="20261124160500 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">下姜村的數字未來夢</title>
-  </programme>
-  <programme start="20261124160500 +0800" stop="20261124165000 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">海上生名粵</title>
-  </programme>
-  <programme start="20261124165000 +0800" stop="20261124175000 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">莫桑比克的魅力</title>
-  </programme>
-  <programme start="20261124175000 +0800" stop="20261124182000 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">#文青這樣玩</title>
-  </programme>
-  <programme start="20261124182000 +0800" stop="20261124184500 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">咁, 得唔得㗎?</title>
-  </programme>
-  <programme start="20261124184500 +0800" stop="20261124190500 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">澳門早晨精華錄</title>
-  </programme>
-  <programme start="20261124190500 +0800" stop="20261124193000 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">教煮CHILL 好玩</title>
-  </programme>
-  <programme start="20261124193000 +0800" stop="20261124200000 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">風火台</title>
-  </programme>
-  <programme start="20261124200000 +0800" stop="20261124210000 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">粵語新聞</title>
-  </programme>
-  <programme start="20261124210000 +0800" stop="20261124213000 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">灣區全媒睇</title>
-  </programme>
-  <programme start="20261124213000 +0800" stop="20261124220000 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">絲路時間USilk - 絲路美食之探尋米踪</title>
-  </programme>
-  <programme start="20261124220000 +0800" stop="20261124225000 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">粵語新聞</title>
-  </programme>
-  <programme start="20261124225000 +0800" stop="20261124234000 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">葡語新聞</title>
-  </programme>
-  <programme start="20261124234000 +0800" stop="20261125004000 +0800" channel="澳門-Macau 96台">
-    <title lang="zh">教煮CHILL 好玩</title>
+  <programme start="20261127060000 +0800" stop="20261127070000 +0800" channel="澳門綜藝 95台">
+    <title lang="zh">收台</title>
   </programme>
   <programme start="20261125000200 +0800" stop="20261125010500 +0800" channel="澳門-Macau 96台">
     <title lang="zh">莫桑比克的魅力</title>
@@ -976,6 +904,7 @@
   </programme>
   <programme start="20261125103000 +0800" stop="20261125112000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">改變世界的科技</title>
+    <live/>
   </programme>
   <programme start="20261125112000 +0800" stop="20261125115000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">澳門老店—傳承</title>
@@ -1045,5 +974,140 @@
   </programme>
   <programme start="20261125234000 +0800" stop="20261126004000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">家家有本事</title>
+  </programme>
+  <programme start="20261126000200 +0800" stop="20261126010500 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">莫桑比克的魅力</title>
+  </programme>
+  <programme start="20261126010500 +0800" stop="20261126013000 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">澳門老店—傳承</title>
+  </programme>
+  <programme start="20261126013000 +0800" stop="20261126020000 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">英語新聞</title>
+  </programme>
+  <programme start="20261126020000 +0800" stop="20261126025000 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">葡語新聞</title>
+  </programme>
+  <programme start="20261126025000 +0800" stop="20261126031000 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">澳門早晨精華錄</title>
+  </programme>
+  <programme start="20261126031000 +0800" stop="20261126034000 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">#文青這樣玩</title>
+  </programme>
+  <programme start="20261126034000 +0800" stop="20261126043000 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">改變世界的科技</title>
+  </programme>
+  <programme start="20261126043000 +0800" stop="20261126052000 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">葡語新聞</title>
+  </programme>
+  <programme start="20261126052000 +0800" stop="20261126060000 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">大國建造第三季﹕共同的建造</title>
+  </programme>
+  <programme start="20261126060000 +0800" stop="20261126070000 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">莫桑比克的魅力</title>
+  </programme>
+  <programme start="20261126070000 +0800" stop="20261126073000 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">馬交遊﹕澳門Chill 好玩</title>
+  </programme>
+  <programme start="20261126073000 +0800" stop="20261126080000 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">英語新聞</title>
+  </programme>
+  <programme start="20261126080000 +0800" stop="20261126083000 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">#文青這樣玩</title>
+  </programme>
+  <programme start="20261126083000 +0800" stop="20261126085500 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">澳門人澳門事</title>
+  </programme>
+  <programme start="20261126085500 +0800" stop="20261126092500 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">灣區全媒睇</title>
+  </programme>
+  <programme start="20261126092500 +0800" stop="20261126094500 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">放眼世界</title>
+  </programme>
+  <programme start="20261126094500 +0800" stop="20261126100000 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">新聞深度遊</title>
+  </programme>
+  <programme start="20261126100000 +0800" stop="20261126103000 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">粵語新聞</title>
+  </programme>
+  <programme start="20261126103000 +0800" stop="20261126112000 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">改變世界的科技</title>
+  </programme>
+  <programme start="20261126112000 +0800" stop="20261126115000 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">澳門老店—傳承</title>
+  </programme>
+  <programme start="20261126115000 +0800" stop="20261126122000 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">#文青這樣玩</title>
+  </programme>
+  <programme start="20261126122000 +0800" stop="20261126124000 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">放眼世界</title>
+  </programme>
+  <programme start="20261126124000 +0800" stop="20261126125300 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">新聞深度遊</title>
+  </programme>
+  <programme start="20261126125300 +0800" stop="20261126130000 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">胡sir講收藏</title>
+  </programme>
+  <programme start="20261126130000 +0800" stop="20261126133000 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">馬交遊﹕澳門Chill 好玩</title>
+  </programme>
+  <programme start="20261126133000 +0800" stop="20261126135300 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">澳門人澳門事</title>
+  </programme>
+  <programme start="20261126135300 +0800" stop="20261126140000 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">好書分享</title>
+  </programme>
+  <programme start="20261126140000 +0800" stop="20261126143000 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">粵語新聞</title>
+  </programme>
+  <programme start="20261126143000 +0800" stop="20261126150500 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">大國建造第三季﹕共同的建造</title>
+  </programme>
+  <programme start="20261126150500 +0800" stop="20261126155000 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">葡語新聞</title>
+  </programme>
+  <programme start="20261126155000 +0800" stop="20261126160500 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">下姜村的數字未來夢</title>
+  </programme>
+  <programme start="20261126160500 +0800" stop="20261126165500 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">改變世界的科技</title>
+  </programme>
+  <programme start="20261126165500 +0800" stop="20261126175500 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">莫桑比克的魅力</title>
+  </programme>
+  <programme start="20261126175500 +0800" stop="20261126182500 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">#文青這樣玩</title>
+  </programme>
+  <programme start="20261126182500 +0800" stop="20261126184500 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">澳門早晨精華錄</title>
+  </programme>
+  <programme start="20261126184500 +0800" stop="20261126191000 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">澳門人澳門事</title>
+  </programme>
+  <programme start="20261126191000 +0800" stop="20261126193000 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">放眼世界</title>
+  </programme>
+  <programme start="20261126193000 +0800" stop="20261126194500 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">新聞深度遊</title>
+  </programme>
+  <programme start="20261126194500 +0800" stop="20261126200000 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">家家有餸煮</title>
+  </programme>
+  <programme start="20261126200000 +0800" stop="20261126205500 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">粵語新聞</title>
+  </programme>
+  <programme start="20261126205500 +0800" stop="20261126213000 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">大國建造第三季﹕共同的建造</title>
+  </programme>
+  <programme start="20261126213000 +0800" stop="20261126220000 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">絲路時間U Silk - 瑪麗眼中的厦門</title>
+  </programme>
+  <programme start="20261126220000 +0800" stop="20261126225000 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">粵語新聞</title>
+  </programme>
+  <programme start="20261126225000 +0800" stop="20261126234000 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">葡語新聞</title>
+  </programme>
+  <programme start="20261126234000 +0800" stop="20261127004000 +0800" channel="澳門-Macau 96台">
+    <title lang="zh">澳門人澳門事</title>
   </programme>
 </tv>
