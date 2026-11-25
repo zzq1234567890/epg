@@ -4,16 +4,8 @@
   <channel id="看看新聞直播">
     <display-name lang="zh">看看新聞直播</display-name>
   </channel>
-  <programme start="20261124100000 +0800" stop="20261124120000 +0800" channel="看看新聞直播">
-    <title lang="zh">上海市公安局新闻发布会｜凝聚社会合力 让反诈宣防直达家门口</title>
-    <desc lang="zh">上海市公安局新闻发布会｜凝聚社会合力 让反诈宣防直达家门口</desc>
-  </programme>
-  <programme start="20261124143000 +0800" stop="20261124150000 +0800" channel="看看新聞直播">
-    <title lang="zh">HUAWEI Mate X8 及全场景新品发布会</title>
-    <desc lang="zh">HUAWEI Mate X8 及全场景新品发布会</desc>
-  </programme>
-  <programme start="20261124150000 +0800" stop="20261124170000 +0800" channel="看看新聞直播">
-    <title lang="zh">海外路路通 | 把研究生“读进”产业一线——港科大AI硕士的沪港双城实验</title>
-    <desc lang="zh">海外路路通 | 把研究生“读进”产业一线——港科大AI硕士的沪港双城实验</desc>
+  <programme start="20261125080000 +0800" stop="20261125140000 +0800" channel="看看新聞直播">
+    <title lang="zh">神舟二十四号载人飞船发射</title>
+    <desc lang="zh">神舟二十四号载人飞船发射</desc>
   </programme>
 </tv>

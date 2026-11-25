@@ -32,10 +32,10 @@
   </programme>
   <programme start="20261125085900 +0800" stop="20261125130000 +0800" channel="澳視澳門 91台">
     <title lang="zh">直播立法會辯論保安領域2027施政方針政策</title>
-    <live/>
   </programme>
   <programme start="20261125130000 +0800" stop="20261125131700 +0800" channel="澳視澳門 91台">
     <title lang="zh">口述澳門歷史名人堂</title>
+    <live/>
   </programme>
   <programme start="20261125131700 +0800" stop="20261125132400 +0800" channel="澳視澳門 91台">
     <title lang="zh">營商創新研究所</title>
@@ -373,10 +373,10 @@
   </programme>
   <programme start="20261125085900 +0800" stop="20261125130000 +0800" channel="澳門資訊 94台">
     <title lang="zh">直播立法會辯論保安領域2027施政方針政策</title>
-    <live/>
   </programme>
   <programme start="20261125130000 +0800" stop="20261125131700 +0800" channel="澳門資訊 94台">
     <title lang="zh">新聞報道</title>
+    <live/>
   </programme>
   <programme start="20261125131700 +0800" stop="20261125132400 +0800" channel="澳門資訊 94台">
     <title lang="zh">營商創新研究所</title>
@@ -584,13 +584,13 @@
   </programme>
   <programme start="20261125100000 +0800" stop="20261125123000 +0800" channel="澳門體育 93台">
     <title lang="zh">2026美國網球公開賽：女單8強</title>
-    <live/>
   </programme>
   <programme start="20261125123000 +0800" stop="20261125130000 +0800" channel="澳門體育 93台">
     <title lang="zh">愛知．名古屋第20屆亞運會：女子10米跳台</title>
   </programme>
   <programme start="20261125130000 +0800" stop="20261125131500 +0800" channel="澳門體育 93台">
     <title lang="zh">體育新聞</title>
+    <live/>
   </programme>
   <programme start="20261125131500 +0800" stop="20261125134000 +0800" channel="澳門體育 93台">
     <title lang="zh">愛知．名古屋第20屆亞運會：复合弓女子團體決賽</title>
@@ -717,13 +717,13 @@
   </programme>
   <programme start="20261125100000 +0800" stop="20261125125400 +0800" channel="澳門綜藝 95台">
     <title lang="zh">好劇連場: 賴貓的獅子倒影</title>
-    <live/>
   </programme>
   <programme start="20261125125400 +0800" stop="20261125130000 +0800" channel="澳門綜藝 95台">
     <title lang="zh">國寶時刻</title>
   </programme>
   <programme start="20261125130000 +0800" stop="20261125160500 +0800" channel="澳門綜藝 95台">
     <title lang="zh">好劇連場: 燦爛的風和海</title>
+    <live/>
   </programme>
   <programme start="20261125160500 +0800" stop="20261125163500 +0800" channel="澳門綜藝 95台">
     <title lang="zh">一城煙火 一城詩</title>
@@ -904,7 +904,6 @@
   </programme>
   <programme start="20261125103000 +0800" stop="20261125112000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">改變世界的科技</title>
-    <live/>
   </programme>
   <programme start="20261125112000 +0800" stop="20261125115000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">澳門老店—傳承</title>
@@ -917,6 +916,7 @@
   </programme>
   <programme start="20261125130000 +0800" stop="20261125133000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">馬交遊﹕澳門Chill 好玩</title>
+    <live/>
   </programme>
   <programme start="20261125133000 +0800" stop="20261125135300 +0800" channel="澳門-Macau 96台">
     <title lang="zh">家家有本事</title>

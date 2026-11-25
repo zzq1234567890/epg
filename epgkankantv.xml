@@ -26,772 +26,844 @@ SYSTEM "http://api.torrent-tv.ru/xmltv.dtd">
  <channel id="上海哈哈炫动">
   <display-name>上海哈哈炫动</display-name>
  </channel>
- <programme start="20261124000000 +0800" stop="20261124003100 +0800" channel="上海东方卫视">
-  <title>电视连续剧：《哈尔滨一九四四》（9）</title>
- </programme>
- <programme start="20261124003100 +0800" stop="20261124011400 +0800" channel="上海东方卫视">
-  <title>电视连续剧：《哈尔滨一九四四》（10）</title>
- </programme>
- <programme start="20261124011400 +0800" stop="20261124020000 +0800" channel="上海东方卫视">
-  <title>电视连续剧：《哈尔滨一九四四》（11）</title>
- </programme>
- <programme start="20261124020000 +0800" stop="20261124060000 +0800" channel="上海东方卫视">
-  <title>祝您晚安</title>
- </programme>
- <programme start="20261124060000 +0800" stop="20261124062500 +0800" channel="上海东方卫视">
-  <title>《名医话养生》（85）：手脚发麻畏寒，当心脑血管问题</title>
- </programme>
- <programme start="20261124062500 +0800" stop="20261124065000 +0800" channel="上海东方卫视">
-  <title>下一站</title>
- </programme>
- <programme start="20261124065000 +0800" stop="20261124070000 +0800" channel="上海东方卫视">
-  <title>纪录片：天涯共此诗（11）题西林壁</title>
- </programme>
- <programme start="20261124070000 +0800" stop="20261124085900 +0800" channel="上海东方卫视">
-  <title>中华人民共和国国歌＋看东方</title>
- </programme>
- <programme start="20261124085900 +0800" stop="20261124090200 +0800" channel="上海东方卫视">
-  <title>天气预报</title>
- </programme>
- <programme start="20261124090200 +0800" stop="20261124094800 +0800" channel="上海东方卫视">
-  <title>电视连续剧：《六姊妹》（12）</title>
- </programme>
- <programme start="20261124094800 +0800" stop="20261124103400 +0800" channel="上海东方卫视">
-  <title>电视连续剧：《六姊妹》（13）</title>
- </programme>
- <programme start="20261124103400 +0800" stop="20261124111700 +0800" channel="上海东方卫视">
-  <title>电视连续剧：《六姊妹》（14）</title>
- </programme>
- <programme start="20261124111700 +0800" stop="20261124120000 +0800" channel="上海东方卫视">
-  <title>电视连续剧：《六姊妹》（15）</title>
- </programme>
- <programme start="20261124120000 +0800" stop="20261124122600 +0800" channel="上海东方卫视">
-  <title>午间30分</title>
- </programme>
- <programme start="20261124122600 +0800" stop="20261124123000 +0800" channel="上海东方卫视">
-  <title>天气预报</title>
- </programme>
- <programme start="20261124123000 +0800" stop="20261124124200 +0800" channel="上海东方卫视">
-  <title>ShanghaiEye</title>
- </programme>
- <programme start="20261124124200 +0800" stop="20261124132500 +0800" channel="上海东方卫视">
-  <title>电视连续剧：《九重紫》（33）</title>
- </programme>
- <programme start="20261124132500 +0800" stop="20261124140800 +0800" channel="上海东方卫视">
-  <title>电视连续剧：《九重紫》（34）</title>
- </programme>
- <programme start="20261124140800 +0800" stop="20261124145300 +0800" channel="上海东方卫视">
-  <title>电视连续剧：《蛮好的人生》（1）</title>
- </programme>
- <programme start="20261124145300 +0800" stop="20261124153500 +0800" channel="上海东方卫视">
-  <title>电视连续剧：《蛮好的人生》（2）</title>
- </programme>
- <programme start="20261124153500 +0800" stop="20261124161700 +0800" channel="上海东方卫视">
-  <title>电视连续剧：《蛮好的人生》（3）</title>
- </programme>
- <programme start="20261124161700 +0800" stop="20261124165900 +0800" channel="上海东方卫视">
-  <title>电视连续剧：《蛮好的人生》（4）</title>
- </programme>
- <programme start="20261124165900 +0800" stop="20261124172400 +0800" channel="上海东方卫视">
-  <title>东方新娱乐</title>
- </programme>
- <programme start="20261124172400 +0800" stop="20261124175000 +0800" channel="上海东方卫视">
-  <title>《名医话养生》（86）：冬季心脏风险升高，做好日常防护</title>
- </programme>
- <programme start="20261124175000 +0800" stop="20261124180000 +0800" channel="上海东方卫视">
-  <title>纪录片：天涯共此诗（12）早发白帝城</title>
- </programme>
- <programme start="20261124180000 +0800" stop="20261124185700 +0800" channel="上海东方卫视">
-  <title>东方新闻</title>
- </programme>
- <programme start="20261124185700 +0800" stop="20261124190000 +0800" channel="上海东方卫视">
-  <title>天气预报</title>
- </programme>
- <programme start="20261124190000 +0800" stop="20261124193100 +0800" channel="上海东方卫视">
-  <title>转（中央台）新闻联播</title>
- </programme>
- <programme start="20261124193100 +0800" stop="20261124201700 +0800" channel="上海东方卫视">
-  <title>电视连续剧：《嫁金钗》（16）</title>
- </programme>
- <programme start="20261124201700 +0800" stop="20261124210300 +0800" channel="上海东方卫视">
-  <title>电视连续剧：《嫁金钗》（17）</title>
- </programme>
- <programme start="20261124210300 +0800" stop="20261124211300 +0800" channel="上海东方卫视">
-  <title>东方看大剧</title>
- </programme>
- <programme start="20261124211300 +0800" stop="20261124212000 +0800" channel="上海东方卫视">
-  <title>品质东方微剧场－《表面之下》（5）</title>
- </programme>
- <programme start="20261124212000 +0800" stop="20261124215900 +0800" channel="上海东方卫视">
-  <title>今晚</title>
- </programme>
- <programme start="20261124215900 +0800" stop="20261124220000 +0800" channel="上海东方卫视">
-  <title>天气预报</title>
- </programme>
- <programme start="20261124220000 +0800" stop="20261124224500 +0800" channel="上海东方卫视">
-  <title>纪录片：对话东盟（3）　跨越山海</title>
- </programme>
- <programme start="20261124224500 +0800" stop="20261124225100 +0800" channel="上海东方卫视">
-  <title>纪录片：述说：第二季（7）</title>
- </programme>
- <programme start="20261124225100 +0800" stop="20261124233200 +0800" channel="上海东方卫视">
-  <title>纪录片：繁花深处（二）　弄潮</title>
- </programme>
- <programme start="20261124233200 +0800" stop="20261125000000 +0800" channel="上海东方卫视">
+ <programme start="20261125000000 +0800" stop="20261125004600 +0800" channel="上海东方卫视">
   <title>2026梦想改造家第十三季第八期《边角料组成的家》</title>
  </programme>
- <programme start="20261124000000 +0800" stop="20261124000200 +0800" channel="上海新闻综合">
-  <title>54集连续剧：远方的山楂树（47）</title>
+ <programme start="20261125004600 +0800" stop="20261125012600 +0800" channel="上海东方卫视">
+  <title>电视连续剧：《哈尔滨一九四四》（12）</title>
  </programme>
- <programme start="20261124000200 +0800" stop="20261124004200 +0800" channel="上海新闻综合">
-  <title>54集连续剧：远方的山楂树（48）</title>
+ <programme start="20261125012600 +0800" stop="20261125020900 +0800" channel="上海东方卫视">
+  <title>电视连续剧：《哈尔滨一九四四》（13）</title>
  </programme>
- <programme start="20261124004200 +0800" stop="20261124012100 +0800" channel="上海新闻综合">
-  <title>54集连续剧：远方的山楂树（49）</title>
+ <programme start="20261125020900 +0800" stop="20261125024900 +0800" channel="上海东方卫视">
+  <title>电视连续剧：《哈尔滨一九四四》（14）</title>
  </programme>
- <programme start="20261124012100 +0800" stop="20261124020100 +0800" channel="上海新闻综合">
-  <title>54集连续剧：远方的山楂树（50）</title>
+ <programme start="20261125024900 +0800" stop="20261125033200 +0800" channel="上海东方卫视">
+  <title>电视连续剧：《哈尔滨一九四四》（15）</title>
  </programme>
- <programme start="20261124020100 +0800" stop="20261124060100 +0800" channel="上海新闻综合">
-  <title>祝您晚安</title>
+ <programme start="20261125033200 +0800" stop="20261125041300 +0800" channel="上海东方卫视">
+  <title>电视连续剧：《哈尔滨一九四四》（16）</title>
  </programme>
- <programme start="20261124060100 +0800" stop="20261124063000 +0800" channel="上海新闻综合">
-  <title>中国考古报道（133）</title>
+ <programme start="20261125041300 +0800" stop="20261125045700 +0800" channel="上海东方卫视">
+  <title>电视连续剧：《哈尔滨一九四四》（17）</title>
  </programme>
- <programme start="20261124063000 +0800" stop="20261124070000 +0800" channel="上海新闻综合">
-  <title>寻味（293）“申城秋实”第五集：一粒新米的N种解法</title>
+ <programme start="20261125045700 +0800" stop="20261125053800 +0800" channel="上海东方卫视">
+  <title>电视连续剧：《哈尔滨一九四四》（18）</title>
  </programme>
- <programme start="20261124070000 +0800" stop="20261124090500 +0800" channel="上海新闻综合">
-  <title>上海早晨</title>
+ <programme start="20261125053800 +0800" stop="20261125062100 +0800" channel="上海东方卫视">
+  <title>电视连续剧：《哈尔滨一九四四》（19）</title>
  </programme>
- <programme start="20261124090500 +0800" stop="20261124095000 +0800" channel="上海新闻综合">
-  <title>38集连续剧：灼灼韶华（5）</title>
+ <programme start="20261125062100 +0800" stop="20261125064900 +0800" channel="上海东方卫视">
+  <title>电视连续剧：《哈尔滨一九四四》（20）上</title>
  </programme>
- <programme start="20261124095000 +0800" stop="20261124103500 +0800" channel="上海新闻综合">
-  <title>38集连续剧：灼灼韶华（6）</title>
+ <programme start="20261125064900 +0800" stop="20261125070000 +0800" channel="上海东方卫视">
+  <title>纪录片：天涯共此诗（12）早发白帝城</title>
  </programme>
- <programme start="20261124103500 +0800" stop="20261124110500 +0800" channel="上海新闻综合">
-  <title>案件聚焦（3804）</title>
+ <programme start="20261125070000 +0800" stop="20261125085900 +0800" channel="上海东方卫视">
+  <title>中华人民共和国国歌＋看东方</title>
  </programme>
- <programme start="20261124110500 +0800" stop="20261124120000 +0800" channel="上海新闻综合">
-  <title>民生一网通</title>
+ <programme start="20261125085900 +0800" stop="20261125090300 +0800" channel="上海东方卫视">
+  <title>天气预报</title>
  </programme>
- <programme start="20261124120000 +0800" stop="20261124123100 +0800" channel="上海新闻综合">
+ <programme start="20261125090300 +0800" stop="20261125094800 +0800" channel="上海东方卫视">
+  <title>电视连续剧：《六姊妹》（16）</title>
+ </programme>
+ <programme start="20261125094800 +0800" stop="20261125103100 +0800" channel="上海东方卫视">
+  <title>电视连续剧：《六姊妹》（17）</title>
+ </programme>
+ <programme start="20261125103100 +0800" stop="20261125111600 +0800" channel="上海东方卫视">
+  <title>电视连续剧：《六姊妹》（18）</title>
+ </programme>
+ <programme start="20261125111600 +0800" stop="20261125120000 +0800" channel="上海东方卫视">
+  <title>电视连续剧：《六姊妹》（19）</title>
+ </programme>
+ <programme start="20261125120000 +0800" stop="20261125122600 +0800" channel="上海东方卫视">
   <title>午间30分</title>
  </programme>
- <programme start="20261124123100 +0800" stop="20261124130000 +0800" channel="上海新闻综合">
-  <title>摩登厨房（193）</title>
+ <programme start="20261125122600 +0800" stop="20261125123000 +0800" channel="上海东方卫视">
+  <title>天气预报</title>
  </programme>
- <programme start="20261124130000 +0800" stop="20261124134800 +0800" channel="上海新闻综合">
+ <programme start="20261125123000 +0800" stop="20261125124300 +0800" channel="上海东方卫视">
+  <title>ShanghaiEye</title>
+ </programme>
+ <programme start="20261125124300 +0800" stop="20261125132800 +0800" channel="上海东方卫视">
+  <title>电视连续剧：《蛮好的人生》（5）</title>
+ </programme>
+ <programme start="20261125132800 +0800" stop="20261125141000 +0800" channel="上海东方卫视">
+  <title>电视连续剧：《蛮好的人生》（6）</title>
+ </programme>
+ <programme start="20261125141000 +0800" stop="20261125145200 +0800" channel="上海东方卫视">
+  <title>电视连续剧：《蛮好的人生》（7）</title>
+ </programme>
+ <programme start="20261125145200 +0800" stop="20261125153400 +0800" channel="上海东方卫视">
+  <title>电视连续剧：《蛮好的人生》（8）</title>
+ </programme>
+ <programme start="20261125153400 +0800" stop="20261125161700 +0800" channel="上海东方卫视">
+  <title>电视连续剧：《蛮好的人生》（9）</title>
+ </programme>
+ <programme start="20261125161700 +0800" stop="20261125165900 +0800" channel="上海东方卫视">
+  <title>电视连续剧：《蛮好的人生》（10）</title>
+ </programme>
+ <programme start="20261125165900 +0800" stop="20261125172500 +0800" channel="上海东方卫视">
+  <title>东方新娱乐</title>
+ </programme>
+ <programme start="20261125172500 +0800" stop="20261125175000 +0800" channel="上海东方卫视">
+  <title>《名医话养生》（87）：心血管病患者如何安稳过冬？</title>
+ </programme>
+ <programme start="20261125175000 +0800" stop="20261125180000 +0800" channel="上海东方卫视">
+  <title>纪录片：天涯共此诗（13）饮酒·其五</title>
+ </programme>
+ <programme start="20261125180000 +0800" stop="20261125185700 +0800" channel="上海东方卫视">
+  <title>东方新闻</title>
+ </programme>
+ <programme start="20261125185700 +0800" stop="20261125190000 +0800" channel="上海东方卫视">
+  <title>天气预报</title>
+ </programme>
+ <programme start="20261125190000 +0800" stop="20261125193100 +0800" channel="上海东方卫视">
+  <title>转（中央台）新闻联播</title>
+ </programme>
+ <programme start="20261125193100 +0800" stop="20261125201800 +0800" channel="上海东方卫视">
+  <title>电视连续剧：《嫁金钗》（18）</title>
+ </programme>
+ <programme start="20261125201800 +0800" stop="20261125210600 +0800" channel="上海东方卫视">
+  <title>电视连续剧：《嫁金钗》（19）</title>
+ </programme>
+ <programme start="20261125210600 +0800" stop="20261125211200 +0800" channel="上海东方卫视">
+  <title>东方看大剧</title>
+ </programme>
+ <programme start="20261125211200 +0800" stop="20261125212000 +0800" channel="上海东方卫视">
+  <title>品质东方微剧场－《表面之下》（6）</title>
+ </programme>
+ <programme start="20261125212000 +0800" stop="20261125215900 +0800" channel="上海东方卫视">
+  <title>今晚</title>
+ </programme>
+ <programme start="20261125215900 +0800" stop="20261125220000 +0800" channel="上海东方卫视">
+  <title>天气预报</title>
+ </programme>
+ <programme start="20261125220000 +0800" stop="20261125222600 +0800" channel="上海东方卫视">
+  <title>锚点（93）：破解宇宙线起源之谜，还有多远？</title>
+ </programme>
+ <programme start="20261125222600 +0800" stop="20261125225100 +0800" channel="上海东方卫视">
+  <title>两说（84）</title>
+ </programme>
+ <programme start="20261125225100 +0800" stop="20261125233500 +0800" channel="上海东方卫视">
+  <title>纪录片：繁花深处（三）　兴业</title>
+ </programme>
+ <programme start="20261125233500 +0800" stop="20261125235000 +0800" channel="上海东方卫视">
+  <title>电视连续剧：《哈尔滨一九四四》（20）下</title>
+ </programme>
+ <programme start="20261125235000 +0800" stop="20261126000000 +0800" channel="上海东方卫视">
+  <title>电视连续剧：《哈尔滨一九四四》（21）</title>
+ </programme>
+ <programme start="20261125000000 +0800" stop="20261125000500 +0800" channel="上海新闻综合">
   <title>54集连续剧：远方的山楂树（51）</title>
  </programme>
- <programme start="20261124134800 +0800" stop="20261124143500 +0800" channel="上海新闻综合">
+ <programme start="20261125000500 +0800" stop="20261125004500 +0800" channel="上海新闻综合">
   <title>54集连续剧：远方的山楂树（52）</title>
  </programme>
- <programme start="20261124143500 +0800" stop="20261124152200 +0800" channel="上海新闻综合">
+ <programme start="20261125004500 +0800" stop="20261125012500 +0800" channel="上海新闻综合">
   <title>54集连续剧：远方的山楂树（53）</title>
  </programme>
- <programme start="20261124152200 +0800" stop="20261124160100 +0800" channel="上海新闻综合">
+ <programme start="20261125012500 +0800" stop="20261125020500 +0800" channel="上海新闻综合">
   <title>54集连续剧：远方的山楂树（54）大结局</title>
  </programme>
- <programme start="20261124160100 +0800" stop="20261124163000 +0800" channel="上海新闻综合">
-  <title>超级看看看—超级看看看—壁画“守艺人”</title>
+ <programme start="20261125020500 +0800" stop="20261125060100 +0800" channel="上海新闻综合">
+  <title>祝您晚安</title>
  </programme>
- <programme start="20261124163000 +0800" stop="20261124170000 +0800" channel="上海新闻综合">
-  <title>中国考古报道（133）</title>
- </programme>
- <programme start="20261124170000 +0800" stop="20261124172900 +0800" channel="上海新闻综合">
-  <title>案件聚焦（3804）</title>
- </programme>
- <programme start="20261124172900 +0800" stop="20261124183000 +0800" channel="上海新闻综合">
-  <title>新闻坊</title>
- </programme>
- <programme start="20261124183000 +0800" stop="20261124191500 +0800" channel="上海新闻综合">
-  <title>新闻报道　新闻透视　观众中来　天气预报</title>
- </programme>
- <programme start="20261124191500 +0800" stop="20261124194800 +0800" channel="上海新闻综合">
-  <title>东方110（3107）</title>
- </programme>
- <programme start="20261124194800 +0800" stop="20261124203200 +0800" channel="上海新闻综合">
-  <title>38集连续剧：灼灼韶华（34）</title>
- </programme>
- <programme start="20261124203200 +0800" stop="20261124211400 +0800" channel="上海新闻综合">
-  <title>38集连续剧：灼灼韶华（35）</title>
- </programme>
- <programme start="20261124211400 +0800" stop="20261124212600 +0800" channel="上海新闻综合">
-  <title>好物齐刷刷</title>
- </programme>
- <programme start="20261124212600 +0800" stop="20261124213000 +0800" channel="上海新闻综合">
-  <title>《新闻夜线》天气预报</title>
- </programme>
- <programme start="20261124213000 +0800" stop="20261124223000 +0800" channel="上海新闻综合">
-  <title>新闻夜线</title>
- </programme>
- <programme start="20261124223000 +0800" stop="20261124230000 +0800" channel="上海新闻综合">
+ <programme start="20261125060100 +0800" stop="20261125063000 +0800" channel="上海新闻综合">
   <title>锚点（92）：冰与电之歌</title>
  </programme>
- <programme start="20261124230000 +0800" stop="20261124232500 +0800" channel="上海新闻综合">
+ <programme start="20261125063000 +0800" stop="20261125070000 +0800" channel="上海新闻综合">
+  <title>中国考古报道（133）</title>
+ </programme>
+ <programme start="20261125070000 +0800" stop="20261125090500 +0800" channel="上海新闻综合">
+  <title>上海早晨</title>
+ </programme>
+ <programme start="20261125090500 +0800" stop="20261125095000 +0800" channel="上海新闻综合">
+  <title>38集连续剧：灼灼韶华（7）</title>
+ </programme>
+ <programme start="20261125095000 +0800" stop="20261125103500 +0800" channel="上海新闻综合">
+  <title>38集连续剧：灼灼韶华（8）</title>
+ </programme>
+ <programme start="20261125103500 +0800" stop="20261125110500 +0800" channel="上海新闻综合">
   <title>东方110（3107）</title>
  </programme>
- <programme start="20261124232500 +0800" stop="20261125000000 +0800" channel="上海新闻综合">
-  <title>54集连续剧：远方的山楂树（51）</title>
+ <programme start="20261125110500 +0800" stop="20261125120000 +0800" channel="上海新闻综合">
+  <title>民生一网通</title>
  </programme>
- <programme start="20261124000000 +0800" stop="20261124004000 +0800" channel="上海第一财经">
+ <programme start="20261125120000 +0800" stop="20261125123100 +0800" channel="上海新闻综合">
+  <title>午间30分</title>
+ </programme>
+ <programme start="20261125123100 +0800" stop="20261125130000 +0800" channel="上海新闻综合">
+  <title>摩登厨房（194）</title>
+ </programme>
+ <programme start="20261125130000 +0800" stop="20261125134500 +0800" channel="上海新闻综合">
+  <title>34集连续剧：七九河开（1）</title>
+ </programme>
+ <programme start="20261125134500 +0800" stop="20261125143000 +0800" channel="上海新闻综合">
+  <title>34集连续剧：七九河开（2）</title>
+ </programme>
+ <programme start="20261125143000 +0800" stop="20261125151700 +0800" channel="上海新闻综合">
+  <title>34集连续剧：七九河开（3）</title>
+ </programme>
+ <programme start="20261125151700 +0800" stop="20261125160000 +0800" channel="上海新闻综合">
+  <title>34集连续剧：七九河开（4）</title>
+ </programme>
+ <programme start="20261125160000 +0800" stop="20261125162900 +0800" channel="上海新闻综合">
+  <title>申房在线（33）</title>
+ </programme>
+ <programme start="20261125162900 +0800" stop="20261125170000 +0800" channel="上海新闻综合">
+  <title>锚点（92）：冰与电之歌</title>
+ </programme>
+ <programme start="20261125170000 +0800" stop="20261125172900 +0800" channel="上海新闻综合">
+  <title>东方110（3107）</title>
+ </programme>
+ <programme start="20261125172900 +0800" stop="20261125183000 +0800" channel="上海新闻综合">
+  <title>新闻坊</title>
+ </programme>
+ <programme start="20261125183000 +0800" stop="20261125191500 +0800" channel="上海新闻综合">
+  <title>新闻报道　新闻透视　观众中来　天气预报</title>
+ </programme>
+ <programme start="20261125191500 +0800" stop="20261125194800 +0800" channel="上海新闻综合">
+  <title>庭审纪实（1239）　《执行第一线》第八季　第三集</title>
+ </programme>
+ <programme start="20261125194800 +0800" stop="20261125203200 +0800" channel="上海新闻综合">
+  <title>38集连续剧：灼灼韶华（36）</title>
+ </programme>
+ <programme start="20261125203200 +0800" stop="20261125211400 +0800" channel="上海新闻综合">
+  <title>38集连续剧：灼灼韶华（37）</title>
+ </programme>
+ <programme start="20261125211400 +0800" stop="20261125212600 +0800" channel="上海新闻综合">
+  <title>好物齐刷刷</title>
+ </programme>
+ <programme start="20261125212600 +0800" stop="20261125213000 +0800" channel="上海新闻综合">
+  <title>《新闻夜线》天气预报</title>
+ </programme>
+ <programme start="20261125213000 +0800" stop="20261125223000 +0800" channel="上海新闻综合">
+  <title>新闻夜线</title>
+ </programme>
+ <programme start="20261125223000 +0800" stop="20261125230000 +0800" channel="上海新闻综合">
+  <title>下一站（248）　城市的流动舞台</title>
+ </programme>
+ <programme start="20261125230000 +0800" stop="20261125232500 +0800" channel="上海新闻综合">
+  <title>庭审纪实（1239）　《执行第一线》第八季　第三集</title>
+ </programme>
+ <programme start="20261125232500 +0800" stop="20261126000000 +0800" channel="上海新闻综合">
+  <title>34集连续剧：七九河开（1）</title>
+ </programme>
+ <programme start="20261125000000 +0800" stop="20261125004000 +0800" channel="上海第一财经">
   <title>财经夜行线</title>
  </programme>
- <programme start="20261124004000 +0800" stop="20261124010000 +0800" channel="上海第一财经">
-  <title>《首席评论》</title>
- </programme>
- <programme start="20261124010000 +0800" stop="20261124015500 +0800" channel="上海第一财经">
-  <title>《公司与行业》</title>
- </programme>
- <programme start="20261124015500 +0800" stop="20261124060300 +0800" channel="上海第一财经">
-  <title>祝您晚安</title>
- </programme>
- <programme start="20261124060300 +0800" stop="20261124063000 +0800" channel="上海第一财经">
-  <title>对话引领区（8）＂张江论剑＂科创沙龙第二期</title>
- </programme>
- <programme start="20261124063000 +0800" stop="20261124070000 +0800" channel="上海第一财经">
-  <title>投资有看头</title>
- </programme>
- <programme start="20261124070000 +0800" stop="20261124080000 +0800" channel="上海第一财经">
-  <title>《公司与行业》</title>
- </programme>
- <programme start="20261124080000 +0800" stop="20261124090000 +0800" channel="上海第一财经">
-  <title>今日股市</title>
- </programme>
- <programme start="20261124090000 +0800" stop="20261124092700 +0800" channel="上海第一财经">
-  <title>直播：市场零距离</title>
- </programme>
- <programme start="20261124092700 +0800" stop="20261124114500 +0800" channel="上海第一财经">
-  <title>直播：市场零距离</title>
- </programme>
- <programme start="20261124114500 +0800" stop="20261124120500 +0800" channel="上海第一财经">
-  <title>直播：市场零距离</title>
- </programme>
- <programme start="20261124120500 +0800" stop="20261124123000 +0800" channel="上海第一财经">
-  <title>《新定位　新征程　“十五五”规划下的券商使命》一体两翼　错位深耕　国金证券的特色投行之路</title>
- </programme>
- <programme start="20261124123000 +0800" stop="20261124130000 +0800" channel="上海第一财经">
-  <title>《创时代－引领区观察》”砺器铸心　匠造山河”系列1　逐梦长空：新空间　新产业　新引擎</title>
- </programme>
- <programme start="20261124130000 +0800" stop="20261124153000 +0800" channel="上海第一财经">
-  <title>直播：市场零距离</title>
- </programme>
- <programme start="20261124153000 +0800" stop="20261124160500 +0800" channel="上海第一财经">
-  <title>直播：市场零距离</title>
- </programme>
- <programme start="20261124160500 +0800" stop="20261124163500 +0800" channel="上海第一财经">
-  <title>直播：投资有看头</title>
- </programme>
- <programme start="20261124163500 +0800" stop="20261124171500 +0800" channel="上海第一财经">
+ <programme start="20261125004000 +0800" stop="20261125012000 +0800" channel="上海第一财经">
   <title>价值投研社－风险与心性　穿越波动的生存法则</title>
  </programme>
- <programme start="20261124171500 +0800" stop="20261124174000 +0800" channel="上海第一财经">
-  <title>对话引领区（8）＂张江论剑＂科创沙龙第二期</title>
- </programme>
- <programme start="20261124174000 +0800" stop="20261124180000 +0800" channel="上海第一财经">
-  <title>《新定位　新征程　“十五五”规划下的券商使命》一体两翼　错位深耕　国金证券的特色投行之路</title>
- </programme>
- <programme start="20261124180000 +0800" stop="20261124190000 +0800" channel="上海第一财经">
-  <title>直播：今日股市</title>
- </programme>
- <programme start="20261124190000 +0800" stop="20261124195600 +0800" channel="上海第一财经">
-  <title>直播：公司与行业</title>
- </programme>
- <programme start="20261124195600 +0800" stop="20261124200000 +0800" channel="上海第一财经">
-  <title>《总部面对面·在上海　创未来——电视版17渣打银行：依托开放金融　助力企业远航》</title>
- </programme>
- <programme start="20261124200000 +0800" stop="20261124210000 +0800" channel="上海第一财经">
-  <title>直播：谈股论金</title>
- </programme>
- <programme start="20261124210000 +0800" stop="20261124214200 +0800" channel="上海第一财经">
-  <title>直播：财经夜行线</title>
- </programme>
- <programme start="20261124214200 +0800" stop="20261124220500 +0800" channel="上海第一财经">
+ <programme start="20261125012000 +0800" stop="20261125014000 +0800" channel="上海第一财经">
   <title>《首席评论》新需求、新技术、新场景？重塑消费新增长</title>
  </programme>
- <programme start="20261124220500 +0800" stop="20261124223000 +0800" channel="上海第一财经">
-  <title>《总部面对面·在上海　创未来》系列第3集：万商汇聚　潮动四海</title>
+ <programme start="20261125014000 +0800" stop="20261125023500 +0800" channel="上海第一财经">
+  <title>《公司与行业》</title>
  </programme>
- <programme start="20261124223000 +0800" stop="20261124232600 +0800" channel="上海第一财经">
-  <title>今日股市</title>
+ <programme start="20261125023500 +0800" stop="20261125060300 +0800" channel="上海第一财经">
+  <title>祝您晚安</title>
  </programme>
- <programme start="20261124232600 +0800" stop="20261124233000 +0800" channel="上海第一财经">
-  <title>《总部面对面·在上海　创未来——电视版17渣打银行：依托开放金融　助力企业远航》</title>
+ <programme start="20261125060300 +0800" stop="20261125063000 +0800" channel="上海第一财经">
+  <title>出海：从虹桥出发丨烟火闯世界！中式餐饮出海　供应链如何发挥“主战场”效应？</title>
  </programme>
- <programme start="20261124233000 +0800" stop="20261125000000 +0800" channel="上海第一财经">
+ <programme start="20261125063000 +0800" stop="20261125070000 +0800" channel="上海第一财经">
   <title>投资有看头</title>
  </programme>
- <programme start="20261124000000 +0800" stop="20261124004700 +0800" channel="上海五星体育">
-  <title>2026国际帆船大奖赛集锦　珀斯站</title>
+ <programme start="20261125070000 +0800" stop="20261125080000 +0800" channel="上海第一财经">
+  <title>《公司与行业》</title>
  </programme>
- <programme start="20261124004700 +0800" stop="20261124014200 +0800" channel="上海五星体育">
-  <title>2026上海浪琴环球马术冠军赛5．2晚场：1．50米争时赛（含附加赛）</title>
+ <programme start="20261125080000 +0800" stop="20261125090000 +0800" channel="上海第一财经">
+  <title>今日股市</title>
  </programme>
- <programme start="20261124014200 +0800" stop="20261124020000 +0800" channel="上海五星体育">
-  <title>【五星精彩】2026美加墨世界杯1／16决赛：葡萄牙　vs　克罗地亚　比赛集锦</title>
+ <programme start="20261125090000 +0800" stop="20261125092700 +0800" channel="上海第一财经">
+  <title>直播：市场零距离</title>
  </programme>
- <programme start="20261124020000 +0800" stop="20261124060000 +0800" channel="上海五星体育">
-  <title>祝您晚安</title>
+ <programme start="20261125092700 +0800" stop="20261125114500 +0800" channel="上海第一财经">
+  <title>直播：市场零距离</title>
  </programme>
- <programme start="20261124060000 +0800" stop="20261124064000 +0800" channel="上海五星体育">
-  <title>2026世界一级方程式锦标赛英国站　大奖赛</title>
+ <programme start="20261125114500 +0800" stop="20261125120500 +0800" channel="上海第一财经">
+  <title>直播：市场零距离</title>
  </programme>
- <programme start="20261124064000 +0800" stop="20261124074000 +0800" channel="上海五星体育">
-  <title>2026中国台球俱乐部职业联赛斯诺克半决赛：上海久狮－莫干山康溪</title>
+ <programme start="20261125120500 +0800" stop="20261125123000 +0800" channel="上海第一财经">
+  <title>《首席评论》新需求、新技术、新场景？重塑消费新增长</title>
  </programme>
- <programme start="20261124074000 +0800" stop="20261124081000 +0800" channel="上海五星体育">
-  <title>2026年第六届亚洲沙滩运动会攀岩速度接力决赛</title>
+ <programme start="20261125123000 +0800" stop="20261125130000 +0800" channel="上海第一财经">
+  <title>两说（83）数字化标准已就绪，航运为何还在纸上流转？</title>
  </programme>
- <programme start="20261124081000 +0800" stop="20261124090000 +0800" channel="上海五星体育">
-  <title>2026纽约马拉松</title>
+ <programme start="20261125130000 +0800" stop="20261125153000 +0800" channel="上海第一财经">
+  <title>直播：市场零距离</title>
  </programme>
- <programme start="20261124090000 +0800" stop="20261124095500 +0800" channel="上海五星体育">
-  <title>2026－2027赛季CBA联赛常规赛：上海久事－南京同曦宙光</title>
+ <programme start="20261125153000 +0800" stop="20261125160500 +0800" channel="上海第一财经">
+  <title>直播：市场零距离</title>
  </programme>
- <programme start="20261124095500 +0800" stop="20261124100000 +0800" channel="上海五星体育">
-  <title>健身时代精选</title>
+ <programme start="20261125160500 +0800" stop="20261125163500 +0800" channel="上海第一财经">
+  <title>直播：投资有看头</title>
  </programme>
- <programme start="20261124100000 +0800" stop="20261124110000 +0800" channel="上海五星体育">
-  <title>弈棋耍大牌－上海三打一（3099）</title>
+ <programme start="20261125163500 +0800" stop="20261125170500 +0800" channel="上海第一财经">
+  <title>出海：从虹桥出发｜聚力共赴蓝海！　虹桥如何激活全球专业服务网络价值？</title>
  </programme>
- <programme start="20261124110000 +0800" stop="20261124120000 +0800" channel="上海五星体育">
-  <title>弈棋耍大牌（5049）</title>
+ <programme start="20261125170500 +0800" stop="20261125173500 +0800" channel="上海第一财经">
+  <title>《创时代－引领区观察》AI驱动创新　打造全球健康共同体2《守护：数智赋能银发健康新生态》</title>
  </programme>
- <programme start="20261124120000 +0800" stop="20261124123000 +0800" channel="上海五星体育">
-  <title>健身时代精选</title>
+ <programme start="20261125173500 +0800" stop="20261125180000 +0800" channel="上海第一财经">
+  <title>《首席评论》新需求、新技术、新场景？重塑消费新增长</title>
  </programme>
- <programme start="20261124123000 +0800" stop="20261124130100 +0800" channel="上海五星体育">
-  <title>棋牌新教室（2026－93）</title>
+ <programme start="20261125180000 +0800" stop="20261125190000 +0800" channel="上海第一财经">
+  <title>直播：今日股市</title>
  </programme>
- <programme start="20261124130100 +0800" stop="20261124140000 +0800" channel="上海五星体育">
-  <title>2026澳大利亚网球公开赛女单第一轮袁悦－斯瓦泰克</title>
+ <programme start="20261125190000 +0800" stop="20261125195500 +0800" channel="上海第一财经">
+  <title>直播：公司与行业</title>
  </programme>
- <programme start="20261124140000 +0800" stop="20261124140500 +0800" channel="上海五星体育">
-  <title>健身时代精选</title>
+ <programme start="20261125195500 +0800" stop="20261125200000 +0800" channel="上海第一财经">
+  <title>《总部面对面·在上海　创未来——电视版18艾伯维：中国“处方”惠及全球患者》</title>
  </programme>
- <programme start="20261124140500 +0800" stop="20261124150000 +0800" channel="上海五星体育">
-  <title>2026澳大利亚网球公开赛男单第一轮：吴易昺－纳尔迪</title>
+ <programme start="20261125200000 +0800" stop="20261125210000 +0800" channel="上海第一财经">
+  <title>直播：谈股论金</title>
  </programme>
- <programme start="20261124150000 +0800" stop="20261124153000 +0800" channel="上海五星体育">
-  <title>健身时代精选</title>
+ <programme start="20261125210000 +0800" stop="20261125214200 +0800" channel="上海第一财经">
+  <title>直播：财经夜行线</title>
  </programme>
- <programme start="20261124153000 +0800" stop="20261124162200 +0800" channel="上海五星体育">
-  <title>2025世界无人机足球锦标赛第1集</title>
+ <programme start="20261125214200 +0800" stop="20261125220400 +0800" channel="上海第一财经">
+  <title>《首席评论》同行，不止二十年</title>
  </programme>
- <programme start="20261124162200 +0800" stop="20261124162700 +0800" channel="上海五星体育">
-  <title>健身时代精选</title>
+ <programme start="20261125220400 +0800" stop="20261125223000 +0800" channel="上海第一财经">
+  <title>两说（83）数字化标准已就绪，航运为何还在纸上流转？</title>
  </programme>
- <programme start="20261124162700 +0800" stop="20261124164000 +0800" channel="上海五星体育">
-  <title>【五星精彩】NBA绝杀名场面集锦（1）</title>
+ <programme start="20261125223000 +0800" stop="20261125232600 +0800" channel="上海第一财经">
+  <title>今日股市</title>
  </programme>
- <programme start="20261124164000 +0800" stop="20261124170000 +0800" channel="上海五星体育">
-  <title>超G竞彩（2026－90）</title>
+ <programme start="20261125232600 +0800" stop="20261125233000 +0800" channel="上海第一财经">
+  <title>《总部面对面·在上海　创未来——电视版18艾伯维：中国“处方”惠及全球患者》</title>
  </programme>
- <programme start="20261124170000 +0800" stop="20261124173000 +0800" channel="上海五星体育">
-  <title>五星精彩－弈棋耍大牌精彩牌局（186）</title>
+ <programme start="20261125233000 +0800" stop="20261126000000 +0800" channel="上海第一财经">
+  <title>投资有看头</title>
  </programme>
- <programme start="20261124173000 +0800" stop="20261124180000 +0800" channel="上海五星体育">
-  <title>五星精彩－弈棋耍大牌精彩牌局（187）</title>
- </programme>
- <programme start="20261124180000 +0800" stop="20261124190000 +0800" channel="上海五星体育">
-  <title>弈棋耍大牌5052</title>
- </programme>
- <programme start="20261124190000 +0800" stop="20261124193000 +0800" channel="上海五星体育">
-  <title>体育新闻</title>
- </programme>
- <programme start="20261124193000 +0800" stop="20261124201000 +0800" channel="上海五星体育">
-  <title>健身时代－正气操</title>
- </programme>
- <programme start="20261124201000 +0800" stop="20261124204700 +0800" channel="上海五星体育">
-  <title>2026中超联赛第17轮：上海申花－浙江</title>
- </programme>
- <programme start="20261124204700 +0800" stop="20261124215500 +0800" channel="上海五星体育">
-  <title>2026世界赛艇联合会上海冲刺赛</title>
- </programme>
- <programme start="20261124215500 +0800" stop="20261124220000 +0800" channel="上海五星体育">
-  <title>健身时代精选</title>
- </programme>
- <programme start="20261124220000 +0800" stop="20261124230000 +0800" channel="上海五星体育">
-  <title>弈棋耍大牌－上海三打一（3100）</title>
- </programme>
- <programme start="20261124230000 +0800" stop="20261124235700 +0800" channel="上海五星体育">
-  <title>2025－26赛季NFL常规赛：费城老鹰－洛杉矶闪电</title>
- </programme>
- <programme start="20261124235700 +0800" stop="20261125000000 +0800" channel="上海五星体育">
+ <programme start="20261125000000 +0800" stop="20261125004900 +0800" channel="上海五星体育">
   <title>2026国际帆船大奖赛奥克兰站集锦</title>
  </programme>
- <programme start="20261124000000 +0800" stop="20261124000500 +0800" channel="上海都市频道">
-  <title>X诊所（2508）甲状腺牵动女人一生</title>
+ <programme start="20261125004900 +0800" stop="20261125014400 +0800" channel="上海五星体育">
+  <title>2026上海浪琴环球马术冠军赛5．3上午场：1．50米争时赛</title>
  </programme>
- <programme start="20261124000500 +0800" stop="20261124005900 +0800" channel="上海都市频道">
-  <title>新老娘舅（5408）</title>
+ <programme start="20261125014400 +0800" stop="20261125023900 +0800" channel="上海五星体育">
+  <title>2026ATP1000马德里公开赛决赛：辛纳－兹维列夫</title>
  </programme>
- <programme start="20261124005900 +0800" stop="20261124012500 +0800" channel="上海都市频道">
-  <title>纪录片真实影院（577）海上名家第三季8：孙重亮</title>
+ <programme start="20261125023900 +0800" stop="20261125033400 +0800" channel="上海五星体育">
+  <title>2026ATP1000罗马大师赛　半决赛　鲁德－达尔德里</title>
  </programme>
- <programme start="20261124012500 +0800" stop="20261124060000 +0800" channel="上海都市频道">
-  <title>祝您晚安</title>
+ <programme start="20261125033400 +0800" stop="20261125040900 +0800" channel="上海五星体育">
+  <title>第十五届全国运动会U20男足半决赛：广东－上海</title>
  </programme>
- <programme start="20261124060000 +0800" stop="20261124065400 +0800" channel="上海都市频道">
-  <title>新老娘舅（5408）</title>
+ <programme start="20261125040900 +0800" stop="20261125053400 +0800" channel="上海五星体育">
+  <title>2026斯诺克上海大师赛半决赛（下半场）：特鲁姆普－吴宜泽</title>
  </programme>
- <programme start="20261124065400 +0800" stop="20261124072000 +0800" channel="上海都市频道">
-  <title>人气美食（5158）</title>
+ <programme start="20261125053400 +0800" stop="20261125053900 +0800" channel="上海五星体育">
+  <title>五星精彩《叁拾年30星》13</title>
  </programme>
- <programme start="20261124072000 +0800" stop="20261124074500 +0800" channel="上海都市频道">
-  <title>乐活上海（475）</title>
+ <programme start="20261125053900 +0800" stop="20261125055000 +0800" channel="上海五星体育">
+  <title>五星精彩《叁拾年30星》14</title>
  </programme>
- <programme start="20261124074500 +0800" stop="20261124082600 +0800" channel="上海都市频道">
-  <title>X诊所（2507）冬虫夏草有问必答</title>
+ <programme start="20261125055000 +0800" stop="20261125063000 +0800" channel="上海五星体育">
+  <title>2026世界一级方程式锦标赛比利时站　大奖赛</title>
  </programme>
- <programme start="20261124082600 +0800" stop="20261124083600 +0800" channel="上海都市频道">
-  <title>老好的生活　老宅变新居（11）</title>
+ <programme start="20261125063000 +0800" stop="20261125073000 +0800" channel="上海五星体育">
+  <title>2026中国台球俱乐部职业联赛斯诺克半决赛：男子双打</title>
  </programme>
- <programme start="20261124083600 +0800" stop="20261124090100 +0800" channel="上海都市频道">
-  <title>人气美食（5162）</title>
+ <programme start="20261125073000 +0800" stop="20261125080000 +0800" channel="上海五星体育">
+  <title>第十五届全国运动会拳击决赛（女子50公斤级、男子57公斤级，男子71公斤级）</title>
  </programme>
- <programme start="20261124090100 +0800" stop="20261124092600 +0800" channel="上海都市频道">
-  <title>36．7℃周末版（43）</title>
+ <programme start="20261125080000 +0800" stop="20261125085700 +0800" channel="上海五星体育">
+  <title>2026上海网球大师赛单打第一轮：张之臻－托马斯·马哈奇</title>
  </programme>
- <programme start="20261124092600 +0800" stop="20261124093200 +0800" channel="上海都市频道">
-  <title>AI科普荟－好物志（30）</title>
+ <programme start="20261125085700 +0800" stop="20261125095500 +0800" channel="上海五星体育">
+  <title>2026上海网球大师赛男单第二轮：兹维列夫－吴易昺</title>
  </programme>
- <programme start="20261124093200 +0800" stop="20261124100000 +0800" channel="上海都市频道">
-  <title>开心全接触－我们退休啦（2834）</title>
+ <programme start="20261125095500 +0800" stop="20261125100000 +0800" channel="上海五星体育">
+  <title>健身时代精选</title>
  </programme>
- <programme start="20261124100000 +0800" stop="20261124102300 +0800" channel="上海都市频道">
-  <title>开心全接触－极智装（1628）</title>
+ <programme start="20261125100000 +0800" stop="20261125110000 +0800" channel="上海五星体育">
+  <title>弈棋耍大牌－上海三打一（3100）</title>
  </programme>
- <programme start="20261124102300 +0800" stop="20261124111700 +0800" channel="上海都市频道">
-  <title>新老娘舅（5408）</title>
+ <programme start="20261125110000 +0800" stop="20261125120000 +0800" channel="上海五星体育">
+  <title>弈棋耍大牌（5050）</title>
  </programme>
- <programme start="20261124111700 +0800" stop="20261124113400 +0800" channel="上海都市频道">
-  <title>都市焕新家（372）</title>
+ <programme start="20261125120000 +0800" stop="20261125123000 +0800" channel="上海五星体育">
+  <title>健身时代精选</title>
  </programme>
- <programme start="20261124113400 +0800" stop="20261124114500 +0800" channel="上海都市频道">
-  <title>老好的生活　老宅变新居（12）</title>
+ <programme start="20261125123000 +0800" stop="20261125124500 +0800" channel="上海五星体育">
+  <title>《五星足球－汪海健2026中超赛季后专访》</title>
  </programme>
- <programme start="20261124114500 +0800" stop="20261124121000 +0800" channel="上海都市频道">
-  <title>人气美食（5158）</title>
+ <programme start="20261125124500 +0800" stop="20261125130300 +0800" channel="上海五星体育">
+  <title>【五星精彩】NBA绝杀名场面集锦（3）</title>
  </programme>
- <programme start="20261124121000 +0800" stop="20261124124000 +0800" channel="上海都市频道">
-  <title>纪录片真实影院（577）　海上名家第三季8：孙重亮</title>
+ <programme start="20261125130300 +0800" stop="20261125140000 +0800" channel="上海五星体育">
+  <title>2026澳大利亚网球公开赛女单第一轮：张帅－普雷斯顿</title>
  </programme>
- <programme start="20261124124000 +0800" stop="20261124132300 +0800" channel="上海都市频道">
-  <title>X诊所（2508）甲状腺牵动女人一生</title>
+ <programme start="20261125140000 +0800" stop="20261125140500 +0800" channel="上海五星体育">
+  <title>健身时代精选</title>
  </programme>
- <programme start="20261124132300 +0800" stop="20261124135200 +0800" channel="上海都市频道">
-  <title>乐活上海（475）</title>
+ <programme start="20261125140500 +0800" stop="20261125150000 +0800" channel="上海五星体育">
+  <title>2026澳大利亚网球公开赛女单第一轮：王欣瑜—卡利尼娜</title>
  </programme>
- <programme start="20261124135200 +0800" stop="20261124143500 +0800" channel="上海都市频道">
-  <title>28集连续剧：如果奔跑是我的人生（3）</title>
+ <programme start="20261125150000 +0800" stop="20261125153000 +0800" channel="上海五星体育">
+  <title>健身时代精选</title>
  </programme>
- <programme start="20261124143500 +0800" stop="20261124152000 +0800" channel="上海都市频道">
-  <title>28集连续剧：如果奔跑是我的人生（4）</title>
+ <programme start="20261125153000 +0800" stop="20261125162500 +0800" channel="上海五星体育">
+  <title>2026ATP年终总决赛　半决赛第一场</title>
  </programme>
- <programme start="20261124152000 +0800" stop="20261124161500 +0800" channel="上海都市频道">
-  <title>新老娘舅（5408）</title>
+ <programme start="20261125162500 +0800" stop="20261125163100 +0800" channel="上海五星体育">
+  <title>健身时代精选</title>
  </programme>
- <programme start="20261124161500 +0800" stop="20261124162400 +0800" channel="上海都市频道">
-  <title>36．7℃（46）</title>
+ <programme start="20261125163100 +0800" stop="20261125164000 +0800" channel="上海五星体育">
+  <title>【五星精彩】2026美加墨世界杯小组赛第二轮　H组　西班牙　vs　沙特阿拉伯　赛事集锦</title>
  </programme>
- <programme start="20261124162400 +0800" stop="20261124163800 +0800" channel="上海都市频道">
-  <title>人气美食（5158）</title>
+ <programme start="20261125164000 +0800" stop="20261125170000 +0800" channel="上海五星体育">
+  <title>超G竞彩（2026－91）</title>
  </programme>
- <programme start="20261124163800 +0800" stop="20261124170800 +0800" channel="上海都市频道">
-  <title>乐活上海（475）</title>
+ <programme start="20261125170000 +0800" stop="20261125173000 +0800" channel="上海五星体育">
+  <title>五星精彩－弈棋耍大牌精彩牌局（188）</title>
  </programme>
- <programme start="20261124170800 +0800" stop="20261124173100 +0800" channel="上海都市频道">
-  <title>开心全接触－极智装（1629）</title>
+ <programme start="20261125173000 +0800" stop="20261125180000 +0800" channel="上海五星体育">
+  <title>五星精彩－弈棋耍大牌精彩牌局（189）</title>
  </programme>
- <programme start="20261124173100 +0800" stop="20261124175800 +0800" channel="上海都市频道">
-  <title>开心全接触－我们退休啦（2835）</title>
+ <programme start="20261125180000 +0800" stop="20261125190000 +0800" channel="上海五星体育">
+  <title>弈棋耍大牌5053</title>
  </programme>
- <programme start="20261124175800 +0800" stop="20261124190000 +0800" channel="上海都市频道">
-  <title>新老娘舅（5409）　开别人车停自己车位　到底需要报备还是审核</title>
+ <programme start="20261125190000 +0800" stop="20261125193000 +0800" channel="上海五星体育">
+  <title>体育新闻</title>
  </programme>
- <programme start="20261124190000 +0800" stop="20261124192800 +0800" channel="上海都市频道">
-  <title>乐活上海（476）</title>
+ <programme start="20261125193000 +0800" stop="20261125201100 +0800" channel="上海五星体育">
+  <title>健身时代－正气操</title>
  </programme>
- <programme start="20261124192800 +0800" stop="20261124195300 +0800" channel="上海都市频道">
-  <title>人气美食（5163）</title>
+ <programme start="20261125201100 +0800" stop="20261125205200 +0800" channel="上海五星体育">
+  <title>2026中超第18轮补赛：上海申花－北京国安</title>
  </programme>
- <programme start="20261124195300 +0800" stop="20261124200300 +0800" channel="上海都市频道">
-  <title>都市圈＠SMG达人和朋友们（94）</title>
+ <programme start="20261125205200 +0800" stop="20261125215500 +0800" channel="上海五星体育">
+  <title>2026世界赛艇联合会上海冲刺赛</title>
  </programme>
- <programme start="20261124200300 +0800" stop="20261124202900 +0800" channel="上海都市频道">
-  <title>乐活上海（474）</title>
+ <programme start="20261125215500 +0800" stop="20261125220000 +0800" channel="上海五星体育">
+  <title>健身时代精选</title>
  </programme>
- <programme start="20261124202900 +0800" stop="20261124205700 +0800" channel="上海都市频道">
-  <title>人气美食（5159）</title>
+ <programme start="20261125220000 +0800" stop="20261125230000 +0800" channel="上海五星体育">
+  <title>弈棋耍大牌－上海三打一（3101）</title>
  </programme>
- <programme start="20261124205700 +0800" stop="20261124214500 +0800" channel="上海都市频道">
+ <programme start="20261125230000 +0800" stop="20261125235500 +0800" channel="上海五星体育">
+  <title>2025－26赛季NFL常规赛：亚特兰大猎鹰－坦帕湾海盗</title>
+ </programme>
+ <programme start="20261125235500 +0800" stop="20261126000000 +0800" channel="上海五星体育">
+  <title>2026国际帆船大奖赛悉尼站集锦</title>
+ </programme>
+ <programme start="20261125000000 +0800" stop="20261125000400 +0800" channel="上海都市频道">
   <title>X诊所（2494）精准消融终结心脏乱跳</title>
  </programme>
- <programme start="20261124214500 +0800" stop="20261124221400 +0800" channel="上海都市频道">
+ <programme start="20261125000400 +0800" stop="20261125005700 +0800" channel="上海都市频道">
+  <title>新老娘舅（5409）</title>
+ </programme>
+ <programme start="20261125005700 +0800" stop="20261125012400 +0800" channel="上海都市频道">
   <title>纪录片真实影院（578）　海上名家第三季9：熊月之</title>
  </programme>
- <programme start="20261124221400 +0800" stop="20261124223400 +0800" channel="上海都市频道">
-  <title>开心全接触－极智装（1629）</title>
+ <programme start="20261125012400 +0800" stop="20261125013200 +0800" channel="上海都市频道">
+  <title>都市圈＠AI科普荟（89）</title>
  </programme>
- <programme start="20261124223400 +0800" stop="20261124225900 +0800" channel="上海都市频道">
-  <title>人气美食（5163）</title>
+ <programme start="20261125013200 +0800" stop="20261125021200 +0800" channel="上海都市频道">
+  <title>X诊所（2508）甲状腺牵动女人一生</title>
  </programme>
- <programme start="20261124225900 +0800" stop="20261124232300 +0800" channel="上海都市频道">
+ <programme start="20261125021200 +0800" stop="20261125023700 +0800" channel="上海都市频道">
+  <title>乐活上海（475）</title>
+ </programme>
+ <programme start="20261125023700 +0800" stop="20261125033000 +0800" channel="上海都市频道">
+  <title>新老娘舅（5408）</title>
+ </programme>
+ <programme start="20261125033000 +0800" stop="20261125035400 +0800" channel="上海都市频道">
+  <title>人气美食（5162）</title>
+ </programme>
+ <programme start="20261125035400 +0800" stop="20261125042500 +0800" channel="上海都市频道">
+  <title>人气美食（5161）</title>
+ </programme>
+ <programme start="20261125042500 +0800" stop="20261125050500 +0800" channel="上海都市频道">
+  <title>X诊所（2507）冬虫夏草有问必答</title>
+ </programme>
+ <programme start="20261125050500 +0800" stop="20261125053200 +0800" channel="上海都市频道">
+  <title>纪录片真实影院（576）　海上名家第三季7：陈瑜</title>
+ </programme>
+ <programme start="20261125053200 +0800" stop="20261125060000 +0800" channel="上海都市频道">
+  <title>纪录片真实影院（577）　海上名家第三季8：孙重亮</title>
+ </programme>
+ <programme start="20261125060000 +0800" stop="20261125065400 +0800" channel="上海都市频道">
+  <title>新老娘舅（5409）</title>
+ </programme>
+ <programme start="20261125065400 +0800" stop="20261125072000 +0800" channel="上海都市频道">
+  <title>人气美食（5159）</title>
+ </programme>
+ <programme start="20261125072000 +0800" stop="20261125074700 +0800" channel="上海都市频道">
   <title>乐活上海（476）</title>
  </programme>
- <programme start="20261124232300 +0800" stop="20261125000000 +0800" channel="上海都市频道">
+ <programme start="20261125074700 +0800" stop="20261125082900 +0800" channel="上海都市频道">
+  <title>X诊所（2508）甲状腺牵动女人一生</title>
+ </programme>
+ <programme start="20261125082900 +0800" stop="20261125083900 +0800" channel="上海都市频道">
+  <title>老好的生活　老宅变新居（12）</title>
+ </programme>
+ <programme start="20261125083900 +0800" stop="20261125090400 +0800" channel="上海都市频道">
+  <title>人气美食（5163）</title>
+ </programme>
+ <programme start="20261125090400 +0800" stop="20261125092900 +0800" channel="上海都市频道">
+  <title>乐活上海（475）</title>
+ </programme>
+ <programme start="20261125092900 +0800" stop="20261125095700 +0800" channel="上海都市频道">
+  <title>开心全接触－我们退休啦（2835）</title>
+ </programme>
+ <programme start="20261125095700 +0800" stop="20261125102000 +0800" channel="上海都市频道">
+  <title>开心全接触－极智装（1629）</title>
+ </programme>
+ <programme start="20261125102000 +0800" stop="20261125111400 +0800" channel="上海都市频道">
+  <title>新老娘舅（5409）</title>
+ </programme>
+ <programme start="20261125111400 +0800" stop="20261125113100 +0800" channel="上海都市频道">
+  <title>都市焕新家（373）</title>
+ </programme>
+ <programme start="20261125113100 +0800" stop="20261125114200 +0800" channel="上海都市频道">
+  <title>老好的生活　老宅变新居（12）</title>
+ </programme>
+ <programme start="20261125114200 +0800" stop="20261125120700 +0800" channel="上海都市频道">
+  <title>人气美食（5159）</title>
+ </programme>
+ <programme start="20261125120700 +0800" stop="20261125123600 +0800" channel="上海都市频道">
+  <title>纪录片真实影院（578）　海上名家第三季9：熊月之</title>
+ </programme>
+ <programme start="20261125123600 +0800" stop="20261125132000 +0800" channel="上海都市频道">
   <title>X诊所（2494）精准消融终结心脏乱跳</title>
  </programme>
- <programme start="20261124000000 +0800" stop="20261124060000 +0800" channel="上海哈哈炫动">
+ <programme start="20261125132000 +0800" stop="20261125134800 +0800" channel="上海都市频道">
+  <title>乐活上海（476）</title>
+ </programme>
+ <programme start="20261125134800 +0800" stop="20261125143200 +0800" channel="上海都市频道">
+  <title>28集连续剧：如果奔跑是我的人生（5）</title>
+ </programme>
+ <programme start="20261125143200 +0800" stop="20261125151600 +0800" channel="上海都市频道">
+  <title>28集连续剧：如果奔跑是我的人生（6）</title>
+ </programme>
+ <programme start="20261125151600 +0800" stop="20261125161200 +0800" channel="上海都市频道">
+  <title>新老娘舅（5409）</title>
+ </programme>
+ <programme start="20261125161200 +0800" stop="20261125162200 +0800" channel="上海都市频道">
+  <title>36．7℃（47）</title>
+ </programme>
+ <programme start="20261125162200 +0800" stop="20261125163900 +0800" channel="上海都市频道">
+  <title>人气美食（5159）</title>
+ </programme>
+ <programme start="20261125163900 +0800" stop="20261125170900 +0800" channel="上海都市频道">
+  <title>乐活上海（476）</title>
+ </programme>
+ <programme start="20261125170900 +0800" stop="20261125173100 +0800" channel="上海都市频道">
+  <title>开心全接触－极智装（1630）</title>
+ </programme>
+ <programme start="20261125173100 +0800" stop="20261125175800 +0800" channel="上海都市频道">
+  <title>开心全接触－我们退休啦（2836）</title>
+ </programme>
+ <programme start="20261125175800 +0800" stop="20261125190000 +0800" channel="上海都市频道">
+  <title>新老娘舅（5410）　花两万元可以买一千次菜　究竟有何“陷阱”？</title>
+ </programme>
+ <programme start="20261125190000 +0800" stop="20261125192700 +0800" channel="上海都市频道">
+  <title>乐活上海（477）</title>
+ </programme>
+ <programme start="20261125192700 +0800" stop="20261125195300 +0800" channel="上海都市频道">
+  <title>人气美食（5164）</title>
+ </programme>
+ <programme start="20261125195300 +0800" stop="20261125200700 +0800" channel="上海都市频道">
+  <title>都市圈＠SMG达人和朋友们（95）</title>
+ </programme>
+ <programme start="20261125200700 +0800" stop="20261125203300 +0800" channel="上海都市频道">
+  <title>乐活上海（475）</title>
+ </programme>
+ <programme start="20261125203300 +0800" stop="20261125210100 +0800" channel="上海都市频道">
+  <title>人气美食（5160）</title>
+ </programme>
+ <programme start="20261125210100 +0800" stop="20261125214900 +0800" channel="上海都市频道">
+  <title>X诊所（2509）科学应对冬季皮肤瘙痒</title>
+ </programme>
+ <programme start="20261125214900 +0800" stop="20261125223600 +0800" channel="上海都市频道">
+  <title>纪录片真实影院（579）　锦书来</title>
+ </programme>
+ <programme start="20261125223600 +0800" stop="20261125225700 +0800" channel="上海都市频道">
+  <title>开心全接触－极智装（1630）</title>
+ </programme>
+ <programme start="20261125225700 +0800" stop="20261125232100 +0800" channel="上海都市频道">
+  <title>人气美食（5164）</title>
+ </programme>
+ <programme start="20261125232100 +0800" stop="20261125234600 +0800" channel="上海都市频道">
+  <title>乐活上海（477）</title>
+ </programme>
+ <programme start="20261125234600 +0800" stop="20261126000000 +0800" channel="上海都市频道">
+  <title>X诊所（2509）科学应对冬季皮肤瘙痒</title>
+ </programme>
+ <programme start="20261125000000 +0800" stop="20261125060000 +0800" channel="上海哈哈炫动">
   <title>祝您晚安</title>
  </programme>
- <programme start="20261124060000 +0800" stop="20261124060600 +0800" channel="上海哈哈炫动">
-  <title>星星班长之冒险空间（17）</title>
+ <programme start="20261125060000 +0800" stop="20261125060600 +0800" channel="上海哈哈炫动">
+  <title>星星班长一（1）</title>
  </programme>
- <programme start="20261124060600 +0800" stop="20261124061400 +0800" channel="上海哈哈炫动">
-  <title>星星班长之冒险空间（18）</title>
- </programme>
- <programme start="20261124061400 +0800" stop="20261124062000 +0800" channel="上海哈哈炫动">
-  <title>星星班长之冒险空间（19）</title>
- </programme>
- <programme start="20261124062000 +0800" stop="20261124062700 +0800" channel="上海哈哈炫动">
-  <title>星星班长之冒险空间（20）</title>
- </programme>
- <programme start="20261124062700 +0800" stop="20261124063300 +0800" channel="上海哈哈炫动">
-  <title>星星班长之冒险空间（21）</title>
- </programme>
- <programme start="20261124063300 +0800" stop="20261124064000 +0800" channel="上海哈哈炫动">
-  <title>星星班长之冒险空间（22）</title>
- </programme>
- <programme start="20261124064000 +0800" stop="20261124064600 +0800" channel="上海哈哈炫动">
-  <title>星星班长之冒险空间（23）</title>
- </programme>
- <programme start="20261124064600 +0800" stop="20261124065200 +0800" channel="上海哈哈炫动">
-  <title>星星班长之冒险空间（24）</title>
- </programme>
- <programme start="20261124065200 +0800" stop="20261124070000 +0800" channel="上海哈哈炫动">
-  <title>星星班长一（12）</title>
- </programme>
- <programme start="20261124070000 +0800" stop="20261124071200 +0800" channel="上海哈哈炫动">
-  <title>中国巧姑娘之黄道婆（1）</title>
- </programme>
- <programme start="20261124071200 +0800" stop="20261124073000 +0800" channel="上海哈哈炫动">
-  <title>中国巧姑娘之黄道婆（2）</title>
- </programme>
- <programme start="20261124073000 +0800" stop="20261124074200 +0800" channel="上海哈哈炫动">
-  <title>荧星梦工厂（622）</title>
- </programme>
- <programme start="20261124074200 +0800" stop="20261124075500 +0800" channel="上海哈哈炫动">
-  <title>荧星梦工厂（623）</title>
- </programme>
- <programme start="20261124075500 +0800" stop="20261124080900 +0800" channel="上海哈哈炫动">
-  <title>荧星梦工厂（624）</title>
- </programme>
- <programme start="20261124080900 +0800" stop="20261124081200 +0800" channel="上海哈哈炫动">
-  <title>茶婆婆渔婆婆蚕婆婆二（12）</title>
- </programme>
- <programme start="20261124081200 +0800" stop="20261124081700 +0800" channel="上海哈哈炫动">
-  <title>茶婆婆渔婆婆蚕婆婆一（9）</title>
- </programme>
- <programme start="20261124081700 +0800" stop="20261124082300 +0800" channel="上海哈哈炫动">
+ <programme start="20261125060600 +0800" stop="20261125061400 +0800" channel="上海哈哈炫动">
   <title>星星班长一（2）</title>
  </programme>
- <programme start="20261124082300 +0800" stop="20261124083100 +0800" channel="上海哈哈炫动">
-  <title>星星班长一（19）</title>
+ <programme start="20261125061400 +0800" stop="20261125062000 +0800" channel="上海哈哈炫动">
+  <title>星星班长一（3）</title>
  </programme>
- <programme start="20261124083100 +0800" stop="20261124090000 +0800" channel="上海哈哈炫动">
-  <title>甜心格格三（22）</title>
- </programme>
- <programme start="20261124090000 +0800" stop="20261124092200 +0800" channel="上海哈哈炫动">
-  <title>甜心格格三（23）</title>
- </programme>
- <programme start="20261124092200 +0800" stop="20261124092500 +0800" channel="上海哈哈炫动">
-  <title>茶婆婆渔婆婆蚕婆婆一（8）</title>
- </programme>
- <programme start="20261124092500 +0800" stop="20261124093000 +0800" channel="上海哈哈炫动">
-  <title>茶婆婆渔婆婆蚕婆婆三（9）</title>
- </programme>
- <programme start="20261124093000 +0800" stop="20261124095300 +0800" channel="上海哈哈炫动">
-  <title>甜心格格三（24）</title>
- </programme>
- <programme start="20261124095300 +0800" stop="20261124100100 +0800" channel="上海哈哈炫动">
-  <title>星星班长一（23）</title>
- </programme>
- <programme start="20261124100100 +0800" stop="20261124103000 +0800" channel="上海哈哈炫动">
-  <title>甜心格格三（25）</title>
- </programme>
- <programme start="20261124103000 +0800" stop="20261124110000 +0800" channel="上海哈哈炫动">
-  <title>甜心格格三（26）</title>
- </programme>
- <programme start="20261124110000 +0800" stop="20261124111200 +0800" channel="上海哈哈炫动">
-  <title>海底小纵队在中国·中国之旅（16）</title>
- </programme>
- <programme start="20261124111200 +0800" stop="20261124112500 +0800" channel="上海哈哈炫动">
-  <title>海底小纵队在中国·中国之旅（17）</title>
- </programme>
- <programme start="20261124112500 +0800" stop="20261124113800 +0800" channel="上海哈哈炫动">
-  <title>欢乐蹦蹦跳（1233）</title>
- </programme>
- <programme start="20261124113800 +0800" stop="20261124115000 +0800" channel="上海哈哈炫动">
-  <title>欢乐蹦蹦跳（1234）</title>
- </programme>
- <programme start="20261124115000 +0800" stop="20261124115300 +0800" channel="上海哈哈炫动">
-  <title>茶婆婆渔婆婆蚕婆婆二（7）</title>
- </programme>
- <programme start="20261124115300 +0800" stop="20261124115900 +0800" channel="上海哈哈炫动">
-  <title>茶婆婆渔婆婆蚕婆婆一（11）</title>
- </programme>
- <programme start="20261124115900 +0800" stop="20261124120700 +0800" channel="上海哈哈炫动">
-  <title>女娲补天（7）</title>
- </programme>
- <programme start="20261124120700 +0800" stop="20261124121600 +0800" channel="上海哈哈炫动">
-  <title>女娲补天（8）</title>
- </programme>
- <programme start="20261124121600 +0800" stop="20261124123000 +0800" channel="上海哈哈炫动">
-  <title>女娲补天（9）</title>
- </programme>
- <programme start="20261124123000 +0800" stop="20261124125500 +0800" channel="上海哈哈炫动">
-  <title>新大头儿子和小头爸爸3（201、202）</title>
- </programme>
- <programme start="20261124125500 +0800" stop="20261124130000 +0800" channel="上海哈哈炫动">
-  <title>茶婆婆渔婆婆蚕婆婆二（5）</title>
- </programme>
- <programme start="20261124130000 +0800" stop="20261124132600 +0800" channel="上海哈哈炫动">
-  <title>新大头儿子和小头爸爸3（203、204）</title>
- </programme>
- <programme start="20261124132600 +0800" stop="20261124135100 +0800" channel="上海哈哈炫动">
-  <title>新大头儿子和小头爸爸3（205、206）</title>
- </programme>
- <programme start="20261124135100 +0800" stop="20261124135400 +0800" channel="上海哈哈炫动">
-  <title>茶婆婆渔婆婆蚕婆婆一（3）</title>
- </programme>
- <programme start="20261124135400 +0800" stop="20261124140000 +0800" channel="上海哈哈炫动">
-  <title>茶婆婆渔婆婆蚕婆婆三（2）</title>
- </programme>
- <programme start="20261124140000 +0800" stop="20261124142700 +0800" channel="上海哈哈炫动">
-  <title>新大头儿子和小头爸爸3（207、208）</title>
- </programme>
- <programme start="20261124142700 +0800" stop="20261124145200 +0800" channel="上海哈哈炫动">
-  <title>新大头儿子和小头爸爸3（209、210）</title>
- </programme>
- <programme start="20261124145200 +0800" stop="20261124150000 +0800" channel="上海哈哈炫动">
-  <title>星星班长一（11）</title>
- </programme>
- <programme start="20261124150000 +0800" stop="20261124151300 +0800" channel="上海哈哈炫动">
-  <title>海底小纵队第八季（11）</title>
- </programme>
- <programme start="20261124151300 +0800" stop="20261124152700 +0800" channel="上海哈哈炫动">
-  <title>海底小纵队第八季（12）</title>
- </programme>
- <programme start="20261124152700 +0800" stop="20261124154000 +0800" channel="上海哈哈炫动">
-  <title>海底小纵队第八季（13）</title>
- </programme>
- <programme start="20261124154000 +0800" stop="20261124155200 +0800" channel="上海哈哈炫动">
-  <title>海底小纵队第八季（14）</title>
- </programme>
- <programme start="20261124155200 +0800" stop="20261124160000 +0800" channel="上海哈哈炫动">
+ <programme start="20261125062000 +0800" stop="20261125062700 +0800" channel="上海哈哈炫动">
   <title>星星班长一（4）</title>
  </programme>
- <programme start="20261124160000 +0800" stop="20261124161200 +0800" channel="上海哈哈炫动">
-  <title>海底小纵队第八季（15）</title>
+ <programme start="20261125062700 +0800" stop="20261125063300 +0800" channel="上海哈哈炫动">
+  <title>星星班长一（5）</title>
  </programme>
- <programme start="20261124161200 +0800" stop="20261124163000 +0800" channel="上海哈哈炫动">
-  <title>海底小纵队第八季（16）</title>
+ <programme start="20261125063300 +0800" stop="20261125064000 +0800" channel="上海哈哈炫动">
+  <title>星星班长一（6）</title>
  </programme>
- <programme start="20261124163000 +0800" stop="20261124164300 +0800" channel="上海哈哈炫动">
-  <title>海底小纵队第八季（17）</title>
+ <programme start="20261125064000 +0800" stop="20261125064600 +0800" channel="上海哈哈炫动">
+  <title>星星班长一（7）</title>
  </programme>
- <programme start="20261124164300 +0800" stop="20261124165700 +0800" channel="上海哈哈炫动">
-  <title>海底小纵队第八季（18）</title>
- </programme>
- <programme start="20261124165700 +0800" stop="20261124173000 +0800" channel="上海哈哈炫动">
-  <title>超智能足球2世界大赛篇（8）</title>
- </programme>
- <programme start="20261124173000 +0800" stop="20261124175700 +0800" channel="上海哈哈炫动">
-  <title>超智能足球2世界大赛篇（9）</title>
- </programme>
- <programme start="20261124175700 +0800" stop="20261124182200 +0800" channel="上海哈哈炫动">
-  <title>超智能足球2世界大赛篇（10）</title>
- </programme>
- <programme start="20261124182200 +0800" stop="20261124182700 +0800" channel="上海哈哈炫动">
-  <title>茶婆婆渔婆婆蚕婆婆三（4）</title>
- </programme>
- <programme start="20261124182700 +0800" stop="20261124183300 +0800" channel="上海哈哈炫动">
+ <programme start="20261125064600 +0800" stop="20261125065200 +0800" channel="上海哈哈炫动">
   <title>星星班长一（8）</title>
  </programme>
- <programme start="20261124183300 +0800" stop="20261124184000 +0800" channel="上海哈哈炫动">
-  <title>星星班长一（9）</title>
+ <programme start="20261125065200 +0800" stop="20261125070000 +0800" channel="上海哈哈炫动">
+  <title>星星班长之冒险空间（11）</title>
  </programme>
- <programme start="20261124184000 +0800" stop="20261124184600 +0800" channel="上海哈哈炫动">
-  <title>星星班长一（10）</title>
+ <programme start="20261125070000 +0800" stop="20261125071200 +0800" channel="上海哈哈炫动">
+  <title>中国巧姑娘之黄道婆（3）</title>
  </programme>
- <programme start="20261124184600 +0800" stop="20261124185200 +0800" channel="上海哈哈炫动">
-  <title>星星班长一（11）</title>
+ <programme start="20261125071200 +0800" stop="20261125073000 +0800" channel="上海哈哈炫动">
+  <title>中国巧姑娘之黄道婆（4）</title>
  </programme>
- <programme start="20261124185200 +0800" stop="20261124190000 +0800" channel="上海哈哈炫动">
-  <title>星星班长一（12）</title>
- </programme>
- <programme start="20261124190000 +0800" stop="20261124192700 +0800" channel="上海哈哈炫动">
+ <programme start="20261125073000 +0800" stop="20261125075500 +0800" channel="上海哈哈炫动">
   <title>新闻同学（1295）</title>
  </programme>
- <programme start="20261124192700 +0800" stop="20261124194100 +0800" channel="上海哈哈炫动">
-  <title>超级飞侠第十五季（1）</title>
+ <programme start="20261125075500 +0800" stop="20261125080000 +0800" channel="上海哈哈炫动">
+  <title>茶婆婆渔婆婆蚕婆婆二（9）</title>
  </programme>
- <programme start="20261124194100 +0800" stop="20261124200000 +0800" channel="上海哈哈炫动">
-  <title>超级飞侠第十五季（2）</title>
+ <programme start="20261125080000 +0800" stop="20261125082500 +0800" channel="上海哈哈炫动">
+  <title>甜心格格4（1）</title>
  </programme>
- <programme start="20261124200000 +0800" stop="20261124201400 +0800" channel="上海哈哈炫动">
-  <title>超级飞侠第十五季（3）</title>
+ <programme start="20261125082500 +0800" stop="20261125085200 +0800" channel="上海哈哈炫动">
+  <title>甜心格格4（2）</title>
  </programme>
- <programme start="20261124201400 +0800" stop="20261124202900 +0800" channel="上海哈哈炫动">
-  <title>超级飞侠第十五季（4）</title>
+ <programme start="20261125085200 +0800" stop="20261125090000 +0800" channel="上海哈哈炫动">
+  <title>星星班长之冒险空间（4）</title>
  </programme>
- <programme start="20261124202900 +0800" stop="20261124204500 +0800" channel="上海哈哈炫动">
-  <title>喜羊羊与灰太狼之羊村守护者（31）</title>
+ <programme start="20261125090000 +0800" stop="20261125092200 +0800" channel="上海哈哈炫动">
+  <title>甜心格格4（3）</title>
  </programme>
- <programme start="20261124204500 +0800" stop="20261124210200 +0800" channel="上海哈哈炫动">
-  <title>喜羊羊与灰太狼之羊村守护者（32）</title>
+ <programme start="20261125092200 +0800" stop="20261125092500 +0800" channel="上海哈哈炫动">
+  <title>茶婆婆渔婆婆蚕婆婆二（3）</title>
  </programme>
- <programme start="20261124210200 +0800" stop="20261124211800 +0800" channel="上海哈哈炫动">
-  <title>喜羊羊与灰太狼之羊村守护者（33）</title>
+ <programme start="20261125092500 +0800" stop="20261125093000 +0800" channel="上海哈哈炫动">
+  <title>茶婆婆渔婆婆蚕婆婆一（11）</title>
  </programme>
- <programme start="20261124211800 +0800" stop="20261124213500 +0800" channel="上海哈哈炫动">
-  <title>喜羊羊与灰太狼之羊村守护者（34）</title>
+ <programme start="20261125093000 +0800" stop="20261125095300 +0800" channel="上海哈哈炫动">
+  <title>甜心格格4（4）</title>
  </programme>
- <programme start="20261124213500 +0800" stop="20261124215100 +0800" channel="上海哈哈炫动">
-  <title>喜羊羊与灰太狼之羊村守护者（35）</title>
+ <programme start="20261125095300 +0800" stop="20261125100100 +0800" channel="上海哈哈炫动">
+  <title>星星班长之冒险空间（8）</title>
  </programme>
- <programme start="20261124215100 +0800" stop="20261124215400 +0800" channel="上海哈哈炫动">
+ <programme start="20261125100100 +0800" stop="20261125103000 +0800" channel="上海哈哈炫动">
+  <title>甜心格格4（5）</title>
+ </programme>
+ <programme start="20261125103000 +0800" stop="20261125105500 +0800" channel="上海哈哈炫动">
+  <title>甜心格格4（6）</title>
+ </programme>
+ <programme start="20261125105500 +0800" stop="20261125110700 +0800" channel="上海哈哈炫动">
+  <title>海底小纵队在中国·中国之旅（18）</title>
+ </programme>
+ <programme start="20261125110700 +0800" stop="20261125112300 +0800" channel="上海哈哈炫动">
+  <title>海底小纵队在中国·中国之旅（19）</title>
+ </programme>
+ <programme start="20261125112300 +0800" stop="20261125113000 +0800" channel="上海哈哈炫动">
+  <title>星星班长之冒险空间（16）</title>
+ </programme>
+ <programme start="20261125113000 +0800" stop="20261125114200 +0800" channel="上海哈哈炫动">
+  <title>荧星梦工厂（622）</title>
+ </programme>
+ <programme start="20261125114200 +0800" stop="20261125115500 +0800" channel="上海哈哈炫动">
+  <title>荧星梦工厂（623）</title>
+ </programme>
+ <programme start="20261125115500 +0800" stop="20261125120900 +0800" channel="上海哈哈炫动">
+  <title>荧星梦工厂（624）</title>
+ </programme>
+ <programme start="20261125120900 +0800" stop="20261125121200 +0800" channel="上海哈哈炫动">
   <title>茶婆婆渔婆婆蚕婆婆二（6）</title>
  </programme>
- <programme start="20261124215400 +0800" stop="20261124220000 +0800" channel="上海哈哈炫动">
-  <title>茶婆婆渔婆婆蚕婆婆一（2）</title>
+ <programme start="20261125121200 +0800" stop="20261125121700 +0800" channel="上海哈哈炫动">
+  <title>茶婆婆渔婆婆蚕婆婆三（9）</title>
  </programme>
- <programme start="20261124220000 +0800" stop="20261124222700 +0800" channel="上海哈哈炫动">
-  <title>兔子帮3（24）</title>
+ <programme start="20261125121700 +0800" stop="20261125122300 +0800" channel="上海哈哈炫动">
+  <title>星星班长之冒险空间（5）</title>
  </programme>
- <programme start="20261124222700 +0800" stop="20261124225200 +0800" channel="上海哈哈炫动">
-  <title>兔子帮3（25）</title>
+ <programme start="20261125122300 +0800" stop="20261125123100 +0800" channel="上海哈哈炫动">
+  <title>星星班长之冒险空间（22）</title>
  </programme>
- <programme start="20261124225200 +0800" stop="20261124230000 +0800" channel="上海哈哈炫动">
+ <programme start="20261125123100 +0800" stop="20261125130000 +0800" channel="上海哈哈炫动">
+  <title>新大头儿子和小头爸爸3（211、212）</title>
+ </programme>
+ <programme start="20261125130000 +0800" stop="20261125132600 +0800" channel="上海哈哈炫动">
+  <title>新大头儿子和小头爸爸3（213、214）</title>
+ </programme>
+ <programme start="20261125132600 +0800" stop="20261125135100 +0800" channel="上海哈哈炫动">
+  <title>新大头儿子和小头爸爸3（215、216）</title>
+ </programme>
+ <programme start="20261125135100 +0800" stop="20261125135400 +0800" channel="上海哈哈炫动">
+  <title>茶婆婆渔婆婆蚕婆婆三（7）</title>
+ </programme>
+ <programme start="20261125135400 +0800" stop="20261125140000 +0800" channel="上海哈哈炫动">
+  <title>茶婆婆渔婆婆蚕婆婆一（9）</title>
+ </programme>
+ <programme start="20261125140000 +0800" stop="20261125142700 +0800" channel="上海哈哈炫动">
+  <title>新大头儿子和小头爸爸3（217、218）</title>
+ </programme>
+ <programme start="20261125142700 +0800" stop="20261125145200 +0800" channel="上海哈哈炫动">
+  <title>新大头儿子和小头爸爸3（219、220）</title>
+ </programme>
+ <programme start="20261125145200 +0800" stop="20261125150000 +0800" channel="上海哈哈炫动">
+  <title>星星班长之冒险空间（18）</title>
+ </programme>
+ <programme start="20261125150000 +0800" stop="20261125151300 +0800" channel="上海哈哈炫动">
+  <title>海底小纵队第八季（19）</title>
+ </programme>
+ <programme start="20261125151300 +0800" stop="20261125152700 +0800" channel="上海哈哈炫动">
+  <title>海底小纵队第八季（20）</title>
+ </programme>
+ <programme start="20261125152700 +0800" stop="20261125154000 +0800" channel="上海哈哈炫动">
+  <title>海底小纵队第八季（21）</title>
+ </programme>
+ <programme start="20261125154000 +0800" stop="20261125155200 +0800" channel="上海哈哈炫动">
+  <title>海底小纵队第八季（22）</title>
+ </programme>
+ <programme start="20261125155200 +0800" stop="20261125160000 +0800" channel="上海哈哈炫动">
+  <title>星星班长之冒险空间（24）</title>
+ </programme>
+ <programme start="20261125160000 +0800" stop="20261125161200 +0800" channel="上海哈哈炫动">
+  <title>海底小纵队第八季（23）</title>
+ </programme>
+ <programme start="20261125161200 +0800" stop="20261125163000 +0800" channel="上海哈哈炫动">
+  <title>海底小纵队第八季（24）</title>
+ </programme>
+ <programme start="20261125163000 +0800" stop="20261125164300 +0800" channel="上海哈哈炫动">
+  <title>海底小纵队第八季（25）</title>
+ </programme>
+ <programme start="20261125164300 +0800" stop="20261125165500 +0800" channel="上海哈哈炫动">
+  <title>海底小纵队第八季（26）</title>
+ </programme>
+ <programme start="20261125165500 +0800" stop="20261125170000 +0800" channel="上海哈哈炫动">
+  <title>茶婆婆渔婆婆蚕婆婆二（3）</title>
+ </programme>
+ <programme start="20261125170000 +0800" stop="20261125172700 +0800" channel="上海哈哈炫动">
+  <title>超智能足球2世界大赛篇（11）</title>
+ </programme>
+ <programme start="20261125172700 +0800" stop="20261125175200 +0800" channel="上海哈哈炫动">
+  <title>超智能足球2世界大赛篇（12）</title>
+ </programme>
+ <programme start="20261125175200 +0800" stop="20261125180000 +0800" channel="上海哈哈炫动">
+  <title>星星班长之冒险空间（19）</title>
+ </programme>
+ <programme start="20261125180000 +0800" stop="20261125182700 +0800" channel="上海哈哈炫动">
+  <title>超智能足球2世界大赛篇（13）</title>
+ </programme>
+ <programme start="20261125182700 +0800" stop="20261125183300 +0800" channel="上海哈哈炫动">
+  <title>星星班长一（13）</title>
+ </programme>
+ <programme start="20261125183300 +0800" stop="20261125184000 +0800" channel="上海哈哈炫动">
+  <title>星星班长一（14）</title>
+ </programme>
+ <programme start="20261125184000 +0800" stop="20261125184600 +0800" channel="上海哈哈炫动">
   <title>星星班长一（15）</title>
  </programme>
- <programme start="20261124230000 +0800" stop="20261124232700 +0800" channel="上海哈哈炫动">
-  <title>兔子帮3（26）</title>
+ <programme start="20261125184600 +0800" stop="20261125185200 +0800" channel="上海哈哈炫动">
+  <title>星星班长一（16）</title>
  </programme>
- <programme start="20261124232700 +0800" stop="20261124233700 +0800" channel="上海哈哈炫动">
-  <title>哈哈地球人（1）</title>
+ <programme start="20261125185200 +0800" stop="20261125190000 +0800" channel="上海哈哈炫动">
+  <title>星星班长一（17）</title>
  </programme>
- <programme start="20261124233700 +0800" stop="20261124234600 +0800" channel="上海哈哈炫动">
-  <title>哈哈地球人（2）</title>
+ <programme start="20261125190000 +0800" stop="20261125191300 +0800" channel="上海哈哈炫动">
+  <title>欢乐蹦蹦跳（1233）</title>
  </programme>
- <programme start="20261124234600 +0800" stop="20261124235200 +0800" channel="上海哈哈炫动">
-  <title>星星班长一（20）</title>
+ <programme start="20261125191300 +0800" stop="20261125192700 +0800" channel="上海哈哈炫动">
+  <title>欢乐蹦蹦跳（1234）</title>
  </programme>
- <programme start="20261124235200 +0800" stop="20261125000000 +0800" channel="上海哈哈炫动">
-  <title>星星班长一（7）</title>
+ <programme start="20261125192700 +0800" stop="20261125194100 +0800" channel="上海哈哈炫动">
+  <title>超级飞侠第十五季（5）</title>
+ </programme>
+ <programme start="20261125194100 +0800" stop="20261125200000 +0800" channel="上海哈哈炫动">
+  <title>超级飞侠第十五季（6）</title>
+ </programme>
+ <programme start="20261125200000 +0800" stop="20261125201400 +0800" channel="上海哈哈炫动">
+  <title>超级飞侠第十五季（7）</title>
+ </programme>
+ <programme start="20261125201400 +0800" stop="20261125202900 +0800" channel="上海哈哈炫动">
+  <title>超级飞侠第十五季（8）</title>
+ </programme>
+ <programme start="20261125202900 +0800" stop="20261125204500 +0800" channel="上海哈哈炫动">
+  <title>喜羊羊与灰太狼之羊村守护者（36）</title>
+ </programme>
+ <programme start="20261125204500 +0800" stop="20261125210200 +0800" channel="上海哈哈炫动">
+  <title>喜羊羊与灰太狼之羊村守护者（37）</title>
+ </programme>
+ <programme start="20261125210200 +0800" stop="20261125211800 +0800" channel="上海哈哈炫动">
+  <title>喜羊羊与灰太狼之羊村守护者（38）</title>
+ </programme>
+ <programme start="20261125211800 +0800" stop="20261125213500 +0800" channel="上海哈哈炫动">
+  <title>喜羊羊与灰太狼之羊村守护者（39）</title>
+ </programme>
+ <programme start="20261125213500 +0800" stop="20261125215100 +0800" channel="上海哈哈炫动">
+  <title>喜羊羊与灰太狼之羊村守护者（40）</title>
+ </programme>
+ <programme start="20261125215100 +0800" stop="20261125215400 +0800" channel="上海哈哈炫动">
+  <title>茶婆婆渔婆婆蚕婆婆一（3）</title>
+ </programme>
+ <programme start="20261125215400 +0800" stop="20261125220000 +0800" channel="上海哈哈炫动">
+  <title>茶婆婆渔婆婆蚕婆婆三（7）</title>
+ </programme>
+ <programme start="20261125220000 +0800" stop="20261125221000 +0800" channel="上海哈哈炫动">
+  <title>哈哈地球人（3）</title>
+ </programme>
+ <programme start="20261125221000 +0800" stop="20261125221900 +0800" channel="上海哈哈炫动">
+  <title>哈哈地球人（4）</title>
+ </programme>
+ <programme start="20261125221900 +0800" stop="20261125222200 +0800" channel="上海哈哈炫动">
+  <title>茶婆婆渔婆婆蚕婆婆二（8）</title>
+ </programme>
+ <programme start="20261125222200 +0800" stop="20261125222800 +0800" channel="上海哈哈炫动">
+  <title>茶婆婆渔婆婆蚕婆婆一（3）</title>
+ </programme>
+ <programme start="20261125222800 +0800" stop="20261125223700 +0800" channel="上海哈哈炫动">
+  <title>哈哈地球人（5）</title>
+ </programme>
+ <programme start="20261125223700 +0800" stop="20261125224400 +0800" channel="上海哈哈炫动">
+  <title>星星班长之冒险空间（15）</title>
+ </programme>
+ <programme start="20261125224400 +0800" stop="20261125225300 +0800" channel="上海哈哈炫动">
+  <title>哈哈地球人（6）</title>
+ </programme>
+ <programme start="20261125225300 +0800" stop="20261125230100 +0800" channel="上海哈哈炫动">
+  <title>星星班长之冒险空间（21）</title>
+ </programme>
+ <programme start="20261125230100 +0800" stop="20261125231000 +0800" channel="上海哈哈炫动">
+  <title>哈哈地球人（7）</title>
+ </programme>
+ <programme start="20261125231000 +0800" stop="20261125231300 +0800" channel="上海哈哈炫动">
+  <title>茶婆婆渔婆婆蚕婆婆一（1）</title>
+ </programme>
+ <programme start="20261125231300 +0800" stop="20261125231800 +0800" channel="上海哈哈炫动">
+  <title>茶婆婆渔婆婆蚕婆婆二（6）</title>
+ </programme>
+ <programme start="20261125231800 +0800" stop="20261125232700 +0800" channel="上海哈哈炫动">
+  <title>哈哈地球人（8）</title>
+ </programme>
+ <programme start="20261125232700 +0800" stop="20261125233500 +0800" channel="上海哈哈炫动">
+  <title>星星班长之冒险空间（13）</title>
+ </programme>
+ <programme start="20261125233500 +0800" stop="20261125234500 +0800" channel="上海哈哈炫动">
+  <title>哈哈地球人（9）</title>
+ </programme>
+ <programme start="20261125234500 +0800" stop="20261126000000 +0800" channel="上海哈哈炫动">
+  <title>哈哈地球人（10）</title>
  </programme>
 </tv>
