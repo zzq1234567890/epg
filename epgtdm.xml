@@ -29,7 +29,6 @@
   </programme>
   <programme start="20261126080000 +0800" stop="20261126090000 +0800" channel="澳視澳門 91台">
     <title lang="zh">澳門早晨</title>
-    <live/>
   </programme>
   <programme start="20261126090000 +0800" stop="20261126090200 +0800" channel="澳視澳門 91台">
     <title lang="zh">TDM 新視點</title>
@@ -39,6 +38,7 @@
   </programme>
   <programme start="20261126092500 +0800" stop="20261126100000 +0800" channel="澳視澳門 91台">
     <title lang="zh">廚房裡的桃花源</title>
+    <live/>
   </programme>
   <programme start="20261126100000 +0800" stop="20261126103000 +0800" channel="澳視澳門 91台">
     <title lang="zh">新聞報道</title>
@@ -369,13 +369,13 @@
   </programme>
   <programme start="20261126080000 +0800" stop="20261126090000 +0800" channel="澳門資訊 94台">
     <title lang="zh">澳門早晨</title>
-    <live/>
   </programme>
   <programme start="20261126090000 +0800" stop="20261126093000 +0800" channel="澳門資訊 94台">
     <title lang="zh">重播早晨新聞</title>
   </programme>
   <programme start="20261126093000 +0800" stop="20261126100000 +0800" channel="澳門資訊 94台">
     <title lang="zh">灣區全媒睇</title>
+    <live/>
   </programme>
   <programme start="20261126100000 +0800" stop="20261126103000 +0800" channel="澳門資訊 94台">
     <title lang="zh">新聞報道</title>
@@ -850,7 +850,6 @@
   </programme>
   <programme start="20261126083000 +0800" stop="20261126085500 +0800" channel="澳門-Macau 96台">
     <title lang="zh">澳門人澳門事</title>
-    <live/>
   </programme>
   <programme start="20261126085500 +0800" stop="20261126092500 +0800" channel="澳門-Macau 96台">
     <title lang="zh">灣區全媒睇</title>
@@ -860,6 +859,7 @@
   </programme>
   <programme start="20261126094500 +0800" stop="20261126100000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">新聞深度遊</title>
+    <live/>
   </programme>
   <programme start="20261126100000 +0800" stop="20261126103000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">粵語新聞</title>
