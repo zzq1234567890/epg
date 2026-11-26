@@ -4,8 +4,12 @@
   <channel id="看看新聞直播">
     <display-name lang="zh">看看新聞直播</display-name>
   </channel>
-  <programme start="20261125080000 +0800" stop="20261125140000 +0800" channel="看看新聞直播">
-    <title lang="zh">神舟二十四号载人飞船发射</title>
-    <desc lang="zh">神舟二十四号载人飞船发射</desc>
+  <programme start="20261126100000 +0800" stop="20261126120000 +0800" channel="看看新聞直播">
+    <title lang="zh">上海市公安局新闻发布会｜通报上海公安“三所联动”民生版、校园版、企业版建设成果和典型事例</title>
+    <desc lang="zh">上海市公安局新闻发布会｜通报上海公安“三所联动”民生版、校园版、企业版建设成果和典型事例</desc>
+  </programme>
+  <programme start="20261128133000 +0800" stop="20261128170000 +0800" channel="看看新聞直播">
+    <title lang="zh">侧耳有声·遇见图书馆 | 走进杨浦图书馆</title>
+    <desc lang="zh">侧耳有声·遇见图书馆 | 走进杨浦图书馆</desc>
   </programme>
 </tv>
